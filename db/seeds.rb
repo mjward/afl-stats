@@ -1,7 +1,14 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
-#
-# Examples:
-#
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
+require_relative "./seeds/afl_team_data"
+
+def update_afl_teams(afl_team_data)
+  afl_team_data.each do |data|
+    team = Team.where(id: data[:id]).first_or_initialize
+    team.update_attributes!(
+      name: data[:name],
+      code: data[:code],
+      nickname: data[:nickname],
+    )
+  end
+end
+
+update_afl_teams(afl_team_data)

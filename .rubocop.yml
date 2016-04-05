@@ -1,0 +1,122 @@
+inherit_from: .rubocop_todo.yml
+
+Documentation:
+  Enabled: false
+
+AllCops:
+  RunRailsCops: true
+  DisplayCopNames: true
+  DisplayStyleGuide: true
+
+  Include:
+    - '**/Rakefile'
+    - '**/config.ru'
+    - '**/*.rake'
+  Exclude:
+    - 'src/**/*'
+    - 'bin/**/*'
+    - 'db/schema.rb'
+    - 'db/seeds/*'
+    - 'db/seeds.rb'
+    - 'vendor/**/*'
+
+# we should question why we need lines so long
+Metrics/LineLength:
+  Severity: warning
+  Max: 150
+
+Metrics/MethodLength:
+  Max: 25
+  CountComments: false
+  Exclude:
+    - 'db/migrate/*'
+
+Metrics/AbcSize:
+  Max: 25
+  Exclude:
+    - 'db/migrate/*'
+
+# We should manually check why we have unused arguments
+Lint/UnusedMethodArgument:
+  AutoCorrect: false
+
+Lint/UnusedBlockArgument:
+  AutoCorrect: false
+  Enabled: false
+
+# Trailing commas in multiline literals give us more honest git history
+Style/TrailingComma:
+  EnforcedStyleForMultiline: comma
+  Enabled: true
+
+# TODO: This seems buggy, so it's disabled for now
+Style/MultilineOperationIndentation:
+  Enabled: false
+  EnforcedStyle: aligned
+
+# we prefer `raise` to `fail`
+Style/SignalException:
+  EnforcedStyle: only_raise
+
+# we don't care about forcing single quotes where not interpolating
+Style/StringLiterals:
+  Enabled: false
+
+# we don't care about forcing single quotes inside interpolation
+Style/StringLiteralsInInterpolation:
+  Enabled: false
+
+# we are happy with either `is_a?` and `kind_of?`
+Style/ClassCheck:
+  Enabled: false
+
+# Style/PredicateName:
+#   Enabled: false
+
+# we like pretty aligned hashes
+Style/AlignHash:
+  EnforcedColonStyle: table
+  EnforcedLastArgumentHashStyle: always_ignore
+
+# we don't want %w[] forced. This is up to dev discretion
+Style/WordArray:
+  Enabled: false
+
+Rails/HasAndBelongsToMany:
+  Enabled: false
+
+# we prefer compact style class/module definitions
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+
+# we want discretion about `bar if foo` vs `if foo; bar; end` unless the line is tiny
+Style/IfUnlessModifier:
+  MaxLineLength: 40
+
+# same as above, sometimes guard clauses have worse readability
+Style/GuardClause:
+  Enabled: false
+
+# we sometimes use spaces to align argments between methods. Is this actually sensible?
+Style/SingleSpaceBeforeFirstArg:
+  Enabled: false
+
+# multiline method parameters should have fixed indentation
+Style/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+
+# Dont force #each_with_object instead of #reduce/#inject
+Style/EachWithObject:
+  Enabled: false
+
+Metrics/ClassLength:
+  CountComments: false
+  Max: 200
+
+Metrics/ModuleLength:
+  CountComments: false
+  Max: 200
+
+Style/Lambda:
+  Exclude:
+    - 'app/permissions/roles/*'
