@@ -12,3 +12,18 @@ def update_afl_teams(afl_team_data)
 end
 
 update_afl_teams(afl_team_data)
+
+require_relative "./seeds/afl_venue_data.rb"
+
+def update_afl_venues(afl_venue_data)
+  afl_venue_data.each do |data|
+    venue = Venue.where(id: data[:id]).first_or_initialize
+    venue.update_attributes!(
+      name: data[:name],
+      state: data[:state],
+      country: data[:country]
+    )
+  end
+end
+
+update_afl_venues(afl_venue_data)
