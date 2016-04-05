@@ -87,7 +87,7 @@ def afl_team_data
     {
       id: 15,
       name: 'Richmond',
-      code: 'POR',
+      code: 'RIC',
       nickname: 'Tigers',
     },
     {
