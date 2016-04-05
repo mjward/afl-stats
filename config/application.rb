@@ -22,5 +22,23 @@ module AflStats
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+
+    config.autoload_paths += %W(
+      #{config.root}/app/views
+      #{config.root}/lib
+      #{config.root}/app/workers
+      #{config.root}/app/services
+      #{config.root}/app/actions
+    )
+
+    config.eager_load_paths += %W(
+      #{config.root}/app/views
+      #{config.root}/lib
+      #{config.root}/app/workers
+      #{config.root}/app/services
+      #{config.root}/app/actions
+    )
+
+
   end
 end
