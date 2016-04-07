@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # Models
 gem 'pg'
 
+gem 'configatron'
 gem 'faraday'
 gem 'nokogiri'
 gem 'awesome_print'
