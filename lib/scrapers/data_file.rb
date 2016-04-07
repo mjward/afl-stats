@@ -1,4 +1,6 @@
-module AFLTables
+require 'fileutils'
+
+module Scrapers
   class DataFile
 
     attr_reader :json
@@ -8,20 +10,20 @@ module AFLTables
     end
 
     def write
-      File.open("data/#{year}-#{round}.json", "w") do |f|
+      FileUtils::mkdir_p("data/#{type}")
+      File.open("data/#{type}/#{year}.json", "w") do |f|
         f.write(JSON.pretty_generate(json))
       end
     end
 
     private
 
+    def type
+      json.keys.first
+    end
+
     def year
-      json[:year]
+      json[type][:year]
     end
-
-    def round
-      json[:round]
-    end
-
   end
 end

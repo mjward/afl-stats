@@ -1,11 +1,9 @@
 namespace :afltables do
   desc "Scrape AFLTables website for match data by year"
   task scrape: :environment do
-
-    years = [2016, 2015]
-
-    years.each do |year|
-      AFLTables::Scraper.new(year).execute
+    (2015..2016).each do |year|
+      puts "### #{year}"
+      Scrapers::AFLTables::MatchDataScraper.new(year).execute
     end
   end
 end
