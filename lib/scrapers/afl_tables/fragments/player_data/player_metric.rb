@@ -10,7 +10,9 @@ module Scrapers
           end
 
           def player_name
-            ::Scrapers::InputSanitizer.new(node.search("td")[0].text).execute
+            name = ::Scrapers::InputSanitizer.new(node.search("td")[0].text).execute
+            name = name.split(",").map(&:strip)
+            "#{name[1]} #{name[0]}"
           end
 
           def rounds

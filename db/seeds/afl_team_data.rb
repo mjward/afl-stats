@@ -9,7 +9,7 @@ def afl_team_data
     },
     {
       id: 2,
-      name: 'Brisbane',
+      name: 'Brisbane Lions',
       code: 'BRI',
       nickname: 'Lions',
       afltables_url: 'brisbanel',
