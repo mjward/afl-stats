@@ -56,10 +56,27 @@ def update_match_data(afl_venue_data)
         home_team = teams[home_team_name]
         away_team = teams[away_team_name]
 
-        start_match_datetime = match["datetime"]
-        attendance = match["attendance"]
+        start_match_datetime = match["datetime"].utc
+        attendance = match["attendance"].gsub(",", "")
+
         venue_name = match["venue"]
         venue = venues[venue_name]
+
+        home_scoreline = match["home_team"]["scoreline"]
+        away_scoreline = match["away_team"]["scoreline"]
+        if !home_scoreline.nil?
+          home_q1 = home_scoreline[0]
+          home_q2 = home_scoreline[1]
+          home_q3 = home_scoreline[2]
+          home_q4 = home_scoreline[3]
+        end
+
+        if !away_scoreline.nil?
+          away_q1 = away_scoreline[0]
+          away_q2 = away_scoreline[1]
+          away_q3 = away_scoreline[2]
+          away_q4 = away_scoreline[3]
+        end
 
         home_final_score = match["home_team"]["final_score"]
         away_final_score = match["away_team"]["final_score"]
@@ -71,8 +88,17 @@ def update_match_data(afl_venue_data)
         match.venue = venue
         match.venue_name = venue.name
         match.attendance = attendance
+
         match.home_team_name = home_team.name
         match.away_team_name = away_team.name
+        match.home_q1 = home_q1
+        match.home_q2 = home_q2
+        match.home_q3 = home_q3
+        match.home_q4 = home_q4
+        match.away_q1 = away_q1
+        match.away_q2 = away_q2
+        match.away_q3 = away_q3
+        match.away_q4 = away_q4
         match.home_score = home_final_score
         match.away_score = away_final_score
         match.save!
