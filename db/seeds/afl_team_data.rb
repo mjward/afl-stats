@@ -133,5 +133,12 @@ def afl_team_data
       nickname: 'Dogs',
       afltables_url: 'bullldogs',
     },
+    {
+      id: 20,
+      name: 'Brisbane Bears',
+      code: 'BRB',
+      nickname: 'Bears',
+      afltables_url: 'bears',
+    },
   ]
 end
