@@ -3,16 +3,17 @@ require 'fileutils'
 module Scrapers
   class DataFile
 
-    attr_reader :json
+    attr_reader :json, :filename
 
-    def initialize(json)
+    def initialize(json, filename)
       @json = json
+      @filename = filename
     end
 
     def write
-      FileUtils::mkdir_p("data/#{type}")
-      File.open("data/#{type}/#{year}.json", "w") do |f|
-        f.write(JSON.pretty_generate(json))
+      FileUtils::mkdir_p("data/#{type}/#{year}")
+      File.open("data/#{type}/#{year}/#{filename}", "w") do |file|
+        file.write(JSON.pretty_generate(json))
       end
     end
 

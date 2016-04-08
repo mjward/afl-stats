@@ -10,7 +10,7 @@ module Scrapers
 
       def execute
         process_rounds
-        write_data_file
+        write_data_file("data.json")
       end
 
       private

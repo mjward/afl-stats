@@ -18,25 +18,8 @@ module Scrapers
         Nokogiri::HTML(scraped_html)
       end
 
-      def non_breaking_space
-        Nokogiri::HTML("&#xA0;").text
-      end
-
-      def process_input(data)
-        if data.is_a?(Array)
-          data = data.map { |e| clean_input(e) }.reject(&:empty?)
-        else
-          data = clean_input(data)
-        end
-        data.nil? || data.empty? ? nil : data
-      end
-
-      def clean_input(data)
-        data.gsub(non_breaking_space, "").gsub(/\A[[:space:]]+|[[:space:]]+\z/, '').strip
-      end
-
-      def write_data_file
-        Scrapers::DataFile.new(output).write
+      def write_data_file(filename_identifier)
+        Scrapers::DataFile.new(output, filename_identifier).write
       end
 
     end

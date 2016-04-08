@@ -1,35 +1,35 @@
 module Scrapers
   module AFLTables
     class TeamGameByGameScraper < BaseScraper
-      attr_reader :team, :output
+      attr_reader :team, :year, :output
 
-      def initialize(year)
+      def initialize(team, year)
+        @team = team
         @year = year
-        @output = { match_data: { year: year, rounds: {} }  }
+        @output = { player_data: { year: year, players: {} }  }
       end
 
       def execute
-        process_rounds
-        write_data_file
+        process_players
+        write_data_file("#{team.name.downcase.gsub(" ", "_")}.json")
       end
 
       private
 
-      def process_rounds
-        (1..22).each do |round|
-          puts "Processing Round #{round}..."
-          @output[:match_data][:rounds][round] = Fragments::MatchData::Round.new(raw_round_data(round)).to_hash
+      def process_players
+        puts "Processing #{team.name}..."
+        result = raw_breakdown_data.inject({}) do |result,node|
+          result.deep_merge(Fragments::PlayerData::MetricTable.new(node).to_hash)
         end
+        @output[:player_data][team.name.downcase] = result
       end
 
       def scraped_html
-        conn.get("/afl/seas/#{year}.html") .body
+        conn.get("/afl/stats/teams/adelaide/#{year}_gbg.html").body
       end
 
-      def raw_round_data(round)
-        doc = document.xpath("//a[@name='#{round}']/following-sibling::table[2]//table")
-        doc.pop
-        doc
+      def raw_breakdown_data
+        @raw_breakdown_data ||= document.css("div.simpleTabsContent table")
       end
     end
   end
