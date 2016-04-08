@@ -11,7 +11,7 @@ module Scrapers
 
       def execute
         process_players
-        write_data_file("#{team.name.downcase.gsub(" ", "_")}.json")
+        write_data_file("#{team.name}.json")
       end
 
       private
@@ -25,7 +25,7 @@ module Scrapers
       end
 
       def scraped_html
-        conn.get("/afl/stats/teams/adelaide/#{year}_gbg.html").body
+        conn.get("/afl/stats/teams/#{team.afltables_url}/#{year}_gbg.html").body
       end
 
       def raw_breakdown_data

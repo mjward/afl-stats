@@ -7,6 +7,7 @@ def update_afl_teams(afl_team_data)
       name: data[:name],
       code: data[:code],
       nickname: data[:nickname],
+      afltables_url: data[:afltables_url],
     )
   end
 end

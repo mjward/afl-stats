@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title>class Object - RDoc Documentation</title>
+
+<script type="text/javascript">
+  var rdoc_rel_prefix = "./";
+</script>
+
+<script src="./js/jquery.js"></script>
+<script src="./js/darkfish.js"></script>
+
+<link href="./css/fonts.css" rel="stylesheet">
+<link href="./css/rdoc.css" rel="stylesheet">
+
+
+
+<body id="top" role="document" class="class">
+<nav role="navigation">
+  <div id="project-navigation">
+    <div id="home-section" role="region" title="Quick navigation" class="nav-section">
+  <h2>
+    <a href="./index.html" rel="home">Home</a>
+  </h2>
+
+  <div id="table-of-contents-navigation">
+    <a href="./table_of_contents.html#pages">Pages</a>
+    <a href="./table_of_contents.html#classes">Classes</a>
+    <a href="./table_of_contents.html#methods">Methods</a>
+  </div>
+</div>
+
+    <div id="search-section" role="search" class="project-section initially-hidden">
+  <form action="#" method="get" accept-charset="utf-8">
+    <div id="search-field-wrapper">
+      <input id="search-field" role="combobox" aria-label="Search"
+             aria-autocomplete="list" aria-controls="search-results"
+             type="text" name="search" placeholder="Search" spellcheck="false"
+             title="Type to search, Up and Down to navigate, Enter to load">
+    </div>
+
+    <ul id="search-results" aria-label="Search Results"
+        aria-busy="false" aria-expanded="false"
+        aria-atomic="false" class="initially-hidden"></ul>
+  </form>
+</div>
+
+  </div>
+
+  
+
+  <div id="class-metadata">
+    
+    <div id="parent-class-section" class="nav-section">
+  <h3>Parent</h3>
+
+  
+  <p class="link">BasicObject
+  
+</div>
+
+    
+    
+    <!-- Method Quickref -->
+<div id="method-list-section" class="nav-section">
+  <h3>Methods</h3>
+
+  <ul class="link-list" role="directory">
+    
+    <li ><a href="#method-i-afl_team_data">#afl_team_data</a>
+    
+    <li ><a href="#method-i-afl_venue_data">#afl_venue_data</a>
+    
+    <li ><a href="#method-i-update_afl_teams">#update_afl_teams</a>
+    
+    <li ><a href="#method-i-update_afl_venues">#update_afl_venues</a>
+    
+  </ul>
+</div>
+
+  </div>
+</nav>
+
+<main role="main" aria-labelledby="class-Object">
+  <h1 id="class-Object" class="class">
+    class Object
+  </h1>
+
+  <section class="description">
+    
+  </section>
+
+  
+  
+  
+  <section id="5Buntitled-5D" class="documentation-section">
+    
+
+    
+
+    
+    <section class="constants-list">
+      <header>
+        <h3>Constants</h3>
+      </header>
+      <dl>
+      
+        <dt id="APP_PATH">APP_PATH
+        
+        <dd>
+        
+      
+        <dt id="APP_ROOT">APP_ROOT
+        
+        <dd><p>path to your application root.</p>
+        
+      
+      </dl>
+    </section>
+    
+
+    
+
+    
+     <section id="public-instance-5Buntitled-5D-method-details" class="method-section">
+       <header>
+         <h3>Public Instance Methods</h3>
+       </header>
+
+    
+      <div id="method-i-afl_team_data" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">afl_team_data</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="afl_team_data-source">
+            <pre><span class="ruby-comment"># File db/seeds/afl_team_data.rb, line 1</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">afl_team_data</span>
+  [
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">1</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Adelaide&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;ADL&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Crows&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">2</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Brisbane&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;BRI&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Lions&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">3</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Carlton&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;CAR&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Blues&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">4</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Collingwood&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;COL&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Pies&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">5</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Essendon&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;ESS&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Bombers&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">6</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Fitzroy&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;FTZ&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Lions&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">7</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Fremantle&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;FRE&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Dockers&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">8</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Geelong&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;GEE&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Cats&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">9</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Gold Coast&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;GCS&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Suns&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">10</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Greater Western Sydney&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;GWS&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Giants&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">11</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Hawthorn&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;HAW&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Hawks&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">12</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Melbourne&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;MEL&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Demons&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">13</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;North Melbourne&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;NTH&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Kangaroos&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">14</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Port Adelaide&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;POR&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Power&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">15</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Richmond&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;RIC&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Tigers&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">16</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;St Kilda&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;STK&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Saints&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">17</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Sydney&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;SYD&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Swans&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">18</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;West Coast&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;POR&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Eagles&#39;</span>,
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">19</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Western Bulldogs&#39;</span>,
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;WBD&#39;</span>,
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-string">&#39;Dogs&#39;</span>,
+    },
+  ]
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-afl_venue_data" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">afl_venue_data</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="afl_venue_data-source">
+            <pre><span class="ruby-comment"># File db/seeds/afl_venue_data.rb, line 1</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">afl_venue_data</span>
+  [
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">1</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Adelaide Oval&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;South Australia&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">2</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Bellerive Oval&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Tasmania&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">3</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Blacktown&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;New South Wales&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">4</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Carrara&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Queensland&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">5</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Cazaly&#39;s Stadium&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Queensland&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">6</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Docklands&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victora&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">7</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Football Park&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;South Australia&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">8</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Gabba&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Queensland&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">9</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Kardinia Park&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victoria&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">10</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;M.C.G.&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victoria&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">11</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Manuka Oval&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;ACT&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">12</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Marrara Oval&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Northern Territory&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">13</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Princes Park&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victoria&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">14</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;S.C.G.&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;New South Wales&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">15</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Stadium Australia&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;New South Wales&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">16</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Subiaco&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Western Australia&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">17</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Sydney Showground&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;New South Wales&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">18</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Traeger Park&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Northern Territory&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">19</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victoria Park&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victoria&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">20</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;W.A.C.A.&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Western Australia&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">20</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Waverley Park&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victoria&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">21</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Wellington&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Wellington&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;New Zealand&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">22</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Western Oval&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Victoria&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    },
+    {
+      <span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-value">23</span>,
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;York Park&quot;</span>,
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Tasmania&quot;</span>,
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-string">&quot;Australia&quot;</span>
+    } 
+  ]
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-update_afl_teams" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">update_afl_teams</span><span
+            class="method-args">(afl_team_data)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="update_afl_teams-source">
+            <pre><span class="ruby-comment"># File db/seeds.rb, line 3</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">update_afl_teams</span>(<span class="ruby-identifier">afl_team_data</span>)
+  <span class="ruby-identifier">afl_team_data</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">data</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">team</span> = <span class="ruby-constant">Team</span>.<span class="ruby-identifier">where</span>(<span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:id</span>]).<span class="ruby-identifier">first_or_initialize</span>
+    <span class="ruby-identifier">team</span>.<span class="ruby-identifier">update_attributes!</span>(
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:name</span>],
+      <span class="ruby-identifier">code</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:code</span>],
+      <span class="ruby-identifier">nickname</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:nickname</span>],
+    )
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-update_afl_venues" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">update_afl_venues</span><span
+            class="method-args">(afl_venue_data)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="update_afl_venues-source">
+            <pre><span class="ruby-comment"># File db/seeds.rb, line 18</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">update_afl_venues</span>(<span class="ruby-identifier">afl_venue_data</span>)
+  <span class="ruby-identifier">afl_venue_data</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">data</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">venue</span> = <span class="ruby-constant">Venue</span>.<span class="ruby-identifier">where</span>(<span class="ruby-identifier">id</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:id</span>]).<span class="ruby-identifier">first_or_initialize</span>
+    <span class="ruby-identifier">venue</span>.<span class="ruby-identifier">update_attributes!</span>(
+      <span class="ruby-identifier">name</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:name</span>],
+      <span class="ruby-identifier">state</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:state</span>],
+      <span class="ruby-identifier">country</span><span class="ruby-operator">:</span> <span class="ruby-identifier">data</span>[<span class="ruby-value">:country</span>]
+    )
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+    </section>
+  
+  </section>
+</main>
+
+
+<footer id="validator-badges" role="contentinfo">
+  <p><a href="http://validator.w3.org/check/referer">Validate</a>
+  <p>Generated by <a href="http://docs.seattlerb.org/rdoc/">RDoc</a> 4.2.2.
+  <p>Based on <a href="http://deveiate.org/projects/Darkfish-RDoc/">Darkfish</a> by <a href="http://deveiate.org">Michael Granger</a>.
+</footer>
+
