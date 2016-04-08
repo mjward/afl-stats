@@ -1,4 +1,5 @@
 require_relative "./seeds/afl_team_data"
+require_relative "./seeds/afl_venue_data"
 require_relative "./seeds/afl_match_data"
 
 def update_afl_teams(afl_team_data)
@@ -14,8 +15,6 @@ def update_afl_teams(afl_team_data)
 end
 puts 'Seeding AFL teams…'
 update_afl_teams(afl_team_data)
-
-require_relative "./seeds/afl_venue_data.rb"
 
 def update_afl_venues(afl_venue_data)
   afl_venue_data.each do |data|
@@ -50,7 +49,9 @@ def update_match_data(afl_venue_data)
       round_data["matches"].each do |match|
 
         home_team_name = match["home_team"]["name"]
+        ap home_team_name
         away_team_name = match["away_team"]["name"]
+        ap away_team_name
         venue = match["venue"]
 
         home_team = teams[home_team_name]
@@ -60,6 +61,7 @@ def update_match_data(afl_venue_data)
         attendance = match["attendance"].gsub(",", "")
 
         venue_name = match["venue"]
+        ap venue_name
         venue = venues[venue_name]
 
         home_scoreline = match["home_team"]["scoreline"]

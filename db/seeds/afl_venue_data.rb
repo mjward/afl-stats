@@ -121,28 +121,36 @@ def afl_venue_data
       country: "Australia"
     },
     {
-      id: 20,
+      id: 21,
       name: "Waverley Park",
       state: "Victoria",
       country: "Australia"
     },
     {
-      id: 21,
+      id: 22,
       name: "Wellington",
       state: "Wellington",
       country: "New Zealand"
     },
     {
-      id: 22,
+      id: 23,
       name: "Western Oval",
       state: "Victoria",
       country: "Australia"
     },
     {
-      id: 23,
+      id: 24,
       name: "York Park",
       state: "Tasmania",
       country: "Australia"
-    }
+    },
+    {
+      id: 25,
+      name: "Windy Hill",
+      state: "Victoria",
+      country: "Australia"
+    },
   ]
 end
+
+
