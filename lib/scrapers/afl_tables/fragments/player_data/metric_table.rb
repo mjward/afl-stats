@@ -24,10 +24,7 @@ module Scrapers
           private
 
           def player_rows
-            player_rows = node.search("tbody/tr")
-            player_rows.pop
-            player_rows.pop
-            player_rows
+            node.search("tbody/tr")
           end
 
           def metric

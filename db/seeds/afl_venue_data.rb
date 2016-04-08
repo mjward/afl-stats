@@ -26,7 +26,7 @@ def afl_venue_data
     },
     {
       id: 5,
-      name: "Cazaly's Stadium",
+      name: "Cazaly",
       state: "Queensland",
       country: "Australia"
     },
@@ -143,6 +143,6 @@ def afl_venue_data
       name: "York Park",
       state: "Tasmania",
       country: "Australia"
-    } 
+    }
   ]
 end
