@@ -5,6 +5,7 @@ def afl_team_data
       name: 'Adelaide',
       code: 'ADL',
       nickname: 'Crows',
+      current: true,
       afltables_url: 'adelaide',
     },
     {
@@ -12,6 +13,7 @@ def afl_team_data
       name: 'Brisbane',
       code: 'BRI',
       nickname: 'Lions',
+      current: true,
       afltables_url: 'brisbanel',
     },
     {
@@ -19,6 +21,7 @@ def afl_team_data
       name: 'Carlton',
       code: 'CAR',
       nickname: 'Blues',
+      current: true,
       afltables_url: 'carlton',
     },
     {
@@ -26,6 +29,7 @@ def afl_team_data
       name: 'Collingwood',
       code: 'COL',
       nickname: 'Pies',
+      current: true,
       afltables_url: 'collingwood',
     },
     {
@@ -33,6 +37,7 @@ def afl_team_data
       name: 'Essendon',
       code: 'ESS',
       nickname: 'Bombers',
+      current: true,
       afltables_url: 'essendon',
     },
     {
@@ -40,6 +45,7 @@ def afl_team_data
       name: 'Fitzroy',
       code: 'FTZ',
       nickname: 'Lions',
+      current: false,
       afltables_url: 'fitzroy',
     },
     {
@@ -47,6 +53,7 @@ def afl_team_data
       name: 'Fremantle',
       code: 'FRE',
       nickname: 'Dockers',
+      current: true,
       afltables_url: 'fremantle',
     },
     {
@@ -54,6 +61,7 @@ def afl_team_data
       name: 'Geelong',
       code: 'GEE',
       nickname: 'Cats',
+      current: true,
       afltables_url: 'geelong',
     },
     {
@@ -61,6 +69,7 @@ def afl_team_data
       name: 'Gold Coast',
       code: 'GCS',
       nickname: 'Suns',
+      current: true,
       afltables_url: 'goldcoast',
     },
     {
@@ -68,6 +77,7 @@ def afl_team_data
       name: 'Greater Western Sydney',
       code: 'GWS',
       nickname: 'Giants',
+      current: true,
       afltables_url: 'gws',
     },
     {
@@ -75,6 +85,7 @@ def afl_team_data
       name: 'Hawthorn',
       code: 'HAW',
       nickname: 'Hawks',
+      current: true,
       afltables_url: 'hawthorn',
     },
     {
@@ -82,6 +93,7 @@ def afl_team_data
       name: 'Melbourne',
       code: 'MEL',
       nickname: 'Demons',
+      current: true,
       afltables_url: 'melbourne',
     },
     {
@@ -89,6 +101,7 @@ def afl_team_data
       name: 'North Melbourne',
       code: 'NTH',
       nickname: 'Kangaroos',
+      current: true,
       afltables_url: 'kangaroos',
     },
     {
@@ -96,6 +109,7 @@ def afl_team_data
       name: 'Port Adelaide',
       code: 'POR',
       nickname: 'Power',
+      current: true,
       afltables_url: 'padelaide',
     },
     {
@@ -103,6 +117,7 @@ def afl_team_data
       name: 'Richmond',
       code: 'RIC',
       nickname: 'Tigers',
+      current: true,
       afltables_url: 'richmond',
     },
     {
@@ -110,6 +125,7 @@ def afl_team_data
       name: 'St Kilda',
       code: 'STK',
       nickname: 'Saints',
+      current: true,
       afltables_url: 'stkilda',
     },
     {
@@ -117,6 +133,7 @@ def afl_team_data
       name: 'South Melbourne',
       code: 'STH',
       nickname: 'Swans',
+      current: false,
       afltables_url: 'swans'
     },
     {
@@ -124,6 +141,7 @@ def afl_team_data
       name: 'Sydney',
       code: 'SYD',
       nickname: 'Swans',
+      current: true,
       afltables_url: 'swans'
     },
     {
@@ -131,6 +149,7 @@ def afl_team_data
       name: 'West Coast',
       code: 'POR',
       nickname: 'Eagles',
+      current: true,
       afltables_url: 'westcoast',
     },
     {
@@ -138,13 +157,15 @@ def afl_team_data
       name: 'Western Bulldogs',
       code: 'WBD',
       nickname: 'Dogs',
+      current: true,
       afltables_url: 'bullldogs',
     },
     {
       id: 21,
       name: 'University',
       code: 'UNI',
-      nickname: 'Dogs',
+      nickname: '',
+      current: false,
       afltables_url: 'bullldogs',
     },
   ]
