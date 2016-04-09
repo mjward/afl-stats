@@ -9,7 +9,7 @@ def afl_team_data
     },
     {
       id: 2,
-      name: 'Brisbane Lions',
+      name: 'Brisbane',
       code: 'BRI',
       nickname: 'Lions',
       afltables_url: 'brisbanel',
@@ -114,31 +114,38 @@ def afl_team_data
     },
     {
       id: 17,
+      name: 'South Melbourne',
+      code: 'STH',
+      nickname: 'Swans',
+      afltables_url: 'swans'
+    },
+    {
+      id: 18,
       name: 'Sydney',
       code: 'SYD',
       nickname: 'Swans',
       afltables_url: 'swans'
     },
     {
-      id: 18,
+      id: 19,
       name: 'West Coast',
       code: 'POR',
       nickname: 'Eagles',
       afltables_url: 'westcoast',
     },
     {
-      id: 19,
+      id: 20,
       name: 'Western Bulldogs',
       code: 'WBD',
       nickname: 'Dogs',
       afltables_url: 'bullldogs',
     },
     {
-      id: 20,
-      name: 'Brisbane Bears',
-      code: 'BRB',
-      nickname: 'Bears',
-      afltables_url: 'bears',
+      id: 21,
+      name: 'University',
+      code: 'UNI',
+      nickname: 'Dogs',
+      afltables_url: 'bullldogs',
     },
   ]
 end

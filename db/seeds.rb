@@ -47,21 +47,18 @@ def update_match_data(afl_venue_data)
 
     rounds.each do |round, round_data|
       round_data["matches"].each do |match|
-
-        home_team_name = match["home_team"]["name"]
-        ap home_team_name
-        away_team_name = match["away_team"]["name"]
-        ap away_team_name
+        print "."
+        home_team_name = AFLTeamMapper.new(match["home_team"]["name"]).execute
+        away_team_name = AFLTeamMapper.new(match["away_team"]["name"]).execute
         venue = match["venue"]
 
         home_team = teams[home_team_name]
         away_team = teams[away_team_name]
 
-        start_match_datetime = match["datetime"].utc
-        attendance = match["attendance"].gsub(",", "")
+        start_match_datetime = match["datetime"]
+        attendance = match["attendance"].nil? ? nil : match["attendance"].gsub(",", "")
 
         venue_name = match["venue"]
-        ap venue_name
         venue = venues[venue_name]
 
         home_scoreline = match["home_team"]["scoreline"]

@@ -150,7 +150,119 @@ def afl_venue_data
       state: "Victoria",
       country: "Australia"
     },
+    {
+      id: 26,
+      name: "Moorabbin Oval",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 27,
+      name: "North Hobart",
+      state: "Tasmania",
+      country: "Australia"
+    },
+    {
+      id: 28,
+      name: "Bruce Stadium",
+      state: "New South Wales",
+      country: "Australia"
+    },
+    {
+      id: 29,
+      name: "Arden St",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 30,
+      name: "Lake Oval",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 31,
+      name: "Junction Oval",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 32,
+      name: "Glenferrie Oval",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 33,
+      name: "Brunswick St",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 34,
+      name: "Punt Rd",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 35,
+      name: "Euroa",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 36,
+      name: "Yallourn",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 37,
+      name: "Albury",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 38,
+      name: "Brisbane Exhibition",
+      state: "Queensland",
+      country: "Australia"
+    },
+    {
+      id: 39,
+      name: "Coburg Oval",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 40,
+      name: "Corio Oval",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 41,
+      name: "East Melbourne",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 42,
+      name: "Olympic Park",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 43,
+      name: "Yarraville Oval",
+      state: "Victoria",
+      country: "Australia"
+    },
+    {
+      id: 44,
+      name: "Toorak Park",
+      state: "Victoria",
+      country: "Australia"
+    },
   ]
 end
-
-
