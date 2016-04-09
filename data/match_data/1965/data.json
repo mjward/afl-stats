@@ -1,0 +1,2865 @@
+{
+  "match_data": {
+    "year": 1965,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1965-04-17T14:20:00+00:00",
+            "attendance": "36,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.0",
+                "6.4",
+                "7.5",
+                "8.6"
+              ],
+              "final_score": "54"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "6.5",
+                "6.9",
+                "11.17",
+                "12.19"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1965-04-17T14:20:00+00:00",
+            "attendance": "51,370",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.3",
+                "5.5",
+                "6.7",
+                "8.12"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.0",
+                "2.4",
+                "7.4",
+                "8.6"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1965-04-17T14:20:00+00:00",
+            "attendance": "17,500",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "3.10",
+                "3.10",
+                "8.16"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.8",
+                "3.9",
+                "10.16",
+                "11.18"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1965-04-19T14:20:00+00:00",
+            "attendance": "23,232",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.0",
+                "3.2",
+                "4.3",
+                "5.5"
+              ],
+              "final_score": "35"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.1",
+                "2.2",
+                "5.3",
+                "5.3"
+              ],
+              "final_score": "33"
+            }
+          },
+          {
+            "datetime": "1965-04-19T14:20:00+00:00",
+            "attendance": "36,283",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.2",
+                "3.4",
+                "6.4",
+                "6.5"
+              ],
+              "final_score": "41"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.0",
+                "6.2",
+                "6.3",
+                "7.5"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1965-04-19T14:20:00+00:00",
+            "attendance": "13,774",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "0.6",
+                "1.12",
+                "3.12",
+                "4.12"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.4",
+                "3.7",
+                "4.7",
+                "6.10"
+              ],
+              "final_score": "46"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1965-04-24T14:20:00+00:00",
+            "attendance": "34,945",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.1",
+                "4.4",
+                "6.7",
+                "8.11"
+              ],
+              "final_score": "59"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.3",
+                "6.4",
+                "8.8",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1965-04-24T14:20:00+00:00",
+            "attendance": "31,379",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.4",
+                "4.10",
+                "6.11",
+                "11.13"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.5",
+                "7.6",
+                "7.8",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1965-04-24T14:20:00+00:00",
+            "attendance": "20,500",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "6.7",
+                "9.9",
+                "16.14",
+                "20.18"
+              ],
+              "final_score": "138"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.0",
+                "3.3",
+                "5.4",
+                "6.8"
+              ],
+              "final_score": "44"
+            }
+          },
+          {
+            "datetime": "1965-04-24T14:20:00+00:00",
+            "attendance": "16,998",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.4",
+                "2.5",
+                "6.6",
+                "8.6"
+              ],
+              "final_score": "54"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.0",
+                "6.2",
+                "6.4",
+                "9.4"
+              ],
+              "final_score": "58"
+            }
+          },
+          {
+            "datetime": "1965-04-24T14:20:00+00:00",
+            "attendance": "21,744",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.7",
+                "4.11",
+                "8.12",
+                "11.14"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.3",
+                "5.6",
+                "7.8",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1965-04-24T14:20:00+00:00",
+            "attendance": "23,979",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.0",
+                "2.3",
+                "5.3",
+                "7.9"
+              ],
+              "final_score": "51"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.2",
+                "4.5",
+                "7.10",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1965-05-01T14:20:00+00:00",
+            "attendance": "23,200",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.6",
+                "4.11",
+                "11.13",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.3",
+                "6.5",
+                "8.8",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1965-05-01T14:20:00+00:00",
+            "attendance": "25,733",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.7",
+                "7.10",
+                "15.15",
+                "19.16"
+              ],
+              "final_score": "130"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.1",
+                "6.3",
+                "8.6",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1965-05-01T14:20:00+00:00",
+            "attendance": "24,365",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.3",
+                "5.6",
+                "5.8",
+                "6.12"
+              ],
+              "final_score": "48"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.3",
+                "8.6",
+                "13.11",
+                "18.18"
+              ],
+              "final_score": "126"
+            }
+          },
+          {
+            "datetime": "1965-05-01T14:20:00+00:00",
+            "attendance": "15,890",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.0",
+                "6.0",
+                "7.1",
+                "9.4"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.7",
+                "10.12",
+                "11.22",
+                "14.25"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1965-05-01T14:20:00+00:00",
+            "attendance": "17,408",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.3",
+                "4.8",
+                "6.11",
+                "7.13"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.3",
+                "7.6",
+                "10.7",
+                "14.14"
+              ],
+              "final_score": "98"
+            }
+          },
+          {
+            "datetime": "1965-05-01T14:20:00+00:00",
+            "attendance": "43,412",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.4",
+                "4.9",
+                "7.9",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "8.4",
+                "13.6",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1965-05-08T14:20:00+00:00",
+            "attendance": "12,728",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.1",
+                "10.3",
+                "15.3",
+                "16.11"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.4",
+                "3.6",
+                "5.8",
+                "6.8"
+              ],
+              "final_score": "44"
+            }
+          },
+          {
+            "datetime": "1965-05-08T14:20:00+00:00",
+            "attendance": "21,525",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.4",
+                "4.6",
+                "7.7",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.1",
+                "3.5",
+                "4.5",
+                "6.9"
+              ],
+              "final_score": "45"
+            }
+          },
+          {
+            "datetime": "1965-05-08T14:20:00+00:00",
+            "attendance": "14,500",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.1",
+                "7.1",
+                "8.3",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.3",
+                "8.4",
+                "12.8",
+                "14.9"
+              ],
+              "final_score": "93"
+            }
+          },
+          {
+            "datetime": "1965-05-08T14:20:00+00:00",
+            "attendance": "9,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.3",
+                "7.9",
+                "10.11",
+                "14.14"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "5.2",
+                "8.4",
+                "9.7"
+              ],
+              "final_score": "61"
+            }
+          },
+          {
+            "datetime": "1965-05-08T14:20:00+00:00",
+            "attendance": "14,464",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.2",
+                "5.4",
+                "9.6",
+                "14.7"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "2.4",
+                "4.5",
+                "7.8"
+              ],
+              "final_score": "50"
+            }
+          },
+          {
+            "datetime": "1965-05-08T14:20:00+00:00",
+            "attendance": "27,404",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "6.6",
+                "8.7",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.3",
+                "6.3",
+                "8.8",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1965-05-15T14:20:00+00:00",
+            "attendance": "37,223",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.1",
+                "7.4",
+                "8.9",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "5.5",
+                "10.6",
+                "13.7"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1965-05-15T14:20:00+00:00",
+            "attendance": "39,965",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.7",
+                "2.10",
+                "6.13",
+                "7.14"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.2",
+                "7.3",
+                "11.6",
+                "14.9"
+              ],
+              "final_score": "93"
+            }
+          },
+          {
+            "datetime": "1965-05-15T14:20:00+00:00",
+            "attendance": "10,561",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.4",
+                "7.4",
+                "7.6",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "8.3",
+                "12.7",
+                "15.9",
+                "16.13"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1965-05-15T14:20:00+00:00",
+            "attendance": "18,253",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "6.3",
+                "7.6",
+                "11.9",
+                "11.11"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.1",
+                "6.4",
+                "7.6",
+                "11.10"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1965-05-15T14:20:00+00:00",
+            "attendance": "27,774",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "1.4",
+                "4.7",
+                "8.7"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.0",
+                "7.6",
+                "8.6",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1965-05-15T14:20:00+00:00",
+            "attendance": "32,104",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.7",
+                "9.9",
+                "9.15",
+                "14.21"
+              ],
+              "final_score": "105"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.0",
+                "4.4",
+                "4.10",
+                "8.12"
+              ],
+              "final_score": "60"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1965-05-22T14:20:00+00:00",
+            "attendance": "27,949",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.4",
+                "3.8",
+                "6.12",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.3",
+                "3.3",
+                "4.5",
+                "6.9"
+              ],
+              "final_score": "45"
+            }
+          },
+          {
+            "datetime": "1965-05-22T14:20:00+00:00",
+            "attendance": "58,808",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.4",
+                "2.7",
+                "5.8",
+                "6.13"
+              ],
+              "final_score": "49"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.1",
+                "3.1",
+                "4.3",
+                "7.5"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1965-05-22T14:20:00+00:00",
+            "attendance": "24,200",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "5.2",
+                "8.3",
+                "12.9",
+                "14.12"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.1",
+                "10.7",
+                "11.9",
+                "12.16"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1965-05-22T14:20:00+00:00",
+            "attendance": "11,925",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "4.5",
+                "5.5",
+                "8.8"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.7",
+                "5.11",
+                "10.15",
+                "11.21"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1965-05-22T14:20:00+00:00",
+            "attendance": "11,800",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.2",
+                "9.3",
+                "11.4",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.3",
+                "6.7",
+                "7.12",
+                "10.14"
+              ],
+              "final_score": "74"
+            }
+          },
+          {
+            "datetime": "1965-05-22T14:20:00+00:00",
+            "attendance": "13,291",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "0.0",
+                "6.6",
+                "6.7",
+                "8.10"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.5",
+                "5.5",
+                "12.11",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1965-05-29T14:20:00+00:00",
+            "attendance": "35,500",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.2",
+                "3.9",
+                "5.17",
+                "5.23"
+              ],
+              "final_score": "53"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.1",
+                "6.5",
+                "7.8",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1965-05-29T14:20:00+00:00",
+            "attendance": "33,452",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.1",
+                "8.6",
+                "12.8",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "3.4",
+                "6.6",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1965-05-29T14:20:00+00:00",
+            "attendance": "18,670",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.4",
+                "5.9",
+                "8.10",
+                "11.18"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "2.3",
+                "3.5",
+                "5.5"
+              ],
+              "final_score": "35"
+            }
+          },
+          {
+            "datetime": "1965-05-29T14:20:00+00:00",
+            "attendance": "18,380",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.4",
+                "4.7",
+                "8.9",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.1",
+                "7.3",
+                "7.6",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1965-05-29T14:20:00+00:00",
+            "attendance": "19,004",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.5",
+                "6.11",
+                "16.13",
+                "18.14"
+              ],
+              "final_score": "122"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.2",
+                "3.5",
+                "5.6",
+                "6.9"
+              ],
+              "final_score": "45"
+            }
+          },
+          {
+            "datetime": "1965-05-29T14:20:00+00:00",
+            "attendance": "24,602",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.5",
+                "11.10",
+                "14.13",
+                "21.16"
+              ],
+              "final_score": "142"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.3",
+                "3.3",
+                "6.7",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1965-06-05T14:20:00+00:00",
+            "attendance": "41,561",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.6",
+                "2.10",
+                "5.19",
+                "6.22"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.10",
+                "8.11",
+                "13.17"
+              ],
+              "final_score": "95"
+            }
+          },
+          {
+            "datetime": "1965-06-05T14:20:00+00:00",
+            "attendance": "25,349",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.2",
+                "8.9",
+                "9.10",
+                "14.12"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.3",
+                "5.6",
+                "8.11",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1965-06-05T14:20:00+00:00",
+            "attendance": "12,828",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.2",
+                "3.6",
+                "7.9",
+                "11.15"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.3",
+                "6.6",
+                "10.8",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1965-06-05T14:20:00+00:00",
+            "attendance": "20,649",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.5",
+                "8.7",
+                "15.10",
+                "21.17"
+              ],
+              "final_score": "143"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.5",
+                "6.8",
+                "7.13",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1965-06-05T14:20:00+00:00",
+            "attendance": "27,584",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "4.6",
+                "5.10",
+                "8.14"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.3",
+                "2.4",
+                "4.6",
+                "6.7"
+              ],
+              "final_score": "43"
+            }
+          },
+          {
+            "datetime": "1965-06-05T14:20:00+00:00",
+            "attendance": "17,400",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "6.12",
+                "7.17",
+                "13.24"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.5",
+                "1.8",
+                "7.14",
+                "12.19"
+              ],
+              "final_score": "91"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1965-06-12T14:20:00+00:00",
+            "attendance": "34,900",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.2",
+                "3.4",
+                "4.9",
+                "7.12"
+              ],
+              "final_score": "54"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.2",
+                "8.6",
+                "11.9",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1965-06-12T14:20:00+00:00",
+            "attendance": "32,260",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.2",
+                "10.2",
+                "17.5",
+                "20.9"
+              ],
+              "final_score": "129"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.4",
+                "8.7",
+                "12.8",
+                "17.13"
+              ],
+              "final_score": "115"
+            }
+          },
+          {
+            "datetime": "1965-06-12T14:20:00+00:00",
+            "attendance": "11,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "4.6",
+                "10.8",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.5",
+                "8.8",
+                "10.11",
+                "14.13"
+              ],
+              "final_score": "97"
+            }
+          },
+          {
+            "datetime": "1965-06-14T14:20:00+00:00",
+            "attendance": "20,140",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.3",
+                "5.4",
+                "7.6",
+                "9.7"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.4",
+                "6.8",
+                "9.12",
+                "14.18"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "1965-06-14T14:20:00+00:00",
+            "attendance": "25,345",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.1",
+                "6.8",
+                "6.9",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.9",
+                "4.12",
+                "7.15",
+                "9.17"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1965-06-14T14:20:00+00:00",
+            "attendance": "72,114",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.1",
+                "6.4",
+                "7.6",
+                "9.7"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.3",
+                "8.7",
+                "11.11",
+                "18.14"
+              ],
+              "final_score": "122"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1965-06-26T14:20:00+00:00",
+            "attendance": "19,679",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.2",
+                "4.5",
+                "10.9",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.2",
+                "4.4",
+                "7.5",
+                "8.10"
+              ],
+              "final_score": "58"
+            }
+          },
+          {
+            "datetime": "1965-06-26T14:20:00+00:00",
+            "attendance": "21,626",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.2",
+                "7.4",
+                "10.6",
+                "12.11"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.5",
+                "6.7",
+                "9.10",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          },
+          {
+            "datetime": "1965-06-26T14:20:00+00:00",
+            "attendance": "51,420",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.1",
+                "2.3",
+                "5.4",
+                "6.6"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.5",
+                "6.10",
+                "9.10",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1965-06-26T14:20:00+00:00",
+            "attendance": "12,884",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.2",
+                "3.6",
+                "7.11",
+                "14.16"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.4",
+                "8.6",
+                "10.6",
+                "14.10"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1965-06-26T14:20:00+00:00",
+            "attendance": "25,350",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.2",
+                "6.6",
+                "10.7",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.6",
+                "5.8",
+                "8.10",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1965-06-26T14:20:00+00:00",
+            "attendance": "20,010",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "8.2",
+                "15.4",
+                "21.7",
+                "24.12"
+              ],
+              "final_score": "156"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.3",
+                "6.4",
+                "7.6",
+                "11.9"
+              ],
+              "final_score": "75"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1965-07-03T14:20:00+00:00",
+            "attendance": "35,784",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.0",
+                "5.1",
+                "9.3",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.5",
+                "5.8",
+                "9.12",
+                "10.14"
+              ],
+              "final_score": "74"
+            }
+          },
+          {
+            "datetime": "1965-07-03T14:20:00+00:00",
+            "attendance": "14,150",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.6",
+                "3.7",
+                "5.7",
+                "7.10"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.0",
+                "2.6",
+                "4.8",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1965-07-03T14:20:00+00:00",
+            "attendance": "14,900",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.2",
+                "4.5",
+                "9.8",
+                "9.13"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.2",
+                "8.7",
+                "13.9",
+                "19.11"
+              ],
+              "final_score": "125"
+            }
+          },
+          {
+            "datetime": "1965-07-10T14:20:00+00:00",
+            "attendance": "20,687",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.1",
+                "4.4",
+                "7.8",
+                "10.14"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "2.3",
+                "3.4",
+                "4.6"
+              ],
+              "final_score": "30"
+            }
+          },
+          {
+            "datetime": "1965-07-10T14:20:00+00:00",
+            "attendance": "27,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.5",
+                "5.8",
+                "9.13",
+                "12.16"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "2.5",
+                "4.8",
+                "6.9"
+              ],
+              "final_score": "45"
+            }
+          },
+          {
+            "datetime": "1965-07-10T14:20:00+00:00",
+            "attendance": "35,220",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.4",
+                "10.9",
+                "14.12",
+                "23.20"
+              ],
+              "final_score": "158"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.4",
+                "6.6",
+                "10.6",
+                "12.10"
+              ],
+              "final_score": "82"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1965-07-17T14:20:00+00:00",
+            "attendance": "12,791",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.5",
+                "5.10",
+                "6.13",
+                "8.19"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.1",
+                "4.3",
+                "6.4",
+                "8.4"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1965-07-17T14:20:00+00:00",
+            "attendance": "29,357",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.3",
+                "6.7",
+                "8.8",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "5.2",
+                "6.4",
+                "7.5"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1965-07-17T14:20:00+00:00",
+            "attendance": "10,650",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.3",
+                "5.3",
+                "10.8",
+                "12.12"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.0",
+                "2.2",
+                "3.4",
+                "3.8"
+              ],
+              "final_score": "26"
+            }
+          },
+          {
+            "datetime": "1965-07-17T14:20:00+00:00",
+            "attendance": "13,395",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.1",
+                "0.2",
+                "1.8",
+                "1.8"
+              ],
+              "final_score": "14"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "3.8",
+                "3.8",
+                "5.13"
+              ],
+              "final_score": "43"
+            }
+          },
+          {
+            "datetime": "1965-07-17T14:20:00+00:00",
+            "attendance": "36,839",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "5.2",
+                "5.4",
+                "9.6"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.6",
+                "4.8",
+                "7.11",
+                "9.12"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1965-07-17T14:20:00+00:00",
+            "attendance": "9,520",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "6.7",
+                "7.8",
+                "8.8"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.5",
+                "4.10",
+                "5.14",
+                "6.17"
+              ],
+              "final_score": "53"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1965-07-24T14:20:00+00:00",
+            "attendance": "19,658",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.5",
+                "3.5",
+                "4.9",
+                "5.9"
+              ],
+              "final_score": "39"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.1",
+                "6.2",
+                "8.7",
+                "9.12"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1965-07-24T14:20:00+00:00",
+            "attendance": "56,360",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.2",
+                "4.6",
+                "4.6",
+                "8.8"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.1",
+                "8.3",
+                "11.4",
+                "12.7"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1965-07-24T14:20:00+00:00",
+            "attendance": "11,400",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.1",
+                "5.1",
+                "6.3",
+                "7.5"
+              ],
+              "final_score": "47"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "5.3",
+                "9.10",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1965-07-24T14:20:00+00:00",
+            "attendance": "7,486",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.5",
+                "3.8",
+                "6.10",
+                "7.13"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.1",
+                "4.2",
+                "4.3",
+                "6.6"
+              ],
+              "final_score": "42"
+            }
+          },
+          {
+            "datetime": "1965-07-24T14:20:00+00:00",
+            "attendance": "8,312",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.3",
+                "4.8",
+                "9.12",
+                "11.15"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.0",
+                "3.3",
+                "5.3",
+                "9.6"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1965-07-24T14:20:00+00:00",
+            "attendance": "18,709",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.1",
+                "8.6",
+                "10.7",
+                "18.9"
+              ],
+              "final_score": "117"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.5",
+                "4.6",
+                "5.10",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1965-07-31T14:20:00+00:00",
+            "attendance": "20,744",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.4",
+                "4.11",
+                "6.14",
+                "9.19"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.7",
+                "5.10",
+                "11.11",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          },
+          {
+            "datetime": "1965-07-31T14:20:00+00:00",
+            "attendance": "18,500",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "4.7",
+                "7.10",
+                "8.12"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.4",
+                "5.12",
+                "5.14",
+                "12.22"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1965-07-31T14:20:00+00:00",
+            "attendance": "16,800",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.5",
+                "7.9",
+                "11.10",
+                "13.18"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.2",
+                "4.3",
+                "6.7",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1965-07-31T14:20:00+00:00",
+            "attendance": "20,381",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.3",
+                "10.6",
+                "11.8",
+                "12.11"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "6.7",
+                "8.12",
+                "11.15"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1965-07-31T14:20:00+00:00",
+            "attendance": "17,154",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.7",
+                "5.9",
+                "7.12",
+                "10.17"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "0.1",
+                "3.2",
+                "4.3",
+                "5.4"
+              ],
+              "final_score": "34"
+            }
+          },
+          {
+            "datetime": "1965-07-31T14:20:00+00:00",
+            "attendance": "34,076",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "8.4",
+                "10.7",
+                "14.12"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.7",
+                "4.7",
+                "6.13",
+                "11.17"
+              ],
+              "final_score": "83"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1965-08-07T14:20:00+00:00",
+            "attendance": "11,474",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.0",
+                "4.1",
+                "6.3",
+                "6.8"
+              ],
+              "final_score": "44"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.1",
+                "5.1",
+                "5.1",
+                "5.2"
+              ],
+              "final_score": "32"
+            }
+          },
+          {
+            "datetime": "1965-08-07T14:20:00+00:00",
+            "attendance": "26,915",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.4",
+                "6.5",
+                "13.7",
+                "14.9"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "4.2",
+                "6.2",
+                "7.4"
+              ],
+              "final_score": "46"
+            }
+          },
+          {
+            "datetime": "1965-08-07T14:20:00+00:00",
+            "attendance": "32,031",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.2",
+                "10.5",
+                "11.6",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.1",
+                "4.2",
+                "5.5",
+                "5.6"
+              ],
+              "final_score": "36"
+            }
+          },
+          {
+            "datetime": "1965-08-07T14:20:00+00:00",
+            "attendance": "7,463",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "1.5",
+                "1.7",
+                "4.12"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.4",
+                "5.5",
+                "6.6",
+                "8.6"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1965-08-07T14:20:00+00:00",
+            "attendance": "11,313",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.1",
+                "4.4",
+                "5.6",
+                "6.9"
+              ],
+              "final_score": "45"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.8",
+                "4.10",
+                "9.15",
+                "9.15"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1965-08-07T14:20:00+00:00",
+            "attendance": "15,130",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.5",
+                "4.5",
+                "9.9",
+                "11.12"
+              ],
+              "final_score": "78"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "2.6",
+                "3.7",
+                "5.9"
+              ],
+              "final_score": "39"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1965-08-14T14:20:00+00:00",
+            "attendance": "36,730",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.3",
+                "6.9",
+                "9.12",
+                "11.16"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.4",
+                "9.6",
+                "11.8",
+                "16.11"
+              ],
+              "final_score": "107"
+            }
+          },
+          {
+            "datetime": "1965-08-14T14:20:00+00:00",
+            "attendance": "28,700",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.4",
+                "4.5",
+                "5.8",
+                "9.15"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.3",
+                "3.6",
+                "6.8",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1965-08-14T14:20:00+00:00",
+            "attendance": "7,738",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.3",
+                "7.6",
+                "9.8",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.5",
+                "5.7",
+                "10.9",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1965-08-14T14:20:00+00:00",
+            "attendance": "13,600",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.3",
+                "3.7",
+                "6.13",
+                "10.18"
+              ],
+              "final_score": "78"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "5.2",
+                "7.4",
+                "10.10",
+                "13.14"
+              ],
+              "final_score": "92"
+            }
+          },
+          {
+            "datetime": "1965-08-14T14:20:00+00:00",
+            "attendance": "44,753",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.3",
+                "6.5",
+                "8.6",
+                "11.7"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "7.6",
+                "13.9",
+                "16.11"
+              ],
+              "final_score": "107"
+            }
+          },
+          {
+            "datetime": "1965-08-14T14:20:00+00:00",
+            "attendance": "15,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "6.8",
+                "9.9",
+                "9.14"
+              ],
+              "final_score": "68"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.7",
+                "10.8",
+                "12.10",
+                "16.14"
+              ],
+              "final_score": "110"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1965-08-21T14:20:00+00:00",
+            "attendance": "40,576",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.1",
+                "9.3",
+                "13.5",
+                "14.8"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "4.6",
+                "7.7",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1965-08-21T14:20:00+00:00",
+            "attendance": "33,318",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.3",
+                "6.6",
+                "9.7",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.3",
+                "4.6",
+                "6.8",
+                "7.10"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1965-08-21T14:20:00+00:00",
+            "attendance": "18,950",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.4",
+                "4.8",
+                "8.12",
+                "14.13"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.0",
+                "2.1",
+                "4.6",
+                "4.7"
+              ],
+              "final_score": "31"
+            }
+          },
+          {
+            "datetime": "1965-08-21T14:20:00+00:00",
+            "attendance": "15,651",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.2",
+                "4.6",
+                "6.8",
+                "9.16"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.0",
+                "5.2",
+                "7.3",
+                "8.4"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1965-08-21T14:20:00+00:00",
+            "attendance": "10,498",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.5",
+                "0.10",
+                "2.14",
+                "4.17"
+              ],
+              "final_score": "41"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.2",
+                "3.2",
+                "7.4",
+                "11.6"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1965-08-21T14:20:00+00:00",
+            "attendance": "18,704",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.8",
+                "3.9",
+                "9.9",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.3",
+                "4.4",
+                "5.10",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1965-08-28T14:20:00+00:00",
+            "attendance": "26,267",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "6.7",
+                "9.9",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.0",
+                "2.2",
+                "3.5",
+                "9.6"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1965-08-28T14:20:00+00:00",
+            "attendance": "28,860",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.6",
+                "8.11",
+                "10.15",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.1",
+                "6.3",
+                "10.4",
+                "12.6"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1965-08-28T14:20:00+00:00",
+            "attendance": "15,762",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.2",
+                "11.3",
+                "13.5",
+                "16.6"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.4",
+                "6.6",
+                "15.10",
+                "19.13"
+              ],
+              "final_score": "127"
+            }
+          },
+          {
+            "datetime": "1965-08-28T14:20:00+00:00",
+            "attendance": "19,532",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.3",
+                "7.3",
+                "10.9",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.2",
+                "6.3",
+                "8.9",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1965-08-28T14:20:00+00:00",
+            "attendance": "15,100",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "5.6",
+                "8.6",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "7.6",
+                "10.11",
+                "12.15",
+                "17.20"
+              ],
+              "final_score": "122"
+            }
+          },
+          {
+            "datetime": "1965-08-28T14:20:00+00:00",
+            "attendance": "11,867",
+            "venue": "Coburg Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.2",
+                "5.7",
+                "8.9",
+                "11.12"
+              ],
+              "final_score": "78"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.3",
+                "0.7",
+                "3.10",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}

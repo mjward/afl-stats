@@ -1,0 +1,2865 @@
+{
+  "match_data": {
+    "year": 1959,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1959-04-18T14:30:00+00:00",
+            "attendance": "31,000",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "7.4",
+                "8.10",
+                "12.13",
+                "13.20"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.3",
+                "6.10",
+                "9.14",
+                "11.18"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1959-04-18T14:30:00+00:00",
+            "attendance": "40,125",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.4",
+                "3.8",
+                "6.13",
+                "7.18"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "5.4",
+                "8.9",
+                "12.11",
+                "14.17"
+              ],
+              "final_score": "101"
+            }
+          },
+          {
+            "datetime": "1959-04-18T14:30:00+00:00",
+            "attendance": "20,000",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "7.3",
+                "12.12",
+                "15.16",
+                "19.17"
+              ],
+              "final_score": "131"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.6",
+                "9.8",
+                "14.13",
+                "17.18"
+              ],
+              "final_score": "120"
+            }
+          },
+          {
+            "datetime": "1959-04-18T14:30:00+00:00",
+            "attendance": "27,600",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "7.8",
+                "8.12",
+                "9.15"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.1",
+                "5.4",
+                "6.8",
+                "6.13"
+              ],
+              "final_score": "49"
+            }
+          },
+          {
+            "datetime": "1959-04-18T14:30:00+00:00",
+            "attendance": "17,200",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.4",
+                "6.7",
+                "6.10",
+                "8.15"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.3",
+                "8.4",
+                "10.11",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1959-04-18T14:30:00+00:00",
+            "attendance": "25,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.4",
+                "3.5",
+                "10.9",
+                "10.10"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.2",
+                "8.8",
+                "10.11",
+                "16.21"
+              ],
+              "final_score": "117"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1959-05-02T14:30:00+00:00",
+            "attendance": "29,436",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.1",
+                "3.4",
+                "4.5",
+                "8.7"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.6",
+                "8.6",
+                "11.12",
+                "15.14"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1959-05-02T14:30:00+00:00",
+            "attendance": "53,342",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.4",
+                "7.7",
+                "11.10",
+                "13.14"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.1",
+                "5.1",
+                "8.4",
+                "12.7"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1959-05-02T14:30:00+00:00",
+            "attendance": "19,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.4",
+                "8.6",
+                "13.8",
+                "18.15"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.1",
+                "6.5",
+                "7.11",
+                "12.15"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1959-05-02T14:30:00+00:00",
+            "attendance": "27,250",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.4",
+                "7.9",
+                "10.13",
+                "13.21"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.3",
+                "5.6",
+                "8.10",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1959-05-02T14:30:00+00:00",
+            "attendance": "14,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "7.9",
+                "12.12",
+                "18.15"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.5",
+                "6.5",
+                "11.8",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1959-05-02T14:30:00+00:00",
+            "attendance": "15,000",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.2",
+                "10.8",
+                "11.9",
+                "16.12"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.4",
+                "4.10",
+                "8.16",
+                "10.20"
+              ],
+              "final_score": "80"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1959-05-09T14:30:00+00:00",
+            "attendance": "33,903",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.1",
+                "3.4",
+                "7.7",
+                "9.8"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.4",
+                "5.5",
+                "10.9",
+                "14.10"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1959-05-09T14:30:00+00:00",
+            "attendance": "30,200",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.4",
+                "5.8",
+                "8.10",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.1",
+                "4.3",
+                "6.7",
+                "7.10"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1959-05-09T14:30:00+00:00",
+            "attendance": "20,000",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.5",
+                "9.6",
+                "12.8",
+                "13.9"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.2",
+                "2.3",
+                "4.6",
+                "11.8"
+              ],
+              "final_score": "74"
+            }
+          },
+          {
+            "datetime": "1959-05-09T14:30:00+00:00",
+            "attendance": "17,417",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.0",
+                "4.7",
+                "4.10",
+                "8.10"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.9",
+                "6.9",
+                "14.10",
+                "15.12"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "1959-05-09T14:30:00+00:00",
+            "attendance": "13,500",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.0",
+                "6.4",
+                "7.4",
+                "10.11"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "7.4",
+                "8.7",
+                "12.12",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1959-05-09T14:30:00+00:00",
+            "attendance": "13,600",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.1",
+                "5.4",
+                "5.6",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "4.4",
+                "6.9",
+                "8.10"
+              ],
+              "final_score": "58"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1959-05-16T14:30:00+00:00",
+            "attendance": "24,500",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.5",
+                "9.8",
+                "9.11",
+                "14.17"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.1",
+                "5.2",
+                "6.5",
+                "9.7"
+              ],
+              "final_score": "61"
+            }
+          },
+          {
+            "datetime": "1959-05-16T14:30:00+00:00",
+            "attendance": "30,360",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "4.12",
+                "10.14",
+                "12.19"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.6",
+                "3.10",
+                "4.11",
+                "8.16"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1959-05-16T14:30:00+00:00",
+            "attendance": "22,500",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.4",
+                "5.7",
+                "5.12",
+                "8.14"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.3",
+                "5.9",
+                "9.11",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1959-05-16T14:30:00+00:00",
+            "attendance": "16,112",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.6",
+                "5.6",
+                "8.11",
+                "13.12"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "5.3",
+                "8.4",
+                "12.8"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1959-05-16T14:30:00+00:00",
+            "attendance": "24,438",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "6.5",
+                "11.9",
+                "14.11",
+                "19.17"
+              ],
+              "final_score": "131"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.1",
+                "4.5",
+                "6.9",
+                "9.12"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1959-05-16T14:30:00+00:00",
+            "attendance": "25,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "9.7",
+                "14.8",
+                "19.14"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.6",
+                "5.10",
+                "10.14",
+                "13.19"
+              ],
+              "final_score": "97"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1959-05-23T14:30:00+00:00",
+            "attendance": "36,120",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.3",
+                "6.7",
+                "7.9",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.1",
+                "7.2",
+                "9.4",
+                "9.7"
+              ],
+              "final_score": "61"
+            }
+          },
+          {
+            "datetime": "1959-05-23T14:30:00+00:00",
+            "attendance": "24,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.6",
+                "4.12",
+                "10.20",
+                "13.20"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.2",
+                "5.8",
+                "5.9",
+                "11.13"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1959-05-23T14:30:00+00:00",
+            "attendance": "18,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.8",
+                "6.11",
+                "8.13",
+                "11.18"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.4",
+                "2.5",
+                "5.9",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1959-05-23T14:30:00+00:00",
+            "attendance": "15,000",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.0",
+                "6.6",
+                "9.7",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.9",
+                "5.11",
+                "7.19",
+                "9.19"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1959-05-23T14:30:00+00:00",
+            "attendance": "19,475",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.4",
+                "6.5",
+                "14.7",
+                "17.11"
+              ],
+              "final_score": "113"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.0",
+                "7.4",
+                "10.5",
+                "13.8"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1959-05-23T14:30:00+00:00",
+            "attendance": "21,500",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.3",
+                "5.10",
+                "6.11",
+                "10.21"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.5",
+                "5.5",
+                "9.10",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1959-05-30T14:30:00+00:00",
+            "attendance": "28,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.2",
+                "4.5",
+                "8.8",
+                "11.9"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.5",
+                "6.6",
+                "9.9",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1959-05-30T14:30:00+00:00",
+            "attendance": "24,740",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "7.5",
+                "9.8",
+                "13.13",
+                "16.16"
+              ],
+              "final_score": "112"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.1",
+                "5.7",
+                "8.10",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1959-05-30T14:30:00+00:00",
+            "attendance": "22,000",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.5",
+                "7.5",
+                "10.6",
+                "11.9"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.8",
+                "4.13",
+                "7.15",
+                "12.22"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1959-05-30T14:30:00+00:00",
+            "attendance": "16,736",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.1",
+                "8.6",
+                "10.7",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "6.4",
+                "9.7",
+                "14.13",
+                "19.15"
+              ],
+              "final_score": "129"
+            }
+          },
+          {
+            "datetime": "1959-05-30T14:30:00+00:00",
+            "attendance": "20,700",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "3.5",
+                "6.14",
+                "8.18"
+              ],
+              "final_score": "66"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.2",
+                "9.7",
+                "11.8",
+                "13.18"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1959-05-30T14:30:00+00:00",
+            "attendance": "23,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.8",
+                "5.11",
+                "7.12",
+                "11.17"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.2",
+                "4.6",
+                "13.8",
+                "16.10"
+              ],
+              "final_score": "106"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1959-06-06T14:20:00+00:00",
+            "attendance": "41,985",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.2",
+                "9.6",
+                "12.11",
+                "14.15"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.4",
+                "4.6",
+                "7.8",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1959-06-06T14:20:00+00:00",
+            "attendance": "20,427",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.5",
+                "6.10",
+                "6.15",
+                "12.22"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.1",
+                "4.4",
+                "6.6",
+                "9.7"
+              ],
+              "final_score": "61"
+            }
+          },
+          {
+            "datetime": "1959-06-06T14:20:00+00:00",
+            "attendance": "23,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.4",
+                "5.5",
+                "10.7",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.4",
+                "5.7",
+                "7.11",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1959-06-06T14:20:00+00:00",
+            "attendance": "20,200",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.3",
+                "6.5",
+                "10.7",
+                "13.9"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.5",
+                "3.13",
+                "7.21",
+                "9.26"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1959-06-06T14:20:00+00:00",
+            "attendance": "14,500",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.2",
+                "6.7",
+                "10.8",
+                "14.9"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.3",
+                "7.7",
+                "7.13",
+                "8.15"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1959-06-06T14:20:00+00:00",
+            "attendance": "27,829",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.6",
+                "5.12",
+                "9.14",
+                "14.17"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.1",
+                "4.5",
+                "7.8",
+                "8.8"
+              ],
+              "final_score": "56"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1959-06-13T14:20:00+00:00",
+            "attendance": "17,632",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.3",
+                "0.4",
+                "2.8",
+                "5.10"
+              ],
+              "final_score": "40"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.1",
+                "2.4",
+                "2.8",
+                "3.12"
+              ],
+              "final_score": "30"
+            }
+          },
+          {
+            "datetime": "1959-06-13T14:20:00+00:00",
+            "attendance": "11,523",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.6",
+                "1.10",
+                "4.12",
+                "4.13"
+              ],
+              "final_score": "37"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.1",
+                "4.4",
+                "5.6",
+                "9.9"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1959-06-13T14:20:00+00:00",
+            "attendance": "12,500",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.1",
+                "7.5",
+                "10.8",
+                "12.12"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.1",
+                "6.3",
+                "8.3",
+                "8.6"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1959-06-15T14:20:00+00:00",
+            "attendance": "23,108",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.5",
+                "3.6",
+                "6.10",
+                "11.13"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.0",
+                "7.5",
+                "11.12",
+                "12.16"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1959-06-15T14:20:00+00:00",
+            "attendance": "52,880",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.1",
+                "8.7",
+                "11.12",
+                "19.15"
+              ],
+              "final_score": "129"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.3",
+                "5.4",
+                "6.6",
+                "8.8"
+              ],
+              "final_score": "56"
+            }
+          },
+          {
+            "datetime": "1959-06-15T14:20:00+00:00",
+            "attendance": "29,500",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "7.8",
+                "12.11",
+                "16.13"
+              ],
+              "final_score": "109"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.4",
+                "4.7",
+                "5.10",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1959-06-27T14:20:00+00:00",
+            "attendance": "33,159",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.2",
+                "7.8",
+                "10.8",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.5",
+                "7.6",
+                "11.18",
+                "14.21"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1959-06-27T14:20:00+00:00",
+            "attendance": "23,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.3",
+                "6.10",
+                "7.11",
+                "8.11"
+              ],
+              "final_score": "59"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.4",
+                "2.6",
+                "5.9",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1959-06-27T14:20:00+00:00",
+            "attendance": "13,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.0",
+                "10.2",
+                "10.4",
+                "13.8"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "5.7",
+                "5.11",
+                "10.18",
+                "10.21"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1959-06-27T14:20:00+00:00",
+            "attendance": "13,000",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.2",
+                "9.10",
+                "9.16",
+                "13.18"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "5.7",
+                "7.8",
+                "8.12",
+                "9.14"
+              ],
+              "final_score": "68"
+            }
+          },
+          {
+            "datetime": "1959-06-27T14:20:00+00:00",
+            "attendance": "15,650",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.3",
+                "11.4",
+                "11.5",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.4",
+                "4.7",
+                "4.20",
+                "6.22"
+              ],
+              "final_score": "58"
+            }
+          },
+          {
+            "datetime": "1959-06-27T14:20:00+00:00",
+            "attendance": "17,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.3",
+                "5.6",
+                "5.11",
+                "6.16"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.4",
+                "7.11",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1959-07-04T14:20:00+00:00",
+            "attendance": "26,000",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.2",
+                "13.4",
+                "15.9",
+                "21.13"
+              ],
+              "final_score": "139"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.4",
+                "1.5",
+                "7.10",
+                "10.13"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1959-07-04T14:20:00+00:00",
+            "attendance": "25,149",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.7",
+                "8.10",
+                "10.15",
+                "11.18"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.0",
+                "3.7",
+                "6.7",
+                "9.9"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1959-07-04T14:20:00+00:00",
+            "attendance": "15,500",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.3",
+                "7.6",
+                "10.8",
+                "14.13"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.9",
+                "6.12",
+                "11.17",
+                "12.20"
+              ],
+              "final_score": "92"
+            }
+          },
+          {
+            "datetime": "1959-07-04T14:20:00+00:00",
+            "attendance": "14,150",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.4",
+                "5.9",
+                "11.10",
+                "13.15"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.3",
+                "4.7",
+                "8.9",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1959-07-04T14:20:00+00:00",
+            "attendance": "23,800",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.0",
+                "5.2",
+                "8.3",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.10",
+                "5.14",
+                "9.20",
+                "9.23"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1959-07-04T14:20:00+00:00",
+            "attendance": "21,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "3.5",
+                "7.7",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "8.7",
+                "13.10",
+                "15.16"
+              ],
+              "final_score": "106"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1959-07-11T14:20:00+00:00",
+            "attendance": "27,668",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.5",
+                "7.10",
+                "11.14",
+                "15.21"
+              ],
+              "final_score": "111"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.8",
+                "4.10",
+                "6.12",
+                "8.18"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1959-07-11T14:20:00+00:00",
+            "attendance": "24,502",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.3",
+                "6.7",
+                "8.11",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.2",
+                "2.8",
+                "7.11",
+                "10.14"
+              ],
+              "final_score": "74"
+            }
+          },
+          {
+            "datetime": "1959-07-11T14:20:00+00:00",
+            "attendance": "17,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.1",
+                "7.7",
+                "15.12",
+                "19.20"
+              ],
+              "final_score": "134"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.4",
+                "4.7",
+                "8.9",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1959-07-11T14:20:00+00:00",
+            "attendance": "15,801",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.6",
+                "3.10",
+                "4.16",
+                "6.17"
+              ],
+              "final_score": "53"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "2.7",
+                "2.7",
+                "10.13"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1959-07-11T14:20:00+00:00",
+            "attendance": "16,600",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.5",
+                "5.9",
+                "12.12",
+                "17.16"
+              ],
+              "final_score": "118"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.2",
+                "7.6",
+                "7.9",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1959-07-11T14:20:00+00:00",
+            "attendance": "31,253",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "7.1",
+                "12.1",
+                "17.4",
+                "20.8"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.6",
+                "4.7",
+                "4.10",
+                "6.10"
+              ],
+              "final_score": "46"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1959-07-18T14:20:00+00:00",
+            "attendance": "28,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.2",
+                "6.6",
+                "11.8",
+                "15.10"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.4",
+                "3.7",
+                "3.12",
+                "7.18"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1959-07-18T14:20:00+00:00",
+            "attendance": "40,000",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.2",
+                "4.4",
+                "5.4",
+                "6.9"
+              ],
+              "final_score": "45"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.5",
+                "3.6",
+                "7.11",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1959-07-18T14:20:00+00:00",
+            "attendance": "15,500",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.2",
+                "5.6",
+                "6.10",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.5",
+                "5.12",
+                "7.16",
+                "8.19"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1959-07-18T14:20:00+00:00",
+            "attendance": "16,189",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "5.6",
+                "5.7",
+                "9.13",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.4",
+                "8.9",
+                "10.9",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1959-07-18T14:20:00+00:00",
+            "attendance": "10,000",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.4",
+                "6.4",
+                "11.9",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "3.6",
+                "5.11",
+                "8.15"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1959-07-18T14:20:00+00:00",
+            "attendance": "21,979",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.4",
+                "6.5",
+                "10.7",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.1",
+                "4.3",
+                "6.3",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1959-07-25T14:20:00+00:00",
+            "attendance": "13,271",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "7.2",
+                "7.4",
+                "9.7",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.1",
+                "2.5",
+                "3.8",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1959-07-25T14:20:00+00:00",
+            "attendance": "30,343",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.3",
+                "7.4",
+                "10.6",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "6.2",
+                "9.4",
+                "12.6",
+                "14.7"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1959-07-25T14:20:00+00:00",
+            "attendance": "18,100",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.5",
+                "7.7",
+                "9.10",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.1",
+                "7.2",
+                "9.5",
+                "11.5"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1959-07-25T14:20:00+00:00",
+            "attendance": "17,054",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.4",
+                "7.11",
+                "11.13",
+                "13.19"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "5.3",
+                "7.4",
+                "9.5",
+                "10.7"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1959-07-25T14:20:00+00:00",
+            "attendance": "10,072",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "5.6",
+                "8.7",
+                "14.16"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.6",
+                "7.10",
+                "11.12",
+                "13.13"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1959-07-25T14:20:00+00:00",
+            "attendance": "8,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.1",
+                "9.6",
+                "12.8",
+                "16.8"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.4",
+                "2.6",
+                "8.12",
+                "10.16"
+              ],
+              "final_score": "76"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1959-08-01T14:20:00+00:00",
+            "attendance": "41,581",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "4.4",
+                "7.6",
+                "8.9"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.5",
+                "5.7",
+                "6.11",
+                "9.14"
+              ],
+              "final_score": "68"
+            }
+          },
+          {
+            "datetime": "1959-08-01T14:20:00+00:00",
+            "attendance": "20,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.5",
+                "5.8",
+                "8.11",
+                "10.19"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.2",
+                "5.6",
+                "7.9",
+                "8.14"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1959-08-01T14:20:00+00:00",
+            "attendance": "29,420",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "6.7",
+                "9.9",
+                "11.11"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.4",
+                "5.8",
+                "8.11",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1959-08-01T14:20:00+00:00",
+            "attendance": "10,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "8.2",
+                "9.5",
+                "11.10",
+                "14.15"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.3",
+                "4.5",
+                "6.7",
+                "7.10"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1959-08-01T14:20:00+00:00",
+            "attendance": "12,140",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.6",
+                "7.12",
+                "9.14",
+                "12.15"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.5",
+                "2.5",
+                "4.7",
+                "6.7"
+              ],
+              "final_score": "43"
+            }
+          },
+          {
+            "datetime": "1959-08-01T14:20:00+00:00",
+            "attendance": "17,500",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.2",
+                "4.8",
+                "4.9",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.4",
+                "6.4",
+                "12.7",
+                "13.7"
+              ],
+              "final_score": "85"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1959-08-08T14:20:00+00:00",
+            "attendance": "16,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.1",
+                "6.4",
+                "7.6",
+                "13.6"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "6.9",
+                "7.11",
+                "13.17",
+                "14.20"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1959-08-08T14:20:00+00:00",
+            "attendance": "29,176",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.11",
+                "5.11",
+                "8.18",
+                "12.18"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.2",
+                "5.9",
+                "6.10",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1959-08-08T14:20:00+00:00",
+            "attendance": "18,500",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.0",
+                "4.2",
+                "5.5",
+                "11.8"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.4",
+                "8.7",
+                "14.14",
+                "16.14"
+              ],
+              "final_score": "110"
+            }
+          },
+          {
+            "datetime": "1959-08-08T14:20:00+00:00",
+            "attendance": "14,488",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "5.7",
+                "6.11",
+                "11.15"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.5",
+                "1.6",
+                "3.10",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1959-08-08T14:20:00+00:00",
+            "attendance": "12,549",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.3",
+                "8.3",
+                "11.5",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "7.4",
+                "8.9",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1959-08-08T14:20:00+00:00",
+            "attendance": "13,000",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.1",
+                "6.8",
+                "7.12",
+                "8.14"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.0",
+                "6.1",
+                "8.2",
+                "10.3"
+              ],
+              "final_score": "63"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1959-08-15T14:20:00+00:00",
+            "attendance": "53,479",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.3",
+                "7.7",
+                "8.11",
+                "13.14"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "3.4",
+                "6.5",
+                "7.5"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1959-08-15T14:20:00+00:00",
+            "attendance": "23,856",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.2",
+                "10.7",
+                "13.10",
+                "17.17"
+              ],
+              "final_score": "119"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "3.4",
+                "5.8",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1959-08-15T14:20:00+00:00",
+            "attendance": "15,076",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.3",
+                "4.5",
+                "11.6",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.6",
+                "9.10",
+                "11.13",
+                "15.16"
+              ],
+              "final_score": "106"
+            }
+          },
+          {
+            "datetime": "1959-08-15T14:20:00+00:00",
+            "attendance": "14,774",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.3",
+                "4.9",
+                "6.11",
+                "10.23"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.4",
+                "4.7",
+                "7.10",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1959-08-15T14:20:00+00:00",
+            "attendance": "14,100",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.5",
+                "7.7",
+                "8.10",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.2",
+                "6.7",
+                "7.9",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1959-08-15T14:20:00+00:00",
+            "attendance": "12,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.2",
+                "3.7",
+                "5.7",
+                "10.11"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.1",
+                "4.1",
+                "5.5",
+                "5.5"
+              ],
+              "final_score": "35"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1959-08-22T14:20:00+00:00",
+            "attendance": "18,720",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.8",
+                "6.14",
+                "9.18",
+                "13.20"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "7.7",
+                "9.9",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1959-08-22T14:20:00+00:00",
+            "attendance": "33,960",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.3",
+                "1.3",
+                "5.4",
+                "5.5"
+              ],
+              "final_score": "35"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.6",
+                "5.8",
+                "6.11",
+                "8.17"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1959-08-22T14:20:00+00:00",
+            "attendance": "30,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.1",
+                "7.3",
+                "9.7",
+                "11.8"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.5",
+                "3.6",
+                "6.8",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1959-08-22T14:20:00+00:00",
+            "attendance": "21,646",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "8.8",
+                "13.13",
+                "17.18"
+              ],
+              "final_score": "120"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "5.4",
+                "5.9",
+                "9.12"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1959-08-22T14:20:00+00:00",
+            "attendance": "12,500",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.1",
+                "5.4",
+                "5.6",
+                "6.6"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "5.3",
+                "10.9",
+                "15.15",
+                "19.20"
+              ],
+              "final_score": "134"
+            }
+          },
+          {
+            "datetime": "1959-08-22T14:20:00+00:00",
+            "attendance": "14,500",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.8",
+                "10.12",
+                "15.15",
+                "18.15"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "7.8",
+                "8.12",
+                "13.19"
+              ],
+              "final_score": "97"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1959-08-29T14:20:00+00:00",
+            "attendance": "23,200",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.4",
+                "4.6",
+                "5.7",
+                "8.11"
+              ],
+              "final_score": "59"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.5",
+                "4.8",
+                "9.11",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1959-08-29T14:20:00+00:00",
+            "attendance": "21,822",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.4",
+                "2.5",
+                "4.7",
+                "5.8"
+              ],
+              "final_score": "38"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.3",
+                "5.9",
+                "10.17",
+                "17.19"
+              ],
+              "final_score": "121"
+            }
+          },
+          {
+            "datetime": "1959-08-29T14:20:00+00:00",
+            "attendance": "29,629",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.3",
+                "6.10",
+                "7.11",
+                "10.14"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "8.2",
+                "10.4",
+                "15.10",
+                "17.15"
+              ],
+              "final_score": "117"
+            }
+          },
+          {
+            "datetime": "1959-08-29T14:20:00+00:00",
+            "attendance": "18,523",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.3",
+                "7.7",
+                "15.8",
+                "20.12"
+              ],
+              "final_score": "132"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.4",
+                "7.5",
+                "9.9",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          },
+          {
+            "datetime": "1959-08-29T14:20:00+00:00",
+            "attendance": "12,000",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.4",
+                "7.5",
+                "10.8",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.1",
+                "12.6",
+                "15.9",
+                "17.14"
+              ],
+              "final_score": "116"
+            }
+          },
+          {
+            "datetime": "1959-08-29T14:20:00+00:00",
+            "attendance": "22,500",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.2",
+                "4.7",
+                "5.10",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.6",
+                "3.11",
+                "5.15",
+                "10.16"
+              ],
+              "final_score": "76"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}

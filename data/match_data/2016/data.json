@@ -1,0 +1,3176 @@
+{
+  "match_data": {
+    "year": 2016,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "2016-03-24T19:20:00+00:00",
+            "attendance": "75,706",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.1",
+                "7.2",
+                "10.6",
+                "14.8"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "5.7",
+                "11.9",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "2016-03-26T13:40:00+00:00",
+            "attendance": "28,505",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.0",
+                "5.4",
+                "6.5",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": [
+                "3.4",
+                "6.8",
+                "8.14",
+                "10.18"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "2016-03-26T15:35:00+00:00",
+            "attendance": "16,239",
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": [
+                "5.5",
+                "11.9",
+                "15.14",
+                "17.19"
+              ],
+              "final_score": "121"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.0",
+                "5.1",
+                "7.5",
+                "9.6"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "2016-03-26T19:25:00+00:00",
+            "attendance": "25,485",
+            "venue": "Docklands",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.3",
+                "6.6",
+                "13.7",
+                "16.11"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.5",
+                "9.6",
+                "13.8",
+                "14.13"
+              ],
+              "final_score": "97"
+            }
+          },
+          {
+            "datetime": "2016-03-26T19:25:00+00:00",
+            "attendance": "33,857",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "3.9",
+                "10.12",
+                "14.21",
+                "18.25"
+              ],
+              "final_score": "133"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.1",
+                "1.4",
+                "5.6",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "2016-03-27T13:10:00+00:00",
+            "attendance": "27,832",
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": [
+                "7.1",
+                "9.7",
+                "10.11",
+                "15.13"
+              ],
+              "final_score": "103"
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": [
+                "0.2",
+                "1.5",
+                "4.7",
+                "5.8"
+              ],
+              "final_score": "38"
+            }
+          },
+          {
+            "datetime": "2016-03-27T14:50:00+00:00",
+            "attendance": "43,807",
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": [
+                "4.1",
+                "9.2",
+                "13.9",
+                "20.13"
+              ],
+              "final_score": "133"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.4",
+                "9.8",
+                "14.9",
+                "15.10"
+              ],
+              "final_score": "100"
+            }
+          },
+          {
+            "datetime": "2016-03-27T16:40:00+00:00",
+            "attendance": "35,201",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "7.4",
+                "13.7",
+                "19.9",
+                "26.10"
+              ],
+              "final_score": "166"
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": [
+                "5.2",
+                "7.4",
+                "11.7",
+                "15.12"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "2016-03-28T15:20:00+00:00",
+            "attendance": "74,218",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.0",
+                "11.1",
+                "11.4",
+                "18.8"
+              ],
+              "final_score": "116"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.3",
+                "5.7",
+                "10.12",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "2016-04-01T19:50:00+00:00",
+            "attendance": "72,761",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.1",
+                "3.3",
+                "7.7",
+                "13.9"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "3.8",
+                "7.12",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "2016-04-02T13:15:00+00:00",
+            "attendance": "51,585",
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "6.4",
+                "13.5",
+                "19.7",
+                "22.12"
+              ],
+              "final_score": "144"
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": [
+                "1.2",
+                "4.8",
+                "7.12",
+                "11.20"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "2016-04-02T14:10:00+00:00",
+            "attendance": "50,424",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "7.7",
+                "8.10",
+                "11.14"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.4",
+                "6.4",
+                "7.7",
+                "10.7"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "2016-04-02T15:35:00+00:00",
+            "attendance": "18,021",
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": [
+                "2.7",
+                "4.11",
+                "7.12",
+                "11.17"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.3",
+                "8.8",
+                "13.13",
+                "17.15"
+              ],
+              "final_score": "117"
+            }
+          },
+          {
+            "datetime": "2016-04-02T19:25:00+00:00",
+            "attendance": "37,353",
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.1",
+                "3.5",
+                "4.5",
+                "5.6"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": [
+                "3.6",
+                "7.6",
+                "9.13",
+                "13.15"
+              ],
+              "final_score": "93"
+            }
+          },
+          {
+            "datetime": "2016-04-02T16:40:00+00:00",
+            "attendance": "34,208",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": [
+                "4.4",
+                "6.7",
+                "11.10",
+                "14.16"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": [
+                "4.3",
+                "11.6",
+                "16.9",
+                "19.12"
+              ],
+              "final_score": "126"
+            }
+          },
+          {
+            "datetime": "2016-04-03T13:10:00+00:00",
+            "attendance": "13,656",
+            "venue": "Manuka Oval",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": [
+                "2.1",
+                "8.4",
+                "12.8",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.5",
+                "5.7",
+                "8.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "2016-04-03T15:20:00+00:00",
+            "attendance": "42,977",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.4",
+                "7.8",
+                "11.11",
+                "14.15"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "0.2",
+                "4.5",
+                "7.8",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "2016-04-03T16:40:00+00:00",
+            "attendance": "33,146",
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.2",
+                "4.5",
+                "6.10",
+                "10.11"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "4.4",
+                "10.7",
+                "14.7",
+                "20.11"
+              ],
+              "final_score": "131"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "2016-04-08T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-10T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Bellerive Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-10T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-10T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "2016-04-15T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "York Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-17T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Manuka Oval",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-17T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-17T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "2016-04-22T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-24T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-24T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-24T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-25T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "2016-04-29T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-04-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-01T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-01T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-01T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "2016-05-06T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-08T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-08T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "2016-05-13T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "York Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-15T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-15T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-15T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "2016-05-20T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-22T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-22T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-22T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "2016-05-27T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-28T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-28T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Traeger Park",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-28T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-28T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-28T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-29T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-29T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-05-29T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "2016-06-03T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Bellerive Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-04T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-04T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-04T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-04T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-04T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-05T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-05T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-05T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "2016-06-10T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-11T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-11T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-11T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-11T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-12T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-12T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-12T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-13T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "2016-06-17T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-18T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-18T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-18T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-19T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-19T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "2016-06-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-24T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-25T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-25T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-25T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-06-26T00:00:00+00:00",
+            "attendance": null,
+            "venue": "York Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "2016-06-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-01T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-02T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-02T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-02T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-03T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "2016-07-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-08T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-09T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Marrara Oval",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-10T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-10T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-10T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "2016-07-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-15T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Cazaly",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-16T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-17T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-17T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-17T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "2016-07-22T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-23T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-24T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-24T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-24T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+          {
+            "datetime": "2016-07-29T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Manuka Oval",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "York Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-30T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-31T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-31T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-07-31T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+          {
+            "datetime": "2016-08-05T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-06T00:00:00+00:00",
+            "attendance": null,
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-06T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-06T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-06T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-06T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-07T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+          {
+            "datetime": "2016-08-12T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-13T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-13T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-13T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-13T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-13T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-14T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+          {
+            "datetime": "2016-08-19T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-20T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Bellerive Oval",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-20T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-20T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Sydney Showground",
+            "home_team": {
+              "name": "Greater Western Sydney",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Fremantle",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-20T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Gold Coast",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-20T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Adelaide Oval",
+            "home_team": {
+              "name": "Port Adelaide",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Lions",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": null,
+              "final_score": null
+            }
+          },
+          {
+            "datetime": "2016-08-21T00:00:00+00:00",
+            "attendance": null,
+            "venue": "Docklands",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": null,
+              "final_score": null
+            },
+            "away_team": {
+              "name": "Western Bulldogs",
+              "scoreline": null,
+              "final_score": null
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}

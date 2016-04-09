@@ -1,0 +1,3461 @@
+{
+  "match_data": {
+    "year": 1972,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1972-04-01T14:10:00+00:00",
+            "attendance": "33,601",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.4",
+                "5.9",
+                "7.11",
+                "11.15"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.4",
+                "5.6",
+                "7.8",
+                "10.10"
+              ],
+              "final_score": "70"
+            }
+          },
+          {
+            "datetime": "1972-04-01T14:10:00+00:00",
+            "attendance": "21,513",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.3",
+                "9.4",
+                "10.10",
+                "15.14"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.3",
+                "4.7",
+                "5.11",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1972-04-01T14:10:00+00:00",
+            "attendance": "21,373",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "11.6",
+                "13.10",
+                "20.14"
+              ],
+              "final_score": "134"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.5",
+                "6.6",
+                "10.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1972-04-03T14:10:00+00:00",
+            "attendance": "72,659",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.5",
+                "10.7",
+                "12.8",
+                "16.9"
+              ],
+              "final_score": "105"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.3",
+                "6.7",
+                "6.16",
+                "14.17"
+              ],
+              "final_score": "101"
+            }
+          },
+          {
+            "datetime": "1972-04-03T14:10:00+00:00",
+            "attendance": "27,935",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.3",
+                "6.7",
+                "7.9",
+                "9.13"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "7.7",
+                "7.12",
+                "14.17",
+                "18.20"
+              ],
+              "final_score": "128"
+            }
+          },
+          {
+            "datetime": "1972-04-03T14:10:00+00:00",
+            "attendance": "18,643",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.5",
+                "6.8",
+                "10.9",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.0",
+                "7.1",
+                "8.4",
+                "9.7"
+              ],
+              "final_score": "61"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1972-04-08T14:10:00+00:00",
+            "attendance": "37,070",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.5",
+                "5.7",
+                "7.12",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.3",
+                "9.4",
+                "10.5",
+                "11.9"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1972-04-08T14:10:00+00:00",
+            "attendance": "22,611",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.0",
+                "9.2",
+                "12.4",
+                "16.11"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.5",
+                "4.8",
+                "6.13",
+                "7.18"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1972-04-08T14:10:00+00:00",
+            "attendance": "19,998",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.5",
+                "8.6",
+                "10.11",
+                "12.16"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.1",
+                "7.5",
+                "8.6",
+                "12.8"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1972-04-08T14:10:00+00:00",
+            "attendance": "21,452",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "5.8",
+                "10.15",
+                "11.18"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.2",
+                "5.7",
+                "9.11",
+                "15.15"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1972-04-08T14:10:00+00:00",
+            "attendance": "18,498",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.1",
+                "5.3",
+                "8.3",
+                "10.3"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.3",
+                "8.7",
+                "12.10",
+                "22.17"
+              ],
+              "final_score": "149"
+            }
+          },
+          {
+            "datetime": "1972-04-08T14:10:00+00:00",
+            "attendance": "10,200",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "6.4",
+                "7.4",
+                "11.7",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.3",
+                "13.12",
+                "14.15",
+                "19.24"
+              ],
+              "final_score": "138"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1972-04-15T14:10:00+00:00",
+            "attendance": "20,491",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.4",
+                "6.8",
+                "10.8",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.2",
+                "9.6",
+                "15.13",
+                "18.18"
+              ],
+              "final_score": "126"
+            }
+          },
+          {
+            "datetime": "1972-04-15T14:10:00+00:00",
+            "attendance": "25,172",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.6",
+                "7.7",
+                "9.8",
+                "17.11"
+              ],
+              "final_score": "113"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.6",
+                "5.9",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          },
+          {
+            "datetime": "1972-04-15T14:10:00+00:00",
+            "attendance": "55,825",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.3",
+                "6.7",
+                "8.12",
+                "16.15"
+              ],
+              "final_score": "111"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "6.4",
+                "10.9",
+                "16.14",
+                "19.17"
+              ],
+              "final_score": "131"
+            }
+          },
+          {
+            "datetime": "1972-04-15T14:10:00+00:00",
+            "attendance": "10,383",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.3",
+                "8.5",
+                "11.10",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.5",
+                "8.10",
+                "11.12",
+                "16.13"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1972-04-15T14:10:00+00:00",
+            "attendance": "20,402",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.2",
+                "4.2",
+                "15.5",
+                "22.7"
+              ],
+              "final_score": "139"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.0",
+                "9.1",
+                "10.3",
+                "12.9"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1972-04-15T14:10:00+00:00",
+            "attendance": "16,431",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.0",
+                "4.7",
+                "5.8",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "7.5",
+                "9.7",
+                "11.13",
+                "15.17"
+              ],
+              "final_score": "107"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1972-04-22T14:10:00+00:00",
+            "attendance": "28,377",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.5",
+                "7.9",
+                "10.10",
+                "15.14"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.7",
+                "6.10",
+                "12.18",
+                "15.19"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1972-04-22T14:10:00+00:00",
+            "attendance": "40,290",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.1",
+                "6.7",
+                "7.9",
+                "9.13"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.8",
+                "3.8",
+                "6.13",
+                "12.15"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1972-04-22T14:10:00+00:00",
+            "attendance": "18,862",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.5",
+                "8.12",
+                "12.15",
+                "17.27"
+              ],
+              "final_score": "129"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "4.6",
+                "10.10",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1972-04-22T14:10:00+00:00",
+            "attendance": "16,937",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.5",
+                "3.10",
+                "8.12",
+                "11.17"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "3.5",
+                "6.6",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1972-04-22T14:10:00+00:00",
+            "attendance": "12,827",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "5.3",
+                "8.4",
+                "12.9",
+                "15.10"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.2",
+                "7.5",
+                "10.8",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1972-04-22T14:10:00+00:00",
+            "attendance": "18,594",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.5",
+                "6.8",
+                "13.12",
+                "18.19"
+              ],
+              "final_score": "127"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.2",
+                "6.5",
+                "6.6",
+                "8.8"
+              ],
+              "final_score": "56"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1972-04-25T14:10:00+00:00",
+            "attendance": "50,367",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.4",
+                "6.7",
+                "7.7",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.3",
+                "3.4",
+                "7.9",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1972-04-25T14:10:00+00:00",
+            "attendance": "38,154",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "5.3",
+                "7.7",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.6",
+                "9.8",
+                "11.11",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1972-04-29T14:10:00+00:00",
+            "attendance": "17,414",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.1",
+                "5.7",
+                "5.10",
+                "8.14"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.3",
+                "5.5",
+                "16.8",
+                "22.8"
+              ],
+              "final_score": "140"
+            }
+          },
+          {
+            "datetime": "1972-04-29T14:10:00+00:00",
+            "attendance": "16,343",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "4.2",
+                "6.7",
+                "11.9"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "8.5",
+                "14.11",
+                "19.13"
+              ],
+              "final_score": "127"
+            }
+          },
+          {
+            "datetime": "1972-04-29T14:10:00+00:00",
+            "attendance": "15,440",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "9.12",
+                "10.18",
+                "14.20"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.4",
+                "3.6",
+                "6.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1972-04-29T14:10:00+00:00",
+            "attendance": "19,724",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.5",
+                "3.7",
+                "5.15",
+                "5.17"
+              ],
+              "final_score": "47"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.4",
+                "6.7",
+                "7.11",
+                "9.16"
+              ],
+              "final_score": "70"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1972-05-06T14:10:00+00:00",
+            "attendance": "18,365",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "7.4",
+                "12.7",
+                "18.14",
+                "22.15"
+              ],
+              "final_score": "147"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "5.8",
+                "10.12",
+                "14.14"
+              ],
+              "final_score": "98"
+            }
+          },
+          {
+            "datetime": "1972-05-06T14:10:00+00:00",
+            "attendance": "29,885",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.4",
+                "7.8",
+                "11.10",
+                "14.12"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.3",
+                "8.8",
+                "11.10",
+                "15.11"
+              ],
+              "final_score": "101"
+            }
+          },
+          {
+            "datetime": "1972-05-06T14:10:00+00:00",
+            "attendance": "41,357",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.3",
+                "8.6",
+                "8.9",
+                "16.13"
+              ],
+              "final_score": "109"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.2",
+                "7.5",
+                "9.11",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1972-05-06T14:10:00+00:00",
+            "attendance": "18,466",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.2",
+                "7.4",
+                "12.14",
+                "16.16"
+              ],
+              "final_score": "112"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.3",
+                "6.7",
+                "9.8",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          },
+          {
+            "datetime": "1972-05-06T14:10:00+00:00",
+            "attendance": "9,111",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.4",
+                "7.11",
+                "11.14",
+                "14.22"
+              ],
+              "final_score": "106"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "6.3",
+                "6.4",
+                "11.7",
+                "13.13"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1972-05-06T14:10:00+00:00",
+            "attendance": "33,555",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.9",
+                "12.12",
+                "17.20",
+                "24.21"
+              ],
+              "final_score": "165"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.4",
+                "5.8",
+                "7.11",
+                "10.16"
+              ],
+              "final_score": "76"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1972-05-13T14:10:00+00:00",
+            "attendance": "30,114",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.2",
+                "4.6",
+                "7.11",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "2.8",
+                "3.8",
+                "5.8"
+              ],
+              "final_score": "38"
+            }
+          },
+          {
+            "datetime": "1972-05-13T14:10:00+00:00",
+            "attendance": "26,776",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.3",
+                "5.8",
+                "8.12",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.3",
+                "7.4",
+                "8.9",
+                "15.10"
+              ],
+              "final_score": "100"
+            }
+          },
+          {
+            "datetime": "1972-05-13T14:10:00+00:00",
+            "attendance": "27,875",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.3",
+                "10.12",
+                "16.13",
+                "18.15"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.5",
+                "5.9",
+                "7.14",
+                "10.22"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1972-05-13T14:10:00+00:00",
+            "attendance": "16,836",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.8",
+                "8.8",
+                "11.15",
+                "15.18"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.4",
+                "5.10",
+                "8.12",
+                "16.15"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1972-05-13T14:10:00+00:00",
+            "attendance": "13,727",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.5",
+                "11.7",
+                "13.11",
+                "13.14"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.4",
+                "3.9",
+                "7.13",
+                "9.20"
+              ],
+              "final_score": "74"
+            }
+          },
+          {
+            "datetime": "1972-05-13T14:10:00+00:00",
+            "attendance": "17,331",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.3",
+                "9.9",
+                "13.10",
+                "17.19"
+              ],
+              "final_score": "121"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.3",
+                "6.7",
+                "12.10",
+                "13.16"
+              ],
+              "final_score": "94"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1972-05-20T14:10:00+00:00",
+            "attendance": "31,547",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.5",
+                "3.5",
+                "7.9",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "4.8",
+                "8.11",
+                "14.15"
+              ],
+              "final_score": "99"
+            }
+          },
+          {
+            "datetime": "1972-05-20T14:10:00+00:00",
+            "attendance": "25,986",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.1",
+                "4.7",
+                "6.10",
+                "7.14"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.5",
+                "7.6",
+                "9.11",
+                "11.14"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1972-05-20T14:10:00+00:00",
+            "attendance": "14,091",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.4",
+                "3.6",
+                "6.12",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.3",
+                "10.7",
+                "14.8",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1972-05-20T14:10:00+00:00",
+            "attendance": "12,421",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.1",
+                "3.3",
+                "7.5",
+                "9.7"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "5.4",
+                "8.6",
+                "15.9",
+                "18.11"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1972-05-20T14:10:00+00:00",
+            "attendance": "19,023",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "7.3",
+                "11.9",
+                "14.13",
+                "20.14"
+              ],
+              "final_score": "134"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "5.9",
+                "10.15",
+                "14.17"
+              ],
+              "final_score": "101"
+            }
+          },
+          {
+            "datetime": "1972-05-20T14:10:00+00:00",
+            "attendance": "25,661",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.7",
+                "4.12",
+                "10.18",
+                "11.25"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.0",
+                "9.2",
+                "9.3",
+                "13.6"
+              ],
+              "final_score": "84"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1972-05-27T14:10:00+00:00",
+            "attendance": "15,626",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.5",
+                "10.10",
+                "12.10",
+                "16.13"
+              ],
+              "final_score": "109"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.4",
+                "5.9",
+                "5.11",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1972-05-27T14:10:00+00:00",
+            "attendance": "20,771",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "12.5",
+                "21.11",
+                "28.16"
+              ],
+              "final_score": "184"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.3",
+                "8.8",
+                "12.11",
+                "16.13"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1972-05-27T14:10:00+00:00",
+            "attendance": "28,187",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.5",
+                "7.11",
+                "9.14",
+                "15.17"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.5",
+                "8.14",
+                "11.17",
+                "14.21"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1972-05-27T14:10:00+00:00",
+            "attendance": "21,753",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.6",
+                "8.15",
+                "9.18",
+                "12.25"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "8.3",
+                "9.3",
+                "13.7",
+                "16.9"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1972-05-27T14:10:00+00:00",
+            "attendance": "15,891",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.2",
+                "5.4",
+                "9.8",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.2",
+                "2.5",
+                "4.7",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1972-05-27T14:10:00+00:00",
+            "attendance": "23,516",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.1",
+                "1.1",
+                "1.5",
+                "5.6"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.6",
+                "4.9",
+                "8.14",
+                "9.19"
+              ],
+              "final_score": "73"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1972-06-03T14:10:00+00:00",
+            "attendance": "26,585",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "7.11",
+                "11.15",
+                "11.22"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.0",
+                "6.2",
+                "9.6",
+                "13.7"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1972-06-03T14:10:00+00:00",
+            "attendance": "18,085",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.2",
+                "1.3",
+                "4.6",
+                "8.11"
+              ],
+              "final_score": "59"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.2",
+                "6.7",
+                "14.11",
+                "19.14"
+              ],
+              "final_score": "128"
+            }
+          },
+          {
+            "datetime": "1972-06-03T14:10:00+00:00",
+            "attendance": "26,791",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.3",
+                "6.8",
+                "12.11",
+                "14.17"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "5.6",
+                "12.6",
+                "15.9"
+              ],
+              "final_score": "99"
+            }
+          },
+          {
+            "datetime": "1972-06-03T14:10:00+00:00",
+            "attendance": "36,986",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "7.6",
+                "11.9",
+                "15.14"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.4",
+                "5.10",
+                "9.12",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          },
+          {
+            "datetime": "1972-06-03T14:10:00+00:00",
+            "attendance": "15,835",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.0",
+                "7.2",
+                "9.4",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.5",
+                "6.9",
+                "7.12",
+                "11.15"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1972-06-03T14:10:00+00:00",
+            "attendance": "8,063",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "0.2",
+                "4.4",
+                "5.8",
+                "6.11"
+              ],
+              "final_score": "47"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "11.7",
+                "14.9",
+                "15.14",
+                "23.17"
+              ],
+              "final_score": "155"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1972-06-10T14:10:00+00:00",
+            "attendance": "23,948",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "4.5",
+                "4.8",
+                "7.9"
+              ],
+              "final_score": "51"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.3",
+                "4.5",
+                "6.12",
+                "7.15"
+              ],
+              "final_score": "57"
+            }
+          },
+          {
+            "datetime": "1972-06-10T14:10:00+00:00",
+            "attendance": "27,313",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "9.4",
+                "14.8",
+                "17.8"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.5",
+                "3.9",
+                "3.11",
+                "7.14"
+              ],
+              "final_score": "56"
+            }
+          },
+          {
+            "datetime": "1972-06-10T14:10:00+00:00",
+            "attendance": "18,692",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.4",
+                "7.6",
+                "7.10",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.3",
+                "0.9",
+                "1.15",
+                "2.19"
+              ],
+              "final_score": "31"
+            }
+          },
+          {
+            "datetime": "1972-06-12T14:10:00+00:00",
+            "attendance": "44,861",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.4",
+                "5.5",
+                "15.8",
+                "23.10"
+              ],
+              "final_score": "148"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "7.9",
+                "8.12",
+                "13.15"
+              ],
+              "final_score": "93"
+            }
+          },
+          {
+            "datetime": "1972-06-12T14:10:00+00:00",
+            "attendance": "23,103",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "8.8",
+                "10.11",
+                "12.17"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "6.5",
+                "12.6",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1972-06-12T14:10:00+00:00",
+            "attendance": "13,968",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.2",
+                "7.6",
+                "11.8",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.6",
+                "6.10",
+                "11.17",
+                "14.20"
+              ],
+              "final_score": "104"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1972-06-17T14:10:00+00:00",
+            "attendance": "28,288",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.6",
+                "6.13",
+                "11.19",
+                "11.24"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.3",
+                "7.8",
+                "8.12",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1972-06-17T14:10:00+00:00",
+            "attendance": "31,314",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "4.8",
+                "8.10",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "7.0",
+                "8.0",
+                "11.4",
+                "11.9"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1972-06-17T14:10:00+00:00",
+            "attendance": "10,681",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.2",
+                "2.3",
+                "5.5",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.1",
+                "5.7",
+                "8.10",
+                "12.19"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1972-06-24T14:10:00+00:00",
+            "attendance": "29,258",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "4.2",
+                "6.4",
+                "8.7"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.3",
+                "7.10",
+                "12.12",
+                "13.13"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1972-06-24T14:10:00+00:00",
+            "attendance": "23,903",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.1",
+                "8.8",
+                "11.9",
+                "14.15"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.8",
+                "8.11",
+                "12.13",
+                "19.19"
+              ],
+              "final_score": "133"
+            }
+          },
+          {
+            "datetime": "1972-06-24T14:10:00+00:00",
+            "attendance": "14,426",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.1",
+                "7.9",
+                "11.10",
+                "15.14"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.6",
+                "3.8",
+                "5.13",
+                "10.13"
+              ],
+              "final_score": "73"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1972-07-01T14:10:00+00:00",
+            "attendance": "35,106",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.1",
+                "2.5",
+                "7.8",
+                "10.10"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.2",
+                "5.5",
+                "6.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1972-07-01T14:10:00+00:00",
+            "attendance": "12,984",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.1",
+                "6.5",
+                "9.8",
+                "12.12"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "6.3",
+                "6.6",
+                "11.7",
+                "13.9"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1972-07-01T14:10:00+00:00",
+            "attendance": "18,355",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.1",
+                "6.2",
+                "10.4",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "5.6",
+                "5.12",
+                "6.17"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1972-07-01T14:10:00+00:00",
+            "attendance": "14,184",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.1",
+                "6.4",
+                "7.6",
+                "11.8"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "6.3",
+                "8.5",
+                "14.8",
+                "16.15"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1972-07-01T14:10:00+00:00",
+            "attendance": "22,595",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "6.3",
+                "7.6",
+                "9.7",
+                "14.8"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.6",
+                "8.11",
+                "15.17",
+                "25.18"
+              ],
+              "final_score": "168"
+            }
+          },
+          {
+            "datetime": "1972-07-01T14:10:00+00:00",
+            "attendance": "8,206",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.2",
+                "10.7",
+                "15.11",
+                "21.14"
+              ],
+              "final_score": "140"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.4",
+                "4.5",
+                "8.10",
+                "10.16"
+              ],
+              "final_score": "76"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1972-07-08T14:10:00+00:00",
+            "attendance": "46,471",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.5",
+                "9.9",
+                "12.13",
+                "17.17"
+              ],
+              "final_score": "119"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.4",
+                "7.5",
+                "12.7",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1972-07-08T14:10:00+00:00",
+            "attendance": "30,451",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.5",
+                "3.8",
+                "3.12",
+                "4.13"
+              ],
+              "final_score": "37"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.5",
+                "3.8",
+                "4.11",
+                "9.13"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1972-07-08T14:10:00+00:00",
+            "attendance": "23,873",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.1",
+                "6.6",
+                "9.9",
+                "10.10"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.2",
+                "5.4",
+                "5.6",
+                "9.6"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1972-07-08T14:10:00+00:00",
+            "attendance": "12,375",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.3",
+                "13.10",
+                "14.13",
+                "19.19"
+              ],
+              "final_score": "133"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.1",
+                "4.2",
+                "10.7",
+                "12.8"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1972-07-08T14:10:00+00:00",
+            "attendance": "9,302",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.1",
+                "4.6",
+                "5.9",
+                "8.15"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "5.6",
+                "10.11",
+                "12.13",
+                "14.15"
+              ],
+              "final_score": "99"
+            }
+          },
+          {
+            "datetime": "1972-07-08T14:10:00+00:00",
+            "attendance": "10,405",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.1",
+                "3.2",
+                "6.5",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.4",
+                "6.5",
+                "11.7",
+                "14.9"
+              ],
+              "final_score": "93"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1972-07-15T14:10:00+00:00",
+            "attendance": "13,865",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "7.1",
+                "10.2",
+                "17.4",
+                "20.8"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.4",
+                "7.6",
+                "8.10",
+                "8.15"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1972-07-15T14:10:00+00:00",
+            "attendance": "30,887",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.1",
+                "4.2",
+                "6.6",
+                "8.10"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "7.5",
+                "9.10",
+                "10.13"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1972-07-15T14:10:00+00:00",
+            "attendance": "23,251",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.5",
+                "6.8",
+                "11.10",
+                "13.12"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "5.5",
+                "10.6",
+                "17.9"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1972-07-15T14:10:00+00:00",
+            "attendance": "7,007",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "7.4",
+                "11.4",
+                "12.10",
+                "16.14"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.1",
+                "5.5",
+                "7.9",
+                "9.12"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1972-07-15T14:10:00+00:00",
+            "attendance": "18,655",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.3",
+                "12.4",
+                "13.7",
+                "14.7"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.1",
+                "4.2",
+                "7.5",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1972-07-15T14:10:00+00:00",
+            "attendance": "16,844",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "8.6",
+                "9.11",
+                "13.13",
+                "19.14"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "7.4",
+                "12.5",
+                "15.8"
+              ],
+              "final_score": "98"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1972-07-22T14:10:00+00:00",
+            "attendance": "27,720",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "16.4",
+                "17.7",
+                "20.13"
+              ],
+              "final_score": "133"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.4",
+                "7.9",
+                "11.13",
+                "17.15"
+              ],
+              "final_score": "117"
+            }
+          },
+          {
+            "datetime": "1972-07-22T14:10:00+00:00",
+            "attendance": "19,107",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.4",
+                "7.4",
+                "15.5",
+                "17.6"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.3",
+                "5.8",
+                "5.8",
+                "11.14"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1972-07-22T14:10:00+00:00",
+            "attendance": "11,046",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.2",
+                "5.2",
+                "6.8",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.0",
+                "6.5",
+                "8.11",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1972-07-22T14:10:00+00:00",
+            "attendance": "18,400",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.4",
+                "6.5",
+                "9.8",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "7.9",
+                "8.14",
+                "19.16"
+              ],
+              "final_score": "130"
+            }
+          },
+          {
+            "datetime": "1972-07-22T14:10:00+00:00",
+            "attendance": "32,416",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.8",
+                "6.12",
+                "7.15",
+                "11.18"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.1",
+                "8.3",
+                "14.5",
+                "19.9"
+              ],
+              "final_score": "123"
+            }
+          },
+          {
+            "datetime": "1972-07-22T14:10:00+00:00",
+            "attendance": "13,225",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "10.3",
+                "11.6",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.1",
+                "6.2",
+                "9.5",
+                "9.5"
+              ],
+              "final_score": "59"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1972-07-29T14:10:00+00:00",
+            "attendance": "24,797",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "5.7",
+                "7.9",
+                "9.13"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.4",
+                "7.8",
+                "13.11",
+                "17.17"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1972-07-29T14:10:00+00:00",
+            "attendance": "24,132",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.3",
+                "6.6",
+                "7.12",
+                "11.16"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.3",
+                "12.8",
+                "16.8",
+                "19.13"
+              ],
+              "final_score": "127"
+            }
+          },
+          {
+            "datetime": "1972-07-29T14:10:00+00:00",
+            "attendance": "16,318",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.3",
+                "13.6",
+                "16.11",
+                "21.14"
+              ],
+              "final_score": "140"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.2",
+                "7.2",
+                "10.9",
+                "14.11"
+              ],
+              "final_score": "95"
+            }
+          },
+          {
+            "datetime": "1972-07-29T14:10:00+00:00",
+            "attendance": "9,574",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "9.6",
+                "13.9",
+                "15.12"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.7",
+                "8.11",
+                "8.12",
+                "11.15"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1972-07-29T14:10:00+00:00",
+            "attendance": "7,191",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.6",
+                "5.8",
+                "10.9",
+                "12.15"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "7.9",
+                "10.11",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1972-07-29T14:10:00+00:00",
+            "attendance": "44,348",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.5",
+                "10.8",
+                "17.12",
+                "23.15"
+              ],
+              "final_score": "153"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "7.6",
+                "9.11",
+                "11.15"
+              ],
+              "final_score": "81"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1972-08-05T14:10:00+00:00",
+            "attendance": "33,364",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.3",
+                "2.6",
+                "3.10",
+                "8.18"
+              ],
+              "final_score": "66"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.4",
+                "5.7",
+                "9.11",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1972-08-05T14:10:00+00:00",
+            "attendance": "25,007",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.2",
+                "8.4",
+                "13.10",
+                "19.15"
+              ],
+              "final_score": "129"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.2",
+                "6.6",
+                "9.9",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1972-08-05T14:10:00+00:00",
+            "attendance": "29,062",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "8.8",
+                "9.8",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.2",
+                "5.5",
+                "9.13",
+                "12.16"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1972-08-05T14:10:00+00:00",
+            "attendance": "14,699",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.0",
+                "6.10",
+                "6.12",
+                "9.19"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.2",
+                "6.2",
+                "9.8",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1972-08-05T14:10:00+00:00",
+            "attendance": "9,207",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.3",
+                "6.5",
+                "12.8",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.3",
+                "9.5",
+                "13.8",
+                "23.10"
+              ],
+              "final_score": "148"
+            }
+          },
+          {
+            "datetime": "1972-08-05T14:10:00+00:00",
+            "attendance": "11,425",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.2",
+                "3.4",
+                "5.9",
+                "6.14"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.2",
+                "7.14",
+                "11.15",
+                "13.20"
+              ],
+              "final_score": "98"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+          {
+            "datetime": "1972-08-12T14:10:00+00:00",
+            "attendance": "22,109",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.4",
+                "4.8",
+                "5.11",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.6",
+                "4.7",
+                "10.8",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1972-08-12T14:10:00+00:00",
+            "attendance": "21,528",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.6",
+                "4.6",
+                "7.13",
+                "7.13"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.3",
+                "7.6",
+                "10.6",
+                "15.12"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "1972-08-12T14:10:00+00:00",
+            "attendance": "14,454",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.6",
+                "16.10",
+                "18.12",
+                "21.14"
+              ],
+              "final_score": "140"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.4",
+                "3.5",
+                "7.6",
+                "14.11"
+              ],
+              "final_score": "95"
+            }
+          },
+          {
+            "datetime": "1972-08-12T14:10:00+00:00",
+            "attendance": "7,451",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.3",
+                "6.7",
+                "9.12",
+                "14.14"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.4",
+                "3.8",
+                "4.11",
+                "6.17"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1972-08-12T14:10:00+00:00",
+            "attendance": "12,716",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "2.10",
+                "4.12",
+                "11.19"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.3",
+                "13.4",
+                "19.10",
+                "21.16"
+              ],
+              "final_score": "142"
+            }
+          },
+          {
+            "datetime": "1972-08-12T14:10:00+00:00",
+            "attendance": "18,834",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "7.7",
+                "13.11",
+                "15.12"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.6",
+                "7.6",
+                "14.8",
+                "17.11"
+              ],
+              "final_score": "113"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+          {
+            "datetime": "1972-08-19T14:10:00+00:00",
+            "attendance": "11,271",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.3",
+                "4.6",
+                "7.8",
+                "8.12"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "7.3",
+                "12.4",
+                "17.6",
+                "23.11"
+              ],
+              "final_score": "149"
+            }
+          },
+          {
+            "datetime": "1972-08-19T14:10:00+00:00",
+            "attendance": "23,106",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "5.2",
+                "10.6",
+                "17.10"
+              ],
+              "final_score": "112"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "7.0",
+                "13.3",
+                "15.7",
+                "17.9"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1972-08-19T14:10:00+00:00",
+            "attendance": "36,861",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.5",
+                "8.8",
+                "10.10",
+                "15.16"
+              ],
+              "final_score": "106"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.5",
+                "6.9",
+                "9.14",
+                "12.15"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1972-08-19T14:10:00+00:00",
+            "attendance": "27,651",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.2",
+                "11.5",
+                "14.11",
+                "20.17"
+              ],
+              "final_score": "137"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "6.8",
+                "7.16",
+                "13.22"
+              ],
+              "final_score": "100"
+            }
+          },
+          {
+            "datetime": "1972-08-19T14:10:00+00:00",
+            "attendance": "9,154",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.4",
+                "4.8",
+                "7.10",
+                "9.12"
+              ],
+              "final_score": "66"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.4",
+                "6.6",
+                "8.9",
+                "11.13"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1972-08-19T14:10:00+00:00",
+            "attendance": "18,836",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "6.6",
+                "12.11",
+                "13.12"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "6.4",
+                "8.9",
+                "13.11"
+              ],
+              "final_score": "89"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+          {
+            "datetime": "1972-08-26T14:10:00+00:00",
+            "attendance": "32,048",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "6.2",
+                "13.5",
+                "19.9",
+                "24.12"
+              ],
+              "final_score": "156"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.4",
+                "8.9",
+                "11.14",
+                "11.22"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1972-08-26T14:10:00+00:00",
+            "attendance": "19,934",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.5",
+                "11.10",
+                "16.16",
+                "22.17"
+              ],
+              "final_score": "149"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.0",
+                "6.2",
+                "9.4",
+                "11.6"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1972-08-26T14:10:00+00:00",
+            "attendance": "17,252",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.6",
+                "10.14",
+                "14.17",
+                "14.20"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.2",
+                "7.3",
+                "15.8",
+                "18.11"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1972-08-26T14:10:00+00:00",
+            "attendance": "18,117",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.1",
+                "9.10",
+                "13.14",
+                "17.21"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "10.2",
+                "15.4",
+                "17.12",
+                "18.17"
+              ],
+              "final_score": "125"
+            }
+          },
+          {
+            "datetime": "1972-08-26T14:10:00+00:00",
+            "attendance": "25,786",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.3",
+                "6.7",
+                "9.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "4.6",
+                "7.10",
+                "8.13"
+              ],
+              "final_score": "61"
+            }
+          },
+          {
+            "datetime": "1972-08-26T14:10:00+00:00",
+            "attendance": "11,241",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.5",
+                "8.8",
+                "9.18",
+                "17.22"
+              ],
+              "final_score": "124"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.4",
+                "8.5",
+                "11.6",
+                "14.7"
+              ],
+              "final_score": "91"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+          {
+            "datetime": "1972-09-02T14:10:00+00:00",
+            "attendance": "24,619",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.1",
+                "7.3",
+                "10.3",
+                "13.8"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.5",
+                "7.11",
+                "9.16",
+                "11.17"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1972-09-02T14:10:00+00:00",
+            "attendance": "35,030",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.4",
+                "10.7",
+                "13.11",
+                "17.15"
+              ],
+              "final_score": "117"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.3",
+                "8.4",
+                "15.7",
+                "17.10"
+              ],
+              "final_score": "112"
+            }
+          },
+          {
+            "datetime": "1972-09-02T14:10:00+00:00",
+            "attendance": "21,653",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.7",
+                "11.9",
+                "15.16",
+                "18.19"
+              ],
+              "final_score": "127"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.2",
+                "9.5",
+                "11.7",
+                "14.11"
+              ],
+              "final_score": "95"
+            }
+          },
+          {
+            "datetime": "1972-09-02T14:10:00+00:00",
+            "attendance": "12,267",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.4",
+                "8.9",
+                "13.15",
+                "20.20"
+              ],
+              "final_score": "140"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.2",
+                "9.8",
+                "11.9",
+                "13.11"
+              ],
+              "final_score": "89"
+            }
+          },
+          {
+            "datetime": "1972-09-02T14:10:00+00:00",
+            "attendance": "22,923",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.1",
+                "8.5",
+                "13.5",
+                "15.12"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.1",
+                "12.2",
+                "14.8",
+                "18.13"
+              ],
+              "final_score": "121"
+            }
+          },
+          {
+            "datetime": "1972-09-02T14:10:00+00:00",
+            "attendance": "16,667",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.3",
+                "7.6",
+                "9.9",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.6",
+                "14.11",
+                "16.15",
+                "23.20"
+              ],
+              "final_score": "158"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}

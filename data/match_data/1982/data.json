@@ -1,0 +1,3461 @@
+{
+  "match_data": {
+    "year": 1982,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1982-03-27T14:10:00+00:00",
+            "attendance": "26,669",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.5",
+                "9.8",
+                "13.14",
+                "16.17"
+              ],
+              "final_score": "113"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "4.6",
+                "11.8",
+                "17.11"
+              ],
+              "final_score": "113"
+            }
+          },
+          {
+            "datetime": "1982-03-27T14:10:00+00:00",
+            "attendance": "53,549",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.2",
+                "5.9",
+                "6.10",
+                "7.16"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.6",
+                "7.8",
+                "13.14",
+                "21.20"
+              ],
+              "final_score": "146"
+            }
+          },
+          {
+            "datetime": "1982-03-27T14:10:00+00:00",
+            "attendance": "26,456",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "8.4",
+                "14.6",
+                "20.11",
+                "29.16"
+              ],
+              "final_score": "190"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.5",
+                "4.8",
+                "10.12",
+                "11.15"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1982-03-27T14:10:00+00:00",
+            "attendance": "19,719",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.3",
+                "9.5",
+                "9.10",
+                "12.16"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.5",
+                "9.9",
+                "13.14",
+                "17.17"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1982-03-27T14:10:00+00:00",
+            "attendance": "38,864",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.1",
+                "7.5",
+                "10.9",
+                "18.14"
+              ],
+              "final_score": "122"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.5",
+                "9.9",
+                "13.12",
+                "15.14"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1982-03-28T14:10:00+00:00",
+            "attendance": "15,764",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "3.6",
+                "10.7",
+                "18.9",
+                "20.17"
+              ],
+              "final_score": "137"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.3",
+                "5.9",
+                "11.10",
+                "16.12"
+              ],
+              "final_score": "108"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1982-03-20T14:10:00+00:00",
+            "attendance": "38,686",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "5.6",
+                "9.10",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.1",
+                "10.2",
+                "13.6",
+                "20.10"
+              ],
+              "final_score": "130"
+            }
+          },
+          {
+            "datetime": "1982-04-03T14:10:00+00:00",
+            "attendance": "60,208",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.3",
+                "2.9",
+                "7.12",
+                "8.17"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.7",
+                "6.8",
+                "10.11",
+                "13.13"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1982-04-03T14:10:00+00:00",
+            "attendance": "27,266",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.3",
+                "4.3",
+                "8.8",
+                "14.8"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.2",
+                "5.9",
+                "9.11",
+                "15.14"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1982-04-03T14:10:00+00:00",
+            "attendance": "15,600",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.7",
+                "7.9",
+                "9.16",
+                "13.19"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.3",
+                "2.5",
+                "8.8",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1982-04-03T14:10:00+00:00",
+            "attendance": "25,467",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.5",
+                "8.7",
+                "12.15",
+                "20.26"
+              ],
+              "final_score": "146"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "7.0",
+                "10.5",
+                "14.10",
+                "16.10"
+              ],
+              "final_score": "106"
+            }
+          },
+          {
+            "datetime": "1982-04-03T14:10:00+00:00",
+            "attendance": "14,097",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "7.3",
+                "11.3",
+                "21.10",
+                "24.13"
+              ],
+              "final_score": "157"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "4.4",
+                "8.11",
+                "9.15",
+                "16.21"
+              ],
+              "final_score": "117"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1982-04-10T14:10:00+00:00",
+            "attendance": "34,055",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.5",
+                "9.9",
+                "11.9",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "6.3",
+                "15.6",
+                "20.8"
+              ],
+              "final_score": "128"
+            }
+          },
+          {
+            "datetime": "1982-04-10T14:10:00+00:00",
+            "attendance": "21,888",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.3",
+                "7.8",
+                "12.12",
+                "14.16"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.4",
+                "8.8",
+                "14.9",
+                "25.14"
+              ],
+              "final_score": "164"
+            }
+          },
+          {
+            "datetime": "1982-04-10T14:10:00+00:00",
+            "attendance": "17,811",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.4",
+                "9.9",
+                "13.12",
+                "17.14"
+              ],
+              "final_score": "116"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "6.5",
+                "8.9",
+                "16.14",
+                "20.22"
+              ],
+              "final_score": "142"
+            }
+          },
+          {
+            "datetime": "1982-04-12T14:10:00+00:00",
+            "attendance": "90,564",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.7",
+                "12.14",
+                "15.18",
+                "25.22"
+              ],
+              "final_score": "172"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "6.3",
+                "12.9",
+                "14.13",
+                "16.14"
+              ],
+              "final_score": "110"
+            }
+          },
+          {
+            "datetime": "1982-04-12T14:10:00+00:00",
+            "attendance": "22,209",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.7",
+                "11.12",
+                "22.19",
+                "28.26"
+              ],
+              "final_score": "194"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.2",
+                "2.5",
+                "5.5",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1982-04-12T14:10:00+00:00",
+            "attendance": "24,672",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.1",
+                "10.4",
+                "16.7",
+                "21.12"
+              ],
+              "final_score": "138"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "0.4",
+                "1.7",
+                "3.10",
+                "5.16"
+              ],
+              "final_score": "46"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1982-04-17T14:10:00+00:00",
+            "attendance": "29,654",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.5",
+                "7.10",
+                "17.17",
+                "21.22"
+              ],
+              "final_score": "148"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.2",
+                "7.6",
+                "8.9",
+                "12.15"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1982-04-17T14:10:00+00:00",
+            "attendance": "59,472",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "6.5",
+                "10.11",
+                "14.15",
+                "15.17"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.3",
+                "5.5",
+                "5.11",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1982-04-17T14:10:00+00:00",
+            "attendance": "27,190",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.3",
+                "4.5",
+                "8.15",
+                "12.19"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.10",
+                "7.15",
+                "9.17",
+                "14.24"
+              ],
+              "final_score": "108"
+            }
+          },
+          {
+            "datetime": "1982-04-17T14:10:00+00:00",
+            "attendance": "19,832",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.3",
+                "4.6",
+                "10.10",
+                "19.12"
+              ],
+              "final_score": "126"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "7.5",
+                "12.13",
+                "16.16",
+                "19.19"
+              ],
+              "final_score": "133"
+            }
+          },
+          {
+            "datetime": "1982-04-17T14:10:00+00:00",
+            "attendance": "17,148",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "11.2",
+                "12.5",
+                "16.9"
+              ],
+              "final_score": "105"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.7",
+                "4.10",
+                "7.12",
+                "13.14"
+              ],
+              "final_score": "92"
+            }
+          },
+          {
+            "datetime": "1982-04-18T14:10:00+00:00",
+            "attendance": "13,617",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "3.3",
+                "12.11",
+                "15.17",
+                "24.18"
+              ],
+              "final_score": "162"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.9",
+                "5.9",
+                "9.14",
+                "14.22"
+              ],
+              "final_score": "106"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1982-04-24T14:10:00+00:00",
+            "attendance": "26,950",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "7.7",
+                "7.11",
+                "9.12"
+              ],
+              "final_score": "66"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.4",
+                "4.8",
+                "6.15",
+                "9.22"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1982-04-24T14:10:00+00:00",
+            "attendance": "23,405",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.5",
+                "7.14",
+                "13.16",
+                "19.22"
+              ],
+              "final_score": "136"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.2",
+                "7.5",
+                "14.11",
+                "18.11"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1982-04-24T14:10:00+00:00",
+            "attendance": "18,268",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "5.10",
+                "9.10",
+                "15.14",
+                "18.19"
+              ],
+              "final_score": "127"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.1",
+                "9.3",
+                "12.6",
+                "15.12"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "1982-04-24T14:10:00+00:00",
+            "attendance": "18,526",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.8",
+                "4.11",
+                "10.15",
+                "15.20"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.4",
+                "11.6",
+                "14.9",
+                "20.9"
+              ],
+              "final_score": "129"
+            }
+          },
+          {
+            "datetime": "1982-04-24T14:10:00+00:00",
+            "attendance": "20,770",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "3.6",
+                "7.12",
+                "12.12"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.7",
+                "5.13",
+                "7.15",
+                "11.16"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1982-04-24T14:10:00+00:00",
+            "attendance": "20,210",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "7.9",
+                "7.15",
+                "13.22"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.7",
+                "5.11",
+                "7.21",
+                "10.22"
+              ],
+              "final_score": "82"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1982-05-01T14:10:00+00:00",
+            "attendance": "26,185",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.2",
+                "7.4",
+                "8.6",
+                "11.14"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "7.2",
+                "11.6",
+                "13.12",
+                "16.22"
+              ],
+              "final_score": "118"
+            }
+          },
+          {
+            "datetime": "1982-05-01T14:10:00+00:00",
+            "attendance": "27,874",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.3",
+                "8.5",
+                "11.6",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.2",
+                "5.4",
+                "8.11",
+                "12.19"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1982-05-01T14:10:00+00:00",
+            "attendance": "18,791",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.4",
+                "5.10",
+                "11.13",
+                "17.20"
+              ],
+              "final_score": "122"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.6",
+                "0.11",
+                "3.16",
+                "7.22"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1982-05-01T14:10:00+00:00",
+            "attendance": "34,921",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.3",
+                "9.6",
+                "9.9",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.6",
+                "8.12",
+                "15.15",
+                "19.21"
+              ],
+              "final_score": "135"
+            }
+          },
+          {
+            "datetime": "1982-05-01T14:10:00+00:00",
+            "attendance": "31,348",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.4",
+                "11.7",
+                "15.7",
+                "18.8"
+              ],
+              "final_score": "116"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.6",
+                "7.10",
+                "12.13",
+                "15.16"
+              ],
+              "final_score": "106"
+            }
+          },
+          {
+            "datetime": "1982-05-02T14:10:00+00:00",
+            "attendance": "15,461",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "3.7",
+                "5.11",
+                "11.17",
+                "15.21"
+              ],
+              "final_score": "111"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.2",
+                "10.4",
+                "12.9",
+                "18.9"
+              ],
+              "final_score": "117"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1982-05-08T14:10:00+00:00",
+            "attendance": "28,742",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.9",
+                "4.14",
+                "8.17",
+                "15.20"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "3.3",
+                "7.6",
+                "7.7"
+              ],
+              "final_score": "49"
+            }
+          },
+          {
+            "datetime": "1982-05-08T14:10:00+00:00",
+            "attendance": "27,001",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.3",
+                "10.9",
+                "13.14",
+                "17.20"
+              ],
+              "final_score": "122"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.3",
+                "3.6",
+                "5.11",
+                "9.13"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1982-05-08T14:10:00+00:00",
+            "attendance": "14,675",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.4",
+                "8.10",
+                "13.14",
+                "19.15"
+              ],
+              "final_score": "129"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.3",
+                "10.7",
+                "13.7",
+                "17.15"
+              ],
+              "final_score": "117"
+            }
+          },
+          {
+            "datetime": "1982-05-08T14:10:00+00:00",
+            "attendance": "11,487",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.3",
+                "9.8",
+                "10.17",
+                "15.20"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.4",
+                "11.6",
+                "16.8",
+                "20.11"
+              ],
+              "final_score": "131"
+            }
+          },
+          {
+            "datetime": "1982-05-08T14:10:00+00:00",
+            "attendance": "25,764",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.0",
+                "7.4",
+                "16.6",
+                "22.11"
+              ],
+              "final_score": "143"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "7.5",
+                "17.8",
+                "25.10",
+                "28.12"
+              ],
+              "final_score": "180"
+            }
+          },
+          {
+            "datetime": "1982-05-08T14:10:00+00:00",
+            "attendance": "33,322",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.2",
+                "10.6",
+                "13.8",
+                "17.12"
+              ],
+              "final_score": "114"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.4",
+                "10.7",
+                "14.11",
+                "21.14"
+              ],
+              "final_score": "140"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1982-05-15T14:10:00+00:00",
+            "attendance": "17,903",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.7",
+                "7.8",
+                "9.10",
+                "11.11"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.2",
+                "6.4",
+                "8.11",
+                "14.22"
+              ],
+              "final_score": "106"
+            }
+          },
+          {
+            "datetime": "1982-05-15T14:10:00+00:00",
+            "attendance": "26,875",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.4",
+                "6.10",
+                "10.12",
+                "15.15"
+              ],
+              "final_score": "105"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.3",
+                "9.5",
+                "11.11",
+                "16.15"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1982-05-15T14:10:00+00:00",
+            "attendance": "25,856",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.3",
+                "7.11",
+                "9.16",
+                "13.21"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "7.4",
+                "10.7",
+                "20.12",
+                "25.14"
+              ],
+              "final_score": "164"
+            }
+          },
+          {
+            "datetime": "1982-05-15T14:10:00+00:00",
+            "attendance": "28,403",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.2",
+                "5.5",
+                "6.11",
+                "12.15"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.8",
+                "5.12",
+                "10.17",
+                "11.23"
+              ],
+              "final_score": "89"
+            }
+          },
+          {
+            "datetime": "1982-05-15T14:10:00+00:00",
+            "attendance": "16,528",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "8.1",
+                "12.6",
+                "15.12",
+                "23.18"
+              ],
+              "final_score": "156"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "2.9",
+                "2.12",
+                "6.16"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1982-05-16T14:10:00+00:00",
+            "attendance": "20,905",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.7",
+                "11.15",
+                "14.20",
+                "15.25"
+              ],
+              "final_score": "115"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.4",
+                "4.9",
+                "5.15",
+                "13.19"
+              ],
+              "final_score": "97"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1982-05-22T14:10:00+00:00",
+            "attendance": "23,954",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "12.5",
+                "17.10",
+                "20.15",
+                "27.23"
+              ],
+              "final_score": "185"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.1",
+                "5.4",
+                "12.9",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1982-05-22T14:10:00+00:00",
+            "attendance": "21,831",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.6",
+                "6.9",
+                "11.12",
+                "13.14"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "6.7",
+                "11.8",
+                "17.12"
+              ],
+              "final_score": "114"
+            }
+          },
+          {
+            "datetime": "1982-05-22T14:10:00+00:00",
+            "attendance": "22,437",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.6",
+                "8.9",
+                "12.16",
+                "19.19"
+              ],
+              "final_score": "133"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.1",
+                "6.8",
+                "8.11",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1982-05-22T14:10:00+00:00",
+            "attendance": "15,140",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.5",
+                "9.9",
+                "12.15",
+                "16.19"
+              ],
+              "final_score": "115"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.5",
+                "11.6",
+                "17.10",
+                "25.12"
+              ],
+              "final_score": "162"
+            }
+          },
+          {
+            "datetime": "1982-05-22T14:10:00+00:00",
+            "attendance": "22,493",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.6",
+                "7.7",
+                "12.11",
+                "21.13"
+              ],
+              "final_score": "139"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "3.5",
+                "7.9",
+                "14.14"
+              ],
+              "final_score": "98"
+            }
+          },
+          {
+            "datetime": "1982-05-22T14:10:00+00:00",
+            "attendance": "25,237",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "6.3",
+                "8.7",
+                "13.15",
+                "15.19"
+              ],
+              "final_score": "109"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.4",
+                "5.7",
+                "7.7",
+                "9.9"
+              ],
+              "final_score": "63"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1982-05-29T14:10:00+00:00",
+            "attendance": "35,372",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.6",
+                "7.12",
+                "10.15",
+                "18.16"
+              ],
+              "final_score": "124"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "8.4",
+                "13.7",
+                "16.11"
+              ],
+              "final_score": "107"
+            }
+          },
+          {
+            "datetime": "1982-05-29T14:10:00+00:00",
+            "attendance": "52,169",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.5",
+                "9.11",
+                "13.15",
+                "16.24"
+              ],
+              "final_score": "120"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.4",
+                "7.6",
+                "11.8",
+                "17.11"
+              ],
+              "final_score": "113"
+            }
+          },
+          {
+            "datetime": "1982-05-29T14:10:00+00:00",
+            "attendance": "36,736",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.3",
+                "7.7",
+                "15.10",
+                "22.17"
+              ],
+              "final_score": "149"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.3",
+                "9.8",
+                "14.10",
+                "18.11"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1982-05-29T14:10:00+00:00",
+            "attendance": "16,256",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "9.5",
+                "14.7",
+                "19.10",
+                "25.11"
+              ],
+              "final_score": "161"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.4",
+                "12.10",
+                "15.13",
+                "19.18"
+              ],
+              "final_score": "132"
+            }
+          },
+          {
+            "datetime": "1982-05-29T14:10:00+00:00",
+            "attendance": "15,686",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.3",
+                "5.5",
+                "9.8",
+                "15.10"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.4",
+                "11.10",
+                "19.14",
+                "23.20"
+              ],
+              "final_score": "158"
+            }
+          },
+          {
+            "datetime": "1982-05-30T14:10:00+00:00",
+            "attendance": "15,420",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.5",
+                "4.7",
+                "11.12",
+                "15.13"
+              ],
+              "final_score": "103"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "13.10",
+                "18.12",
+                "24.13"
+              ],
+              "final_score": "157"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1982-06-05T14:10:00+00:00",
+            "attendance": "23,448",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "6.5",
+                "8.11",
+                "11.16",
+                "13.18"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.3",
+                "6.8",
+                "9.11",
+                "15.15"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1982-06-05T14:10:00+00:00",
+            "attendance": "25,039",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.3",
+                "12.7",
+                "22.12",
+                "26.16"
+              ],
+              "final_score": "172"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.2",
+                "11.5",
+                "13.6",
+                "21.10"
+              ],
+              "final_score": "136"
+            }
+          },
+          {
+            "datetime": "1982-06-05T14:10:00+00:00",
+            "attendance": "29,884",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.3",
+                "3.5",
+                "6.10",
+                "10.11"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.2",
+                "7.3",
+                "11.4",
+                "17.9"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1982-06-05T14:10:00+00:00",
+            "attendance": "13,908",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.2",
+                "8.5",
+                "12.7",
+                "16.12"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "7.7",
+                "12.10",
+                "16.15",
+                "23.22"
+              ],
+              "final_score": "160"
+            }
+          },
+          {
+            "datetime": "1982-06-05T14:10:00+00:00",
+            "attendance": "14,087",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.5",
+                "11.10",
+                "19.17",
+                "26.22"
+              ],
+              "final_score": "178"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.6",
+                "7.11",
+                "12.12",
+                "14.15"
+              ],
+              "final_score": "99"
+            }
+          },
+          {
+            "datetime": "1982-06-05T14:10:00+00:00",
+            "attendance": "28,216",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.4",
+                "11.7",
+                "15.10",
+                "20.14"
+              ],
+              "final_score": "134"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.8",
+                "9.14",
+                "14.16",
+                "18.25"
+              ],
+              "final_score": "133"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1982-06-12T14:10:00+00:00",
+            "attendance": "43,474",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.7",
+                "10.8",
+                "17.11",
+                "23.18"
+              ],
+              "final_score": "156"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.7",
+                "10.8",
+                "11.11",
+                "17.16"
+              ],
+              "final_score": "118"
+            }
+          },
+          {
+            "datetime": "1982-06-12T14:10:00+00:00",
+            "attendance": "19,385",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.2",
+                "8.7",
+                "13.10",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.5",
+                "8.12",
+                "11.20",
+                "19.24"
+              ],
+              "final_score": "138"
+            }
+          },
+          {
+            "datetime": "1982-06-13T14:10:00+00:00",
+            "attendance": "14,523",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.5",
+                "8.6",
+                "11.11",
+                "15.15"
+              ],
+              "final_score": "105"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.1",
+                "7.6",
+                "13.10",
+                "16.15"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1982-06-14T14:10:00+00:00",
+            "attendance": "33,792",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.2",
+                "9.4",
+                "15.9",
+                "19.12"
+              ],
+              "final_score": "126"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.4",
+                "4.11",
+                "5.14",
+                "8.18"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1982-06-14T14:10:00+00:00",
+            "attendance": "26,733",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "9.5",
+                "12.11",
+                "19.14",
+                "24.19"
+              ],
+              "final_score": "163"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.4",
+                "5.7",
+                "9.10",
+                "14.13"
+              ],
+              "final_score": "97"
+            }
+          },
+          {
+            "datetime": "1982-06-14T14:10:00+00:00",
+            "attendance": "38,086",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.4",
+                "2.6",
+                "6.8",
+                "6.17"
+              ],
+              "final_score": "53"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "6.6",
+                "15.9",
+                "17.10"
+              ],
+              "final_score": "112"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1982-06-19T14:10:00+00:00",
+            "attendance": "30,346",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.4",
+                "3.11",
+                "7.18",
+                "12.26"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "3.7",
+                "7.12",
+                "9.17"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1982-06-19T14:10:00+00:00",
+            "attendance": "64,319",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.0",
+                "4.3",
+                "5.4",
+                "10.5"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.4",
+                "3.4",
+                "8.6",
+                "12.10"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1982-06-19T14:10:00+00:00",
+            "attendance": "14,077",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.1",
+                "5.2",
+                "13.7",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.1",
+                "7.8",
+                "10.11",
+                "11.21"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1982-06-19T14:10:00+00:00",
+            "attendance": "10,530",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.4",
+                "6.8",
+                "8.8",
+                "16.11"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.8",
+                "7.8",
+                "12.17",
+                "12.20"
+              ],
+              "final_score": "92"
+            }
+          },
+          {
+            "datetime": "1982-06-19T14:10:00+00:00",
+            "attendance": "23,365",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "7.3",
+                "11.5",
+                "18.6",
+                "21.8"
+              ],
+              "final_score": "134"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "4.5",
+                "5.6",
+                "10.10"
+              ],
+              "final_score": "70"
+            }
+          },
+          {
+            "datetime": "1982-06-20T14:10:00+00:00",
+            "attendance": "10,034",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.5",
+                "13.11",
+                "22.15",
+                "30.19"
+              ],
+              "final_score": "199"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.4",
+                "10.8",
+                "12.12",
+                "15.13"
+              ],
+              "final_score": "103"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1982-06-26T14:10:00+00:00",
+            "attendance": "23,354",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "6.6",
+                "12.10",
+                "17.14"
+              ],
+              "final_score": "116"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.1",
+                "7.3",
+                "11.7",
+                "12.10"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1982-06-26T14:10:00+00:00",
+            "attendance": "23,528",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.1",
+                "4.3",
+                "8.10",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.6",
+                "7.12",
+                "9.13",
+                "13.16"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1982-06-26T14:10:00+00:00",
+            "attendance": "47,656",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.2",
+                "7.5",
+                "11.10",
+                "14.13"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.3",
+                "10.7",
+                "12.9",
+                "15.15"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1982-06-26T14:10:00+00:00",
+            "attendance": "12,300",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "7.5",
+                "10.8",
+                "14.12",
+                "16.16"
+              ],
+              "final_score": "112"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "4.0",
+                "9.2",
+                "14.7",
+                "20.13"
+              ],
+              "final_score": "133"
+            }
+          },
+          {
+            "datetime": "1982-06-26T14:10:00+00:00",
+            "attendance": "18,947",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "5.2",
+                "5.2",
+                "11.4",
+                "14.8"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.6",
+                "8.12",
+                "10.13",
+                "13.16"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1982-06-26T14:10:00+00:00",
+            "attendance": "15,107",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "8.2",
+                "10.5",
+                "17.8"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.2",
+                "5.3",
+                "9.3",
+                "10.3"
+              ],
+              "final_score": "63"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1982-07-03T14:10:00+00:00",
+            "attendance": "21,971",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.3",
+                "9.11",
+                "14.17",
+                "18.20"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.5",
+                "9.11",
+                "12.13",
+                "16.15"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1982-07-03T14:10:00+00:00",
+            "attendance": "32,812",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.3",
+                "7.4",
+                "10.7",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.3",
+                "4.9",
+                "11.10",
+                "16.13"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1982-07-03T14:10:00+00:00",
+            "attendance": "20,059",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "6.3",
+                "11.4",
+                "16.9",
+                "21.13"
+              ],
+              "final_score": "139"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.2",
+                "2.8",
+                "2.11",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1982-07-03T14:10:00+00:00",
+            "attendance": "15,958",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.5",
+                "10.6",
+                "12.10",
+                "20.11"
+              ],
+              "final_score": "131"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "6.5",
+                "12.7",
+                "14.10",
+                "18.12"
+              ],
+              "final_score": "120"
+            }
+          },
+          {
+            "datetime": "1982-07-03T14:10:00+00:00",
+            "attendance": "48,338",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.6",
+                "9.9",
+                "13.10",
+                "17.14"
+              ],
+              "final_score": "116"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.5",
+                "9.7",
+                "18.11",
+                "22.14"
+              ],
+              "final_score": "146"
+            }
+          },
+          {
+            "datetime": "1982-07-04T14:10:00+00:00",
+            "attendance": "12,221",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "4.3",
+                "6.9",
+                "10.14",
+                "18.18"
+              ],
+              "final_score": "126"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.4",
+                "7.6",
+                "9.13",
+                "12.15"
+              ],
+              "final_score": "87"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1982-07-10T14:10:00+00:00",
+            "attendance": "27,829",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "9.1",
+                "12.5",
+                "16.10",
+                "21.13"
+              ],
+              "final_score": "139"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.1",
+                "4.5",
+                "7.8",
+                "9.9"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1982-07-10T14:10:00+00:00",
+            "attendance": "14,004",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.1",
+                "9.2",
+                "15.6",
+                "25.7"
+              ],
+              "final_score": "157"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.3",
+                "8.6",
+                "13.11",
+                "17.13"
+              ],
+              "final_score": "115"
+            }
+          },
+          {
+            "datetime": "1982-07-10T14:10:00+00:00",
+            "attendance": "18,819",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "13.3",
+                "20.7",
+                "27.11",
+                "32.14"
+              ],
+              "final_score": "206"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.4",
+                "6.8",
+                "11.14",
+                "15.22"
+              ],
+              "final_score": "112"
+            }
+          },
+          {
+            "datetime": "1982-07-17T14:10:00+00:00",
+            "attendance": "26,105",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.6",
+                "7.11",
+                "9.16",
+                "10.24"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.2",
+                "7.5",
+                "8.10",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1982-07-17T14:10:00+00:00",
+            "attendance": "22,359",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.2",
+                "9.6",
+                "9.9",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "6.2",
+                "10.6",
+                "14.8",
+                "17.13"
+              ],
+              "final_score": "115"
+            }
+          },
+          {
+            "datetime": "1982-07-17T14:10:00+00:00",
+            "attendance": "36,161",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.8",
+                "6.9",
+                "8.13",
+                "9.18"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.3",
+                "12.5",
+                "15.5",
+                "23.9"
+              ],
+              "final_score": "147"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1982-07-24T14:10:00+00:00",
+            "attendance": "19,892",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "7.8",
+                "13.14",
+                "16.19"
+              ],
+              "final_score": "115"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "5.6",
+                "7.6",
+                "11.9"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1982-07-24T14:10:00+00:00",
+            "attendance": "21,875",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.4",
+                "11.7",
+                "12.12",
+                "15.18"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.2",
+                "6.6",
+                "14.12",
+                "17.17"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1982-07-24T14:10:00+00:00",
+            "attendance": "25,316",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.6",
+                "10.9",
+                "17.11",
+                "18.15"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "7.4",
+                "15.5",
+                "21.5",
+                "27.8"
+              ],
+              "final_score": "170"
+            }
+          },
+          {
+            "datetime": "1982-07-24T14:10:00+00:00",
+            "attendance": "10,887",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.2",
+                "12.5",
+                "18.10",
+                "22.14"
+              ],
+              "final_score": "146"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.6",
+                "6.10",
+                "14.14",
+                "16.17"
+              ],
+              "final_score": "113"
+            }
+          },
+          {
+            "datetime": "1982-07-24T14:10:00+00:00",
+            "attendance": "22,749",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "6.3",
+                "10.8",
+                "18.16",
+                "28.17"
+              ],
+              "final_score": "185"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.6",
+                "7.9",
+                "10.10",
+                "14.18"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "1982-07-25T14:10:00+00:00",
+            "attendance": "11,289",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.6",
+                "7.10",
+                "10.19",
+                "14.27"
+              ],
+              "final_score": "111"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.3",
+                "8.6",
+                "13.7",
+                "15.8"
+              ],
+              "final_score": "98"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1982-07-31T14:10:00+00:00",
+            "attendance": "17,564",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "10.9",
+                "18.11",
+                "24.19",
+                "30.21"
+              ],
+              "final_score": "201"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.0",
+                "4.3",
+                "8.6",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1982-07-31T14:10:00+00:00",
+            "attendance": "18,331",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.4",
+                "6.7",
+                "8.13",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.4",
+                "6.8",
+                "8.8",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          },
+          {
+            "datetime": "1982-07-31T14:10:00+00:00",
+            "attendance": "22,993",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.4",
+                "5.6",
+                "11.8",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.1",
+                "7.4",
+                "8.7",
+                "15.10"
+              ],
+              "final_score": "100"
+            }
+          },
+          {
+            "datetime": "1982-07-31T14:10:00+00:00",
+            "attendance": "18,649",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.5",
+                "5.8",
+                "9.12",
+                "13.15"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "7.5",
+                "12.11",
+                "17.15",
+                "24.19"
+              ],
+              "final_score": "163"
+            }
+          },
+          {
+            "datetime": "1982-07-31T14:10:00+00:00",
+            "attendance": "25,237",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "7.6",
+                "12.11",
+                "20.18",
+                "24.19"
+              ],
+              "final_score": "163"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "3.4",
+                "3.6",
+                "11.13"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1982-07-31T14:10:00+00:00",
+            "attendance": "10,955",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.4",
+                "6.7",
+                "11.10",
+                "14.12"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.4",
+                "12.8",
+                "19.11",
+                "22.18"
+              ],
+              "final_score": "150"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+          {
+            "datetime": "1982-08-07T14:10:00+00:00",
+            "attendance": "19,079",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "7.3",
+                "11.12",
+                "14.15",
+                "20.20"
+              ],
+              "final_score": "140"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.8",
+                "8.13",
+                "13.18",
+                "16.22"
+              ],
+              "final_score": "118"
+            }
+          },
+          {
+            "datetime": "1982-08-07T14:10:00+00:00",
+            "attendance": "28,379",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.7",
+                "9.9",
+                "13.15",
+                "14.17"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.4",
+                "7.10",
+                "12.13",
+                "20.17"
+              ],
+              "final_score": "137"
+            }
+          },
+          {
+            "datetime": "1982-08-07T14:10:00+00:00",
+            "attendance": "9,987",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.6",
+                "10.11",
+                "15.14",
+                "21.16"
+              ],
+              "final_score": "142"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.3",
+                "3.4",
+                "6.9",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1982-08-07T14:10:00+00:00",
+            "attendance": "16,259",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.1",
+                "4.4",
+                "5.7",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.1",
+                "7.7",
+                "10.11",
+                "16.16"
+              ],
+              "final_score": "112"
+            }
+          },
+          {
+            "datetime": "1982-08-07T14:10:00+00:00",
+            "attendance": "11,634",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.5",
+                "7.10",
+                "14.14",
+                "22.18"
+              ],
+              "final_score": "150"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.3",
+                "6.7",
+                "8.13",
+                "11.16"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1982-08-08T14:10:00+00:00",
+            "attendance": "25,601",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "1.6",
+                "2.10",
+                "7.14",
+                "15.16"
+              ],
+              "final_score": "106"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.7",
+                "3.12",
+                "4.14",
+                "9.18"
+              ],
+              "final_score": "72"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+          {
+            "datetime": "1982-08-14T14:10:00+00:00",
+            "attendance": "71,203",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.4",
+                "3.6",
+                "5.9",
+                "9.10"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.4",
+                "7.7",
+                "11.10",
+                "13.14"
+              ],
+              "final_score": "92"
+            }
+          },
+          {
+            "datetime": "1982-08-14T14:10:00+00:00",
+            "attendance": "18,284",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.2",
+                "11.7",
+                "12.8",
+                "17.12"
+              ],
+              "final_score": "114"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "7.5",
+                "9.10",
+                "17.17",
+                "25.18"
+              ],
+              "final_score": "168"
+            }
+          },
+          {
+            "datetime": "1982-08-14T14:10:00+00:00",
+            "attendance": "16,705",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.7",
+                "5.12",
+                "7.14",
+                "10.16"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.2",
+                "6.4",
+                "11.9",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          },
+          {
+            "datetime": "1982-08-14T14:10:00+00:00",
+            "attendance": "14,597",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "2.8",
+                "3.14",
+                "5.18"
+              ],
+              "final_score": "48"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.5",
+                "9.7",
+                "13.10",
+                "15.15"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1982-08-14T14:10:00+00:00",
+            "attendance": "11,133",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "6.4",
+                "11.9",
+                "16.11",
+                "17.16"
+              ],
+              "final_score": "118"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "6.3",
+                "8.7",
+                "11.8",
+                "16.8"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1982-08-14T14:10:00+00:00",
+            "attendance": "15,743",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.4",
+                "8.9",
+                "12.12",
+                "18.18"
+              ],
+              "final_score": "126"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.2",
+                "6.6",
+                "6.9",
+                "8.14"
+              ],
+              "final_score": "62"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+          {
+            "datetime": "1982-08-21T14:10:00+00:00",
+            "attendance": "28,207",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.5",
+                "14.13",
+                "20.17",
+                "26.24"
+              ],
+              "final_score": "180"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.1",
+                "7.3",
+                "9.6",
+                "17.8"
+              ],
+              "final_score": "110"
+            }
+          },
+          {
+            "datetime": "1982-08-21T14:10:00+00:00",
+            "attendance": "25,816",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.4",
+                "10.5",
+                "18.12",
+                "22.16"
+              ],
+              "final_score": "148"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.7",
+                "8.8",
+                "10.12",
+                "16.16"
+              ],
+              "final_score": "112"
+            }
+          },
+          {
+            "datetime": "1982-08-21T14:10:00+00:00",
+            "attendance": "17,596",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.1",
+                "7.5",
+                "10.9",
+                "14.12"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.2",
+                "6.6",
+                "9.10",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1982-08-21T14:10:00+00:00",
+            "attendance": "8,282",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.3",
+                "8.9",
+                "12.14",
+                "19.17"
+              ],
+              "final_score": "131"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "2.3",
+                "5.6",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1982-08-21T14:10:00+00:00",
+            "attendance": "26,049",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.0",
+                "5.4",
+                "6.6",
+                "14.8"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.5",
+                "6.12",
+                "11.19",
+                "14.19"
+              ],
+              "final_score": "103"
+            }
+          },
+          {
+            "datetime": "1982-08-22T14:10:00+00:00",
+            "attendance": "21,083",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "8.3",
+                "12.6",
+                "13.9",
+                "16.14"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.3",
+                "9.7",
+                "16.11",
+                "19.13"
+              ],
+              "final_score": "127"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+          {
+            "datetime": "1982-08-28T14:10:00+00:00",
+            "attendance": "46,130",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.3",
+                "9.4",
+                "12.7",
+                "17.9"
+              ],
+              "final_score": "111"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "6.2",
+                "11.6",
+                "17.9",
+                "23.12"
+              ],
+              "final_score": "150"
+            }
+          },
+          {
+            "datetime": "1982-08-28T14:10:00+00:00",
+            "attendance": "20,950",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.0",
+                "7.6",
+                "13.9",
+                "18.13"
+              ],
+              "final_score": "121"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "7.4",
+                "10.9",
+                "16.13",
+                "18.18"
+              ],
+              "final_score": "126"
+            }
+          },
+          {
+            "datetime": "1982-08-28T14:10:00+00:00",
+            "attendance": "21,575",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.2",
+                "6.4",
+                "7.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.2",
+                "11.4",
+                "24.8",
+                "32.16"
+              ],
+              "final_score": "208"
+            }
+          },
+          {
+            "datetime": "1982-08-28T14:10:00+00:00",
+            "attendance": "13,467",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.4",
+                "8.8",
+                "17.13",
+                "23.23"
+              ],
+              "final_score": "161"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.1",
+                "6.2",
+                "9.4",
+                "11.7"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1982-08-28T14:10:00+00:00",
+            "attendance": "27,521",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.3",
+                "11.8",
+                "18.10",
+                "25.13"
+              ],
+              "final_score": "163"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.6",
+                "12.9",
+                "15.11",
+                "22.16"
+              ],
+              "final_score": "148"
+            }
+          },
+          {
+            "datetime": "1982-08-28T14:10:00+00:00",
+            "attendance": "19,135",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.1",
+                "6.7",
+                "9.10",
+                "11.13"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.0",
+                "4.1",
+                "11.7",
+                "15.8"
+              ],
+              "final_score": "98"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}

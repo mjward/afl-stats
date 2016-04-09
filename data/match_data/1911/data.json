@@ -1,0 +1,2415 @@
+{
+  "match_data": {
+    "year": 1911,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1911-04-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.7",
+                "1.10",
+                "3.14",
+                "5.15"
+              ],
+              "final_score": "45"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.1",
+                "4.6",
+                "4.6",
+                "6.9"
+              ],
+              "final_score": "45"
+            }
+          },
+          {
+            "datetime": "1911-04-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.4",
+                "5.5",
+                "9.8",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.4",
+                "4.6",
+                "8.8",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1911-04-29T15:00:00+00:00",
+            "attendance": "7,856",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.2",
+                "6.7",
+                "8.10",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.1",
+                "8.3",
+                "10.3",
+                "11.4"
+              ],
+              "final_score": "70"
+            }
+          },
+          {
+            "datetime": "1911-04-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.1",
+                "7.4",
+                "8.5",
+                "10.6"
+              ],
+              "final_score": "66"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "3.4",
+                "6.14",
+                "7.15"
+              ],
+              "final_score": "57"
+            }
+          },
+          {
+            "datetime": "1911-04-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "7.3",
+                "11.6",
+                "13.11",
+                "14.18"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "1.0",
+                "2.3",
+                "4.7",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1911-05-06T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.1",
+                "3.3",
+                "7.6",
+                "10.6"
+              ],
+              "final_score": "66"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.1",
+                "6.1",
+                "8.3",
+                "10.6"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1911-05-06T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.1",
+                "3.5",
+                "3.9",
+                "4.10"
+              ],
+              "final_score": "34"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.1",
+                "2.3",
+                "5.6",
+                "7.7"
+              ],
+              "final_score": "49"
+            }
+          },
+          {
+            "datetime": "1911-05-06T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.4",
+                "0.4",
+                "1.10",
+                "3.11"
+              ],
+              "final_score": "29"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.1",
+                "7.11",
+                "8.12",
+                "10.16"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1911-05-06T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.0",
+                "5.5",
+                "5.5",
+                "7.12"
+              ],
+              "final_score": "54"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.5",
+                "4.5",
+                "7.12",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1911-05-06T15:00:00+00:00",
+            "attendance": "7,797",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "3.3",
+                "4.5",
+                "8.6",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "3.4",
+                "5.6",
+                "6.7"
+              ],
+              "final_score": "43"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1911-05-13T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.0",
+                "4.4",
+                "5.5",
+                "6.7"
+              ],
+              "final_score": "43"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.2",
+                "4.4",
+                "6.6",
+                "6.9"
+              ],
+              "final_score": "45"
+            }
+          },
+          {
+            "datetime": "1911-05-13T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.4",
+                "5.9",
+                "5.14",
+                "8.17"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "6.2",
+                "9.3",
+                "10.5",
+                "10.8"
+              ],
+              "final_score": "68"
+            }
+          },
+          {
+            "datetime": "1911-05-13T15:00:00+00:00",
+            "attendance": "11,554",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "0.1",
+                "0.5",
+                "0.8",
+                "0.9"
+              ],
+              "final_score": "9"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.3",
+                "3.6",
+                "5.7",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1911-05-13T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.4",
+                "3.8",
+                "6.14",
+                "6.17"
+              ],
+              "final_score": "53"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "1.2",
+                "5.2",
+                "5.4",
+                "6.5"
+              ],
+              "final_score": "41"
+            }
+          },
+          {
+            "datetime": "1911-05-13T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.2",
+                "0.3",
+                "2.4",
+                "2.5"
+              ],
+              "final_score": "17"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.6",
+                "5.7",
+                "6.10",
+                "10.13"
+              ],
+              "final_score": "73"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1911-05-20T15:00:00+00:00",
+            "attendance": "2,664",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "3.2",
+                "5.4",
+                "6.5",
+                "6.8"
+              ],
+              "final_score": "44"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "3.5",
+                "5.8",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1911-05-20T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.5",
+                "7.10",
+                "14.11",
+                "21.12"
+              ],
+              "final_score": "138"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.2",
+                "4.5",
+                "6.6",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1911-05-20T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.5",
+                "5.11",
+                "6.18",
+                "10.24"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.1",
+                "3.3",
+                "3.6",
+                "4.6"
+              ],
+              "final_score": "30"
+            }
+          },
+          {
+            "datetime": "1911-05-20T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.3",
+                "4.5",
+                "7.10",
+                "8.12"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.1",
+                "4.4",
+                "5.8",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1911-05-20T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "6.7",
+                "10.9",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.4",
+                "4.6",
+                "6.8",
+                "8.11"
+              ],
+              "final_score": "59"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1911-05-27T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.7",
+                "5.9",
+                "8.10",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.1",
+                "1.8",
+                "2.13",
+                "4.15"
+              ],
+              "final_score": "39"
+            }
+          },
+          {
+            "datetime": "1911-05-27T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.3",
+                "2.5",
+                "3.6",
+                "4.10"
+              ],
+              "final_score": "34"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.1",
+                "4.3",
+                "5.7",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1911-05-27T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.5",
+                "9.9",
+                "12.12",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "1.0",
+                "3.0",
+                "4.2",
+                "6.6"
+              ],
+              "final_score": "42"
+            }
+          },
+          {
+            "datetime": "1911-05-27T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "3.5",
+                "6.11",
+                "8.17"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.1",
+                "4.4",
+                "4.6",
+                "4.8"
+              ],
+              "final_score": "32"
+            }
+          },
+          {
+            "datetime": "1911-05-27T15:00:00+00:00",
+            "attendance": "6,570",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.3",
+                "5.5",
+                "7.9",
+                "9.15"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.0",
+                "2.3",
+                "3.5",
+                "4.7"
+              ],
+              "final_score": "31"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1911-06-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.2",
+                "4.9",
+                "4.10",
+                "5.12"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "5.8",
+                "6.15",
+                "6.16"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1911-06-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.2",
+                "3.6",
+                "4.10",
+                "6.13"
+              ],
+              "final_score": "49"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "4.8",
+                "5.13",
+                "5.13"
+              ],
+              "final_score": "43"
+            }
+          },
+          {
+            "datetime": "1911-06-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "5.3",
+                "5.4",
+                "6.6"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.3",
+                "4.3",
+                "8.10",
+                "8.11"
+              ],
+              "final_score": "59"
+            }
+          },
+          {
+            "datetime": "1911-06-03T15:00:00+00:00",
+            "attendance": "12,245",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "0.3",
+                "2.8",
+                "3.9",
+                "5.12"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "2.4",
+                "7.10",
+                "10.16"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1911-06-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.5",
+                "4.8",
+                "7.11",
+                "8.14"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.2",
+                "5.8",
+                "5.10",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1911-06-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.1",
+                "3.3",
+                "7.5",
+                "7.7"
+              ],
+              "final_score": "49"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.3",
+                "4.3",
+                "4.5",
+                "5.8"
+              ],
+              "final_score": "38"
+            }
+          },
+          {
+            "datetime": "1911-06-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.10",
+                "3.12",
+                "7.16",
+                "10.17"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "2.0",
+                "4.3",
+                "5.5",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1911-06-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.2",
+                "5.3",
+                "7.6",
+                "9.10"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.1",
+                "1.3",
+                "1.4",
+                "3.6"
+              ],
+              "final_score": "24"
+            }
+          },
+          {
+            "datetime": "1911-06-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "1.1",
+                "1.4",
+                "3.5"
+              ],
+              "final_score": "23"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.4",
+                "6.6",
+                "6.7",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1911-06-05T15:00:00+00:00",
+            "attendance": "8,130",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "3.6",
+                "5.9",
+                "6.12"
+              ],
+              "final_score": "48"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.3",
+                "5.10",
+                "6.11",
+                "9.15"
+              ],
+              "final_score": "69"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1911-06-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.5",
+                "3.5",
+                "6.8",
+                "7.13"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.0",
+                "2.4",
+                "2.6",
+                "2.10"
+              ],
+              "final_score": "22"
+            }
+          },
+          {
+            "datetime": "1911-06-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.1",
+                "2.4",
+                "6.6",
+                "8.7"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "3.1",
+                "3.2",
+                "3.2"
+              ],
+              "final_score": "20"
+            }
+          },
+          {
+            "datetime": "1911-06-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.2",
+                "4.3",
+                "5.7",
+                "7.10"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.0",
+                "2.6",
+                "3.6",
+                "5.9"
+              ],
+              "final_score": "39"
+            }
+          },
+          {
+            "datetime": "1911-06-10T15:00:00+00:00",
+            "attendance": "2,573",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "2.5",
+                "3.5",
+                "5.6",
+                "5.9"
+              ],
+              "final_score": "39"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.0",
+                "3.6",
+                "5.6",
+                "9.13"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1911-06-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "2.7",
+                "2.8",
+                "3.8"
+              ],
+              "final_score": "26"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.2",
+                "2.4",
+                "5.5",
+                "6.6"
+              ],
+              "final_score": "42"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1911-06-17T15:00:00+00:00",
+            "attendance": "8,745",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.0",
+                "5.0",
+                "8.1",
+                "9.2"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.2",
+                "9.6",
+                "11.8",
+                "13.11"
+              ],
+              "final_score": "89"
+            }
+          },
+          {
+            "datetime": "1911-06-17T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.1",
+                "5.5",
+                "7.10",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.4",
+                "1.5",
+                "3.6",
+                "4.8"
+              ],
+              "final_score": "32"
+            }
+          },
+          {
+            "datetime": "1911-06-17T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.2",
+                "3.3",
+                "5.5",
+                "6.8"
+              ],
+              "final_score": "44"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.3",
+                "4.6",
+                "5.8",
+                "5.11"
+              ],
+              "final_score": "41"
+            }
+          },
+          {
+            "datetime": "1911-06-17T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "3.4",
+                "4.6",
+                "4.12"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "3.3",
+                "4.4",
+                "5.8"
+              ],
+              "final_score": "38"
+            }
+          },
+          {
+            "datetime": "1911-06-17T15:00:00+00:00",
+            "attendance": "8,000",
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.0",
+                "7.2",
+                "9.5",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "2.3",
+                "4.5",
+                "5.6",
+                "9.6"
+              ],
+              "final_score": "60"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1911-06-22T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "3.2",
+                "3.2",
+                "4.6"
+              ],
+              "final_score": "30"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "4.4",
+                "5.8",
+                "7.8"
+              ],
+              "final_score": "50"
+            }
+          },
+          {
+            "datetime": "1911-06-22T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.4",
+                "4.11",
+                "6.11",
+                "8.15"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.1",
+                "2.1",
+                "4.4",
+                "5.5"
+              ],
+              "final_score": "35"
+            }
+          },
+          {
+            "datetime": "1911-06-24T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.4",
+                "2.10",
+                "2.14",
+                "6.16"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.4",
+                "4.5",
+                "5.8",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1911-06-24T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.2",
+                "5.4",
+                "7.7",
+                "8.7"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.2",
+                "4.2",
+                "4.2",
+                "6.4"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1911-06-24T15:00:00+00:00",
+            "attendance": "8,016",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "1.1",
+                "3.3",
+                "4.5",
+                "4.5"
+              ],
+              "final_score": "29"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.4",
+                "4.8",
+                "6.11",
+                "9.13"
+              ],
+              "final_score": "67"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1911-07-01T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "7.4",
+                "8.5",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.4",
+                "5.5",
+                "7.7",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1911-07-01T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.2",
+                "4.2",
+                "7.3",
+                "9.7"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.0",
+                "5.6",
+                "6.10",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1911-07-01T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.3",
+                "4.6",
+                "6.11",
+                "7.15"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.0",
+                "4.1",
+                "5.4",
+                "7.5"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1911-07-01T15:00:00+00:00",
+            "attendance": "4,224",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.0",
+                "7.2",
+                "8.4",
+                "10.7"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.4",
+                "4.6",
+                "8.7",
+                "8.7"
+              ],
+              "final_score": "55"
+            }
+          },
+          {
+            "datetime": "1911-07-01T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.3",
+                "6.7",
+                "9.10",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "3.1",
+                "4.2",
+                "4.5",
+                "6.5"
+              ],
+              "final_score": "41"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1911-07-08T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.1",
+                "3.7",
+                "4.9",
+                "5.13"
+              ],
+              "final_score": "43"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "2.3",
+                "3.7",
+                "6.10"
+              ],
+              "final_score": "46"
+            }
+          },
+          {
+            "datetime": "1911-07-08T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.5",
+                "3.5",
+                "5.5",
+                "6.7"
+              ],
+              "final_score": "43"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.1",
+                "3.2",
+                "7.5",
+                "8.5"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1911-07-08T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.1",
+                "5.8",
+                "6.12",
+                "7.15"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.4",
+                "3.6",
+                "6.9",
+                "6.13"
+              ],
+              "final_score": "49"
+            }
+          },
+          {
+            "datetime": "1911-07-08T15:00:00+00:00",
+            "attendance": "4,864",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "1.1",
+                "1.2",
+                "2.5",
+                "3.8"
+              ],
+              "final_score": "26"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.7",
+                "2.8",
+                "3.9",
+                "6.10"
+              ],
+              "final_score": "46"
+            }
+          },
+          {
+            "datetime": "1911-07-08T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.10",
+                "9.12",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.2",
+                "3.4",
+                "4.7",
+                "6.13"
+              ],
+              "final_score": "49"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1911-07-15T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.3",
+                "7.5",
+                "8.8",
+                "9.12"
+              ],
+              "final_score": "66"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "0.3",
+                "0.7",
+                "1.10",
+                "2.10"
+              ],
+              "final_score": "22"
+            }
+          },
+          {
+            "datetime": "1911-07-15T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.3",
+                "1.5",
+                "2.9",
+                "2.11"
+              ],
+              "final_score": "23"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.1",
+                "3.3",
+                "3.5",
+                "3.11"
+              ],
+              "final_score": "29"
+            }
+          },
+          {
+            "datetime": "1911-07-15T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.5",
+                "2.6",
+                "3.8",
+                "3.8"
+              ],
+              "final_score": "26"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "3.6",
+                "8.6",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1911-07-15T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.2",
+                "5.8",
+                "6.10",
+                "11.14"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "6.6",
+                "6.7",
+                "8.10",
+                "8.12"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1911-07-15T15:00:00+00:00",
+            "attendance": "11,706",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.0",
+                "5.3",
+                "5.6",
+                "7.7"
+              ],
+              "final_score": "49"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "3.5",
+                "7.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1911-07-22T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.1",
+                "6.2",
+                "6.4",
+                "6.5"
+              ],
+              "final_score": "41"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "4.2",
+                "6.6",
+                "11.10"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1911-07-22T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.0",
+                "4.4",
+                "5.5",
+                "5.6"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.2",
+                "1.4",
+                "3.5",
+                "5.7"
+              ],
+              "final_score": "37"
+            }
+          },
+          {
+            "datetime": "1911-07-22T15:00:00+00:00",
+            "attendance": "8,044",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "0.0",
+                "3.2",
+                "3.3",
+                "6.6"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.4",
+                "6.4",
+                "11.6",
+                "12.8"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1911-07-22T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.3",
+                "3.8",
+                "6.11",
+                "10.14"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.1",
+                "2.1",
+                "5.1",
+                "6.3"
+              ],
+              "final_score": "39"
+            }
+          },
+          {
+            "datetime": "1911-07-22T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.1",
+                "2.4",
+                "3.6",
+                "5.9"
+              ],
+              "final_score": "39"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.5",
+                "7.7",
+                "10.7",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1911-07-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "6.13",
+                "11.17",
+                "18.21"
+              ],
+              "final_score": "129"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.0",
+                "1.1",
+                "2.3",
+                "2.3"
+              ],
+              "final_score": "15"
+            }
+          },
+          {
+            "datetime": "1911-07-29T15:00:00+00:00",
+            "attendance": "12,076",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.1",
+                "3.1",
+                "4.1",
+                "4.6"
+              ],
+              "final_score": "30"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.5",
+                "5.10",
+                "5.15",
+                "6.16"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1911-07-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "4.2",
+                "9.6",
+                "9.7"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.1",
+                "1.4",
+                "3.5",
+                "4.11"
+              ],
+              "final_score": "35"
+            }
+          },
+          {
+            "datetime": "1911-07-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.4",
+                "5.8",
+                "8.12",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "3.2",
+                "5.4",
+                "5.6",
+                "7.7"
+              ],
+              "final_score": "49"
+            }
+          },
+          {
+            "datetime": "1911-07-29T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.5",
+                "5.16",
+                "6.19",
+                "8.25"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "2.2",
+                "5.4",
+                "5.7"
+              ],
+              "final_score": "37"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1911-08-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.2",
+                "6.4",
+                "8.4",
+                "11.5"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.3",
+                "4.5",
+                "7.7",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1911-08-19T15:00:00+00:00",
+            "attendance": "7,712",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "0.0",
+                "0.2",
+                "0.3",
+                "0.9"
+              ],
+              "final_score": "9"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.5",
+                "6.10",
+                "11.13",
+                "14.14"
+              ],
+              "final_score": "98"
+            }
+          },
+          {
+            "datetime": "1911-08-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.2",
+                "2.7",
+                "3.7",
+                "5.8"
+              ],
+              "final_score": "38"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "8.4",
+                "12.7",
+                "20.14",
+                "24.19"
+              ],
+              "final_score": "163"
+            }
+          },
+          {
+            "datetime": "1911-08-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.1",
+                "2.3",
+                "5.4",
+                "5.6"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "3.2",
+                "3.3",
+                "4.3"
+              ],
+              "final_score": "27"
+            }
+          },
+          {
+            "datetime": "1911-08-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.1",
+                "5.4",
+                "6.8",
+                "7.9"
+              ],
+              "final_score": "51"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.1",
+                "3.2",
+                "7.4",
+                "9.6"
+              ],
+              "final_score": "60"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1911-08-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.0",
+                "4.2",
+                "8.7",
+                "8.8"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.5",
+                "2.10",
+                "3.12",
+                "4.17"
+              ],
+              "final_score": "41"
+            }
+          },
+          {
+            "datetime": "1911-08-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.4",
+                "1.6",
+                "1.7",
+                "3.7"
+              ],
+              "final_score": "25"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.2",
+                "4.4",
+                "4.7",
+                "6.10"
+              ],
+              "final_score": "46"
+            }
+          },
+          {
+            "datetime": "1911-08-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.3",
+                "2.6",
+                "7.9",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.0",
+                "7.1",
+                "9.2",
+                "10.3"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1911-08-26T15:00:00+00:00",
+            "attendance": "2,127",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.1",
+                "6.7",
+                "6.10",
+                "13.13"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "2.0",
+                "4.3",
+                "4.5",
+                "4.5"
+              ],
+              "final_score": "29"
+            }
+          },
+          {
+            "datetime": "1911-08-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.6",
+                "9.9",
+                "14.16",
+                "17.21"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.0",
+                "4.1",
+                "4.2",
+                "5.6"
+              ],
+              "final_score": "36"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1911-09-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.1",
+                "6.3",
+                "7.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.0",
+                "4.1",
+                "7.5",
+                "8.6"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1911-09-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.1",
+                "3.2",
+                "4.2",
+                "6.8"
+              ],
+              "final_score": "44"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.8",
+                "9.9",
+                "14.9",
+                "15.11"
+              ],
+              "final_score": "101"
+            }
+          },
+          {
+            "datetime": "1911-09-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.3",
+                "5.5",
+                "9.8",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.1",
+                "3.3",
+                "5.8",
+                "8.10"
+              ],
+              "final_score": "58"
+            }
+          },
+          {
+            "datetime": "1911-09-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.3",
+                "2.4",
+                "4.6",
+                "8.9"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.1",
+                "1.6",
+                "2.8",
+                "4.10"
+              ],
+              "final_score": "34"
+            }
+          },
+          {
+            "datetime": "1911-09-02T15:00:00+00:00",
+            "attendance": "1,071",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "1.0",
+                "3.0",
+                "6.3",
+                "7.4"
+              ],
+              "final_score": "46"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.6",
+                "9.10",
+                "10.14",
+                "15.17"
+              ],
+              "final_score": "107"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}

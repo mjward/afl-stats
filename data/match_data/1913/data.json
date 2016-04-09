@@ -1,0 +1,2415 @@
+{
+  "match_data": {
+    "year": 1913,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1913-04-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.5",
+                "4.6",
+                "9.11",
+                "9.13"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.1",
+                "6.9",
+                "8.10",
+                "11.17"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1913-04-26T15:00:00+00:00",
+            "attendance": "9,974",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.3",
+                "2.6",
+                "3.6",
+                "5.7"
+              ],
+              "final_score": "37"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.5",
+                "5.8",
+                "5.12",
+                "8.12"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1913-04-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.6",
+                "4.12",
+                "8.17",
+                "10.19"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "1.2",
+                "3.4",
+                "3.6",
+                "5.7"
+              ],
+              "final_score": "37"
+            }
+          },
+          {
+            "datetime": "1913-04-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.6",
+                "3.8",
+                "6.12",
+                "7.13"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.0",
+                "1.4",
+                "1.4",
+                "5.7"
+              ],
+              "final_score": "37"
+            }
+          },
+          {
+            "datetime": "1913-04-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.3",
+                "4.7",
+                "7.9",
+                "8.15"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.3",
+                "4.3",
+                "6.5",
+                "8.6"
+              ],
+              "final_score": "54"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1913-05-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.3",
+                "4.5",
+                "7.9",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.2",
+                "5.3",
+                "9.5",
+                "9.7"
+              ],
+              "final_score": "61"
+            }
+          },
+          {
+            "datetime": "1913-05-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "5.5",
+                "8.11",
+                "10.17"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.0",
+                "7.2",
+                "8.2",
+                "11.2"
+              ],
+              "final_score": "68"
+            }
+          },
+          {
+            "datetime": "1913-05-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.1",
+                "5.3",
+                "10.6",
+                "11.12"
+              ],
+              "final_score": "78"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.4",
+                "8.6",
+                "10.10",
+                "13.11"
+              ],
+              "final_score": "89"
+            }
+          },
+          {
+            "datetime": "1913-05-03T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.1",
+                "4.2",
+                "7.5",
+                "10.7"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.5",
+                "2.12",
+                "2.13",
+                "3.16"
+              ],
+              "final_score": "34"
+            }
+          },
+          {
+            "datetime": "1913-05-03T15:00:00+00:00",
+            "attendance": "4,846",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "5.4",
+                "7.8",
+                "9.10",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.7",
+                "5.9",
+                "9.12",
+                "14.15"
+              ],
+              "final_score": "99"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1913-05-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.3",
+                "5.8",
+                "10.11",
+                "11.13"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "2.6",
+                "3.10",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1913-05-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.0",
+                "5.1",
+                "5.4",
+                "10.5"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.1",
+                "6.4",
+                "9.10",
+                "10.10"
+              ],
+              "final_score": "70"
+            }
+          },
+          {
+            "datetime": "1913-05-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.4",
+                "3.8",
+                "7.9",
+                "8.14"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "2.4",
+                "5.5",
+                "6.7"
+              ],
+              "final_score": "43"
+            }
+          },
+          {
+            "datetime": "1913-05-10T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.0",
+                "4.4",
+                "6.4",
+                "8.9"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.1",
+                "6.1",
+                "8.2",
+                "9.2"
+              ],
+              "final_score": "56"
+            }
+          },
+          {
+            "datetime": "1913-05-10T15:00:00+00:00",
+            "attendance": "8,428",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "0.2",
+                "1.7",
+                "4.11",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.4",
+                "7.6",
+                "8.12",
+                "10.13"
+              ],
+              "final_score": "73"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1913-05-17T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "4.5",
+                "5.7",
+                "6.8"
+              ],
+              "final_score": "44"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "3.4",
+                "4.6",
+                "5.8"
+              ],
+              "final_score": "38"
+            }
+          },
+          {
+            "datetime": "1913-05-17T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.5",
+                "5.9",
+                "6.12",
+                "7.14"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "4.4",
+                "9.8",
+                "15.13"
+              ],
+              "final_score": "103"
+            }
+          },
+          {
+            "datetime": "1913-05-17T15:00:00+00:00",
+            "attendance": "8,770",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.1",
+                "2.3",
+                "3.6",
+                "4.7"
+              ],
+              "final_score": "31"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "4.4",
+                "5.9",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1913-05-17T15:00:00+00:00",
+            "attendance": "10,000",
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "6.5",
+                "9.6",
+                "13.10",
+                "14.14"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "2.0",
+                "3.2",
+                "3.4",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1913-05-17T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "5.6",
+                "7.11",
+                "9.14"
+              ],
+              "final_score": "68"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.7",
+                "3.7",
+                "7.10",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1913-05-24T15:00:00+00:00",
+            "attendance": "10,197",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "3.0",
+                "4.3",
+                "7.4",
+                "8.8"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.4",
+                "5.7",
+                "7.9",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1913-05-24T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.5",
+                "5.6",
+                "6.11",
+                "9.16"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.2",
+                "4.5",
+                "6.10",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          },
+          {
+            "datetime": "1913-05-24T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "2.4",
+                "3.5",
+                "7.9"
+              ],
+              "final_score": "51"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.1",
+                "2.4",
+                "5.6",
+                "5.6"
+              ],
+              "final_score": "36"
+            }
+          },
+          {
+            "datetime": "1913-05-24T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "3.9",
+                "4.14",
+                "7.15"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.3",
+                "6.6",
+                "7.10",
+                "9.17"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1913-05-24T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.5",
+                "6.8",
+                "7.11",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "0.5",
+                "4.9",
+                "5.12",
+                "7.14"
+              ],
+              "final_score": "56"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1913-05-31T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.5",
+                "2.9",
+                "4.12",
+                "4.13"
+              ],
+              "final_score": "37"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.1",
+                "2.4",
+                "3.6",
+                "3.6"
+              ],
+              "final_score": "24"
+            }
+          },
+          {
+            "datetime": "1913-05-31T15:00:00+00:00",
+            "attendance": "8,144",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "1.1",
+                "2.5",
+                "2.7",
+                "2.8"
+              ],
+              "final_score": "20"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "4.6",
+                "6.7",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1913-05-31T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.0",
+                "2.2",
+                "2.2",
+                "3.5"
+              ],
+              "final_score": "23"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "2.4",
+                "6.9",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1913-05-31T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "3.2",
+                "5.6",
+                "6.7"
+              ],
+              "final_score": "43"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.1",
+                "2.1",
+                "3.1",
+                "5.6"
+              ],
+              "final_score": "36"
+            }
+          },
+          {
+            "datetime": "1913-05-31T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.7",
+                "5.11",
+                "6.16"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "3.3",
+                "4.3",
+                "4.4"
+              ],
+              "final_score": "28"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1913-06-07T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.5",
+                "4.7",
+                "7.10",
+                "8.13"
+              ],
+              "final_score": "61"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.1",
+                "4.5",
+                "7.7",
+                "10.7"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1913-06-07T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.4",
+                "7.7",
+                "11.8",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.3",
+                "3.8",
+                "5.10",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1913-06-07T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.6",
+                "6.10",
+                "9.16",
+                "14.22"
+              ],
+              "final_score": "106"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "3.1",
+                "5.1",
+                "6.4",
+                "6.5"
+              ],
+              "final_score": "41"
+            }
+          },
+          {
+            "datetime": "1913-06-07T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.3",
+                "5.4",
+                "6.5",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.4",
+                "2.7",
+                "7.13",
+                "11.17"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1913-06-07T15:00:00+00:00",
+            "attendance": "5,137",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "3.4",
+                "6.7",
+                "7.10"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.0",
+                "6.9",
+                "10.11",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1913-06-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "4.6",
+                "6.8",
+                "7.12"
+              ],
+              "final_score": "54"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.7",
+                "4.8",
+                "7.13",
+                "9.15"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1913-06-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.0",
+                "3.3",
+                "4.6",
+                "5.7"
+              ],
+              "final_score": "37"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.3",
+                "3.4",
+                "5.11",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1913-06-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.3",
+                "6.6",
+                "8.10",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.6",
+                "2.10",
+                "7.11",
+                "7.13"
+              ],
+              "final_score": "55"
+            }
+          },
+          {
+            "datetime": "1913-06-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.0",
+                "2.6",
+                "5.8",
+                "7.10"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.5",
+                "5.7",
+                "5.9",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1913-06-09T15:00:00+00:00",
+            "attendance": "9,458",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "1.3",
+                "3.4",
+                "7.7",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "6.2",
+                "10.5",
+                "12.7",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1913-06-14T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "5.3",
+                "5.4",
+                "9.10",
+                "14.15"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "4.6",
+                "6.8",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1913-06-14T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.1",
+                "5.5",
+                "5.11",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.1",
+                "4.2",
+                "5.7",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1913-06-14T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.0",
+                "1.7",
+                "5.14",
+                "9.17"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.5",
+                "2.6",
+                "2.8",
+                "3.12"
+              ],
+              "final_score": "30"
+            }
+          },
+          {
+            "datetime": "1913-06-14T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "6.7",
+                "9.11",
+                "11.12"
+              ],
+              "final_score": "78"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.2",
+                "7.6",
+                "9.6",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1913-06-14T15:00:00+00:00",
+            "attendance": "9,892",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "0.2",
+                "1.5",
+                "2.8",
+                "5.10"
+              ],
+              "final_score": "40"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.4",
+                "5.9",
+                "9.9",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1913-06-21T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.6",
+                "11.9",
+                "14.11",
+                "15.15"
+              ],
+              "final_score": "105"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "3.5",
+                "7.11",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1913-06-21T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.4",
+                "6.5",
+                "10.9",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.1",
+                "3.4",
+                "5.6",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1913-06-21T15:00:00+00:00",
+            "attendance": "9,288",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "4.4",
+                "5.4",
+                "5.4",
+                "5.5"
+              ],
+              "final_score": "35"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.3",
+                "4.7",
+                "8.12",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1913-06-21T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.2",
+                "6.4",
+                "8.8",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.3",
+                "5.8",
+                "7.11",
+                "8.15"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1913-06-21T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "4.7",
+                "6.9",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "7.4",
+                "12.11",
+                "13.14"
+              ],
+              "final_score": "92"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1913-06-28T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "5.5",
+                "8.11",
+                "12.16"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.5",
+                "4.6",
+                "4.8",
+                "5.11"
+              ],
+              "final_score": "41"
+            }
+          },
+          {
+            "datetime": "1913-06-28T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.0",
+                "6.2",
+                "7.6",
+                "8.12"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.0",
+                "7.2",
+                "9.3",
+                "11.5"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1913-06-28T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.4",
+                "1.5",
+                "4.7",
+                "8.9"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.2",
+                "6.3",
+                "9.5",
+                "10.7"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1913-06-28T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.3",
+                "6.6",
+                "7.10",
+                "7.11"
+              ],
+              "final_score": "53"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.2",
+                "1.5",
+                "4.7",
+                "5.9"
+              ],
+              "final_score": "39"
+            }
+          },
+          {
+            "datetime": "1913-06-28T15:00:00+00:00",
+            "attendance": "3,940",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "5.6",
+                "6.16",
+                "7.20"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "0.3",
+                "2.5",
+                "5.8",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1913-07-05T15:00:00+00:00",
+            "attendance": "9,836",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "6.6",
+                "9.6",
+                "10.7"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.3",
+                "1.4",
+                "3.8",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1913-07-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.1",
+                "6.3",
+                "8.10",
+                "10.12"
+              ],
+              "final_score": "72"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.5",
+                "3.7",
+                "4.9",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1913-07-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.3",
+                "8.9",
+                "8.9",
+                "11.12"
+              ],
+              "final_score": "78"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.0",
+                "2.2",
+                "5.9",
+                "8.13"
+              ],
+              "final_score": "61"
+            }
+          },
+          {
+            "datetime": "1913-07-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.4",
+                "2.9",
+                "3.12",
+                "3.17"
+              ],
+              "final_score": "35"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.4",
+                "4.7",
+                "5.10",
+                "8.11"
+              ],
+              "final_score": "59"
+            }
+          },
+          {
+            "datetime": "1913-07-05T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.6",
+                "8.10",
+                "13.17",
+                "18.20"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "1.5",
+                "3.8",
+                "4.9",
+                "7.14"
+              ],
+              "final_score": "56"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1913-07-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.5",
+                "2.6",
+                "4.13",
+                "6.18"
+              ],
+              "final_score": "54"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.4",
+                "5.8",
+                "6.11",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1913-07-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.0",
+                "0.3",
+                "0.7",
+                "5.12"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.9",
+                "4.13",
+                "5.19",
+                "7.20"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1913-07-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.4",
+                "4.11",
+                "8.12",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.2",
+                "1.2",
+                "2.6",
+                "3.10"
+              ],
+              "final_score": "28"
+            }
+          },
+          {
+            "datetime": "1913-07-19T15:00:00+00:00",
+            "attendance": "3,441",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "0.1",
+                "3.2",
+                "3.3",
+                "5.6"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.8",
+                "4.10",
+                "10.15",
+                "17.18"
+              ],
+              "final_score": "120"
+            }
+          },
+          {
+            "datetime": "1913-07-19T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.3",
+                "5.5",
+                "6.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "4.3",
+                "5.4",
+                "5.6"
+              ],
+              "final_score": "36"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1913-07-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.5",
+                "5.12",
+                "8.17",
+                "9.22"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "0.2",
+                "1.3",
+                "1.6",
+                "3.8"
+              ],
+              "final_score": "26"
+            }
+          },
+          {
+            "datetime": "1913-07-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "3.7",
+                "5.12",
+                "5.15"
+              ],
+              "final_score": "45"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.4",
+                "3.7",
+                "5.8",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1913-07-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.4",
+                "4.8",
+                "4.10",
+                "4.12"
+              ],
+              "final_score": "36"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.3",
+                "3.8",
+                "5.10",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1913-07-26T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "6.4",
+                "8.7",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.4",
+                "5.8",
+                "5.11",
+                "9.12"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1913-07-26T15:00:00+00:00",
+            "attendance": "9,065",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.0",
+                "3.2",
+                "4.2",
+                "5.5"
+              ],
+              "final_score": "35"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "5.10",
+                "8.17",
+                "9.17"
+              ],
+              "final_score": "71"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1913-08-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.2",
+                "6.5",
+                "7.8",
+                "10.10"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.0",
+                "3.1",
+                "7.2",
+                "11.3"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1913-08-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "5.3",
+                "8.11",
+                "12.15"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "2.4",
+                "6.7",
+                "7.8",
+                "10.10"
+              ],
+              "final_score": "70"
+            }
+          },
+          {
+            "datetime": "1913-08-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.4",
+                "5.6",
+                "7.7",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.0",
+                "1.2",
+                "3.2",
+                "8.5"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1913-08-02T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.4",
+                "3.5",
+                "5.7",
+                "6.10"
+              ],
+              "final_score": "46"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.1",
+                "4.2",
+                "9.5",
+                "11.13"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1913-08-02T15:00:00+00:00",
+            "attendance": "7,502",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "0.0",
+                "1.6",
+                "2.7",
+                "2.7"
+              ],
+              "final_score": "19"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.9",
+                "2.12",
+                "4.15",
+                "5.18"
+              ],
+              "final_score": "48"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1913-08-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "5.3",
+                "7.6",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.2",
+                "3.5",
+                "5.7",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1913-08-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.6",
+                "6.7",
+                "9.9",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.1",
+                "2.5",
+                "4.7",
+                "6.8"
+              ],
+              "final_score": "44"
+            }
+          },
+          {
+            "datetime": "1913-08-09T15:00:00+00:00",
+            "attendance": "5,718",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "University",
+              "scoreline": [
+                "4.6",
+                "4.6",
+                "5.9",
+                "8.12"
+              ],
+              "final_score": "60"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.0",
+                "2.2",
+                "3.5",
+                "9.8"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1913-08-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.6",
+                "7.7",
+                "8.10",
+                "8.11"
+              ],
+              "final_score": "59"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.1",
+                "4.2",
+                "5.6",
+                "7.14"
+              ],
+              "final_score": "56"
+            }
+          },
+          {
+            "datetime": "1913-08-09T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.4",
+                "1.8",
+                "4.17",
+                "4.23"
+              ],
+              "final_score": "47"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.0",
+                "4.1",
+                "4.1",
+                "4.2"
+              ],
+              "final_score": "26"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1913-08-23T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.3",
+                "3.7",
+                "5.9",
+                "6.10"
+              ],
+              "final_score": "46"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.3",
+                "4.5",
+                "6.10",
+                "9.15"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1913-08-23T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.0",
+                "3.3",
+                "6.8",
+                "9.10"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.4",
+                "4.8",
+                "4.11",
+                "4.13"
+              ],
+              "final_score": "37"
+            }
+          },
+          {
+            "datetime": "1913-08-23T15:00:00+00:00",
+            "attendance": null,
+            "venue": "East Melbourne",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.3",
+                "2.5",
+                "5.8",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "4.4",
+                "5.5",
+                "9.8"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1913-08-23T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.2",
+                "6.6",
+                "9.7",
+                "9.10"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "5.3",
+                "8.5",
+                "8.5"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1913-08-23T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "5.3",
+                "9.4",
+                "13.5",
+                "17.9"
+              ],
+              "final_score": "111"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "1.1",
+                "1.4",
+                "5.9",
+                "8.13"
+              ],
+              "final_score": "61"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1913-08-30T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.1",
+                "2.7",
+                "3.7",
+                "4.8"
+              ],
+              "final_score": "32"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.7",
+                "4.7",
+                "7.9",
+                "7.13"
+              ],
+              "final_score": "55"
+            }
+          },
+          {
+            "datetime": "1913-08-30T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.4",
+                "3.7",
+                "4.10",
+                "7.12"
+              ],
+              "final_score": "54"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.1",
+                "5.4",
+                "7.6",
+                "8.8"
+              ],
+              "final_score": "56"
+            }
+          },
+          {
+            "datetime": "1913-08-30T15:00:00+00:00",
+            "attendance": "5,565",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.1",
+                "3.2",
+                "4.4",
+                "6.6"
+              ],
+              "final_score": "42"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.7",
+                "4.10",
+                "6.14",
+                "6.16"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1913-08-30T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Corio Oval",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "8.12",
+                "9.13",
+                "15.18"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.2",
+                "3.2",
+                "3.10",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1913-08-30T15:00:00+00:00",
+            "attendance": null,
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.4",
+                "5.6",
+                "9.10",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "University",
+              "scoreline": [
+                "0.2",
+                "3.7",
+                "4.8",
+                "8.11"
+              ],
+              "final_score": "59"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}

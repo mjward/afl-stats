@@ -1,0 +1,3942 @@
+{
+  "match_data": {
+    "year": 1991,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1991-03-22T19:40:00+00:00",
+            "attendance": "44,902",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "6.2",
+                "11.6",
+                "17.10",
+                "24.11"
+              ],
+              "final_score": "155"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.0",
+                "3.3",
+                "6.8",
+                "9.15"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1991-03-23T14:10:00+00:00",
+            "attendance": "33,192",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.4",
+                "7.5",
+                "10.8",
+                "16.11"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.2",
+                "6.3",
+                "9.8",
+                "12.10"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1991-03-24T14:10:00+00:00",
+            "attendance": "38,861",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "7.3",
+                "9.6",
+                "11.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.3",
+                "4.11",
+                "11.15",
+                "21.20"
+              ],
+              "final_score": "146"
+            }
+          },
+          {
+            "datetime": "1991-03-24T14:10:00+00:00",
+            "attendance": "26,105",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.2",
+                "3.4",
+                "10.6",
+                "14.15"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "0.0",
+                "0.1",
+                "1.5",
+                "2.8"
+              ],
+              "final_score": "20"
+            }
+          }
+        ],
+        "byes": [
+          "Brisbane Bears",
+          "Carlton",
+          "Essendon",
+          "Fitzroy",
+          "Geelong",
+          "North Melbourne",
+          "Sydney"
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1991-03-30T14:10:00+00:00",
+            "attendance": "39,266",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.4",
+                "3.6",
+                "5.8",
+                "8.10"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "0.1",
+                "5.2",
+                "11.4",
+                "13.7"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1991-03-30T14:10:00+00:00",
+            "attendance": "11,278",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.4",
+                "3.7",
+                "4.11",
+                "6.13"
+              ],
+              "final_score": "49"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "6.5",
+                "15.10",
+                "21.17",
+                "27.18"
+              ],
+              "final_score": "180"
+            }
+          },
+          {
+            "datetime": "1991-03-30T19:40:00+00:00",
+            "attendance": "5,724",
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.2",
+                "4.4",
+                "6.7",
+                "8.10"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.4",
+                "7.7",
+                "12.11",
+                "15.14"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1991-03-31T14:10:00+00:00",
+            "attendance": "43,850",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.2",
+                "5.3",
+                "9.6",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.4",
+                "5.9",
+                "11.10",
+                "15.14"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1991-04-01T14:10:00+00:00",
+            "attendance": "31,793",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "6.2",
+                "9.4",
+                "15.6",
+                "17.7"
+              ],
+              "final_score": "109"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.5",
+                "6.7",
+                "10.13",
+                "16.17"
+              ],
+              "final_score": "113"
+            }
+          },
+          {
+            "datetime": "1991-04-01T14:10:00+00:00",
+            "attendance": "26,303",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.5",
+                "7.10",
+                "13.18",
+                "18.22"
+              ],
+              "final_score": "130"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "7.0",
+                "11.4",
+                "14.5",
+                "16.8"
+              ],
+              "final_score": "104"
+            }
+          },
+          {
+            "datetime": "1991-04-01T14:10:00+00:00",
+            "attendance": "13,815",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "10.3",
+                "13.7",
+                "17.10",
+                "25.16"
+              ],
+              "final_score": "166"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.2",
+                "7.6",
+                "9.8",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          }
+        ],
+        "byes": [
+          "Footscray"
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1991-04-06T14:10:00+00:00",
+            "attendance": "16,651",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.6",
+                "6.12",
+                "11.14",
+                "18.19"
+              ],
+              "final_score": "127"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.3",
+                "5.9",
+                "8.13",
+                "9.16"
+              ],
+              "final_score": "70"
+            }
+          },
+          {
+            "datetime": "1991-04-06T14:10:00+00:00",
+            "attendance": "24,691",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "7.2",
+                "11.3",
+                "13.12",
+                "16.21"
+              ],
+              "final_score": "117"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "4.7",
+                "6.9",
+                "8.10"
+              ],
+              "final_score": "58"
+            }
+          },
+          {
+            "datetime": "1991-04-06T14:10:00+00:00",
+            "attendance": "24,961",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "6.5",
+                "8.6",
+                "10.10",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.4",
+                "12.11",
+                "18.17",
+                "25.17"
+              ],
+              "final_score": "167"
+            }
+          },
+          {
+            "datetime": "1991-04-06T14:10:00+00:00",
+            "attendance": "25,960",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.7",
+                "10.10",
+                "16.14",
+                "20.16"
+              ],
+              "final_score": "136"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.1",
+                "7.5",
+                "8.7",
+                "11.13"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1991-04-07T14:10:00+00:00",
+            "attendance": "10,649",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.5",
+                "8.8",
+                "11.14",
+                "15.18"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.3",
+                "6.7",
+                "13.10",
+                "19.18"
+              ],
+              "final_score": "132"
+            }
+          },
+          {
+            "datetime": "1991-04-07T14:10:00+00:00",
+            "attendance": "20,875",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "6.7",
+                "9.7",
+                "10.8"
+              ],
+              "final_score": "68"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "9.3",
+                "10.9",
+                "12.19",
+                "15.27"
+              ],
+              "final_score": "117"
+            }
+          },
+          {
+            "datetime": "1991-04-07T14:10:00+00:00",
+            "attendance": "27,266",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "7.6",
+                "9.10",
+                "16.15",
+                "21.19"
+              ],
+              "final_score": "145"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.2",
+                "15.6",
+                "21.8",
+                "24.10"
+              ],
+              "final_score": "154"
+            }
+          }
+        ],
+        "byes": [
+          "West Coast"
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1991-04-12T19:40:00+00:00",
+            "attendance": "28,362",
+            "venue": "W.A.C.A.",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.5",
+                "6.9",
+                "14.15",
+                "18.19"
+              ],
+              "final_score": "127"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.1",
+                "4.3",
+                "6.4",
+                "8.7"
+              ],
+              "final_score": "55"
+            }
+          },
+          {
+            "datetime": "1991-04-13T14:10:00+00:00",
+            "attendance": "20,197",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.4",
+                "8.9",
+                "9.15",
+                "12.20"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "2.1",
+                "4.7",
+                "6.9",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1991-04-13T14:10:00+00:00",
+            "attendance": "32,573",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.2",
+                "9.7",
+                "12.10",
+                "23.17"
+              ],
+              "final_score": "155"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "6.6",
+                "10.6",
+                "15.6",
+                "17.8"
+              ],
+              "final_score": "110"
+            }
+          },
+          {
+            "datetime": "1991-04-13T14:10:00+00:00",
+            "attendance": "31,213",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.6",
+                "5.12",
+                "10.14",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.4",
+                "5.7",
+                "11.9",
+                "13.16"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1991-04-13T14:10:00+00:00",
+            "attendance": "10,351",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.4",
+                "9.10",
+                "10.14",
+                "12.18"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.4",
+                "7.9",
+                "9.13",
+                "15.16"
+              ],
+              "final_score": "106"
+            }
+          },
+          {
+            "datetime": "1991-04-13T14:10:00+00:00",
+            "attendance": "17,294",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.8",
+                "9.10",
+                "14.12",
+                "19.13"
+              ],
+              "final_score": "127"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "9.4",
+                "13.8",
+                "16.14",
+                "24.20"
+              ],
+              "final_score": "164"
+            }
+          },
+          {
+            "datetime": "1991-04-14T14:10:00+00:00",
+            "attendance": "12,654",
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.1",
+                "8.8",
+                "10.11",
+                "12.16"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.9",
+                "11.16",
+                "21.21",
+                "27.28"
+              ],
+              "final_score": "190"
+            }
+          }
+        ],
+        "byes": [
+          "Hawthorn"
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1991-04-19T19:40:00+00:00",
+            "attendance": "13,140",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "6.4",
+                "8.11",
+                "17.12",
+                "19.16"
+              ],
+              "final_score": "130"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.6",
+                "10.9",
+                "13.15",
+                "24.17"
+              ],
+              "final_score": "161"
+            }
+          },
+          {
+            "datetime": "1991-04-20T14:10:00+00:00",
+            "attendance": "20,403",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.6",
+                "6.11",
+                "11.17",
+                "16.19"
+              ],
+              "final_score": "115"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "5.2",
+                "10.5",
+                "13.9",
+                "14.9"
+              ],
+              "final_score": "93"
+            }
+          },
+          {
+            "datetime": "1991-04-20T14:10:00+00:00",
+            "attendance": "12,124",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.9",
+                "5.11",
+                "10.14",
+                "12.17"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.3",
+                "9.9",
+                "11.13",
+                "16.17"
+              ],
+              "final_score": "113"
+            }
+          },
+          {
+            "datetime": "1991-04-20T14:10:00+00:00",
+            "attendance": "21,448",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "6.2",
+                "11.4",
+                "13.8",
+                "17.16"
+              ],
+              "final_score": "118"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.2",
+                "8.2",
+                "13.8",
+                "16.11"
+              ],
+              "final_score": "107"
+            }
+          },
+          {
+            "datetime": "1991-04-20T14:10:00+00:00",
+            "attendance": "22,928",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "9.1",
+                "15.7",
+                "20.12",
+                "28.14"
+              ],
+              "final_score": "182"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "9.1",
+                "12.6",
+                "13.7",
+                "17.10"
+              ],
+              "final_score": "112"
+            }
+          },
+          {
+            "datetime": "1991-04-21T14:10:00+00:00",
+            "attendance": "27,365",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.3",
+                "6.8",
+                "7.12",
+                "13.17"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "3.7",
+                "8.9",
+                "8.10"
+              ],
+              "final_score": "58"
+            }
+          },
+          {
+            "datetime": "1991-04-21T14:10:00+00:00",
+            "attendance": "34,704",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "5.4",
+                "9.7",
+                "15.10",
+                "19.16"
+              ],
+              "final_score": "130"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "0.3",
+                "2.8",
+                "5.9",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          }
+        ],
+        "byes": [
+          "St Kilda"
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1991-04-25T14:10:00+00:00",
+            "attendance": "55,735",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.7",
+                "7.11",
+                "8.15",
+                "10.17"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.2",
+                "8.3",
+                "13.6",
+                "17.11"
+              ],
+              "final_score": "113"
+            }
+          },
+          {
+            "datetime": "1991-04-25T14:10:00+00:00",
+            "attendance": "15,664",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.7",
+                "13.12",
+                "19.18",
+                "27.26"
+              ],
+              "final_score": "188"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "9.3",
+                "19.6",
+                "21.8",
+                "21.8"
+              ],
+              "final_score": "134"
+            }
+          },
+          {
+            "datetime": "1991-04-27T14:10:00+00:00",
+            "attendance": "29,005",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.2",
+                "8.5",
+                "11.9",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "3.10",
+                "4.15",
+                "7.18"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1991-04-27T14:10:00+00:00",
+            "attendance": "33,905",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.4",
+                "5.4",
+                "10.10",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.4",
+                "10.10",
+                "12.13",
+                "19.20"
+              ],
+              "final_score": "134"
+            }
+          },
+          {
+            "datetime": "1991-04-27T19:40:00+00:00",
+            "attendance": "9,253",
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "5.1",
+                "10.3",
+                "11.7",
+                "12.11"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.9",
+                "8.11",
+                "12.15",
+                "16.18"
+              ],
+              "final_score": "114"
+            }
+          },
+          {
+            "datetime": "1991-04-28T14:10:00+00:00",
+            "attendance": "13,335",
+            "venue": "North Hobart",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "3.6",
+                "7.7",
+                "11.8"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "7.4",
+                "17.4",
+                "25.11",
+                "36.15"
+              ],
+              "final_score": "231"
+            }
+          },
+          {
+            "datetime": "1991-04-28T19:40:00+00:00",
+            "attendance": "36,695",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.1",
+                "8.7",
+                "13.9",
+                "19.14"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.4",
+                "7.6",
+                "11.10",
+                "14.13"
+              ],
+              "final_score": "97"
+            }
+          }
+        ],
+        "byes": [
+          "Richmond"
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1991-05-03T19:40:00+00:00",
+            "attendance": "13,111",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.4",
+                "11.8",
+                "16.11",
+                "21.15"
+              ],
+              "final_score": "141"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "7.4",
+                "11.6",
+                "14.13"
+              ],
+              "final_score": "97"
+            }
+          },
+          {
+            "datetime": "1991-05-04T14:10:00+00:00",
+            "attendance": "25,057",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "7.3",
+                "14.7",
+                "18.14",
+                "24.18"
+              ],
+              "final_score": "162"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "0.1",
+                "1.7",
+                "2.7",
+                "4.7"
+              ],
+              "final_score": "31"
+            }
+          },
+          {
+            "datetime": "1991-05-04T14:10:00+00:00",
+            "attendance": "14,722",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.7",
+                "8.8",
+                "12.13",
+                "18.18"
+              ],
+              "final_score": "126"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.4",
+                "10.7",
+                "14.9",
+                "17.11"
+              ],
+              "final_score": "113"
+            }
+          },
+          {
+            "datetime": "1991-05-04T14:10:00+00:00",
+            "attendance": "47,651",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "9.5",
+                "14.7",
+                "17.13"
+              ],
+              "final_score": "115"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "4.4",
+                "8.12",
+                "13.16"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1991-05-04T14:10:00+00:00",
+            "attendance": "18,585",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.3",
+                "5.6",
+                "7.9",
+                "8.14"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.7",
+                "10.9",
+                "16.14",
+                "21.18"
+              ],
+              "final_score": "144"
+            }
+          },
+          {
+            "datetime": "1991-05-05T14:10:00+00:00",
+            "attendance": "18,644",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "6.7",
+                "7.8",
+                "15.11",
+                "20.13"
+              ],
+              "final_score": "133"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.4",
+                "6.8",
+                "9.11",
+                "14.17"
+              ],
+              "final_score": "101"
+            }
+          },
+          {
+            "datetime": "1991-05-05T14:10:00+00:00",
+            "attendance": "11,244",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "7.7",
+                "11.13",
+                "13.18",
+                "20.24"
+              ],
+              "final_score": "144"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "6.6",
+                "10.13",
+                "14.14"
+              ],
+              "final_score": "98"
+            }
+          }
+        ],
+        "byes": [
+          "Collingwood"
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1991-05-11T14:10:00+00:00",
+            "attendance": "29,727",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "7.9",
+                "10.10",
+                "18.14"
+              ],
+              "final_score": "122"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.4",
+                "3.5",
+                "8.10",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1991-05-11T14:10:00+00:00",
+            "attendance": "21,438",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.3",
+                "6.6",
+                "10.7",
+                "13.9"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "5.1",
+                "8.4",
+                "11.7",
+                "14.10"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1991-05-11T14:10:00+00:00",
+            "attendance": "7,416",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.3",
+                "3.4",
+                "6.9",
+                "10.10"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "6.4",
+                "15.11",
+                "18.14",
+                "21.21"
+              ],
+              "final_score": "147"
+            }
+          },
+          {
+            "datetime": "1991-05-11T14:10:00+00:00",
+            "attendance": "23,617",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.5",
+                "7.7",
+                "12.14",
+                "17.19"
+              ],
+              "final_score": "121"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.3",
+                "6.6",
+                "8.9",
+                "12.10"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1991-05-11T14:10:00+00:00",
+            "attendance": "17,746",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.4",
+                "12.10",
+                "17.14",
+                "17.17"
+              ],
+              "final_score": "119"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.5",
+                "9.11",
+                "14.13",
+                "22.18"
+              ],
+              "final_score": "150"
+            }
+          },
+          {
+            "datetime": "1991-05-12T14:10:00+00:00",
+            "attendance": "9,828",
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "3.3",
+                "5.4",
+                "10.4",
+                "12.7"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.5",
+                "12.11",
+                "15.17",
+                "21.22"
+              ],
+              "final_score": "148"
+            }
+          },
+          {
+            "datetime": "1991-05-12T14:10:00+00:00",
+            "attendance": "28,322",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.3",
+                "12.8",
+                "18.13",
+                "24.15"
+              ],
+              "final_score": "159"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "7.1",
+                "11.6",
+                "14.8",
+                "15.12"
+              ],
+              "final_score": "102"
+            }
+          }
+        ],
+        "byes": [
+          "Adelaide"
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1991-05-17T19:40:00+00:00",
+            "attendance": "16,175",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.3",
+                "8.4",
+                "12.7",
+                "18.12"
+              ],
+              "final_score": "120"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "6.2",
+                "10.5",
+                "15.9",
+                "18.10"
+              ],
+              "final_score": "118"
+            }
+          },
+          {
+            "datetime": "1991-05-18T14:10:00+00:00",
+            "attendance": "10,585",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.2",
+                "9.3",
+                "12.9",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "4.4",
+                "6.9",
+                "10.10",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1991-05-18T14:10:00+00:00",
+            "attendance": "23,087",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.5",
+                "7.9",
+                "9.11",
+                "13.15"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.1",
+                "4.4",
+                "8.9",
+                "12.9"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1991-05-18T14:10:00+00:00",
+            "attendance": "26,262",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.3",
+                "9.5",
+                "12.8",
+                "13.12"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.5",
+                "5.13",
+                "11.18",
+                "18.24"
+              ],
+              "final_score": "132"
+            }
+          },
+          {
+            "datetime": "1991-05-18T14:10:00+00:00",
+            "attendance": "40,537",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "5.1",
+                "10.4",
+                "11.7",
+                "15.13"
+              ],
+              "final_score": "103"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.2",
+                "7.4",
+                "12.8",
+                "13.9"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1991-05-19T14:10:00+00:00",
+            "attendance": "13,284",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.5",
+                "9.9",
+                "14.15",
+                "16.17"
+              ],
+              "final_score": "113"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.1",
+                "10.3",
+                "13.7",
+                "18.11"
+              ],
+              "final_score": "119"
+            }
+          },
+          {
+            "datetime": "1991-05-19T14:10:00+00:00",
+            "attendance": "23,586",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.6",
+                "7.14",
+                "11.17",
+                "17.23"
+              ],
+              "final_score": "125"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "1.4",
+                "2.5",
+                "3.8"
+              ],
+              "final_score": "26"
+            }
+          }
+        ],
+        "byes": [
+          "Melbourne"
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1991-05-24T19:40:00+00:00",
+            "attendance": "43,722",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.6",
+                "7.7",
+                "11.12",
+                "15.16"
+              ],
+              "final_score": "106"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.2",
+                "5.8",
+                "7.9",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1991-05-25T14:10:00+00:00",
+            "attendance": "45,595",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.3",
+                "5.7",
+                "9.12",
+                "16.12"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "8.2",
+                "14.7",
+                "17.10",
+                "23.13"
+              ],
+              "final_score": "151"
+            }
+          },
+          {
+            "datetime": "1991-05-25T14:10:00+00:00",
+            "attendance": "33,832",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.0",
+                "6.6",
+                "8.10",
+                "11.15"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "8.2",
+                "10.5",
+                "12.10",
+                "16.13"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1991-05-25T14:10:00+00:00",
+            "attendance": "10,214",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.2",
+                "10.7",
+                "13.10",
+                "19.13"
+              ],
+              "final_score": "127"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.7",
+                "3.11",
+                "10.17",
+                "14.22"
+              ],
+              "final_score": "106"
+            }
+          },
+          {
+            "datetime": "1991-05-25T14:10:00+00:00",
+            "attendance": "17,254",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.4",
+                "13.6",
+                "19.10",
+                "21.15"
+              ],
+              "final_score": "141"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.6",
+                "8.14",
+                "13.17",
+                "18.19"
+              ],
+              "final_score": "127"
+            }
+          },
+          {
+            "datetime": "1991-05-26T14:10:00+00:00",
+            "attendance": "7,330",
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "6.4",
+                "8.7",
+                "8.11",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "6.8",
+                "11.9",
+                "12.10"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1991-05-26T14:10:00+00:00",
+            "attendance": "33,498",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "2.5",
+                "6.9",
+                "9.12",
+                "15.16"
+              ],
+              "final_score": "106"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "1.3",
+                "3.5",
+                "9.10",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          }
+        ],
+        "byes": [
+          "Carlton"
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1991-06-01T14:10:00+00:00",
+            "attendance": "17,644",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "7.5",
+                "13.7",
+                "23.12",
+                "27.15"
+              ],
+              "final_score": "177"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.1",
+                "7.5",
+                "9.6",
+                "14.9"
+              ],
+              "final_score": "93"
+            }
+          },
+          {
+            "datetime": "1991-06-01T14:10:00+00:00",
+            "attendance": "28,299",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.6",
+                "9.11",
+                "13.17",
+                "18.22"
+              ],
+              "final_score": "130"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.3",
+                "8.5",
+                "13.7",
+                "17.12"
+              ],
+              "final_score": "114"
+            }
+          },
+          {
+            "datetime": "1991-06-01T14:10:00+00:00",
+            "attendance": "21,635",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.1",
+                "3.6",
+                "9.11",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "6.4",
+                "8.6",
+                "12.8"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1991-06-01T14:10:00+00:00",
+            "attendance": "20,832",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.5",
+                "6.10",
+                "8.13",
+                "10.17"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.1",
+                "6.5",
+                "11.10",
+                "15.13"
+              ],
+              "final_score": "103"
+            }
+          },
+          {
+            "datetime": "1991-06-01T14:10:00+00:00",
+            "attendance": "15,476",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.3",
+                "5.5",
+                "6.6",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "4.5",
+                "9.6",
+                "13.14",
+                "17.15"
+              ],
+              "final_score": "117"
+            }
+          },
+          {
+            "datetime": "1991-06-02T14:10:00+00:00",
+            "attendance": "7,657",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.4",
+                "4.6",
+                "10.8",
+                "18.13"
+              ],
+              "final_score": "121"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "7.4",
+                "16.8",
+                "20.8",
+                "26.12"
+              ],
+              "final_score": "168"
+            }
+          },
+          {
+            "datetime": "1991-06-02T14:10:00+00:00",
+            "attendance": "16,036",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.5",
+                "4.6",
+                "6.8",
+                "8.9"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.3",
+                "0.7",
+                "0.9",
+                "1.10"
+              ],
+              "final_score": "16"
+            }
+          }
+        ],
+        "byes": [
+          "Fitzroy"
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1991-06-08T14:10:00+00:00",
+            "attendance": "39,832",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.3",
+                "5.4",
+                "9.8",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.1",
+                "5.1",
+                "6.1",
+                "10.2"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1991-06-08T14:10:00+00:00",
+            "attendance": "11,236",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.4",
+                "4.4",
+                "4.9",
+                "4.11"
+              ],
+              "final_score": "35"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.2",
+                "2.3",
+                "4.4",
+                "5.5"
+              ],
+              "final_score": "35"
+            }
+          },
+          {
+            "datetime": "1991-06-09T14:10:00+00:00",
+            "attendance": "5,728",
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "4.2",
+                "7.3",
+                "9.6",
+                "14.9"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "6.7",
+                "10.11",
+                "17.14",
+                "21.19"
+              ],
+              "final_score": "145"
+            }
+          },
+          {
+            "datetime": "1991-06-09T19:40:00+00:00",
+            "attendance": "31,273",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "2.2",
+                "4.5",
+                "5.7",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.1",
+                "5.1",
+                "7.3",
+                "7.5"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1991-06-10T14:10:00+00:00",
+            "attendance": "23,123",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.2",
+                "7.9",
+                "8.14",
+                "13.18"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.5",
+                "8.8",
+                "14.14",
+                "20.16"
+              ],
+              "final_score": "136"
+            }
+          },
+          {
+            "datetime": "1991-06-10T14:10:00+00:00",
+            "attendance": "29,415",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.6",
+                "9.6",
+                "13.12"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.2",
+                "6.9",
+                "10.11",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1991-06-10T14:10:00+00:00",
+            "attendance": "31,242",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.2",
+                "8.3",
+                "12.8",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.4",
+                "4.8",
+                "7.13",
+                "8.18"
+              ],
+              "final_score": "66"
+            }
+          }
+        ],
+        "byes": [
+          "Essendon"
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1991-06-14T19:40:00+00:00",
+            "attendance": "25,117",
+            "venue": "W.A.C.A.",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "7.3",
+                "10.8",
+                "21.10",
+                "25.15"
+              ],
+              "final_score": "165"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.2",
+                "2.3",
+                "3.3",
+                "7.5"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1991-06-15T14:10:00+00:00",
+            "attendance": "16,235",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.3",
+                "4.6",
+                "6.9",
+                "6.11"
+              ],
+              "final_score": "47"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.2",
+                "4.8",
+                "6.10",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1991-06-15T14:10:00+00:00",
+            "attendance": "5,741",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "11.7",
+                "14.12",
+                "22.17"
+              ],
+              "final_score": "149"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.4",
+                "4.5",
+                "8.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1991-06-15T14:10:00+00:00",
+            "attendance": "41,948",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.4",
+                "6.4",
+                "7.10",
+                "10.14"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.2",
+                "7.5",
+                "9.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1991-06-16T14:10:00+00:00",
+            "attendance": "12,769",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.3",
+                "12.7",
+                "15.12",
+                "18.16"
+              ],
+              "final_score": "124"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.2",
+                "9.3",
+                "13.7",
+                "17.8"
+              ],
+              "final_score": "110"
+            }
+          },
+          {
+            "datetime": "1991-06-16T14:10:00+00:00",
+            "attendance": "13,746",
+            "venue": "North Hobart",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.4",
+                "3.6",
+                "8.7",
+                "15.8"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.0",
+                "10.2",
+                "14.5",
+                "17.9"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1991-06-16T14:10:00+00:00",
+            "attendance": "40,930",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.1",
+                "6.3",
+                "9.5",
+                "16.8"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.5",
+                "7.8",
+                "15.11",
+                "20.14"
+              ],
+              "final_score": "134"
+            }
+          }
+        ],
+        "byes": [
+          "North Melbourne"
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1991-06-21T19:40:00+00:00",
+            "attendance": "23,353",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.10",
+                "7.10",
+                "13.10",
+                "19.14"
+              ],
+              "final_score": "128"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "8.2",
+                "15.8",
+                "21.14",
+                "26.16"
+              ],
+              "final_score": "172"
+            }
+          },
+          {
+            "datetime": "1991-06-22T14:10:00+00:00",
+            "attendance": "19,588",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.3",
+                "9.7",
+                "9.10",
+                "12.11"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.4",
+                "5.7",
+                "6.11",
+                "11.14"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1991-06-22T14:10:00+00:00",
+            "attendance": "22,332",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.6",
+                "10.12",
+                "13.17",
+                "20.23"
+              ],
+              "final_score": "143"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "0.1",
+                "3.3",
+                "5.5",
+                "6.8"
+              ],
+              "final_score": "44"
+            }
+          },
+          {
+            "datetime": "1991-06-22T14:10:00+00:00",
+            "attendance": "16,519",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.2",
+                "5.6",
+                "10.13",
+                "17.20"
+              ],
+              "final_score": "122"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.6",
+                "6.6",
+                "8.9",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1991-06-22T14:10:00+00:00",
+            "attendance": "23,963",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.1",
+                "7.3",
+                "11.4",
+                "16.6"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.10",
+                "4.12",
+                "7.16",
+                "8.21"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1991-06-22T14:10:00+00:00",
+            "attendance": "30,664",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.1",
+                "5.4",
+                "8.6",
+                "11.11"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "6.6",
+                "12.6",
+                "14.10",
+                "19.13"
+              ],
+              "final_score": "127"
+            }
+          },
+          {
+            "datetime": "1991-06-23T14:10:00+00:00",
+            "attendance": "35,355",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.7",
+                "5.10",
+                "14.11",
+                "23.18"
+              ],
+              "final_score": "156"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.1",
+                "5.7",
+                "10.9",
+                "13.12"
+              ],
+              "final_score": "90"
+            }
+          }
+        ],
+        "byes": [
+          "Geelong"
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1991-06-28T19:40:00+00:00",
+            "attendance": "25,819",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "6.1",
+                "10.4",
+                "14.6",
+                "18.7"
+              ],
+              "final_score": "115"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.4",
+                "10.11",
+                "18.12",
+                "27.17"
+              ],
+              "final_score": "179"
+            }
+          },
+          {
+            "datetime": "1991-06-29T14:10:00+00:00",
+            "attendance": "25,164",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.3",
+                "11.7",
+                "18.11",
+                "23.22"
+              ],
+              "final_score": "160"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.4",
+                "3.5",
+                "5.6",
+                "5.7"
+              ],
+              "final_score": "37"
+            }
+          },
+          {
+            "datetime": "1991-06-29T14:10:00+00:00",
+            "attendance": "15,147",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "1.3",
+                "4.4",
+                "6.5"
+              ],
+              "final_score": "41"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.4",
+                "6.7",
+                "6.11",
+                "8.12"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1991-06-29T14:10:00+00:00",
+            "attendance": "17,536",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.5",
+                "1.10",
+                "8.15",
+                "11.23"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "4.3",
+                "5.4",
+                "6.7"
+              ],
+              "final_score": "43"
+            }
+          },
+          {
+            "datetime": "1991-06-29T14:10:00+00:00",
+            "attendance": "22,688",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "7.3",
+                "12.4",
+                "17.11",
+                "19.17"
+              ],
+              "final_score": "131"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.4",
+                "4.7",
+                "8.9",
+                "14.14"
+              ],
+              "final_score": "98"
+            }
+          },
+          {
+            "datetime": "1991-06-30T14:10:00+00:00",
+            "attendance": "10,569",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "1.5",
+                "4.6",
+                "7.8",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.6",
+                "7.11",
+                "16.18",
+                "26.21"
+              ],
+              "final_score": "177"
+            }
+          },
+          {
+            "datetime": "1991-06-30T14:10:00+00:00",
+            "attendance": "42,255",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "7.3",
+                "12.7",
+                "17.10",
+                "21.11"
+              ],
+              "final_score": "137"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.2",
+                "5.2",
+                "9.5",
+                "14.9"
+              ],
+              "final_score": "93"
+            }
+          }
+        ],
+        "byes": [
+          "Brisbane Bears"
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1991-07-06T14:10:00+00:00",
+            "attendance": "21,715",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "8.11",
+                "10.12",
+                "17.18",
+                "23.20"
+              ],
+              "final_score": "158"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "0.1",
+                "6.4",
+                "9.5",
+                "14.11"
+              ],
+              "final_score": "95"
+            }
+          },
+          {
+            "datetime": "1991-07-06T14:10:00+00:00",
+            "attendance": "23,191",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "7.2",
+                "8.3",
+                "13.4",
+                "14.5"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.3",
+                "8.10",
+                "11.12",
+                "13.17"
+              ],
+              "final_score": "95"
+            }
+          },
+          {
+            "datetime": "1991-07-06T14:10:00+00:00",
+            "attendance": "27,757",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.3",
+                "5.7",
+                "11.11",
+                "20.13"
+              ],
+              "final_score": "133"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.0",
+                "8.1",
+                "11.1",
+                "13.2"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1991-07-06T14:10:00+00:00",
+            "attendance": "25,799",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.2",
+                "7.4",
+                "11.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.7",
+                "6.9",
+                "10.10",
+                "14.16"
+              ],
+              "final_score": "100"
+            }
+          },
+          {
+            "datetime": "1991-07-07T14:10:00+00:00",
+            "attendance": "7,373",
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "7.5",
+                "12.8",
+                "16.11",
+                "26.14"
+              ],
+              "final_score": "170"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.5",
+                "5.6",
+                "11.14",
+                "15.15"
+              ],
+              "final_score": "105"
+            }
+          },
+          {
+            "datetime": "1991-07-07T14:10:00+00:00",
+            "attendance": "31,096",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.2",
+                "6.8",
+                "9.13",
+                "13.21"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.5",
+                "4.9",
+                "9.13",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1991-07-07T14:10:00+00:00",
+            "attendance": "32,782",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.5",
+                "6.9",
+                "6.13",
+                "13.18"
+              ],
+              "final_score": "96"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.2",
+                "11.5",
+                "16.10",
+                "18.16"
+              ],
+              "final_score": "124"
+            }
+          }
+        ],
+        "byes": [
+          "Sydney"
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1991-07-12T19:40:00+00:00",
+            "attendance": "30,715",
+            "venue": "W.A.C.A.",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "3.5",
+                "6.9",
+                "13.11",
+                "20.15"
+              ],
+              "final_score": "135"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "5.4",
+                "7.5",
+                "8.6"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1991-07-13T14:10:00+00:00",
+            "attendance": "13,509",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "3.5",
+                "6.6",
+                "6.12"
+              ],
+              "final_score": "48"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "3.3",
+                "6.5",
+                "6.9",
+                "7.13"
+              ],
+              "final_score": "55"
+            }
+          },
+          {
+            "datetime": "1991-07-13T14:10:00+00:00",
+            "attendance": "7,239",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.2",
+                "10.6",
+                "10.8",
+                "15.13"
+              ],
+              "final_score": "103"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "4.0",
+                "5.2",
+                "11.4",
+                "14.6"
+              ],
+              "final_score": "90"
+            }
+          },
+          {
+            "datetime": "1991-07-13T14:10:00+00:00",
+            "attendance": "13,501",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.2",
+                "4.4",
+                "6.6",
+                "6.7"
+              ],
+              "final_score": "43"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.5",
+                "5.11",
+                "7.15",
+                "7.18"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1991-07-13T14:10:00+00:00",
+            "attendance": "12,710",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.1",
+                "5.8",
+                "6.13",
+                "12.20"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.7",
+                "3.9",
+                "6.10",
+                "7.13"
+              ],
+              "final_score": "55"
+            }
+          },
+          {
+            "datetime": "1991-07-13T14:10:00+00:00",
+            "attendance": "28,789",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "3.3",
+                "8.9",
+                "9.13"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.2",
+                "8.2",
+                "13.3",
+                "18.8"
+              ],
+              "final_score": "116"
+            }
+          },
+          {
+            "datetime": "1991-07-14T14:10:00+00:00",
+            "attendance": "12,143",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.3",
+                "7.9",
+                "12.16",
+                "14.19"
+              ],
+              "final_score": "103"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.6",
+                "7.13",
+                "10.19",
+                "15.24"
+              ],
+              "final_score": "114"
+            }
+          }
+        ],
+        "byes": [
+          "Footscray"
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1991-07-20T14:10:00+00:00",
+            "attendance": "14,129",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.3",
+                "9.8",
+                "13.14",
+                "15.21"
+              ],
+              "final_score": "111"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.6",
+                "8.10",
+                "13.13",
+                "18.16"
+              ],
+              "final_score": "124"
+            }
+          },
+          {
+            "datetime": "1991-07-20T14:10:00+00:00",
+            "attendance": "19,322",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "7.1",
+                "11.3",
+                "17.7",
+                "19.9"
+              ],
+              "final_score": "123"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.6",
+                "2.12",
+                "4.12",
+                "5.19"
+              ],
+              "final_score": "49"
+            }
+          },
+          {
+            "datetime": "1991-07-20T14:10:00+00:00",
+            "attendance": "24,731",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.2",
+                "6.6",
+                "10.8",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "7.8",
+                "9.12",
+                "13.16"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1991-07-20T14:10:00+00:00",
+            "attendance": "24,950",
+            "venue": "Moorabbin Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.4",
+                "9.9",
+                "12.10",
+                "16.14"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "6.2",
+                "9.4",
+                "16.8",
+                "17.9"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1991-07-21T14:10:00+00:00",
+            "attendance": "9,735",
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "1.5",
+                "6.11",
+                "12.14",
+                "14.16"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "6.9",
+                "8.13",
+                "12.21"
+              ],
+              "final_score": "93"
+            }
+          },
+          {
+            "datetime": "1991-07-21T14:10:00+00:00",
+            "attendance": "22,145",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.6",
+                "13.11",
+                "17.14",
+                "20.16"
+              ],
+              "final_score": "136"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.0",
+                "4.0",
+                "5.5",
+                "10.8"
+              ],
+              "final_score": "68"
+            }
+          },
+          {
+            "datetime": "1991-07-21T14:10:00+00:00",
+            "attendance": "40,794",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "5.6",
+                "10.11",
+                "12.15",
+                "16.22"
+              ],
+              "final_score": "118"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.0",
+                "8.2",
+                "13.7",
+                "19.8"
+              ],
+              "final_score": "122"
+            }
+          }
+        ],
+        "byes": [
+          "West Coast"
+        ]
+      },
+      "19": {
+        "matches": [
+          {
+            "datetime": "1991-07-26T19:40:00+00:00",
+            "attendance": "19,399",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.2",
+                "9.8",
+                "10.11",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "2.2",
+                "4.5",
+                "9.10",
+                "11.16"
+              ],
+              "final_score": "82"
+            }
+          },
+          {
+            "datetime": "1991-07-27T14:10:00+00:00",
+            "attendance": "13,639",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "8.6",
+                "10.8",
+                "18.14",
+                "24.15"
+              ],
+              "final_score": "159"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.0",
+                "5.3",
+                "6.4",
+                "8.10"
+              ],
+              "final_score": "58"
+            }
+          },
+          {
+            "datetime": "1991-07-27T14:10:00+00:00",
+            "attendance": "16,110",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "4.7",
+                "6.8",
+                "10.8"
+              ],
+              "final_score": "68"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.5",
+                "6.7",
+                "9.10",
+                "11.14"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1991-07-27T14:10:00+00:00",
+            "attendance": "53,315",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.2",
+                "5.3",
+                "12.6",
+                "13.7"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.2",
+                "4.5",
+                "6.5",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1991-07-27T14:10:00+00:00",
+            "attendance": "8,977",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "7.5",
+                "8.7",
+                "15.10",
+                "16.12"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.0",
+                "4.5",
+                "4.6",
+                "7.9"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1991-07-28T14:10:00+00:00",
+            "attendance": "9,276",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "5.3",
+                "9.7",
+                "11.11",
+                "14.15"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.7",
+                "5.10",
+                "9.16",
+                "12.20"
+              ],
+              "final_score": "92"
+            }
+          },
+          {
+            "datetime": "1991-07-28T19:40:00+00:00",
+            "attendance": "41,716",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "2.3",
+                "5.4",
+                "13.10",
+                "16.12"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.4",
+                "8.5",
+                "10.6",
+                "12.9"
+              ],
+              "final_score": "81"
+            }
+          }
+        ],
+        "byes": [
+          "Hawthorn"
+        ]
+      },
+      "20": {
+        "matches": [
+          {
+            "datetime": "1991-08-03T14:10:00+00:00",
+            "attendance": "20,277",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "5.6",
+                "12.9",
+                "16.9"
+              ],
+              "final_score": "105"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.7",
+                "6.8",
+                "11.11",
+                "14.19"
+              ],
+              "final_score": "103"
+            }
+          },
+          {
+            "datetime": "1991-08-03T14:10:00+00:00",
+            "attendance": "14,341",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.5",
+                "13.8",
+                "18.16",
+                "22.19"
+              ],
+              "final_score": "151"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "2.3",
+                "6.8",
+                "8.9",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1991-08-03T14:10:00+00:00",
+            "attendance": "20,670",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.4",
+                "5.6",
+                "7.10",
+                "12.11"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.3",
+                "6.5",
+                "6.7",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1991-08-03T14:10:00+00:00",
+            "attendance": "28,323",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.3",
+                "8.4",
+                "11.7",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.6",
+                "6.12",
+                "16.15",
+                "20.20"
+              ],
+              "final_score": "140"
+            }
+          },
+          {
+            "datetime": "1991-08-03T19:40:00+00:00",
+            "attendance": "9,302",
+            "venue": "Carrara",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "1.5",
+                "2.6",
+                "6.9",
+                "10.11"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.2",
+                "11.6",
+                "21.10",
+                "26.16"
+              ],
+              "final_score": "172"
+            }
+          },
+          {
+            "datetime": "1991-08-04T14:10:00+00:00",
+            "attendance": "16,434",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "6.7",
+                "11.14",
+                "13.19"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.5",
+                "11.11",
+                "17.13",
+                "23.18"
+              ],
+              "final_score": "156"
+            }
+          },
+          {
+            "datetime": "1991-08-04T14:10:00+00:00",
+            "attendance": "45,864",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "1.7",
+                "2.7",
+                "9.12",
+                "11.14"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "1.1",
+                "5.3",
+                "8.7",
+                "14.11"
+              ],
+              "final_score": "95"
+            }
+          }
+        ],
+        "byes": [
+          "St Kilda"
+        ]
+      },
+      "21": {
+        "matches": [
+          {
+            "datetime": "1991-08-09T19:40:00+00:00",
+            "attendance": "30,987",
+            "venue": "W.A.C.A.",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "1.5",
+                "5.10",
+                "8.14",
+                "11.16"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.4",
+                "5.6",
+                "8.7",
+                "12.9"
+              ],
+              "final_score": "81"
+            }
+          },
+          {
+            "datetime": "1991-08-10T14:10:00+00:00",
+            "attendance": "11,452",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.6",
+                "3.9",
+                "4.13",
+                "8.16"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "0.1",
+                "2.4",
+                "4.4",
+                "6.4"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1991-08-10T14:10:00+00:00",
+            "attendance": "12,970",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "6.5",
+                "7.10",
+                "16.16",
+                "23.19"
+              ],
+              "final_score": "157"
+            },
+            "away_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "3.3",
+                "9.4",
+                "12.7",
+                "17.10"
+              ],
+              "final_score": "112"
+            }
+          },
+          {
+            "datetime": "1991-08-10T14:10:00+00:00",
+            "attendance": "32,615",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.8",
+                "11.11",
+                "18.16",
+                "23.17"
+              ],
+              "final_score": "155"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.0",
+                "8.4",
+                "10.7",
+                "15.11"
+              ],
+              "final_score": "101"
+            }
+          },
+          {
+            "datetime": "1991-08-10T14:10:00+00:00",
+            "attendance": "50,085",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.0",
+                "6.3",
+                "7.5",
+                "8.7"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.4",
+                "6.8",
+                "11.10",
+                "19.13"
+              ],
+              "final_score": "127"
+            }
+          },
+          {
+            "datetime": "1991-08-10T14:10:00+00:00",
+            "attendance": "11,500",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "7.6",
+                "11.15",
+                "22.25",
+                "28.27"
+              ],
+              "final_score": "195"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "4.5",
+                "7.6",
+                "10.9"
+              ],
+              "final_score": "69"
+            }
+          },
+          {
+            "datetime": "1991-08-11T14:10:00+00:00",
+            "attendance": "13,252",
+            "venue": "S.C.G.",
+            "home_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "4.7",
+                "7.10",
+                "10.17",
+                "13.22"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.4",
+                "9.9",
+                "13.13",
+                "20.16"
+              ],
+              "final_score": "136"
+            }
+          }
+        ],
+        "byes": [
+          "Richmond"
+        ]
+      },
+      "22": {
+        "matches": [
+          {
+            "datetime": "1991-08-16T19:40:00+00:00",
+            "attendance": "45,440",
+            "venue": "Football Park",
+            "home_team": {
+              "name": "Adelaide",
+              "scoreline": [
+                "2.0",
+                "7.3",
+                "10.7",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.4",
+                "7.7",
+                "14.9",
+                "20.12"
+              ],
+              "final_score": "132"
+            }
+          },
+          {
+            "datetime": "1991-08-17T14:10:00+00:00",
+            "attendance": "34,588",
+            "venue": "Waverley Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.3",
+                "7.6",
+                "10.8",
+                "12.12"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.1",
+                "5.5",
+                "8.7",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1991-08-17T14:10:00+00:00",
+            "attendance": "8,588",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "7.5",
+                "14.9",
+                "17.14",
+                "22.16"
+              ],
+              "final_score": "148"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.2",
+                "14.6",
+                "16.12",
+                "21.21"
+              ],
+              "final_score": "147"
+            }
+          },
+          {
+            "datetime": "1991-08-17T14:10:00+00:00",
+            "attendance": "15,466",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.3",
+                "7.3",
+                "11.8",
+                "14.11"
+              ],
+              "final_score": "95"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.1",
+                "5.8",
+                "7.9",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1991-08-17T14:10:00+00:00",
+            "attendance": "17,755",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "5.2",
+                "9.7",
+                "13.9",
+                "17.13"
+              ],
+              "final_score": "115"
+            },
+            "away_team": {
+              "name": "Sydney",
+              "scoreline": [
+                "3.1",
+                "5.3",
+                "9.7",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1991-08-18T14:10:00+00:00",
+            "attendance": "6,480",
+            "venue": "Gabba",
+            "home_team": {
+              "name": "Brisbane Bears",
+              "scoreline": [
+                "2.2",
+                "5.8",
+                "8.10",
+                "13.13"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "7.6",
+                "9.9",
+                "15.13"
+              ],
+              "final_score": "103"
+            }
+          },
+          {
+            "datetime": "1991-08-18T14:10:00+00:00",
+            "attendance": "35,001",
+            "venue": "Subiaco",
+            "home_team": {
+              "name": "West Coast",
+              "scoreline": [
+                "2.2",
+                "9.4",
+                "12.8",
+                "15.9"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "5.6",
+                "10.7",
+                "11.9"
+              ],
+              "final_score": "75"
+            }
+          }
+        ],
+        "byes": [
+          "Collingwood"
+        ]
+      }
+    }
+  }
+}

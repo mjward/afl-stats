@@ -1,0 +1,2865 @@
+{
+  "match_data": {
+    "year": 1962,
+    "rounds": {
+      "1": {
+        "matches": [
+          {
+            "datetime": "1962-04-21T14:20:00+00:00",
+            "attendance": "41,846",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "6.3",
+                "8.6",
+                "10.8",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.2",
+                "9.6",
+                "12.9",
+                "19.13"
+              ],
+              "final_score": "127"
+            }
+          },
+          {
+            "datetime": "1962-04-21T14:20:00+00:00",
+            "attendance": "30,762",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.0",
+                "4.1",
+                "9.4",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "4.7",
+                "5.8",
+                "6.11"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1962-04-21T14:20:00+00:00",
+            "attendance": "41,634",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.5",
+                "5.7",
+                "10.8",
+                "11.13"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.1",
+                "5.4",
+                "6.8",
+                "6.15"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1962-04-23T14:20:00+00:00",
+            "attendance": "42,170",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.3",
+                "3.7",
+                "5.8",
+                "5.8"
+              ],
+              "final_score": "38"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.2",
+                "4.4",
+                "6.6",
+                "9.9"
+              ],
+              "final_score": "63"
+            }
+          },
+          {
+            "datetime": "1962-04-23T14:20:00+00:00",
+            "attendance": "29,200",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.6",
+                "4.7",
+                "8.13",
+                "12.13"
+              ],
+              "final_score": "85"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.2",
+                "1.4",
+                "3.5",
+                "7.6"
+              ],
+              "final_score": "48"
+            }
+          },
+          {
+            "datetime": "1962-04-23T14:20:00+00:00",
+            "attendance": "22,340",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.6",
+                "8.9",
+                "12.10",
+                "14.13"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.5",
+                "6.9",
+                "10.12",
+                "13.13"
+              ],
+              "final_score": "91"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "2": {
+        "matches": [
+          {
+            "datetime": "1962-04-28T14:20:00+00:00",
+            "attendance": "17,784",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.3",
+                "6.4",
+                "9.8",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "8.5",
+                "10.8",
+                "11.9"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1962-04-28T14:20:00+00:00",
+            "attendance": "23,500",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.2",
+                "8.6",
+                "12.7",
+                "13.9"
+              ],
+              "final_score": "87"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.4",
+                "5.6",
+                "6.10",
+                "10.15"
+              ],
+              "final_score": "75"
+            }
+          },
+          {
+            "datetime": "1962-04-28T14:20:00+00:00",
+            "attendance": "15,496",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.3",
+                "4.6",
+                "6.7",
+                "7.9"
+              ],
+              "final_score": "51"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.0",
+                "8.3",
+                "9.7",
+                "10.8"
+              ],
+              "final_score": "68"
+            }
+          },
+          {
+            "datetime": "1962-04-28T14:20:00+00:00",
+            "attendance": "18,754",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.0",
+                "2.3",
+                "6.6",
+                "6.7"
+              ],
+              "final_score": "43"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.4",
+                "6.6",
+                "11.10",
+                "16.15"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1962-04-28T14:20:00+00:00",
+            "attendance": "20,344",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.1",
+                "2.6",
+                "4.7",
+                "7.7"
+              ],
+              "final_score": "49"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "3.0",
+                "5.4",
+                "7.6",
+                "8.8"
+              ],
+              "final_score": "56"
+            }
+          },
+          {
+            "datetime": "1962-04-28T14:20:00+00:00",
+            "attendance": "23,200",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "5.2",
+                "6.3",
+                "10.6",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.2",
+                "8.7",
+                "11.7",
+                "13.7"
+              ],
+              "final_score": "85"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "3": {
+        "matches": [
+          {
+            "datetime": "1962-05-05T14:20:00+00:00",
+            "attendance": "19,932",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "5.3",
+                "9.5",
+                "11.7",
+                "16.14"
+              ],
+              "final_score": "110"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.3",
+                "3.3",
+                "6.6",
+                "7.6"
+              ],
+              "final_score": "48"
+            }
+          },
+          {
+            "datetime": "1962-05-05T14:20:00+00:00",
+            "attendance": "29,840",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.1",
+                "4.5",
+                "5.9",
+                "7.14"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.6",
+                "6.7",
+                "11.9",
+                "15.10"
+              ],
+              "final_score": "100"
+            }
+          },
+          {
+            "datetime": "1962-05-05T14:20:00+00:00",
+            "attendance": "22,500",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.4",
+                "6.10",
+                "8.14",
+                "12.22"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.5",
+                "5.6",
+                "8.11",
+                "9.13"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1962-05-05T14:20:00+00:00",
+            "attendance": "16,981",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "1.1",
+                "4.8",
+                "6.8",
+                "9.11"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "6.2",
+                "9.4",
+                "13.5",
+                "16.7"
+              ],
+              "final_score": "103"
+            }
+          },
+          {
+            "datetime": "1962-05-05T14:20:00+00:00",
+            "attendance": "55,012",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.1",
+                "7.4",
+                "12.5",
+                "14.10"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.1",
+                "2.3",
+                "4.8",
+                "4.11"
+              ],
+              "final_score": "35"
+            }
+          },
+          {
+            "datetime": "1962-05-05T14:20:00+00:00",
+            "attendance": "25,819",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.2",
+                "9.5",
+                "12.10",
+                "18.10"
+              ],
+              "final_score": "118"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "6.3",
+                "10.7",
+                "12.7"
+              ],
+              "final_score": "79"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "4": {
+        "matches": [
+          {
+            "datetime": "1962-05-12T14:20:00+00:00",
+            "attendance": "22,300",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.2",
+                "7.3",
+                "10.6",
+                "12.6"
+              ],
+              "final_score": "78"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.3",
+                "4.7",
+                "9.8",
+                "12.19"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1962-05-12T14:20:00+00:00",
+            "attendance": "31,315",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.3",
+                "3.8",
+                "4.13",
+                "6.15"
+              ],
+              "final_score": "51"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.2",
+                "4.3",
+                "8.6",
+                "12.11"
+              ],
+              "final_score": "83"
+            }
+          },
+          {
+            "datetime": "1962-05-12T14:20:00+00:00",
+            "attendance": "37,300",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.4",
+                "8.7",
+                "9.9",
+                "10.15"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.3",
+                "5.6",
+                "7.12",
+                "11.13"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1962-05-12T14:20:00+00:00",
+            "attendance": "13,116",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.2",
+                "5.7",
+                "6.11",
+                "7.14"
+              ],
+              "final_score": "56"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.4",
+                "9.5",
+                "13.10",
+                "18.13"
+              ],
+              "final_score": "121"
+            }
+          },
+          {
+            "datetime": "1962-05-12T14:20:00+00:00",
+            "attendance": "24,168",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.7",
+                "6.12",
+                "14.14",
+                "17.17"
+              ],
+              "final_score": "119"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.3",
+                "6.6",
+                "7.8",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1962-05-12T14:20:00+00:00",
+            "attendance": "24,366",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.3",
+                "7.8",
+                "10.10",
+                "13.15"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "7.0",
+                "11.5",
+                "15.9",
+                "18.10"
+              ],
+              "final_score": "118"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "5": {
+        "matches": [
+          {
+            "datetime": "1962-05-19T14:20:00+00:00",
+            "attendance": "36,457",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "4.3",
+                "6.6",
+                "11.7"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.2",
+                "8.8",
+                "12.11",
+                "17.16"
+              ],
+              "final_score": "118"
+            }
+          },
+          {
+            "datetime": "1962-05-19T14:20:00+00:00",
+            "attendance": "27,788",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "0.1",
+                "4.4",
+                "6.6",
+                "11.9"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.4",
+                "3.6",
+                "9.8",
+                "13.9"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1962-05-19T14:20:00+00:00",
+            "attendance": "17,670",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.5",
+                "7.9",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.6",
+                "3.9",
+                "8.12",
+                "13.16"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1962-05-19T14:20:00+00:00",
+            "attendance": "30,661",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.5",
+                "6.9",
+                "12.9",
+                "13.12"
+              ],
+              "final_score": "90"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.3",
+                "3.8",
+                "5.14",
+                "9.19"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1962-05-19T14:20:00+00:00",
+            "attendance": "18,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.1",
+                "7.2",
+                "9.4",
+                "11.8"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.5",
+                "4.6",
+                "6.12",
+                "9.16"
+              ],
+              "final_score": "70"
+            }
+          },
+          {
+            "datetime": "1962-05-19T14:20:00+00:00",
+            "attendance": "20,748",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.2",
+                "9.4",
+                "13.6",
+                "16.8"
+              ],
+              "final_score": "104"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "2.1",
+                "4.1",
+                "7.3",
+                "13.5"
+              ],
+              "final_score": "83"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "6": {
+        "matches": [
+          {
+            "datetime": "1962-05-26T14:20:00+00:00",
+            "attendance": "34,528",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.0",
+                "6.3",
+                "9.8",
+                "12.8"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "3.3",
+                "8.4",
+                "10.4"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1962-05-26T14:20:00+00:00",
+            "attendance": "37,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.0",
+                "8.3",
+                "11.7",
+                "14.9"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "8.2",
+                "8.4",
+                "11.7",
+                "13.9"
+              ],
+              "final_score": "87"
+            }
+          },
+          {
+            "datetime": "1962-05-26T14:20:00+00:00",
+            "attendance": "14,781",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.0",
+                "1.5",
+                "3.9",
+                "11.13"
+              ],
+              "final_score": "79"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.3",
+                "2.4",
+                "4.5",
+                "8.8"
+              ],
+              "final_score": "56"
+            }
+          },
+          {
+            "datetime": "1962-05-26T14:20:00+00:00",
+            "attendance": "14,140",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "0.3",
+                "3.8",
+                "5.10",
+                "6.14"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "7.6",
+                "10.8",
+                "14.12",
+                "19.15"
+              ],
+              "final_score": "129"
+            }
+          },
+          {
+            "datetime": "1962-05-26T14:20:00+00:00",
+            "attendance": "25,137",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "0.4",
+                "2.7",
+                "7.10",
+                "8.15"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.2",
+                "1.4",
+                "1.7",
+                "1.11"
+              ],
+              "final_score": "17"
+            }
+          },
+          {
+            "datetime": "1962-05-26T14:20:00+00:00",
+            "attendance": "23,600",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.1",
+                "6.4",
+                "9.7",
+                "13.10"
+              ],
+              "final_score": "88"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.4",
+                "7.5",
+                "9.6",
+                "12.8"
+              ],
+              "final_score": "80"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "7": {
+        "matches": [
+          {
+            "datetime": "1962-06-02T14:20:00+00:00",
+            "attendance": "40,224",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "5.4",
+                "8.7",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.0",
+                "1.3",
+                "3.3",
+                "4.4"
+              ],
+              "final_score": "28"
+            }
+          },
+          {
+            "datetime": "1962-06-02T14:20:00+00:00",
+            "attendance": "25,640",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "0.7",
+                "3.7",
+                "6.10",
+                "7.11"
+              ],
+              "final_score": "53"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.3",
+                "11.6",
+                "14.9",
+                "16.15"
+              ],
+              "final_score": "111"
+            }
+          },
+          {
+            "datetime": "1962-06-02T14:20:00+00:00",
+            "attendance": "16,973",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.2",
+                "7.4",
+                "9.6",
+                "14.7"
+              ],
+              "final_score": "91"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.4",
+                "1.7",
+                "4.11",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          },
+          {
+            "datetime": "1962-06-04T14:20:00+00:00",
+            "attendance": "32,000",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "0.6",
+                "3.8",
+                "8.10",
+                "10.10"
+              ],
+              "final_score": "70"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.2",
+                "2.6",
+                "4.6",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1962-06-04T14:20:00+00:00",
+            "attendance": "29,230",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.10",
+                "6.13",
+                "10.15",
+                "13.22"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "2.3",
+                "6.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1962-06-04T14:20:00+00:00",
+            "attendance": "28,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "2.1",
+                "4.5",
+                "7.6",
+                "9.8"
+              ],
+              "final_score": "62"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.5",
+                "6.9",
+                "9.16",
+                "12.22"
+              ],
+              "final_score": "94"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "8": {
+        "matches": [
+          {
+            "datetime": "1962-06-09T14:20:00+00:00",
+            "attendance": "38,300",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.3",
+                "3.7",
+                "4.8",
+                "5.13"
+              ],
+              "final_score": "43"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.4",
+                "3.5",
+                "6.7",
+                "6.10"
+              ],
+              "final_score": "46"
+            }
+          },
+          {
+            "datetime": "1962-06-09T14:20:00+00:00",
+            "attendance": "18,503",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.1",
+                "3.6",
+                "4.6",
+                "7.10"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.4",
+                "9.7",
+                "13.17",
+                "15.19"
+              ],
+              "final_score": "109"
+            }
+          },
+          {
+            "datetime": "1962-06-09T14:20:00+00:00",
+            "attendance": "21,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.4",
+                "3.8",
+                "7.11",
+                "9.15"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "0.1",
+                "3.7",
+                "3.9",
+                "7.10"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1962-06-09T14:20:00+00:00",
+            "attendance": "15,499",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.2",
+                "4.2",
+                "10.4",
+                "12.4"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "0.1",
+                "5.8",
+                "6.16",
+                "9.20"
+              ],
+              "final_score": "74"
+            }
+          },
+          {
+            "datetime": "1962-06-09T14:20:00+00:00",
+            "attendance": "26,066",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.4",
+                "4.4",
+                "8.7",
+                "9.10"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "5.2",
+                "5.6",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1962-06-09T14:20:00+00:00",
+            "attendance": "17,872",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.1",
+                "3.4",
+                "5.6",
+                "9.10"
+              ],
+              "final_score": "64"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.3",
+                "5.4",
+                "5.7",
+                "6.8"
+              ],
+              "final_score": "44"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "9": {
+        "matches": [
+          {
+            "datetime": "1962-06-23T14:20:00+00:00",
+            "attendance": "32,400",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.1",
+                "4.4",
+                "8.6",
+                "12.9"
+              ],
+              "final_score": "81"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "5.1",
+                "6.2",
+                "7.8",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1962-06-23T14:20:00+00:00",
+            "attendance": "26,488",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "0.2",
+                "6.6",
+                "8.9",
+                "10.14"
+              ],
+              "final_score": "74"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "4.0",
+                "5.4",
+                "7.9",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1962-06-23T14:20:00+00:00",
+            "attendance": "35,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "4.6",
+                "6.8",
+                "11.12",
+                "15.17"
+              ],
+              "final_score": "107"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.0",
+                "6.2",
+                "8.3",
+                "10.7"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1962-06-23T14:20:00+00:00",
+            "attendance": "8,470",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "4.3",
+                "5.4",
+                "8.7",
+                "10.8"
+              ],
+              "final_score": "68"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.2",
+                "5.3",
+                "7.5",
+                "10.7"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1962-06-23T14:20:00+00:00",
+            "attendance": "48,952",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.5",
+                "7.10",
+                "9.15",
+                "11.18"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "3.1",
+                "4.3",
+                "8.5",
+                "11.6"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1962-06-23T14:20:00+00:00",
+            "attendance": "17,900",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "3.4",
+                "6.8",
+                "8.11",
+                "10.13"
+              ],
+              "final_score": "73"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "5.1",
+                "7.6",
+                "10.9",
+                "11.13"
+              ],
+              "final_score": "79"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "10": {
+        "matches": [
+          {
+            "datetime": "1962-06-30T14:20:00+00:00",
+            "attendance": "20,340",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.6",
+                "3.8",
+                "6.11",
+                "6.15"
+              ],
+              "final_score": "51"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "4.4",
+                "5.5",
+                "7.10"
+              ],
+              "final_score": "52"
+            }
+          },
+          {
+            "datetime": "1962-06-30T14:20:00+00:00",
+            "attendance": "25,479",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.5",
+                "7.7",
+                "12.12",
+                "14.16"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.2",
+                "8.6",
+                "11.8",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1962-06-30T14:20:00+00:00",
+            "attendance": "86,275",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.3",
+                "4.6",
+                "4.9",
+                "7.13"
+              ],
+              "final_score": "55"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "1.2",
+                "5.5",
+                "9.9",
+                "10.13"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1962-06-30T14:20:00+00:00",
+            "attendance": "20,579",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.1",
+                "8.3",
+                "9.6",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "0.7",
+                "1.10",
+                "5.15",
+                "8.17"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1962-06-30T14:20:00+00:00",
+            "attendance": "23,295",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.2",
+                "3.5",
+                "5.7",
+                "7.10"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.3",
+                "1.4",
+                "4.7",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          },
+          {
+            "datetime": "1962-06-30T14:20:00+00:00",
+            "attendance": "10,950",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.3",
+                "2.4",
+                "6.6",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.5",
+                "7.7",
+                "11.11",
+                "12.14"
+              ],
+              "final_score": "86"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "11": {
+        "matches": [
+          {
+            "datetime": "1962-07-07T14:20:00+00:00",
+            "attendance": "20,200",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.4",
+                "6.6",
+                "12.10",
+                "17.14"
+              ],
+              "final_score": "116"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.2",
+                "2.5",
+                "4.10",
+                "6.12"
+              ],
+              "final_score": "48"
+            }
+          },
+          {
+            "datetime": "1962-07-07T14:20:00+00:00",
+            "attendance": "37,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.4",
+                "5.5",
+                "9.10",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.2",
+                "5.6",
+                "10.9",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1962-07-07T14:20:00+00:00",
+            "attendance": "18,479",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.2",
+                "5.5",
+                "8.12",
+                "10.16"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.6",
+                "5.7",
+                "6.8",
+                "9.12"
+              ],
+              "final_score": "66"
+            }
+          },
+          {
+            "datetime": "1962-07-07T14:20:00+00:00",
+            "attendance": "34,032",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "3.1",
+                "3.5",
+                "6.6",
+                "8.10"
+              ],
+              "final_score": "58"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "7.2",
+                "12.5",
+                "18.7",
+                "20.9"
+              ],
+              "final_score": "129"
+            }
+          },
+          {
+            "datetime": "1962-07-07T14:20:00+00:00",
+            "attendance": "18,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.4",
+                "5.7",
+                "6.12",
+                "11.14"
+              ],
+              "final_score": "80"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "5.4",
+                "8.9",
+                "13.12",
+                "14.12"
+              ],
+              "final_score": "96"
+            }
+          },
+          {
+            "datetime": "1962-07-07T14:20:00+00:00",
+            "attendance": "17,750",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "0.1",
+                "3.4",
+                "6.6",
+                "10.8"
+              ],
+              "final_score": "68"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.2",
+                "6.3",
+                "10.4",
+                "12.6"
+              ],
+              "final_score": "78"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "12": {
+        "matches": [
+          {
+            "datetime": "1962-07-14T14:20:00+00:00",
+            "attendance": "30,594",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.1",
+                "6.5",
+                "7.8",
+                "8.9"
+              ],
+              "final_score": "57"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "3.3",
+                "7.5",
+                "7.7",
+                "11.7"
+              ],
+              "final_score": "73"
+            }
+          },
+          {
+            "datetime": "1962-07-14T14:20:00+00:00",
+            "attendance": "29,500",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.2",
+                "10.5",
+                "13.8",
+                "16.12"
+              ],
+              "final_score": "108"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "5.4",
+                "8.7",
+                "11.12",
+                "12.13"
+              ],
+              "final_score": "85"
+            }
+          },
+          {
+            "datetime": "1962-07-14T14:20:00+00:00",
+            "attendance": "21,326",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.3",
+                "0.9",
+                "2.14",
+                "5.19"
+              ],
+              "final_score": "49"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "5.5",
+                "7.11",
+                "10.16",
+                "14.18"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "1962-07-14T14:20:00+00:00",
+            "attendance": "16,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.0",
+                "9.0",
+                "11.3",
+                "13.6"
+              ],
+              "final_score": "84"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.3",
+                "9.3",
+                "12.5",
+                "16.6"
+              ],
+              "final_score": "102"
+            }
+          },
+          {
+            "datetime": "1962-07-14T14:20:00+00:00",
+            "attendance": "21,174",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "4.1",
+                "5.2",
+                "10.6",
+                "10.9"
+              ],
+              "final_score": "69"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "4.1",
+                "8.6",
+                "10.9",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1962-07-14T14:20:00+00:00",
+            "attendance": "9,543",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.6",
+                "6.12",
+                "8.15",
+                "12.22"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.5",
+                "2.10",
+                "4.13",
+                "5.15"
+              ],
+              "final_score": "45"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "13": {
+        "matches": [
+          {
+            "datetime": "1962-07-21T14:20:00+00:00",
+            "attendance": "19,029",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.2",
+                "6.5",
+                "6.8",
+                "9.13"
+              ],
+              "final_score": "67"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "0.2",
+                "1.6",
+                "4.11",
+                "6.15"
+              ],
+              "final_score": "51"
+            }
+          },
+          {
+            "datetime": "1962-07-21T14:20:00+00:00",
+            "attendance": "16,848",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "4.3",
+                "10.5",
+                "12.6",
+                "15.9"
+              ],
+              "final_score": "99"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.1",
+                "6.3",
+                "7.3",
+                "9.6"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1962-07-21T14:20:00+00:00",
+            "attendance": "20,500",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.4",
+                "5.4",
+                "9.7",
+                "13.11"
+              ],
+              "final_score": "89"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.1",
+                "5.4",
+                "8.5",
+                "8.7"
+              ],
+              "final_score": "55"
+            }
+          },
+          {
+            "datetime": "1962-07-21T14:20:00+00:00",
+            "attendance": "17,721",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "4.1",
+                "4.1",
+                "10.4",
+                "10.5"
+              ],
+              "final_score": "65"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "0.1",
+                "1.11",
+                "1.11",
+                "5.16"
+              ],
+              "final_score": "46"
+            }
+          },
+          {
+            "datetime": "1962-07-21T14:20:00+00:00",
+            "attendance": "51,470",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.2",
+                "3.4",
+                "7.7",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.3",
+                "5.8",
+                "6.17",
+                "10.19"
+              ],
+              "final_score": "79"
+            }
+          },
+          {
+            "datetime": "1962-07-21T14:20:00+00:00",
+            "attendance": "14,380",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.4",
+                "6.6",
+                "9.9",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.4",
+                "2.9",
+                "3.9",
+                "11.14"
+              ],
+              "final_score": "80"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "14": {
+        "matches": [
+          {
+            "datetime": "1962-07-28T14:20:00+00:00",
+            "attendance": "16,436",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.0",
+                "4.3",
+                "4.4",
+                "7.6"
+              ],
+              "final_score": "48"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "4.4",
+                "5.5",
+                "10.7",
+                "11.12"
+              ],
+              "final_score": "78"
+            }
+          },
+          {
+            "datetime": "1962-07-28T14:20:00+00:00",
+            "attendance": "19,115",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "6.3",
+                "7.4",
+                "10.8",
+                "11.10"
+              ],
+              "final_score": "76"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.1",
+                "9.5",
+                "9.7",
+                "10.12"
+              ],
+              "final_score": "72"
+            }
+          },
+          {
+            "datetime": "1962-07-28T14:20:00+00:00",
+            "attendance": "24,043",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.3",
+                "7.7",
+                "8.8",
+                "11.17"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "6.4",
+                "9.6",
+                "12.12",
+                "12.12"
+              ],
+              "final_score": "84"
+            }
+          },
+          {
+            "datetime": "1962-07-28T14:20:00+00:00",
+            "attendance": "18,450",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.2",
+                "8.8",
+                "11.11",
+                "13.16"
+              ],
+              "final_score": "94"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.2",
+                "2.5",
+                "5.5",
+                "8.6"
+              ],
+              "final_score": "54"
+            }
+          },
+          {
+            "datetime": "1962-07-28T14:20:00+00:00",
+            "attendance": "28,801",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.5",
+                "3.7",
+                "4.9",
+                "6.11"
+              ],
+              "final_score": "47"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.4",
+                "3.9",
+                "8.12",
+                "9.14"
+              ],
+              "final_score": "68"
+            }
+          },
+          {
+            "datetime": "1962-07-28T14:20:00+00:00",
+            "attendance": "18,000",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "0.4",
+                "4.8",
+                "8.9",
+                "11.17"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "1.7",
+                "6.9",
+                "14.11",
+                "16.13"
+              ],
+              "final_score": "109"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "15": {
+        "matches": [
+          {
+            "datetime": "1962-08-04T14:20:00+00:00",
+            "attendance": "18,250",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.1",
+                "4.3",
+                "6.8",
+                "8.11"
+              ],
+              "final_score": "59"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.1",
+                "2.6",
+                "6.7",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1962-08-04T14:20:00+00:00",
+            "attendance": "54,312",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.3",
+                "7.6",
+                "13.8",
+                "14.8"
+              ],
+              "final_score": "92"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.3",
+                "6.5",
+                "7.7",
+                "11.11"
+              ],
+              "final_score": "77"
+            }
+          },
+          {
+            "datetime": "1962-08-04T14:20:00+00:00",
+            "attendance": "26,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.0",
+                "6.1",
+                "10.3",
+                "15.7"
+              ],
+              "final_score": "97"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.3",
+                "3.5",
+                "4.12",
+                "5.17"
+              ],
+              "final_score": "47"
+            }
+          },
+          {
+            "datetime": "1962-08-04T14:20:00+00:00",
+            "attendance": "9,399",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.4",
+                "3.5",
+                "7.7",
+                "7.8"
+              ],
+              "final_score": "50"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "0.1",
+                "3.4",
+                "5.7",
+                "8.12"
+              ],
+              "final_score": "60"
+            }
+          },
+          {
+            "datetime": "1962-08-04T14:20:00+00:00",
+            "attendance": "17,260",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.3",
+                "2.7",
+                "6.7",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "1.5",
+                "7.8",
+                "8.14",
+                "10.20"
+              ],
+              "final_score": "80"
+            }
+          },
+          {
+            "datetime": "1962-08-04T14:20:00+00:00",
+            "attendance": "23,555",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.1",
+                "7.4",
+                "11.6",
+                "15.8"
+              ],
+              "final_score": "98"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.5",
+                "3.8",
+                "5.9",
+                "7.12"
+              ],
+              "final_score": "54"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "16": {
+        "matches": [
+          {
+            "datetime": "1962-08-11T14:20:00+00:00",
+            "attendance": "39,000",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.1",
+                "6.4",
+                "7.7",
+                "10.11"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "1.2",
+                "5.3",
+                "5.8",
+                "9.8"
+              ],
+              "final_score": "62"
+            }
+          },
+          {
+            "datetime": "1962-08-11T14:20:00+00:00",
+            "attendance": "30,865",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "1.5",
+                "2.7",
+                "5.10",
+                "7.11"
+              ],
+              "final_score": "53"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "2.9",
+                "6.15",
+                "8.18",
+                "12.23"
+              ],
+              "final_score": "95"
+            }
+          },
+          {
+            "datetime": "1962-08-11T14:20:00+00:00",
+            "attendance": "10,169",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "6.7",
+                "10.8",
+                "13.10",
+                "17.16"
+              ],
+              "final_score": "118"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "2.3",
+                "12.5",
+                "17.7",
+                "22.11"
+              ],
+              "final_score": "143"
+            }
+          },
+          {
+            "datetime": "1962-08-11T14:20:00+00:00",
+            "attendance": "26,300",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "1.4",
+                "7.7",
+                "10.10",
+                "12.14"
+              ],
+              "final_score": "86"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.2",
+                "2.3",
+                "8.7",
+                "11.10"
+              ],
+              "final_score": "76"
+            }
+          },
+          {
+            "datetime": "1962-08-11T14:20:00+00:00",
+            "attendance": "15,992",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "3.2",
+                "5.4",
+                "9.9",
+                "11.11"
+              ],
+              "final_score": "77"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "4.0",
+                "8.1",
+                "11.1",
+                "15.4"
+              ],
+              "final_score": "94"
+            }
+          },
+          {
+            "datetime": "1962-08-11T14:20:00+00:00",
+            "attendance": "10,339",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "1.3",
+                "3.5",
+                "7.8",
+                "10.11"
+              ],
+              "final_score": "71"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "1.5",
+                "4.10",
+                "8.14",
+                "11.17"
+              ],
+              "final_score": "83"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "17": {
+        "matches": [
+          {
+            "datetime": "1962-08-18T14:20:00+00:00",
+            "attendance": "32,550",
+            "venue": "Princes Park",
+            "home_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "6.6",
+                "10.10",
+                "14.11",
+                "17.14"
+              ],
+              "final_score": "116"
+            },
+            "away_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "3.0",
+                "4.3",
+                "6.4",
+                "11.8"
+              ],
+              "final_score": "74"
+            }
+          },
+          {
+            "datetime": "1962-08-18T14:20:00+00:00",
+            "attendance": "31,185",
+            "venue": "Western Oval",
+            "home_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "2.1",
+                "6.3",
+                "10.7",
+                "15.11"
+              ],
+              "final_score": "101"
+            },
+            "away_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "2.6",
+                "3.7",
+                "7.9",
+                "9.10"
+              ],
+              "final_score": "64"
+            }
+          },
+          {
+            "datetime": "1962-08-18T14:20:00+00:00",
+            "attendance": "9,600",
+            "venue": "Glenferrie Oval",
+            "home_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "3.4",
+                "5.6",
+                "11.10",
+                "12.11"
+              ],
+              "final_score": "83"
+            },
+            "away_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "3.2",
+                "9.6",
+                "12.7",
+                "13.13"
+              ],
+              "final_score": "91"
+            }
+          },
+          {
+            "datetime": "1962-08-18T14:20:00+00:00",
+            "attendance": "26,707",
+            "venue": "Kardinia Park",
+            "home_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "3.4",
+                "7.11",
+                "12.13",
+                "14.18"
+              ],
+              "final_score": "102"
+            },
+            "away_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "5.2",
+                "5.6",
+                "6.9",
+                "10.11"
+              ],
+              "final_score": "71"
+            }
+          },
+          {
+            "datetime": "1962-08-18T14:20:00+00:00",
+            "attendance": "18,360",
+            "venue": "Lake Oval",
+            "home_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "1.4",
+                "3.4",
+                "5.9",
+                "7.10"
+              ],
+              "final_score": "52"
+            },
+            "away_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.1",
+                "5.5",
+                "7.8",
+                "9.13"
+              ],
+              "final_score": "67"
+            }
+          },
+          {
+            "datetime": "1962-08-18T14:20:00+00:00",
+            "attendance": "20,752",
+            "venue": "Punt Rd",
+            "home_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "1.0",
+                "6.4",
+                "10.5",
+                "10.8"
+              ],
+              "final_score": "68"
+            },
+            "away_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "2.5",
+                "3.8",
+                "7.14",
+                "8.16"
+              ],
+              "final_score": "64"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "18": {
+        "matches": [
+          {
+            "datetime": "1962-08-25T14:20:00+00:00",
+            "attendance": "54,264",
+            "venue": "M.C.G.",
+            "home_team": {
+              "name": "Melbourne",
+              "scoreline": [
+                "2.3",
+                "5.4",
+                "8.8",
+                "11.9"
+              ],
+              "final_score": "75"
+            },
+            "away_team": {
+              "name": "Carlton",
+              "scoreline": [
+                "2.4",
+                "3.5",
+                "4.6",
+                "5.10"
+              ],
+              "final_score": "40"
+            }
+          },
+          {
+            "datetime": "1962-08-25T14:20:00+00:00",
+            "attendance": "23,936",
+            "venue": "Victoria Park",
+            "home_team": {
+              "name": "Collingwood",
+              "scoreline": [
+                "2.7",
+                "4.8",
+                "11.9",
+                "12.10"
+              ],
+              "final_score": "82"
+            },
+            "away_team": {
+              "name": "Footscray",
+              "scoreline": [
+                "0.3",
+                "2.7",
+                "3.7",
+                "7.11"
+              ],
+              "final_score": "53"
+            }
+          },
+          {
+            "datetime": "1962-08-25T14:20:00+00:00",
+            "attendance": "20,900",
+            "venue": "Windy Hill",
+            "home_team": {
+              "name": "Essendon",
+              "scoreline": [
+                "3.5",
+                "5.6",
+                "8.13",
+                "13.15"
+              ],
+              "final_score": "93"
+            },
+            "away_team": {
+              "name": "South Melbourne",
+              "scoreline": [
+                "4.3",
+                "7.8",
+                "8.9",
+                "13.10"
+              ],
+              "final_score": "88"
+            }
+          },
+          {
+            "datetime": "1962-08-25T14:20:00+00:00",
+            "attendance": "18,447",
+            "venue": "Brunswick St",
+            "home_team": {
+              "name": "Fitzroy",
+              "scoreline": [
+                "2.1",
+                "3.3",
+                "3.10",
+                "5.14"
+              ],
+              "final_score": "44"
+            },
+            "away_team": {
+              "name": "Geelong",
+              "scoreline": [
+                "4.2",
+                "8.6",
+                "14.10",
+                "18.14"
+              ],
+              "final_score": "122"
+            }
+          },
+          {
+            "datetime": "1962-08-25T14:20:00+00:00",
+            "attendance": "17,450",
+            "venue": "Junction Oval",
+            "home_team": {
+              "name": "St Kilda",
+              "scoreline": [
+                "4.5",
+                "7.8",
+                "11.15",
+                "14.16"
+              ],
+              "final_score": "100"
+            },
+            "away_team": {
+              "name": "Hawthorn",
+              "scoreline": [
+                "1.0",
+                "4.3",
+                "5.7",
+                "9.11"
+              ],
+              "final_score": "65"
+            }
+          },
+          {
+            "datetime": "1962-08-25T14:20:00+00:00",
+            "attendance": "10,602",
+            "venue": "Arden St",
+            "home_team": {
+              "name": "North Melbourne",
+              "scoreline": [
+                "3.3",
+                "3.5",
+                "6.8",
+                "9.9"
+              ],
+              "final_score": "63"
+            },
+            "away_team": {
+              "name": "Richmond",
+              "scoreline": [
+                "2.1",
+                "6.4",
+                "7.6",
+                "12.10"
+              ],
+              "final_score": "82"
+            }
+          }
+        ],
+        "byes": [
+
+        ]
+      },
+      "19": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "20": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "21": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      },
+      "22": {
+        "matches": [
+
+        ],
+        "byes": [
+
+        ]
+      }
+    }
+  }
+}
