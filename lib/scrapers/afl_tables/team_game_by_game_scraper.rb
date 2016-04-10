@@ -11,7 +11,7 @@ module Scrapers
 
       def execute
         process_players
-        write_data_file("#{team.name}.json")
+        write_data_file("#{team.name.downcase.gsub(" ","_")}.json")
       end
 
       private

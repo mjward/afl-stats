@@ -5,7 +5,7 @@
     },
     "adelaide": {
       "players": {
-        "Atkins, Rory": {
+        "Rory Atkins": {
           "rounds": {
             "1": {
               "Disposals": "18",
@@ -57,7 +57,7 @@
             }
           }
         },
-        "Betts, Eddie": {
+        "Eddie Betts": {
           "rounds": {
             "1": {
               "Disposals": "15",
@@ -109,7 +109,7 @@
             }
           }
         },
-        "Brown, Luke": {
+        "Luke Brown": {
           "rounds": {
             "1": {
               "Disposals": "13",
@@ -161,7 +161,7 @@
             }
           }
         },
-        "Cheney, Kyle": {
+        "Kyle Cheney": {
           "rounds": {
             "1": {
               "Disposals": "11",
@@ -213,7 +213,7 @@
             }
           }
         },
-        "Crouch, Brad": {
+        "Brad Crouch": {
           "rounds": {
             "1": {
               "Disposals": "20",
@@ -265,7 +265,7 @@
             }
           }
         },
-        "Crouch, Matt": {
+        "Matt Crouch": {
           "rounds": {
             "1": {
               "Disposals": "23",
@@ -317,7 +317,7 @@
             }
           }
         },
-        "Douglas, Richard": {
+        "Richard Douglas": {
           "rounds": {
             "1": {
               "Disposals": "20",
@@ -369,7 +369,7 @@
             }
           }
         },
-        "Hartigan, Kyle": {
+        "Kyle Hartigan": {
           "rounds": {
             "1": {
               "Disposals": " ",
@@ -421,7 +421,7 @@
             }
           }
         },
-        "Jacobs, Sam": {
+        "Sam Jacobs": {
           "rounds": {
             "1": {
               "Disposals": "10",
@@ -473,7 +473,7 @@
             }
           }
         },
-        "Jenkins, Josh": {
+        "Josh Jenkins": {
           "rounds": {
             "1": {
               "Disposals": "10",
@@ -525,7 +525,7 @@
             }
           }
         },
-        "Laird, Rory": {
+        "Rory Laird": {
           "rounds": {
             "1": {
               "Disposals": "24",
@@ -577,7 +577,7 @@
             }
           }
         },
-        "Lever, Jake": {
+        "Jake Lever": {
           "rounds": {
             "1": {
               "Disposals": "11",
@@ -629,7 +629,7 @@
             }
           }
         },
-        "Lynch, Tom": {
+        "Tom Lynch": {
           "rounds": {
             "1": {
               "Disposals": "11",
@@ -681,7 +681,7 @@
             }
           }
         },
-        "Mackay, David": {
+        "David Mackay": {
           "rounds": {
             "1": {
               "Disposals": "13",
@@ -733,7 +733,7 @@
             }
           }
         },
-        "McGovern, Mitch": {
+        "Mitch McGovern": {
           "rounds": {
             "1": {
               "Disposals": "9",
@@ -785,7 +785,7 @@
             }
           }
         },
-        "Milera, Wayne": {
+        "Wayne Milera": {
           "rounds": {
             "1": {
               "Disposals": "7",
@@ -837,7 +837,7 @@
             }
           }
         },
-        "Seedsman, Paul": {
+        "Paul Seedsman": {
           "rounds": {
             "1": {
               "Disposals": "11",
@@ -889,7 +889,7 @@
             }
           }
         },
-        "Sloane, Rory": {
+        "Rory Sloane": {
           "rounds": {
             "1": {
               "Disposals": "19",
@@ -941,7 +941,7 @@
             }
           }
         },
-        "Smith, Brodie": {
+        "Brodie Smith": {
           "rounds": {
             "1": {
               "Disposals": "24",
@@ -993,7 +993,7 @@
             }
           }
         },
-        "Talia, Daniel": {
+        "Daniel Talia": {
           "rounds": {
             "1": {
               "Disposals": "16",
@@ -1045,7 +1045,7 @@
             }
           }
         },
-        "Thompson, Scott": {
+        "Scott Thompson": {
           "rounds": {
             "1": {
               "Disposals": "30",
@@ -1094,6 +1094,110 @@
               "Bounces": "-",
               "Goal Assists": "1",
               "% Played": "82"
+            }
+          }
+        },
+        "Taylor Walker": {
+          "rounds": {
+            "1": {
+              "Disposals": "18",
+              "Kicks": "13",
+              "Marks": "10",
+              "Handballs": "5",
+              "Goals": "2",
+              "Behinds": "3",
+              "Hit Outs": "-",
+              "Tackles": "1",
+              "Rebounds": "-",
+              "Inside 50s": "3",
+              "Clearances": "-",
+              "Clangers": "3",
+              "Frees": "2",
+              "Frees Against": "2",
+              "Contested Possessions": "7",
+              "Uncontested Possessions": "12",
+              "Contested Marks": "1",
+              "Marks Inside 50": "2",
+              "One Percenters": "2",
+              "Bounces": "-",
+              "Goal Assists": "-",
+              "% Played": "88"
+            },
+            "2": {
+              "Disposals": "11",
+              "Kicks": "7",
+              "Marks": "3",
+              "Handballs": "4",
+              "Goals": "2",
+              "Behinds": "2",
+              "Hit Outs": "-",
+              "Tackles": "1",
+              "Rebounds": "-",
+              "Inside 50s": "2",
+              "Clearances": "-",
+              "Clangers": "2",
+              "Frees": "-",
+              "Frees Against": "2",
+              "Contested Possessions": "6",
+              "Uncontested Possessions": "5",
+              "Contested Marks": "2",
+              "Marks Inside 50": "2",
+              "One Percenters": "1",
+              "Bounces": "-",
+              "Goal Assists": "-",
+              "% Played": "81"
+            }
+          }
+        },
+        "Nathan van Berlo": {
+          "rounds": {
+            "1": {
+              "Disposals": "9",
+              "Kicks": "5",
+              "Marks": "-",
+              "Handballs": "4",
+              "Goals": "-",
+              "Behinds": "-",
+              "Hit Outs": "-",
+              "Tackles": "3",
+              "Rebounds": "1",
+              "Inside 50s": "3",
+              "Clearances": "-",
+              "Clangers": "2",
+              "Frees": "1",
+              "Frees Against": "-",
+              "Contested Possessions": "5",
+              "Uncontested Possessions": "4",
+              "Contested Marks": "-",
+              "Marks Inside 50": "-",
+              "One Percenters": "5",
+              "Bounces": "-",
+              "Goal Assists": "1",
+              "% Played": "77"
+            },
+            "2": {
+              "Disposals": " ",
+              "Kicks": " ",
+              "Marks": " ",
+              "Handballs": " ",
+              "Goals": " ",
+              "Behinds": " ",
+              "Hit Outs": " ",
+              "Tackles": " ",
+              "Rebounds": " ",
+              "Inside 50s": " ",
+              "Clearances": " ",
+              "Clangers": " ",
+              "Frees": " ",
+              "Frees Against": " ",
+              "Contested Possessions": " ",
+              "Uncontested Possessions": " ",
+              "Contested Marks": " ",
+              "Marks Inside 50": " ",
+              "One Percenters": " ",
+              "Bounces": " ",
+              "Goal Assists": " ",
+              "% Played": " "
             }
           }
         }
