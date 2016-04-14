@@ -1,0 +1,249 @@
+{
+  "team_player_data": {
+    "year": 1903,
+    "teams": {
+      "Collingwood": [
+        {
+          "firstname": "Charlie",
+          "lastname": "Pannam",
+          "jumper": "—",
+          "dob": "1874-10-02",
+          "height": "173cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Fell",
+          "jumper": "—",
+          "dob": "1875-08-23",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Condon",
+          "jumper": "—",
+          "dob": "1876-03-19",
+          "height": "180cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "MonohanSnr",
+          "jumper": "—",
+          "dob": "1873-08-21",
+          "height": "184cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Teddy",
+          "lastname": "Lockwood",
+          "jumper": "—",
+          "dob": "1872-12-06",
+          "height": "177cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Rush",
+          "jumper": "—",
+          "dob": "1880-10-09",
+          "height": "177cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Leach",
+          "jumper": "—",
+          "dob": "1876-03-02",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Angus",
+          "jumper": "—",
+          "dob": "1875-04-15",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Pears",
+          "jumper": "—",
+          "dob": "1877-07-28",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Lardie",
+          "lastname": "Tulloch",
+          "jumper": "—",
+          "dob": "1871-04-15",
+          "height": "179cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Drohan",
+          "jumper": "—",
+          "dob": "1876-07-17",
+          "height": "171cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Rowell",
+          "jumper": "19",
+          "dob": "1876-06-15",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Incoll",
+          "jumper": "—",
+          "dob": "1879-02-14",
+          "height": "174cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Alf",
+          "lastname": "Dummett",
+          "jumper": "—",
+          "dob": "1880-12-08",
+          "height": "177cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "James'Jock'",
+          "lastname": "McHale",
+          "jumper": "17",
+          "dob": "1882-12-12",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Con",
+          "lastname": "McCormack",
+          "jumper": "—",
+          "dob": "1877-12-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Green",
+          "jumper": "—",
+          "dob": "1882-08-05",
+          "height": "174cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Lockwood",
+          "jumper": "—",
+          "dob": "1872-12-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Leach",
+          "jumper": "—",
+          "dob": "1883-04-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Proudfoot",
+          "jumper": "—",
+          "dob": "1868-06-11",
+          "height": "184cm",
+          "weight": "102kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Spears",
+          "jumper": "—",
+          "dob": "1877-07-29",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Leach",
+          "jumper": "—",
+          "dob": "1878-03-06",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Addison",
+          "jumper": "—",
+          "dob": "1884-01-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Johnny",
+          "lastname": "Dunn",
+          "jumper": "—",
+          "dob": "1881-03-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Ayling",
+          "jumper": "—",
+          "dob": "1878-07-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Allan",
+          "jumper": "—",
+          "dob": "1882-10-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Blair",
+          "jumper": "—",
+          "dob": "1874-02-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "McKean",
+          "jumper": "—",
+          "dob": "1884-08-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Wilmot",
+          "jumper": "—",
+          "dob": "1881-02-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Carmody",
+          "jumper": "—",
+          "dob": "1880-02-10",
+          "height": "—",
+          "weight": "—"
+        }
+      ]
+    }
+  }
+}

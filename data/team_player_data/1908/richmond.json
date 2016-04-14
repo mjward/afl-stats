@@ -1,0 +1,273 @@
+{
+  "team_player_data": {
+    "year": 1908,
+    "teams": {
+      "Richmond": [
+        {
+          "firstname": "Jack",
+          "lastname": "Megson",
+          "jumper": "—",
+          "dob": "1883-04-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Luff",
+          "jumper": "—",
+          "dob": "1886-01-15",
+          "height": "191cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Schmidt",
+          "jumper": "18",
+          "dob": "1887-12-29",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Mahoney",
+          "jumper": "10",
+          "dob": "1885-01-01",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Burns",
+          "jumper": "7",
+          "dob": "1884-08-19",
+          "height": "180cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Bourke",
+          "jumper": "—",
+          "dob": "1882-07-23",
+          "height": "—",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Condon",
+          "jumper": "—",
+          "dob": "1876-03-19",
+          "height": "180cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Incigneri",
+          "jumper": "—",
+          "dob": "1884-01-03",
+          "height": "180cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Hardiman",
+          "jumper": "—",
+          "dob": "1877-07-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Ohlson",
+          "jumper": "2",
+          "dob": "1886-10-15",
+          "height": "177cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Ivo",
+          "lastname": "Lawson",
+          "jumper": "—",
+          "dob": "1883-05-02",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Bowden",
+          "jumper": "23",
+          "dob": "1887-03-29",
+          "height": "168cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Pannam",
+          "jumper": "—",
+          "dob": "1874-10-02",
+          "height": "173cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Neil",
+          "jumper": "—",
+          "dob": "1882-09-13",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Herbert",
+          "lastname": "Hill",
+          "jumper": "—",
+          "dob": "1887-11-28",
+          "height": "178cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Emmett",
+          "lastname": "Ryan",
+          "jumper": "—",
+          "dob": "1885-08-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Gibson",
+          "jumper": "6",
+          "dob": "1885-06-23",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Chapman",
+          "jumper": "—",
+          "dob": "1889-05-24",
+          "height": "191cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Lang",
+          "jumper": "—",
+          "dob": "1882-07-06",
+          "height": "182cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Heaney",
+          "jumper": "6",
+          "dob": "1888-04-02",
+          "height": "178cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Stainer",
+          "jumper": "—",
+          "dob": "1888-10-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "O'Connell",
+          "jumper": "—",
+          "dob": "1883-04-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Speakman",
+          "jumper": "—",
+          "dob": "1885-11-05",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "McDonald",
+          "jumper": "—",
+          "dob": "1883-01-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Pemberton",
+          "jumper": "—",
+          "dob": "1883-01-11",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Charles",
+          "lastname": "Williams",
+          "jumper": "—",
+          "dob": "1881-01-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "StJohn",
+          "jumper": "—",
+          "dob": "1878-04-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Larkin",
+          "jumper": "—",
+          "dob": "1888-03-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Rankine",
+          "jumper": "—",
+          "dob": "1884-11-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "BarkerSnr",
+          "jumper": "—",
+          "dob": "1887-11-26",
+          "height": "183cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Alex",
+          "lastname": "Johnston",
+          "jumper": "—",
+          "dob": "1881-12-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Sanguinetti",
+          "jumper": "—",
+          "dob": "1886-05-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Hannaford",
+          "jumper": "—",
+          "dob": "1885-04-25",
+          "height": "—",
+          "weight": "—"
+        }
+      ]
+    }
+  }
+}

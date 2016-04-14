@@ -1,0 +1,321 @@
+{
+  "team_player_data": {
+    "year": 1905,
+    "teams": {
+      "Melbourne": [
+        {
+          "firstname": "Vin",
+          "lastname": "Coutie",
+          "jumper": "—",
+          "dob": "1881-10-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Sowden",
+          "jumper": "—",
+          "dob": "1878-04-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Howard",
+          "jumper": "—",
+          "dob": "1878-01-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Henderson",
+          "jumper": "—",
+          "dob": "1880-07-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "Purse",
+          "jumper": "26",
+          "dob": "1881-10-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Bowe",
+          "jumper": "—",
+          "dob": "1879-01-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bernie",
+          "lastname": "Nolan",
+          "jumper": "22",
+          "dob": "1883-10-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Horrie",
+          "lastname": "Drane",
+          "jumper": "—",
+          "dob": "1881-02-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Peacock",
+          "jumper": "—",
+          "dob": "1881-07-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Conquest",
+          "jumper": "—",
+          "dob": "1880-05-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Paddy",
+          "lastname": "Mills",
+          "jumper": "—",
+          "dob": "1884-03-17",
+          "height": "174cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Purse",
+          "jumper": "—",
+          "dob": "1879-06-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Pearce",
+          "jumper": "19",
+          "dob": "1885-01-28",
+          "height": "184cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Anderson",
+          "jumper": "—",
+          "dob": "1884-03-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Gardiner",
+          "jumper": "—",
+          "dob": "1881-05-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Parkin",
+          "jumper": "—",
+          "dob": "1879-06-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Cordner",
+          "jumper": "—",
+          "dob": "1885-06-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "MacKay",
+          "jumper": "—",
+          "dob": "1880-05-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Moodie",
+          "jumper": "—",
+          "dob": "1872-10-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Langley",
+          "jumper": "—",
+          "dob": "1882-10-13",
+          "height": "177cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Leith",
+          "jumper": "—",
+          "dob": "1872-08-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Cordner",
+          "jumper": "22",
+          "dob": "1887-06-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Strong",
+          "jumper": "24",
+          "dob": "1884-04-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Gardner",
+          "jumper": "—",
+          "dob": "1884-09-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Trend",
+          "jumper": "—",
+          "dob": "1878-11-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "McKellar",
+          "jumper": "—",
+          "dob": "1884-07-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Gardiner",
+          "jumper": "—",
+          "dob": "1885-10-23",
+          "height": "167cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Corrie",
+          "lastname": "Gardner",
+          "jumper": "—",
+          "dob": "1879-03-12",
+          "height": "171cm",
+          "weight": "63kg"
+        },
+        {
+          "firstname": "Art",
+          "lastname": "Gilchrist",
+          "jumper": "—",
+          "dob": "1879-08-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Hurrey",
+          "jumper": "—",
+          "dob": "1885-06-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Denton",
+          "jumper": "—",
+          "dob": "1881-04-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Willie",
+          "lastname": "Marshall",
+          "jumper": "—",
+          "dob": "1884-07-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Fleming",
+          "jumper": "—",
+          "dob": "1886-01-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Basil",
+          "lastname": "Onyons",
+          "jumper": "—",
+          "dob": "1887-03-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Brown",
+          "jumper": "—",
+          "dob": "1887-11-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ern",
+          "lastname": "Penrose",
+          "jumper": "—",
+          "dob": "1884-11-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Alick",
+          "lastname": "Ogilvie",
+          "jumper": "—",
+          "dob": "1887-01-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Adam",
+          "jumper": "—",
+          "dob": "1883-03-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Minto",
+          "jumper": "—",
+          "dob": "1886-07-11",
+          "height": "168cm",
+          "weight": "62kg"
+        }
+      ]
+    }
+  }
+}

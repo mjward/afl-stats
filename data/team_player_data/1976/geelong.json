@@ -1,0 +1,241 @@
+{
+  "team_player_data": {
+    "year": 1976,
+    "teams": {
+      "Geelong": [
+        {
+          "firstname": "Larry",
+          "lastname": "Donohue",
+          "jumper": "23",
+          "dob": "1955-04-22",
+          "height": "196cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Neal",
+          "jumper": "35",
+          "dob": "1956-12-16",
+          "height": "178cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Higgins",
+          "jumper": "39",
+          "dob": "1951-02-20",
+          "height": "183cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Clarke",
+          "jumper": "14",
+          "dob": "1952-12-31",
+          "height": "184cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Sheehan",
+          "jumper": "8",
+          "dob": "1953-08-01",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Nankervis",
+          "jumper": "40",
+          "dob": "1948-01-03",
+          "height": "183cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Hawkins",
+          "jumper": "26",
+          "dob": "1954-05-21",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Browne",
+          "jumper": "12",
+          "dob": "1954-11-19",
+          "height": "179cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "John'Sam'",
+          "lastname": "Newman",
+          "jumper": "17",
+          "dob": "1945-12-22",
+          "height": "189cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Turner",
+          "jumper": "9",
+          "dob": "1954-12-06",
+          "height": "183cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Sarah",
+          "jumper": "13",
+          "dob": "1953-12-19",
+          "height": "177cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Nankervis",
+          "jumper": "33",
+          "dob": "1950-08-14",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Woolnough",
+          "jumper": "10",
+          "dob": "1952-09-24",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Harvey",
+          "lastname": "Davis",
+          "jumper": "21",
+          "dob": "1953-03-04",
+          "height": "183cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Barkley",
+          "jumper": "5",
+          "dob": "1950-06-14",
+          "height": "189cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Preen",
+          "jumper": "38",
+          "dob": "1955-03-15",
+          "height": "187cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Landy",
+          "jumper": "2",
+          "dob": "1954-05-31",
+          "height": "183cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Blake",
+          "jumper": "16",
+          "dob": "1952-06-15",
+          "height": "199cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Bright",
+          "jumper": "4",
+          "dob": "1958-02-12",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Scarlett",
+          "jumper": "30",
+          "dob": "1947-05-29",
+          "height": "191cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Bryan",
+          "lastname": "Cousins",
+          "jumper": "24",
+          "dob": "1953-12-29",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Manson",
+          "jumper": "6",
+          "dob": "1951-02-11",
+          "height": "200cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Doyle",
+          "jumper": "36",
+          "dob": "1955-05-27",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Murray",
+          "lastname": "Witcombe",
+          "jumper": "18",
+          "dob": "1956-11-01",
+          "height": "182cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Armour",
+          "jumper": "28",
+          "dob": "1954-07-23",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Jeff",
+          "lastname": "Cassidy",
+          "jumper": "15",
+          "dob": "1956-09-27",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Woodman",
+          "jumper": "11",
+          "dob": "1955-06-07",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Nish",
+          "jumper": "37",
+          "dob": "1955-12-14",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Lewtas",
+          "jumper": "20",
+          "dob": "1954-02-25",
+          "height": "187cm",
+          "weight": "85kg"
+        }
+      ]
+    }
+  }
+}

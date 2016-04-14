@@ -1,0 +1,265 @@
+{
+  "team_player_data": {
+    "year": 1958,
+    "teams": {
+      "Fitzroy": [
+        {
+          "firstname": "Kevin",
+          "lastname": "Wright",
+          "jumper": "13",
+          "dob": "1933-02-19",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Campbell",
+          "jumper": "20",
+          "dob": "1936-07-22",
+          "height": "177cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Wiegard",
+          "jumper": "18",
+          "dob": "1938-01-07",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "MacKenzie",
+          "jumper": "29",
+          "dob": "1935-03-08",
+          "height": "175cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Jones",
+          "jumper": "17",
+          "dob": "1934-04-26",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Williams",
+          "jumper": "10",
+          "dob": "1932-07-10",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Aston",
+          "jumper": "6",
+          "dob": "1937-10-14",
+          "height": "170cm",
+          "weight": "64kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Henderson",
+          "jumper": "23",
+          "dob": "1934-01-27",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Gale",
+          "jumper": "33",
+          "dob": "1930-09-08",
+          "height": "185cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Owen",
+          "lastname": "Abrahams",
+          "jumper": "16",
+          "dob": "1933-07-25",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Ongarello",
+          "jumper": "5",
+          "dob": "1932-12-22",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Goodger",
+          "jumper": "15",
+          "dob": "1929-03-10",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Clark",
+          "jumper": "7",
+          "dob": "1936-05-25",
+          "height": "168cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Furness",
+          "jumper": "30",
+          "dob": "1930-11-09",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Vernon",
+          "jumper": "9",
+          "dob": "1934-04-03",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Murray",
+          "jumper": "2",
+          "dob": "1938-06-18",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "MacGregor",
+          "jumper": "14",
+          "dob": "1932-09-15",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Bromage",
+          "jumper": "37",
+          "dob": "1937-11-08",
+          "height": "183cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Slocum",
+          "jumper": "27",
+          "dob": "1936-08-16",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Davey",
+          "jumper": "11",
+          "dob": "1932-05-04",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Bruno",
+          "lastname": "Zorzi",
+          "jumper": "28",
+          "dob": "1937-12-10",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Harvey",
+          "jumper": "19",
+          "dob": "1935-11-11",
+          "height": "192cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Gotch",
+          "jumper": "4",
+          "dob": "1936-08-06",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Pert",
+          "jumper": "3",
+          "dob": "1936-01-28",
+          "height": "182cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Smyth",
+          "jumper": "21",
+          "dob": "1934-03-14",
+          "height": "169cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Barclay",
+          "jumper": "31",
+          "dob": "1938-02-27",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Dixon",
+          "jumper": "24",
+          "dob": "1936-02-21",
+          "height": "185cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Broockmann",
+          "jumper": "40",
+          "dob": "1936-05-06",
+          "height": "192cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Knight",
+          "jumper": "1",
+          "dob": "1931-05-03",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Roberts",
+          "jumper": "22",
+          "dob": "1937-10-28",
+          "height": "188cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "HughsonJnr",
+          "jumper": "8",
+          "dob": "1938-12-01",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Webb",
+          "jumper": "12",
+          "dob": "1933-03-31",
+          "height": "178cm",
+          "weight": "78kg"
+        }
+      ]
+    }
+  }
+}

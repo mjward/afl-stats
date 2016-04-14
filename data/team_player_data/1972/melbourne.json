@@ -1,0 +1,329 @@
+{
+  "team_player_data": {
+    "year": 1972,
+    "teams": {
+      "Melbourne": [
+        {
+          "firstname": "Greg",
+          "lastname": "Wells",
+          "jumper": "11",
+          "dob": "1950-06-06",
+          "height": "175cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Bourke",
+          "jumper": "14",
+          "dob": "1943-09-14",
+          "height": "179cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Callery",
+          "jumper": "35",
+          "dob": "1950-04-18",
+          "height": "165cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Alves",
+          "jumper": "15",
+          "dob": "1946-05-22",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Molloy",
+          "jumper": "21",
+          "dob": "1947-06-26",
+          "height": "183cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Hardeman",
+          "jumper": "33",
+          "dob": "1950-02-26",
+          "height": "187cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Davis",
+          "jumper": "6",
+          "dob": "1944-08-25",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Biffin",
+          "jumper": "19",
+          "dob": "1949-05-06",
+          "height": "182cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Parke",
+          "jumper": "26",
+          "dob": "1948-04-18",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Sullivan",
+          "jumper": "4",
+          "dob": "1949-01-18",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Ross",
+          "lastname": "Brewer",
+          "jumper": "27",
+          "dob": "1953-08-14",
+          "height": "188cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Clennett",
+          "jumper": "34",
+          "dob": "1950-01-25",
+          "height": "193cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Keenan",
+          "jumper": "8",
+          "dob": "1951-04-07",
+          "height": "197cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Kerley",
+          "jumper": "41",
+          "dob": "1953-01-25",
+          "height": "184cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Osborne",
+          "jumper": "7",
+          "dob": "1947-06-30",
+          "height": "187cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Collins",
+          "jumper": "12",
+          "dob": "1953-05-05",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Ritterman",
+          "jumper": "45",
+          "dob": "1951-09-20",
+          "height": "173cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Letcher",
+          "jumper": "30",
+          "dob": "1950-11-26",
+          "height": "189cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Townsend",
+          "jumper": "16",
+          "dob": "1943-06-16",
+          "height": "171cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Walker",
+          "jumper": "1",
+          "dob": "1948-09-12",
+          "height": "189cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Ross",
+          "lastname": "Dillon",
+          "jumper": "24",
+          "dob": "1947-12-10",
+          "height": "187cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Tilbrook",
+          "jumper": "18",
+          "dob": "1946-06-10",
+          "height": "184cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Denis",
+          "lastname": "Clark",
+          "jumper": "17",
+          "dob": "1950-04-22",
+          "height": "174cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "McKenzieJnr",
+          "jumper": "2",
+          "dob": "1950-05-31",
+          "height": "180cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Gallus",
+          "jumper": "5",
+          "dob": "1945-09-30",
+          "height": "191cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Sinclair",
+          "jumper": "23",
+          "dob": "1947-05-19",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Lloyd",
+          "lastname": "Burgmann",
+          "jumper": "10",
+          "dob": "1952-07-02",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Trevor",
+          "lastname": "Rollinson",
+          "jumper": "3",
+          "dob": "1947-07-17",
+          "height": "180cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "McSpeerin",
+          "jumper": "50",
+          "dob": "1952-08-05",
+          "height": "185cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Williamson",
+          "jumper": "54",
+          "dob": "1953-12-01",
+          "height": "188cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Carr",
+          "jumper": "22",
+          "dob": "1948-12-02",
+          "height": "180cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Yeo",
+          "jumper": "9",
+          "dob": "1947-05-22",
+          "height": "183cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Laurie",
+          "lastname": "Queay",
+          "jumper": "20",
+          "dob": "1952-11-17",
+          "height": "182cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Harrold",
+          "jumper": "46",
+          "dob": "1953-07-20",
+          "height": "185cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Anderson",
+          "jumper": "26",
+          "dob": "1951-08-31",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Lakes",
+          "jumper": "9",
+          "dob": "1949-08-23",
+          "height": "185cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Reid",
+          "jumper": "37",
+          "dob": "1953-02-25",
+          "height": "185cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Delmenico",
+          "jumper": "38",
+          "dob": "1952-08-21",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Noel",
+          "lastname": "Leary",
+          "jumper": "29",
+          "dob": "1949-09-03",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Dilnot",
+          "jumper": "39",
+          "dob": "1952-11-06",
+          "height": "178cm",
+          "weight": "71kg"
+        }
+      ]
+    }
+  }
+}

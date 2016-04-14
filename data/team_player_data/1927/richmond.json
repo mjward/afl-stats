@@ -1,0 +1,257 @@
+{
+  "team_player_data": {
+    "year": 1927,
+    "teams": {
+      "Richmond": [
+        {
+          "firstname": "Les",
+          "lastname": "Gallagher",
+          "jumper": "23",
+          "dob": "1904-07-10",
+          "height": "179cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Rudolph",
+          "jumper": "32",
+          "dob": "1901-04-29",
+          "height": "185cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "O'Halloran",
+          "jumper": "18",
+          "dob": "1904-12-24",
+          "height": "185cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Basil",
+          "lastname": "McCormack",
+          "jumper": "9",
+          "dob": "1904-08-03",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Harris",
+          "jumper": "2",
+          "dob": "1905-06-27",
+          "height": "174cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Geddes",
+          "jumper": "8",
+          "dob": "1903-11-04",
+          "height": "173cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Baggott",
+          "jumper": "14",
+          "dob": "1906-07-20",
+          "height": "182cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Weidner",
+          "jumper": "7",
+          "dob": "1907-03-03",
+          "height": "175cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Hayes",
+          "jumper": "20",
+          "dob": "1896-09-16",
+          "height": "163cm",
+          "weight": "60kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Bentley",
+          "jumper": "1",
+          "dob": "1906-12-13",
+          "height": "183cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "O'Brien",
+          "jumper": "25",
+          "dob": "1900-05-02",
+          "height": "173cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Dooley",
+          "lastname": "Lilburne",
+          "jumper": "16",
+          "dob": "1902-08-09",
+          "height": "182cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Angus",
+          "lastname": "MacIsaac",
+          "jumper": "24",
+          "dob": "1900-04-15",
+          "height": "187cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Spain",
+          "jumper": "11",
+          "dob": "1902-09-17",
+          "height": "183cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Donald",
+          "lastname": "Don",
+          "jumper": "17",
+          "dob": "1900-08-17",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Fincher",
+          "jumper": "10",
+          "dob": "1904-11-27",
+          "height": "168cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Murdoch",
+          "jumper": "13",
+          "dob": "1908-10-30",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "O'Neill",
+          "jumper": "4",
+          "dob": "1905-04-16",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Huggard",
+          "jumper": "31",
+          "dob": "1901-08-25",
+          "height": "177cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Hislop",
+          "jumper": "19",
+          "dob": "1895-08-25",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Lynch",
+          "jumper": "33",
+          "dob": "1902-03-13",
+          "height": "179cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "McCormack",
+          "jumper": "21",
+          "dob": "1904-06-04",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Cyril",
+          "lastname": "Powell",
+          "jumper": "7",
+          "dob": "1898-03-05",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Carl",
+          "lastname": "Watson",
+          "jumper": "22",
+          "dob": "1904-11-11",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Robinson",
+          "jumper": "3",
+          "dob": "1901-05-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Jamison",
+          "jumper": "28",
+          "dob": "1905-11-13",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Stainsby",
+          "jumper": "27",
+          "dob": "1898-06-07",
+          "height": "170cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Kight",
+          "jumper": "5",
+          "dob": "1905-09-19",
+          "height": "170cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Millar",
+          "jumper": "14",
+          "dob": "1906-08-15",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Ford",
+          "jumper": "6",
+          "dob": "1906-07-18",
+          "height": "191cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Titus",
+          "jumper": "12",
+          "dob": "1908-03-09",
+          "height": "175cm",
+          "weight": "66kg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "team_player_data": {
+    "year": 1965,
+    "teams": {
+      "Western Bulldogs": [
+        {
+          "firstname": "Murray",
+          "lastname": "Zeuschner",
+          "jumper": "1",
+          "dob": "1938-11-25",
+          "height": "191cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "McKenzie",
+          "jumper": "30",
+          "dob": "1942-07-22",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Merv",
+          "lastname": "Hobbs",
+          "jumper": "2",
+          "dob": "1942-06-16",
+          "height": "175cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Jillard",
+          "jumper": "25",
+          "dob": "1941-03-28",
+          "height": "183cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Bryant",
+          "jumper": "5",
+          "dob": "1942-06-11",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Stevens",
+          "jumper": "4",
+          "dob": "1944-02-15",
+          "height": "193cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Schultz",
+          "jumper": "14",
+          "dob": "1938-09-28",
+          "height": "191cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Chalmers",
+          "jumper": "27",
+          "dob": "1944-06-29",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Algy",
+          "lastname": "Vosilaitis",
+          "jumper": "34",
+          "dob": "1943-01-29",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Darcy",
+          "jumper": "15",
+          "dob": "1943-08-11",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Duff",
+          "jumper": "16",
+          "dob": "1941-12-31",
+          "height": "185cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "WhittenSnr",
+          "jumper": "3",
+          "dob": "1933-07-27",
+          "height": "184cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Mannix",
+          "jumper": "8",
+          "dob": "1947-05-09",
+          "height": "182cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Ion",
+          "jumper": "17",
+          "dob": "1940-10-12",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ivan",
+          "lastname": "Marsh",
+          "jumper": "33",
+          "dob": "1943-05-24",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Bradley",
+          "jumper": "20",
+          "dob": "1943-05-10",
+          "height": "184cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Smith",
+          "jumper": "31",
+          "dob": "1939-01-21",
+          "height": "178cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Rob",
+          "lastname": "Taylor",
+          "jumper": "12",
+          "dob": "1945-03-21",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Gray",
+          "jumper": "29",
+          "dob": "1943-03-04",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Bisset",
+          "jumper": "6",
+          "dob": "1943-03-10",
+          "height": "168cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Charles",
+          "jumper": "24",
+          "dob": "1942-09-21",
+          "height": "187cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Peters",
+          "jumper": "40",
+          "dob": "1945-04-13",
+          "height": "188cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Dallas",
+          "lastname": "Patterson",
+          "jumper": "47",
+          "dob": "1947-05-30",
+          "height": "183cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Hunter",
+          "jumper": "36",
+          "dob": "1944-01-11",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Castrikum",
+          "jumper": "38",
+          "dob": "1943-02-19",
+          "height": "183cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "O'Connor",
+          "jumper": "23",
+          "dob": "1948-01-11",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Shanahan",
+          "jumper": "41",
+          "dob": "1946-04-27",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Jackman",
+          "jumper": "42",
+          "dob": "1945-06-30",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Noel",
+          "lastname": "Fincher",
+          "jumper": "28",
+          "dob": "1944-06-10",
+          "height": "185cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Thorpe",
+          "jumper": "39",
+          "dob": "1948-05-30",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Spurling",
+          "jumper": "24",
+          "dob": "1943-06-10",
+          "height": "184cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Ion",
+          "jumper": "21",
+          "dob": "1941-10-09",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Barr",
+          "jumper": "35",
+          "dob": "1945-07-09",
+          "height": "179cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Walker",
+          "jumper": "26",
+          "dob": "1941-12-18",
+          "height": "175cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "McGowan",
+          "jumper": "22",
+          "dob": "1945-11-30",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Barrie",
+          "lastname": "Beattie",
+          "jumper": "9",
+          "dob": "1944-12-06",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Ennals",
+          "jumper": "10",
+          "dob": "1943-07-23",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Magill",
+          "jumper": "7",
+          "dob": "1945-06-22",
+          "height": "174cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Bryan",
+          "lastname": "Pleitner",
+          "jumper": "11",
+          "dob": "1945-12-09",
+          "height": "187cm",
+          "weight": "87kg"
+        }
+      ]
+    }
+  }
+}

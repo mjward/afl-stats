@@ -1,0 +1,305 @@
+{
+  "team_player_data": {
+    "year": 1921,
+    "teams": {
+      "St Kilda": [
+        {
+          "firstname": "Barney",
+          "lastname": "Carr",
+          "jumper": "13",
+          "dob": "1897-08-27",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Rex",
+          "lastname": "DeGaris",
+          "jumper": "14",
+          "dob": "1896-12-29",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Curtayne",
+          "jumper": "5",
+          "dob": "1894-03-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Jenkins",
+          "jumper": "3",
+          "dob": "1897-02-15",
+          "height": "193cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Williams",
+          "jumper": "2",
+          "dob": "1891-07-19",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Kerley",
+          "jumper": "16",
+          "dob": "1894-12-12",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Lever",
+          "jumper": "25",
+          "dob": "1886-01-05",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Wels",
+          "lastname": "Eicke",
+          "jumper": "28",
+          "dob": "1893-09-27",
+          "height": "177cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "James",
+          "jumper": "27",
+          "dob": "1892-10-31",
+          "height": "165cm",
+          "weight": "61kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Cubbins",
+          "jumper": "4",
+          "dob": "1899-05-04",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Lowrie",
+          "jumper": "11",
+          "dob": "1896-12-01",
+          "height": "178cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Moyes",
+          "jumper": "9",
+          "dob": "1896-07-28",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Grigg",
+          "jumper": "17",
+          "dob": "1899-03-30",
+          "height": "174cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Woodcock",
+          "jumper": "19",
+          "dob": "1888-06-29",
+          "height": "182cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "O'Rourke",
+          "jumper": "31",
+          "dob": "1899-01-15",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Tuck",
+          "jumper": "26",
+          "dob": "1897-08-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Harper",
+          "jumper": "17",
+          "dob": "1900-07-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Carbarns",
+          "jumper": "7",
+          "dob": "1891-04-01",
+          "height": "180cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Morden",
+          "jumper": "11",
+          "dob": "1899-07-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Hannan",
+          "jumper": "23",
+          "dob": "1899-01-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Ricketts",
+          "jumper": "1",
+          "dob": "1885-07-03",
+          "height": "173cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Lloyd",
+          "jumper": "15",
+          "dob": "1896-07-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Robbins",
+          "jumper": "1",
+          "dob": "1903-09-12",
+          "height": "173cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Silcock",
+          "jumper": "6",
+          "dob": "1894-10-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Artie",
+          "lastname": "Dawson",
+          "jumper": "30",
+          "dob": "1891-06-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Osborne",
+          "jumper": "12",
+          "dob": "1902-11-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Rowley",
+          "lastname": "Griffiths",
+          "jumper": "8",
+          "dob": "1895-03-13",
+          "height": "168cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Collins",
+          "jumper": "10",
+          "dob": "1893-09-22",
+          "height": "168cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "McNamara",
+          "jumper": "19",
+          "dob": "1887-01-22",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Dick",
+          "jumper": "—",
+          "dob": "1901-01-08",
+          "height": "173cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Shelton",
+          "jumper": "9",
+          "dob": "1897-03-13",
+          "height": "185cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Ivor",
+          "lastname": "Aldridge",
+          "jumper": "24",
+          "dob": "1899-11-13",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Gus",
+          "lastname": "Howell",
+          "jumper": "22",
+          "dob": "1897-06-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Pat",
+          "lastname": "Kennedy",
+          "jumper": "28",
+          "dob": "1898-07-30",
+          "height": "191cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Cameron",
+          "jumper": "30",
+          "dob": "1896-11-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Larry",
+          "lastname": "Polinelli",
+          "jumper": "18",
+          "dob": "1891-12-19",
+          "height": "182cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Deagan",
+          "jumper": "16",
+          "dob": "1898-03-22",
+          "height": "—",
+          "weight": "—"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "team_player_data": {
+    "year": 1984,
+    "teams": {
+      "St Kilda": [
+        {
+          "firstname": "Paul",
+          "lastname": "Morwood",
+          "jumper": "4",
+          "dob": "1959-03-02",
+          "height": "182cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Cunningham",
+          "jumper": "5",
+          "dob": "1959-01-07",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "Sidebottom",
+          "jumper": "2",
+          "dob": "1959-01-01",
+          "height": "193cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Lockett",
+          "jumper": "14",
+          "dob": "1966-03-09",
+          "height": "191cm",
+          "weight": "104kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Cronan",
+          "jumper": "3",
+          "dob": "1959-07-17",
+          "height": "183cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Kiel",
+          "jumper": "17",
+          "dob": "1958-10-02",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Darryl",
+          "lastname": "Cowie",
+          "jumper": "20",
+          "dob": "1961-03-15",
+          "height": "196cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Temay",
+          "jumper": "40",
+          "dob": "1962-02-04",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Danny",
+          "lastname": "Frawley",
+          "jumper": "49",
+          "dob": "1963-09-08",
+          "height": "191cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Burns",
+          "jumper": "11",
+          "dob": "1958-02-21",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Mace",
+          "jumper": "7",
+          "dob": "1958-08-12",
+          "height": "178cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Silvio",
+          "lastname": "Foschini",
+          "jumper": "6",
+          "dob": "1963-09-18",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Smith",
+          "jumper": "30",
+          "dob": "1959-02-06",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Elphinstone",
+          "jumper": "33",
+          "dob": "1960-11-22",
+          "height": "191cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Odgers",
+          "jumper": "29",
+          "dob": "1959-12-15",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Cross",
+          "jumper": "25",
+          "dob": "1961-04-13",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Glen",
+          "lastname": "Brown",
+          "jumper": "19",
+          "dob": "1962-01-03",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Trevor",
+          "lastname": "Barker",
+          "jumper": "1",
+          "dob": "1956-10-07",
+          "height": "183cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Narkle",
+          "jumper": "8",
+          "dob": "1961-01-29",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Crow",
+          "jumper": "9",
+          "dob": "1956-01-07",
+          "height": "194cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Roberts",
+          "jumper": "10",
+          "dob": "1959-07-27",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Daryl",
+          "lastname": "Cunningham",
+          "jumper": "26",
+          "dob": "1960-11-25",
+          "height": "174cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Pirrie",
+          "jumper": "13",
+          "dob": "1961-03-23",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Favier",
+          "jumper": "43",
+          "dob": "1960-07-23",
+          "height": "185cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Sharp",
+          "jumper": "22",
+          "dob": "1959-07-28",
+          "height": "192cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Jenkin",
+          "jumper": "47",
+          "dob": "1962-12-10",
+          "height": "173cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Lane",
+          "jumper": "15",
+          "dob": "1960-04-29",
+          "height": "175cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Meehan",
+          "jumper": "28",
+          "dob": "1961-09-20",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Amoore",
+          "jumper": "42",
+          "dob": "1964-05-03",
+          "height": "188cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Dean",
+          "lastname": "Chiron",
+          "jumper": "38",
+          "dob": "1961-03-27",
+          "height": "180cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Jon",
+          "lastname": "Riggs",
+          "jumper": "16",
+          "dob": "1962-11-14",
+          "height": "183cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Schultz",
+          "jumper": "21",
+          "dob": "1959-02-26",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Foyster",
+          "jumper": "39",
+          "dob": "1964-03-09",
+          "height": "183cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Fidler",
+          "jumper": "36",
+          "dob": "1961-03-14",
+          "height": "180cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Grant",
+          "jumper": "35",
+          "dob": "1966-08-07",
+          "height": "184cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Glenn",
+          "lastname": "Middlemiss",
+          "jumper": "51",
+          "dob": "1956-06-08",
+          "height": "188cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Muir",
+          "jumper": "32",
+          "dob": "1953-10-08",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Winbanks",
+          "jumper": "55",
+          "dob": "1962-09-08",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Owen",
+          "jumper": "27",
+          "dob": "1967-01-31",
+          "height": "185cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Curtain",
+          "jumper": "52",
+          "dob": "1962-12-05",
+          "height": "185cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Melesso",
+          "jumper": "23",
+          "dob": "1961-11-30",
+          "height": "191cm",
+          "weight": "83kg"
+        }
+      ]
+    }
+  }
+}

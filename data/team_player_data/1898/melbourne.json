@@ -1,0 +1,361 @@
+{
+  "team_player_data": {
+    "year": 1898,
+    "teams": {
+      "Melbourne": [
+        {
+          "firstname": "Alf",
+          "lastname": "Wood",
+          "jumper": "—",
+          "dob": "1875-02-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "McGinis",
+          "jumper": "—",
+          "dob": "1874-11-11",
+          "height": "175cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Austin",
+          "lastname": "Lewis",
+          "jumper": "—",
+          "dob": "1870-05-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Denis",
+          "lastname": "Lanigan",
+          "jumper": "—",
+          "dob": "1874-05-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Leith",
+          "jumper": "—",
+          "dob": "1872-08-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Moodie",
+          "jumper": "—",
+          "dob": "1872-10-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Young",
+          "jumper": "—",
+          "dob": "1877-12-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ned",
+          "lastname": "Sutton",
+          "jumper": "—",
+          "dob": "1868-03-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Steele",
+          "jumper": "—",
+          "dob": "1878-09-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Maurie",
+          "lastname": "Herring",
+          "jumper": "—",
+          "dob": "1879-09-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Byers",
+          "jumper": "—",
+          "dob": "1875-02-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "WardillJnr",
+          "jumper": "—",
+          "dob": "1872-07-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "PirrieSnr",
+          "jumper": "—",
+          "dob": "1879-04-15",
+          "height": "178cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Mitchell",
+          "jumper": "—",
+          "dob": "1874-11-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Stewart",
+          "lastname": "Geddes",
+          "jumper": "—",
+          "dob": "1879-03-06",
+          "height": "180cm",
+          "weight": "—"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Sholl",
+          "jumper": "—",
+          "dob": "1872-04-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Strahan",
+          "jumper": "—",
+          "dob": "1874-10-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Moysey",
+          "jumper": "—",
+          "dob": "1874-05-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Davey",
+          "jumper": "—",
+          "dob": "1876-03-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Rippon",
+          "jumper": "—",
+          "dob": "1875-12-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Robertson",
+          "jumper": "—",
+          "dob": "1877-05-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Johnstone",
+          "jumper": "—",
+          "dob": "1869-11-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Johnny",
+          "lastname": "Coghlan",
+          "jumper": "—",
+          "dob": "1876-04-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Howard",
+          "jumper": "—",
+          "dob": "1871-02-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Pat",
+          "lastname": "Scanlan",
+          "jumper": "—",
+          "dob": "1878-07-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Staines",
+          "jumper": "—",
+          "dob": "1876-11-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Davidson",
+          "jumper": "—",
+          "dob": "1875-05-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Art",
+          "lastname": "Atkinson",
+          "jumper": "—",
+          "dob": "1878-04-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Rippon",
+          "jumper": "—",
+          "dob": "1874-02-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Russell",
+          "jumper": "—",
+          "dob": "1879-08-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Graham",
+          "jumper": "—",
+          "dob": "1878-03-02",
+          "height": "—",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Aitken",
+          "jumper": "—",
+          "dob": "1872-05-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "McLeod",
+          "jumper": "—",
+          "dob": "1879-04-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Atkinson",
+          "jumper": "—",
+          "dob": "1876-10-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Cumberland",
+          "jumper": "—",
+          "dob": "1877-07-04",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "McCulloch",
+          "jumper": "—",
+          "dob": "1872-11-07",
+          "height": "180cm",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "MacPherson",
+          "jumper": "—",
+          "dob": "1880-05-17",
+          "height": "175cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Bobby",
+          "lastname": "Royle",
+          "jumper": "—",
+          "dob": "1878-08-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Timothee",
+          "jumper": "—",
+          "dob": "1870-02-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Moore",
+          "jumper": "—",
+          "dob": "1872-01-31",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Rippon",
+          "jumper": "—",
+          "dob": "1878-01-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Hagenauer",
+          "jumper": "—",
+          "dob": "1878-11-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "McClelland",
+          "jumper": "—",
+          "dob": "1875-02-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Herb",
+          "lastname": "Fry",
+          "jumper": "—",
+          "dob": "1870-10-28",
+          "height": "180cm",
+          "weight": "84kg"
+        }
+      ]
+    }
+  }
+}

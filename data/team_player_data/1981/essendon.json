@@ -1,0 +1,289 @@
+{
+  "team_player_data": {
+    "year": 1981,
+    "teams": {
+      "Essendon": [
+        {
+          "firstname": "Glenn",
+          "lastname": "Hawker",
+          "jumper": "33",
+          "dob": "1961-03-17",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Foulds",
+          "jumper": "10",
+          "dob": "1956-05-13",
+          "height": "188cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Grant",
+          "lastname": "Fowler",
+          "jumper": "23",
+          "dob": "1957-03-12",
+          "height": "180cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Crow",
+          "jumper": "31",
+          "dob": "1956-01-07",
+          "height": "194cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Buhagiar",
+          "jumper": "20",
+          "dob": "1955-10-03",
+          "height": "166cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Merv",
+          "lastname": "Neagle",
+          "jumper": "1",
+          "dob": "1958-03-07",
+          "height": "181cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Daniher",
+          "jumper": "5",
+          "dob": "1957-08-15",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Neale",
+          "lastname": "Daniher",
+          "jumper": "6",
+          "dob": "1961-02-15",
+          "height": "188cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Neil",
+          "lastname": "Clarke",
+          "jumper": "39",
+          "dob": "1957-08-28",
+          "height": "177cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Andrews",
+          "jumper": "4",
+          "dob": "1955-05-13",
+          "height": "191cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Stoneham",
+          "jumper": "11",
+          "dob": "1955-08-20",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Madden",
+          "jumper": "27",
+          "dob": "1957-12-30",
+          "height": "198cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Reid",
+          "jumper": "2",
+          "dob": "1956-01-29",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Carey",
+          "jumper": "17",
+          "dob": "1959-10-14",
+          "height": "180cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Tim",
+          "lastname": "Watson",
+          "jumper": "32",
+          "dob": "1961-07-13",
+          "height": "185cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Justin",
+          "lastname": "Madden",
+          "jumper": "44",
+          "dob": "1961-05-31",
+          "height": "206cm",
+          "weight": "107kg"
+        },
+        {
+          "firstname": "Steven",
+          "lastname": "Taubert",
+          "jumper": "16",
+          "dob": "1953-10-06",
+          "height": "193cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "VanDerHaar",
+          "jumper": "18",
+          "dob": "1958-03-07",
+          "height": "192cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Schultz",
+          "jumper": "12",
+          "dob": "1953-05-17",
+          "height": "180cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Bennett",
+          "jumper": "38",
+          "dob": "1956-11-08",
+          "height": "180cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Thomson",
+          "jumper": "34",
+          "dob": "1961-11-26",
+          "height": "187cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Roger",
+          "lastname": "Merrett",
+          "jumper": "25",
+          "dob": "1960-04-19",
+          "height": "195cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Eustice",
+          "jumper": "47",
+          "dob": "1963-02-14",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Russell",
+          "lastname": "Muir",
+          "jumper": "42",
+          "dob": "1954-07-12",
+          "height": "180cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Foreman",
+          "jumper": "22",
+          "dob": "1955-05-16",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "Heard",
+          "jumper": "9",
+          "dob": "1958-07-28",
+          "height": "177cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Shaw",
+          "jumper": "26",
+          "dob": "1955-01-06",
+          "height": "188cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Burdett",
+          "jumper": "15",
+          "dob": "1956-07-04",
+          "height": "174cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Carman",
+          "jumper": "8",
+          "dob": "1950-09-04",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Neil",
+          "lastname": "Besanko",
+          "jumper": "30",
+          "dob": "1951-04-28",
+          "height": "187cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Morrison",
+          "jumper": "12",
+          "dob": "1954-01-29",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Neville",
+          "lastname": "Fields",
+          "jumper": "12",
+          "dob": "1951-11-21",
+          "height": "180cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Denis",
+          "lastname": "Scanlon",
+          "jumper": "36",
+          "dob": "1954-04-05",
+          "height": "188cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Dunell",
+          "jumper": "7",
+          "dob": "1958-03-17",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Walsh",
+          "jumper": "41",
+          "dob": "1962-02-09",
+          "height": "193cm",
+          "weight": "82kg"
+        }
+      ]
+    }
+  }
+}

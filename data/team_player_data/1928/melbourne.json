@@ -1,0 +1,265 @@
+{
+  "team_player_data": {
+    "year": 1928,
+    "teams": {
+      "Melbourne": [
+        {
+          "firstname": "Ivor",
+          "lastname": "Warne-Smith",
+          "jumper": "14",
+          "dob": "1897-10-29",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Taylor",
+          "jumper": "35",
+          "dob": "1901-11-28",
+          "height": "178cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Davidson",
+          "jumper": "29",
+          "dob": "1904-08-13",
+          "height": "165cm",
+          "weight": "62kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Barnes",
+          "jumper": "18",
+          "dob": "1903-04-25",
+          "height": "178cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Wittman",
+          "jumper": "1",
+          "dob": "1901-06-01",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Tommy",
+          "lastname": "McConville",
+          "jumper": "5",
+          "dob": "1901-03-28",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Corbett",
+          "jumper": "12",
+          "dob": "1895-11-23",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "JohnsonSnr",
+          "jumper": "16",
+          "dob": "1902-06-27",
+          "height": "191cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Collins",
+          "jumper": "10",
+          "dob": "1904-10-04",
+          "height": "179cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Herbert",
+          "lastname": "White",
+          "jumper": "8",
+          "dob": "1907-06-06",
+          "height": "168cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Chadwick",
+          "jumper": "17",
+          "dob": "1897-11-15",
+          "height": "184cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Col",
+          "lastname": "Deane",
+          "jumper": "31",
+          "dob": "1900-07-11",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Frank'Pop'",
+          "lastname": "Vine",
+          "jumper": "23",
+          "dob": "1904-10-01",
+          "height": "188cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Abernethy",
+          "jumper": "4",
+          "dob": "1902-11-04",
+          "height": "175cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Tymms",
+          "jumper": "26",
+          "dob": "1903-08-16",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "Dunbar",
+          "jumper": "28",
+          "dob": "1903-06-27",
+          "height": "185cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Thomas",
+          "jumper": "3",
+          "dob": "1898-08-09",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Streeter",
+          "jumper": "9",
+          "dob": "1895-08-15",
+          "height": "170cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Ogden",
+          "jumper": "32",
+          "dob": "1909-02-14",
+          "height": "177cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Usher",
+          "jumper": "34",
+          "dob": "1904-10-16",
+          "height": "174cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Derek",
+          "lastname": "Mollison",
+          "jumper": "11",
+          "dob": "1901-10-22",
+          "height": "189cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Coy",
+          "jumper": "19",
+          "dob": "1900-02-04",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Latham",
+          "jumper": "39",
+          "dob": "1907-03-04",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Barney",
+          "lastname": "Wood",
+          "jumper": "2",
+          "dob": "1901-12-22",
+          "height": "179cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Haw",
+          "jumper": "24",
+          "dob": "1902-12-27",
+          "height": "182cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "Hope",
+          "jumper": "6",
+          "dob": "1903-02-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Claud",
+          "lastname": "Carr",
+          "jumper": "19",
+          "dob": "1905-11-29",
+          "height": "180cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Moodie",
+          "jumper": "38",
+          "dob": "1905-12-01",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Gerry",
+          "lastname": "Beare",
+          "jumper": "21",
+          "dob": "1905-07-03",
+          "height": "177cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Vince",
+          "lastname": "Driver",
+          "jumper": "7",
+          "dob": "1908-01-07",
+          "height": "165cm",
+          "weight": "60kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "London",
+          "jumper": "21",
+          "dob": "1904-06-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Meade",
+          "jumper": "20",
+          "dob": "1904-11-04",
+          "height": "173cm",
+          "weight": "69kg"
+        }
+      ]
+    }
+  }
+}

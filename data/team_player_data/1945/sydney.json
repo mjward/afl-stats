@@ -1,0 +1,273 @@
+{
+  "team_player_data": {
+    "year": 1945,
+    "teams": {
+      "Sydney": [
+        {
+          "firstname": "Bob",
+          "lastname": "Matlock",
+          "jumper": "7",
+          "dob": "1918-08-03",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Grossman",
+          "jumper": "17",
+          "dob": "1920-12-27",
+          "height": "182cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Cleary",
+          "jumper": "20",
+          "dob": "1914-07-13",
+          "height": "183cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Kelly",
+          "jumper": "5",
+          "dob": "1917-07-28",
+          "height": "178cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Hartridge",
+          "jumper": "16",
+          "dob": "1919-11-08",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Castles",
+          "jumper": "8",
+          "dob": "1918-01-04",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Dempsey",
+          "jumper": "30",
+          "dob": "1919-09-25",
+          "height": "183cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Williams",
+          "jumper": "32",
+          "dob": "1917-06-17",
+          "height": "178cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Graham",
+          "jumper": "27",
+          "dob": "1916-05-07",
+          "height": "191cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "King",
+          "jumper": "12",
+          "dob": "1920-08-17",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Williams",
+          "jumper": "4",
+          "dob": "1925-09-13",
+          "height": "168cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Richards",
+          "jumper": "14",
+          "dob": "1917-12-14",
+          "height": "173cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Linden",
+          "jumper": "31",
+          "dob": "1917-04-27",
+          "height": "191cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Herbie",
+          "lastname": "MatthewsSnr",
+          "jumper": "1",
+          "dob": "1913-11-12",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Whitfield",
+          "jumper": "22",
+          "dob": "1916-06-13",
+          "height": "170cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Laurie",
+          "lastname": "Nash",
+          "jumper": "25",
+          "dob": "1910-05-02",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Clegg",
+          "jumper": "23",
+          "dob": "1927-11-17",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Smith",
+          "jumper": "9",
+          "dob": "1914-05-31",
+          "height": "178cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Dougherty",
+          "jumper": "33",
+          "dob": "1913-12-09",
+          "height": "191cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Coyle",
+          "jumper": "6",
+          "dob": "1917-10-01",
+          "height": "173cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Danckert",
+          "jumper": "19",
+          "dob": "1922-07-10",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Calder",
+          "jumper": "15",
+          "dob": "1917-12-17",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "McKnight",
+          "jumper": "10",
+          "dob": "1923-08-09",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Tippett",
+          "jumper": "21",
+          "dob": "1926-10-06",
+          "height": "183cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Porter",
+          "jumper": "26",
+          "dob": "1917-08-24",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Owen",
+          "lastname": "Guyatt",
+          "jumper": "3",
+          "dob": "1919-04-26",
+          "height": "178cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Dineen",
+          "jumper": "26",
+          "dob": "1917-09-03",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Glass",
+          "jumper": "2",
+          "dob": "1925-10-02",
+          "height": "173cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Engellenner",
+          "jumper": "2",
+          "dob": "1919-03-30",
+          "height": "175cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Hill",
+          "jumper": "18",
+          "dob": "1914-03-05",
+          "height": "182cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Blumfield",
+          "jumper": "24",
+          "dob": "1922-08-14",
+          "height": "174cm",
+          "weight": "61kg"
+        },
+        {
+          "firstname": "Pat",
+          "lastname": "Leahy",
+          "jumper": "28",
+          "dob": "1917-09-02",
+          "height": "183cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Crane",
+          "jumper": "18",
+          "dob": "1921-12-21",
+          "height": "185cm",
+          "weight": "78kg"
+        }
+      ]
+    }
+  }
+}

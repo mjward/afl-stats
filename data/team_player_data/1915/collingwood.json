@@ -1,0 +1,209 @@
+{
+  "team_player_data": {
+    "year": 1915,
+    "teams": {
+      "Collingwood": [
+        {
+          "firstname": "George",
+          "lastname": "Anderson",
+          "jumper": "1",
+          "dob": "1885-06-03",
+          "height": "168cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Dan",
+          "lastname": "Minogue",
+          "jumper": "15",
+          "dob": "1891-09-04",
+          "height": "180cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Green",
+          "jumper": "6",
+          "dob": "1887-08-28",
+          "height": "175cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Pen",
+          "lastname": "Reynolds",
+          "jumper": "21",
+          "dob": "1892-05-04",
+          "height": "173cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "James'Jock'",
+          "lastname": "McHale",
+          "jumper": "17",
+          "dob": "1882-12-12",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Hughes",
+          "jumper": "7",
+          "dob": "1884-04-18",
+          "height": "188cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Mutch",
+          "jumper": "14",
+          "dob": "1889-03-31",
+          "height": "179cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Laxton",
+          "jumper": "12",
+          "dob": "1890-04-09",
+          "height": "170cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Lee",
+          "jumper": "13",
+          "dob": "1889-03-19",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Wilson",
+          "jumper": "25",
+          "dob": "1889-03-31",
+          "height": "168cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Paddy",
+          "lastname": "Rowan",
+          "jumper": "20",
+          "dob": "1889-05-28",
+          "height": "179cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Mal",
+          "lastname": "Seddon",
+          "jumper": "24",
+          "dob": "1888-05-31",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Con",
+          "lastname": "McCarthy",
+          "jumper": "18",
+          "dob": "1893-02-10",
+          "height": "180cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Sadler",
+          "jumper": "23",
+          "dob": "1886-07-28",
+          "height": "168cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Gus",
+          "lastname": "Dobrigh",
+          "jumper": "3",
+          "dob": "1893-02-11",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Jackson",
+          "jumper": "8",
+          "dob": "1890-04-28",
+          "height": "174cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Curtis",
+          "jumper": "2",
+          "dob": "1892-10-03",
+          "height": "189cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Kerley",
+          "jumper": "11",
+          "dob": "1894-12-12",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Mortimer",
+          "jumper": "16",
+          "dob": "1892-11-18",
+          "height": "180cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Clancy",
+          "jumper": "5",
+          "dob": "1887-04-11",
+          "height": "175cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Horrie",
+          "lastname": "Jose",
+          "jumper": "9",
+          "dob": "1893-03-30",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Raleigh",
+          "jumper": "22",
+          "dob": "1895-07-01",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Vernon",
+          "lastname": "Carkeek",
+          "jumper": "5",
+          "dob": "1893-02-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Rowell",
+          "jumper": "19",
+          "dob": "1876-06-15",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Whitling",
+          "jumper": "26",
+          "dob": "1892-06-05",
+          "height": "178cm",
+          "weight": "67kg"
+        }
+      ]
+    }
+  }
+}

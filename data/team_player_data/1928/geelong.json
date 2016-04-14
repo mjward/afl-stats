@@ -1,0 +1,273 @@
+{
+  "team_player_data": {
+    "year": 1928,
+    "teams": {
+      "Geelong": [
+        {
+          "firstname": "Ted",
+          "lastname": "Baker",
+          "jumper": "2",
+          "dob": "1901-01-21",
+          "height": "165cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Todd",
+          "jumper": "19",
+          "dob": "1903-01-10",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Chambers",
+          "jumper": "8",
+          "dob": "1901-12-06",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Stevenson",
+          "jumper": "15",
+          "dob": "1901-04-11",
+          "height": "166cm",
+          "weight": "57kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Smith",
+          "jumper": "16",
+          "dob": "1900-05-28",
+          "height": "173cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Coghlan",
+          "jumper": "13",
+          "dob": "1902-08-16",
+          "height": "180cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Williams",
+          "jumper": "24",
+          "dob": "1902-01-31",
+          "height": "179cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Eric",
+          "lastname": "Fleming",
+          "jumper": "11",
+          "dob": "1903-03-16",
+          "height": "191cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Hardiman",
+          "jumper": "27",
+          "dob": "1905-02-20",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Mockridge",
+          "jumper": "17",
+          "dob": "1903-10-21",
+          "height": "174cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Hickey",
+          "jumper": "18",
+          "dob": "1906-03-27",
+          "height": "185cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Carji",
+          "lastname": "Greeves",
+          "jumper": "20",
+          "dob": "1903-11-01",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Rayson",
+          "jumper": "28",
+          "dob": "1898-12-01",
+          "height": "170cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Jerram",
+          "jumper": "1",
+          "dob": "1904-08-15",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Keppel",
+          "jumper": "30",
+          "dob": "1899-12-08",
+          "height": "182cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Warren",
+          "jumper": "12",
+          "dob": "1903-07-22",
+          "height": "164cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Carroll",
+          "jumper": "25",
+          "dob": "1906-07-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Ferguson",
+          "jumper": "5",
+          "dob": "1903-02-05",
+          "height": "177cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Fitzmaurice",
+          "jumper": "23",
+          "dob": "1898-07-07",
+          "height": "192cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Cliff",
+          "lastname": "Rankin",
+          "jumper": "6",
+          "dob": "1896-12-04",
+          "height": "175cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Garnet",
+          "lastname": "Lamb",
+          "jumper": "25",
+          "dob": "1908-01-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Vautier",
+          "jumper": "21",
+          "dob": "1909-03-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Fowler",
+          "jumper": "25",
+          "dob": "1902-01-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Plunkett",
+          "jumper": "32",
+          "dob": "1911-01-05",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Clearson",
+          "jumper": "9",
+          "dob": "1901-03-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Milton",
+          "lastname": "Lamb",
+          "jumper": "7",
+          "dob": "1909-07-14",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Cyril",
+          "lastname": "Mulroyan",
+          "jumper": "22",
+          "dob": "1907-02-14",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Aubrey",
+          "lastname": "Comben",
+          "jumper": "3",
+          "dob": "1904-09-01",
+          "height": "173cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Money",
+          "jumper": "32",
+          "dob": "1907-02-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Milton",
+          "lastname": "White",
+          "jumper": "11",
+          "dob": "1902-06-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Arch",
+          "lastname": "Bell",
+          "jumper": "21",
+          "dob": "1905-08-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Laver",
+          "jumper": "21",
+          "dob": "1900-12-09",
+          "height": "173cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Roach",
+          "jumper": "7",
+          "dob": "1903-04-16",
+          "height": "—",
+          "weight": "—"
+        }
+      ]
+    }
+  }
+}

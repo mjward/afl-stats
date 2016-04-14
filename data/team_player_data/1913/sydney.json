@@ -1,0 +1,241 @@
+{
+  "team_player_data": {
+    "year": 1913,
+    "teams": {
+      "Sydney": [
+        {
+          "firstname": "Arthur",
+          "lastname": "Rademacher",
+          "jumper": "28",
+          "dob": "1889-11-27",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Harvey",
+          "lastname": "Kelly",
+          "jumper": "14",
+          "dob": "1883-03-24",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Mortimer",
+          "jumper": "16",
+          "dob": "1886-04-24",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Bill'Sonna'",
+          "lastname": "Thomas",
+          "jumper": "25",
+          "dob": "1886-11-10",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Prince",
+          "jumper": "19",
+          "dob": "1885-09-30",
+          "height": "164cm",
+          "weight": "62kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Charge",
+          "jumper": "5",
+          "dob": "1891-07-27",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Horrie",
+          "lastname": "Webster",
+          "jumper": "29",
+          "dob": "1888-08-15",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Belcher",
+          "jumper": "2",
+          "dob": "1888-08-24",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Sloss",
+          "jumper": "21",
+          "dob": "1889-01-21",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Tandy",
+          "jumper": "27",
+          "dob": "1892-09-03",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Hiskins",
+          "jumper": "15",
+          "dob": "1886-09-09",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Caldwell",
+          "jumper": "2",
+          "dob": "1888-08-11",
+          "height": "173cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Strang",
+          "jumper": "24",
+          "dob": "1883-10-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Hiskins",
+          "jumper": "15",
+          "dob": "1890-06-02",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Eastick",
+          "jumper": "30",
+          "dob": "1888-03-13",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Saltau",
+          "jumper": "15",
+          "dob": "1891-09-17",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Franks",
+          "jumper": "11",
+          "dob": "1880-03-11",
+          "height": "180cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Rusich",
+          "jumper": "18",
+          "dob": "1889-05-09",
+          "height": "175cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Mullaly",
+          "jumper": "17",
+          "dob": "1892-06-19",
+          "height": "178cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Fincher",
+          "jumper": "13",
+          "dob": "1892-01-23",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Bower",
+          "jumper": "3",
+          "dob": "1884-06-18",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Scobie",
+          "jumper": "23",
+          "dob": "1891-09-22",
+          "height": "178cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Wolfe",
+          "jumper": "20",
+          "dob": "1892-04-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Deas",
+          "jumper": "8",
+          "dob": "1886-09-17",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Paddy",
+          "lastname": "Abbott",
+          "jumper": "1",
+          "dob": "1889-02-02",
+          "height": "183cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Freeman",
+          "jumper": "9",
+          "dob": "1891-11-15",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Fitzgerald",
+          "jumper": "10",
+          "dob": "1889-03-14",
+          "height": "187cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Carpenter",
+          "jumper": "6",
+          "dob": "1892-04-02",
+          "height": "175cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Marshall",
+          "lastname": "Caffyn",
+          "jumper": "7",
+          "dob": "1892-11-04",
+          "height": "—",
+          "weight": "—"
+        }
+      ]
+    }
+  }
+}

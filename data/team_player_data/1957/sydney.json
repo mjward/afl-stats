@@ -1,0 +1,353 @@
+{
+  "team_player_data": {
+    "year": 1957,
+    "teams": {
+      "Sydney": [
+        {
+          "firstname": "Ron",
+          "lastname": "Clegg",
+          "jumper": "23",
+          "dob": "1927-11-17",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "SkiltonJnr",
+          "jumper": "14",
+          "dob": "1938-11-08",
+          "height": "171cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "McLaughlinJnr",
+          "jumper": "25",
+          "dob": "1935-10-13",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Gillett",
+          "jumper": "28",
+          "dob": "1928-09-20",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Taylor",
+          "jumper": "20",
+          "dob": "1932-01-06",
+          "height": "191cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Hudson",
+          "jumper": "31",
+          "dob": "1934-03-09",
+          "height": "175cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Keyter",
+          "jumper": "1",
+          "dob": "1931-09-13",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Hogan",
+          "jumper": "22",
+          "dob": "1934-10-06",
+          "height": "171cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Power",
+          "jumper": "39",
+          "dob": "1937-10-30",
+          "height": "179cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Goldsmith",
+          "jumper": "2",
+          "dob": "1932-08-20",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Dorgan",
+          "jumper": "11",
+          "dob": "1930-11-26",
+          "height": "173cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "McGowan",
+          "jumper": "3",
+          "dob": "1938-01-01",
+          "height": "165cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Gerald",
+          "lastname": "Tagliabue",
+          "jumper": "37",
+          "dob": "1935-09-15",
+          "height": "188cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Svenson",
+          "jumper": "15",
+          "dob": "1931-06-08",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Oaten",
+          "jumper": "19",
+          "dob": "1935-01-26",
+          "height": "189cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "O'Neill",
+          "jumper": "41",
+          "dob": "1932-01-06",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Trethowan",
+          "jumper": "20",
+          "dob": "1936-10-28",
+          "height": "188cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Gerald",
+          "lastname": "Crough",
+          "jumper": "9",
+          "dob": "1937-12-27",
+          "height": "183cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Matthews",
+          "jumper": "17",
+          "dob": "1936-09-23",
+          "height": "170cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "McCormack",
+          "jumper": "36",
+          "dob": "1933-01-18",
+          "height": "170cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Hamilton",
+          "jumper": "30",
+          "dob": "1937-06-04",
+          "height": "174cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Gunn",
+          "jumper": "8",
+          "dob": "1932-03-04",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Boyd",
+          "jumper": "32",
+          "dob": "1938-03-06",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Marshall",
+          "lastname": "Younger",
+          "jumper": "12",
+          "dob": "1939-05-21",
+          "height": "183cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Kelton",
+          "jumper": "23",
+          "dob": "1937-07-25",
+          "height": "189cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Colquhoun",
+          "jumper": "27",
+          "dob": "1932-07-18",
+          "height": "184cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Clarrie",
+          "lastname": "Lane",
+          "jumper": "6",
+          "dob": "1934-04-12",
+          "height": "171cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Harris",
+          "jumper": "40",
+          "dob": "1937-01-16",
+          "height": "179cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Primmer",
+          "jumper": "33",
+          "dob": "1933-01-16",
+          "height": "184cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Neville",
+          "lastname": "Campbell",
+          "jumper": "29",
+          "dob": "1934-12-12",
+          "height": "188cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Ryan",
+          "jumper": "38",
+          "dob": "1936-09-13",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Trickey",
+          "jumper": "42",
+          "dob": "1933-11-08",
+          "height": "185cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Appleyard",
+          "jumper": "2",
+          "dob": "1935-03-09",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Ledwidge",
+          "jumper": "35",
+          "dob": "1934-09-28",
+          "height": "191cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Knight",
+          "jumper": "18",
+          "dob": "1936-03-16",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Ferguson",
+          "jumper": "34",
+          "dob": "1931-05-12",
+          "height": "189cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "PrattJnr",
+          "jumper": "10",
+          "dob": "1936-03-24",
+          "height": "174cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Jeff",
+          "lastname": "Kiteley",
+          "jumper": "4",
+          "dob": "1937-09-07",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Seymour",
+          "jumper": "24",
+          "dob": "1930-09-16",
+          "height": "185cm",
+          "weight": "103kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Monks",
+          "jumper": "4",
+          "dob": "1931-08-06",
+          "height": "173cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Elder",
+          "jumper": "39",
+          "dob": "1932-07-08",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Faulkhead",
+          "jumper": "16",
+          "dob": "1937-05-09",
+          "height": "183cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Cairns",
+          "jumper": "5",
+          "dob": "1938-03-12",
+          "height": "178cm",
+          "weight": "72kg"
+        }
+      ]
+    }
+  }
+}

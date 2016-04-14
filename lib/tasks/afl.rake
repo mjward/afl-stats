@@ -9,13 +9,24 @@ namespace :afl do
     end
 
     desc "Scrape AFLTables website for player data by year"
-    task player_data: :environment do
+    task player_match_data: :environment do
       Team.all.each do |team|
         (2015..2016).each do |year|
           puts "### #{team.name} #{year}"
           Scrapers::AFLTables::TeamGameByGameScraper.new(team, year).execute
         end
       end
+    end
+
+
+    desc "Scrape AusFootbal website for player info"
+    task player_data: :environment do
+      # Team.all.each do |team|
+        (1897..2015).each do |year|
+          puts "### #{year}"
+          Scrapers::AustralianFootball::PlayerScraper.new(year).execute
+        end
+      # end
     end
   end
 end

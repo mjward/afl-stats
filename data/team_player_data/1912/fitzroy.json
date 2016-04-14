@@ -1,0 +1,249 @@
+{
+  "team_player_data": {
+    "year": 1912,
+    "teams": {
+      "Fitzroy": [
+        {
+          "firstname": "Fred",
+          "lastname": "Bamford",
+          "jumper": "1",
+          "dob": "1887-04-10",
+          "height": "175cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Parratt",
+          "jumper": "21",
+          "dob": "1887-02-27",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Johnson",
+          "jumper": "14",
+          "dob": "1887-09-01",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Freake",
+          "jumper": "8",
+          "dob": "1889-01-27",
+          "height": "178cm",
+          "weight": "63kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Lambert",
+          "jumper": "15",
+          "dob": "1887-09-09",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Lenne",
+          "jumper": "17",
+          "dob": "1889-08-02",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Cliff",
+          "lastname": "Hutton",
+          "jumper": "13",
+          "dob": "1887-07-27",
+          "height": "188cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Strownix",
+          "jumper": "26",
+          "dob": "1886-05-02",
+          "height": "178cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Shaw",
+          "jumper": "23",
+          "dob": "1886-04-01",
+          "height": "164cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "McLennan",
+          "jumper": "19",
+          "dob": "1888-07-26",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Cooper",
+          "jumper": "5",
+          "dob": "1889-02-21",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Holmes",
+          "jumper": "12",
+          "dob": "1890-01-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Walker",
+          "jumper": "24",
+          "dob": "1883-05-25",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Willoughby",
+          "jumper": "25",
+          "dob": "1889-02-22",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Norris",
+          "jumper": "20",
+          "dob": "1881-07-23",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Heron",
+          "jumper": "10",
+          "dob": "1892-12-25",
+          "height": "168cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "Heron",
+          "jumper": "11",
+          "dob": "1890-05-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Teddy",
+          "lastname": "Buist",
+          "jumper": "2",
+          "dob": "1885-05-04",
+          "height": "170cm",
+          "weight": "63kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Laver",
+          "jumper": "22",
+          "dob": "1888-08-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Campbell",
+          "jumper": "—",
+          "dob": "1890-05-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "McArthur",
+          "jumper": "16",
+          "dob": "1891-05-05",
+          "height": "170cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Wells",
+          "jumper": "9",
+          "dob": "1883-12-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Marchbank",
+          "jumper": "6",
+          "dob": "1887-08-23",
+          "height": "178cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Scott",
+          "jumper": "18",
+          "dob": "1890-02-19",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Abbott",
+          "jumper": "6",
+          "dob": "1885-07-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Dowell",
+          "jumper": "7",
+          "dob": "1888-01-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Rahilly",
+          "jumper": "22",
+          "dob": "1887-07-12",
+          "height": "171cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Collins",
+          "jumper": "4",
+          "dob": "1892-08-03",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Lamont",
+          "jumper": "16",
+          "dob": "1886-08-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Clarrie",
+          "lastname": "Dall",
+          "jumper": "6",
+          "dob": "1887-09-01",
+          "height": "—",
+          "weight": "—"
+        }
+      ]
+    }
+  }
+}

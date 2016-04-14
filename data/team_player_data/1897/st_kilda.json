@@ -1,0 +1,337 @@
+{
+  "team_player_data": {
+    "year": 1897,
+    "teams": {
+      "St Kilda": [
+        {
+          "firstname": "Bill",
+          "lastname": "Matthews",
+          "jumper": "—",
+          "dob": "1876-05-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "McNamara",
+          "jumper": "—",
+          "dob": "1874-06-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Danny",
+          "lastname": "Dunne",
+          "jumper": "—",
+          "dob": "1876-04-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Phillips",
+          "jumper": "—",
+          "dob": "1874-05-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Hall",
+          "jumper": "—",
+          "dob": "1876-02-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Blake",
+          "jumper": "—",
+          "dob": "1874-09-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Stewart",
+          "jumper": "—",
+          "dob": "1878-09-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Aylwin",
+          "jumper": "—",
+          "dob": "1870-12-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Shaw",
+          "jumper": "—",
+          "dob": "1872-11-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Ahern",
+          "jumper": "—",
+          "dob": "1874-06-25",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Beggs",
+          "jumper": "—",
+          "dob": "1878-08-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Stewart",
+          "jumper": "—",
+          "dob": "1874-11-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Algy",
+          "lastname": "Hay",
+          "jumper": "—",
+          "dob": "1874-10-02",
+          "height": "166cm",
+          "weight": "62kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Turner",
+          "jumper": "—",
+          "dob": "1870-07-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Dunne",
+          "jumper": "—",
+          "dob": "1873-07-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "McLeod",
+          "jumper": "—",
+          "dob": "1879-08-22",
+          "height": "173cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Hogan",
+          "jumper": "—",
+          "dob": "1875-11-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "O'Grady",
+          "jumper": "—",
+          "dob": "1872-09-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Whitelaw",
+          "jumper": "—",
+          "dob": "1878-01-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Howell",
+          "jumper": "—",
+          "dob": "1874-09-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dan",
+          "lastname": "Collins",
+          "jumper": "—",
+          "dob": "1872-08-22",
+          "height": "182cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Stewart",
+          "jumper": "—",
+          "dob": "1875-04-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Rutherford",
+          "jumper": "—",
+          "dob": "1875-07-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Jennings",
+          "jumper": "—",
+          "dob": "1875-11-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Arch",
+          "lastname": "Lowe",
+          "jumper": "—",
+          "dob": "1875-09-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Jones",
+          "jumper": "—",
+          "dob": "1871-11-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Duigan",
+          "jumper": "—",
+          "dob": "1875-12-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Blake",
+          "jumper": "—",
+          "dob": "1878-09-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jerry",
+          "lastname": "McGrath",
+          "jumper": "—",
+          "dob": "1874-12-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Newton",
+          "jumper": "—",
+          "dob": "1875-02-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Cox",
+          "jumper": "—",
+          "dob": "1873-02-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Gower",
+          "jumper": "—",
+          "dob": "1874-12-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Matt",
+          "lastname": "Conniff",
+          "jumper": "—",
+          "dob": "1877-02-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Albert",
+          "lastname": "Middleton",
+          "jumper": "—",
+          "dob": "1871-10-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Gillie",
+          "lastname": "Wilson",
+          "jumper": "—",
+          "dob": "1869-01-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "O'Hagan",
+          "jumper": "—",
+          "dob": "1878-01-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Emery",
+          "lastname": "Staines",
+          "jumper": "—",
+          "dob": "1874-07-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Grieve",
+          "jumper": "—",
+          "dob": "1879-10-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Morrison",
+          "jumper": "—",
+          "dob": "1873-02-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Molesworth",
+          "jumper": "—",
+          "dob": "1878-02-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Alf",
+          "lastname": "Bedford",
+          "jumper": "—",
+          "dob": "1874-03-20",
+          "height": "—",
+          "weight": "—"
+        }
+      ]
+    }
+  }
+}

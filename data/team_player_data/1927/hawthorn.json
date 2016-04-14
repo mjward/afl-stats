@@ -1,0 +1,329 @@
+{
+  "team_player_data": {
+    "year": 1927,
+    "teams": {
+      "Hawthorn": [
+        {
+          "firstname": "Bob",
+          "lastname": "Sellers",
+          "jumper": "25",
+          "dob": "1905-02-23",
+          "height": "182cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "McCashney",
+          "jumper": "8",
+          "dob": "1900-12-30",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Sherer",
+          "jumper": "27",
+          "dob": "1903-07-28",
+          "height": "177cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Hyde",
+          "jumper": "20",
+          "dob": "1907-06-03",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Utting",
+          "jumper": "12",
+          "dob": "1897-10-31",
+          "height": "166cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Pool",
+          "jumper": "19",
+          "dob": "1906-11-09",
+          "height": "165cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Pat",
+          "lastname": "Keary",
+          "jumper": "29",
+          "dob": "1901-10-10",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Clarrie",
+          "lastname": "Lonsdale",
+          "jumper": "29",
+          "dob": "1906-09-13",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Clarrie",
+          "lastname": "Lethlean",
+          "jumper": "16",
+          "dob": "1900-07-12",
+          "height": "182cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Barker",
+          "jumper": "1",
+          "dob": "1903-10-31",
+          "height": "173cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Pickford",
+          "jumper": "15",
+          "dob": "1904-04-18",
+          "height": "174cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Black",
+          "jumper": "11",
+          "dob": "1908-05-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Gill",
+          "jumper": "14",
+          "dob": "1898-01-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Logan",
+          "jumper": "3",
+          "dob": "1906-06-29",
+          "height": "165cm",
+          "weight": "59kg"
+        },
+        {
+          "firstname": "Stuart",
+          "lastname": "Stewart",
+          "jumper": "9",
+          "dob": "1907-04-26",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Hammond",
+          "jumper": "21",
+          "dob": "1905-09-01",
+          "height": "182cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Thomas",
+          "jumper": "24",
+          "dob": "1905-01-19",
+          "height": "188cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Arnott",
+          "jumper": "5",
+          "dob": "1901-06-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Murphy",
+          "jumper": "35",
+          "dob": "1900-03-14",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Pat",
+          "lastname": "Murphy",
+          "jumper": "6",
+          "dob": "1906-08-31",
+          "height": "178cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Sinclair",
+          "jumper": "2",
+          "dob": "1907-05-14",
+          "height": "166cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Sharpley",
+          "jumper": "6",
+          "dob": "1906-02-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Naylor",
+          "jumper": "31",
+          "dob": "1897-11-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Ennis",
+          "jumper": "22",
+          "dob": "1901-04-25",
+          "height": "183cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Maxwell",
+          "jumper": "26",
+          "dob": "1906-03-17",
+          "height": "175cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Finch",
+          "jumper": "11",
+          "dob": "1895-10-06",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Crozier",
+          "jumper": "28",
+          "dob": "1904-07-09",
+          "height": "188cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Henry",
+          "jumper": "12",
+          "dob": "1904-11-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Manning",
+          "jumper": "—",
+          "dob": "1906-10-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bernie",
+          "lastname": "Trafford",
+          "jumper": "28",
+          "dob": "1902-09-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Addis",
+          "lastname": "Priestley",
+          "jumper": "30",
+          "dob": "1903-09-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Gil",
+          "lastname": "Hendrie",
+          "jumper": "10",
+          "dob": "1901-07-15",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Boothman",
+          "jumper": "6",
+          "dob": "1906-07-16",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Townley",
+          "jumper": "—",
+          "dob": "1905-02-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Wells",
+          "jumper": "—",
+          "dob": "1905-03-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Calwell",
+          "jumper": "26",
+          "dob": "1898-12-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Clem",
+          "lastname": "Splatt",
+          "jumper": "7",
+          "dob": "1899-09-17",
+          "height": "188cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Godfrey",
+          "lastname": "McRae",
+          "jumper": "10",
+          "dob": "1906-07-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Graham",
+          "jumper": "17",
+          "dob": "1903-07-12",
+          "height": "183cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Wal",
+          "lastname": "Williams",
+          "jumper": "28",
+          "dob": "1904-01-21",
+          "height": "180cm",
+          "weight": "75kg"
+        }
+      ]
+    }
+  }
+}
