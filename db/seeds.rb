@@ -112,7 +112,7 @@ puts 'Seeding AFL matches…'
 update_match_data(afl_match_data)
 
 def date_parse(date)
-  DateTime.parse(player["dob"])
+    DateTime.parse(player["dob"])
 rescue
 end
 
@@ -139,14 +139,34 @@ def update_player_data(afl_player_data)
     data["team_player_data"]["teams"][team_name].each do |player|
       print "."
 
-      player        = Player.where(first_name: player["firstname"], last_name: player["lastname"], dob: date_parse(player["dob"])).first_or_initialize
-      player.height = player["height"].try(:gsub, "cm", "")
-      player.weight = player["weight"].try(:gsub, "kg", "")
-      player.save!
+      if player["dob"] != "—"
+        dob = player["dob"]
+      end
 
-      team_player         = TeamPlayer.where(player: player, team: team, year: year).first_or_initialize
+      if player["weight"] != "—"
+        weight = player["weight"]
+      end
+
+      if player["height"] != "—"
+        height = player["height"]
+      end
+
+      if player["jumper"] != "—"
+        jumper = player["jumper"]
+      end
+
+
+      newplayer        = Player.where(first_name: player["firstname"], last_name: player["lastname"], dob: date_parse(dob)).first_or_initialize
+      newplayer.height = height.try(:gsub, "cm", "")
+      newplayer.weight = weight.try(:gsub, "kg", "")
+      newplayer.dob    = dob
+      newplayer.save!
+
+      team_player         = TeamPlayer.where(player: newplayer, team: team, year: year).first_or_initialize
       team_player.year    = year
-      team_player.jumper  = player["jumper"]
+      team_player.jumper  = jumper
+
+
       team_player.save!
     end
     puts
