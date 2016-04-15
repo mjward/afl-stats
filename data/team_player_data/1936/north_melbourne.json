@@ -12,6 +12,14 @@
           "weight": "75kg"
         },
         {
+          "firstname": "Charles",
+          "lastname": "Skinner",
+          "jumper": "16",
+          "dob": "1912-01-02",
+          "height": "170cm",
+          "weight": "71kg"
+        },
+        {
           "firstname": "Jimmy",
           "lastname": "Adamson",
           "jumper": "8",
@@ -26,14 +34,6 @@
           "dob": "1909-08-28",
           "height": "178cm",
           "weight": "67kg"
-        },
-        {
-          "firstname": "Charles",
-          "lastname": "Skinner",
-          "jumper": "16",
-          "dob": "1912-01-02",
-          "height": "170cm",
-          "weight": "71kg"
         },
         {
           "firstname": "Jim",
@@ -52,14 +52,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Gaudion",
-          "jumper": "14",
-          "dob": "1904-04-14",
-          "height": "180cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Dudley",
           "lastname": "Cassidy",
           "jumper": "19",
@@ -68,12 +60,12 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Bernie",
-          "lastname": "Guthrie",
-          "jumper": "1",
-          "dob": "1911-09-22",
-          "height": "184cm",
-          "weight": "86kg"
+          "firstname": "Charlie",
+          "lastname": "Gaudion",
+          "jumper": "14",
+          "dob": "1904-04-14",
+          "height": "180cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Wally",
@@ -90,6 +82,14 @@
           "dob": "1908-10-29",
           "height": "180cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Bernie",
+          "lastname": "Guthrie",
+          "jumper": "1",
+          "dob": "1911-09-22",
+          "height": "184cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Ted",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "22",
           "dob": "1919-01-04",
           "height": "178cm",

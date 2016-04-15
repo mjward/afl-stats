@@ -4,30 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Frank",
-          "lastname": "Harley",
-          "jumper": "16",
-          "dob": "1895-06-29",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Vic",
-          "lastname": "Thorp",
-          "jumper": "5",
-          "dob": "1890-10-25",
-          "height": "178cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "O'Halloran",
-          "jumper": "18",
-          "dob": "1904-12-24",
-          "height": "185cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Geddes",
           "jumper": "8",
@@ -53,10 +29,34 @@
         },
         {
           "firstname": "Basil",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "9",
           "dob": "1904-08-03",
           "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Harley",
+          "jumper": "16",
+          "dob": "1895-06-29",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Thorp",
+          "jumper": "5",
+          "dob": "1890-10-25",
+          "height": "178cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "O' Halloran",
+          "jumper": "18",
+          "dob": "1904-12-24",
+          "height": "185cm",
           "weight": "80kg"
         },
         {
@@ -84,14 +84,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Valentine",
-          "jumper": "31",
-          "dob": "1899-06-20",
-          "height": "173cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Hayes",
           "jumper": "20",
@@ -100,8 +92,16 @@
           "weight": "60kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Valentine",
+          "jumper": "31",
+          "dob": "1899-06-20",
+          "height": "173cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Bob",
-          "lastname": "McCaskill",
+          "lastname": "Mc Caskill",
           "jumper": "25",
           "dob": "1895-09-27",
           "height": "178cm",
@@ -116,14 +116,6 @@
           "weight": "74kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Rudolph",
-          "jumper": "32",
-          "dob": "1901-04-29",
-          "height": "185cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Jimmy",
           "lastname": "Smith",
           "jumper": "10",
@@ -132,12 +124,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Millar",
-          "jumper": "13",
-          "dob": "1906-08-15",
-          "height": "183cm",
-          "weight": "82kg"
+          "firstname": "George",
+          "lastname": "Rudolph",
+          "jumper": "32",
+          "dob": "1901-04-29",
+          "height": "185cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Frank",
@@ -146,6 +138,14 @@
           "dob": "1894-02-01",
           "height": "180cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Millar",
+          "jumper": "13",
+          "dob": "1906-08-15",
+          "height": "183cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Don",
@@ -276,20 +276,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "O' Neill",
+          "jumper": "4",
+          "dob": "1905-04-16",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Joe",
           "lastname": "Plant",
           "jumper": "26",
           "dob": "1907-10-12",
           "height": "183cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "O'Neill",
-          "jumper": "4",
-          "dob": "1905-04-16",
-          "height": "180cm",
-          "weight": "76kg"
         },
         {
           "firstname": "John",

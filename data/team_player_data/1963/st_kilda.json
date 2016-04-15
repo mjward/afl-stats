@@ -4,14 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Ian",
-          "lastname": "Synman",
-          "jumper": "30",
-          "dob": "1938-09-28",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Wallis",
           "jumper": "31",
@@ -36,12 +28,12 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Ross",
-          "lastname": "Smith",
-          "jumper": "3",
-          "dob": "1942-09-12",
-          "height": "173cm",
-          "weight": "71kg"
+          "firstname": "Ian",
+          "lastname": "Synman",
+          "jumper": "30",
+          "dob": "1938-09-28",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Verdun",
@@ -56,6 +48,22 @@
           "lastname": "Guyatt",
           "jumper": "27",
           "dob": "1939-09-05",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ross",
+          "lastname": "Smith",
+          "jumper": "3",
+          "dob": "1942-09-12",
+          "height": "173cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Lance",
+          "lastname": "Oswald",
+          "jumper": "24",
+          "dob": "1937-02-14",
           "height": "179cm",
           "weight": "80kg"
         },
@@ -84,14 +92,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Lance",
-          "lastname": "Oswald",
-          "jumper": "24",
-          "dob": "1937-02-14",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Rowland",
           "jumper": "26",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Ray",
-          "lastname": "McHugh",
+          "lastname": "Mc Hugh",
           "jumper": "19",
           "dob": "1938-07-02",
           "height": "187cm",
@@ -124,20 +124,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Roberts",
-          "jumper": "23",
-          "dob": "1939-04-11",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ross",
           "lastname": "Oakley",
           "jumper": "12",
           "dob": "1942-09-30",
           "height": "178cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Roberts",
+          "jumper": "23",
+          "dob": "1939-04-11",
+          "height": "179cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Bill",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "20",
           "dob": "1938-09-24",
           "height": "188cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "48",
           "dob": "1939-07-15",
           "height": "183cm",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1936-08-02",
           "height": "177cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "2",
           "dob": "1938-12-15",
           "height": "198cm",

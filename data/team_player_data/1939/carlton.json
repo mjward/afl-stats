@@ -4,22 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Jim",
-          "lastname": "Francis",
-          "jumper": "10",
-          "dob": "1910-12-12",
-          "height": "184cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Carney",
-          "jumper": "7",
-          "dob": "1909-01-22",
-          "height": "160cm",
-          "weight": "62kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Gill",
           "jumper": "21",
@@ -37,7 +21,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "2",
           "dob": "1915-03-05",
           "height": "179cm",
@@ -52,12 +36,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Anderson",
-          "jumper": "1",
-          "dob": "1913-10-23",
-          "height": "183cm",
-          "weight": "84kg"
+          "firstname": "Jim",
+          "lastname": "Francis",
+          "jumper": "10",
+          "dob": "1910-12-12",
+          "height": "184cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Carney",
+          "jumper": "7",
+          "dob": "1909-01-22",
+          "height": "160cm",
+          "weight": "62kg"
         },
         {
           "firstname": "Bob",
@@ -76,8 +68,16 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Frank",
+          "lastname": "Anderson",
+          "jumper": "1",
+          "dob": "1913-10-23",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Rod",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "14",
           "dob": "1915-10-22",
           "height": "182cm",
@@ -90,14 +90,6 @@
           "dob": "1911-10-08",
           "height": "179cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Mickey",
-          "lastname": "Crisp",
-          "jumper": "12",
-          "dob": "1908-05-12",
-          "height": "173cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Jack",
@@ -116,12 +108,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Skinner",
-          "jumper": "8",
-          "dob": "1917-06-05",
+          "firstname": "Mickey",
+          "lastname": "Crisp",
+          "jumper": "12",
+          "dob": "1908-05-12",
           "height": "173cm",
-          "weight": "74kg"
+          "weight": "81kg"
         },
         {
           "firstname": "Ron",
@@ -140,8 +132,16 @@
           "weight": "91kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Skinner",
+          "jumper": "8",
+          "dob": "1917-06-05",
+          "height": "173cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Charlie",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "31",
           "dob": "1916-08-21",
           "height": "174cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McElroy",
+          "lastname": "Mc Elroy",
           "jumper": "15",
           "dob": "1913-03-24",
           "height": "183cm",

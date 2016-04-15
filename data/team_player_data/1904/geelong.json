@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Bill",
-          "lastname": "Eason",
-          "jumper": "15",
-          "dob": "1881-12-15",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Teddy",
-          "lastname": "Rankin",
-          "jumper": "—",
-          "dob": "1872-03-11",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Stephens",
           "jumper": "—",
@@ -37,27 +21,27 @@
         },
         {
           "firstname": "Alec",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1882-07-04",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Wright",
-          "jumper": "—",
-          "dob": "1878-05-04",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Bill",
+          "lastname": "Eason",
+          "jumper": "15",
+          "dob": "1881-12-15",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Bennion",
+          "firstname": "Teddy",
+          "lastname": "Rankin",
           "jumper": "—",
-          "dob": "1881-09-06",
-          "height": "—",
-          "weight": "—"
+          "dob": "1872-03-11",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Ernie",
@@ -80,6 +64,22 @@
           "lastname": "Quinton",
           "jumper": "—",
           "dob": "1878-01-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Wright",
+          "jumper": "—",
+          "dob": "1878-05-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Bennion",
+          "jumper": "—",
+          "dob": "1881-09-06",
           "height": "—",
           "weight": "—"
         },
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "MundaySnr",
+          "lastname": "Munday Snr",
           "jumper": "—",
           "dob": "1887-07-07",
           "height": "—",
@@ -204,6 +204,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Reg",
+          "lastname": "Digby",
+          "jumper": "—",
+          "dob": "1879-01-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Joe",
           "lastname": "Fox",
           "jumper": "—",
@@ -220,10 +228,10 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Digby",
+          "firstname": "Tom",
+          "lastname": "Mc Lean",
           "jumper": "—",
-          "dob": "1879-01-21",
+          "dob": "1876-07-07",
           "height": "—",
           "weight": "—"
         },
@@ -236,16 +244,8 @@
           "weight": "—"
         },
         {
-          "firstname": "Tom",
-          "lastname": "McLean",
-          "jumper": "—",
-          "dob": "1876-07-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
-          "lastname": "McKinley",
+          "lastname": "Mc Kinley",
           "jumper": "—",
           "dob": "1882-03-24",
           "height": "—",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McMurrich",
+          "lastname": "Mc Murrich",
           "jumper": "—",
           "dob": "1886-05-12",
           "height": "—",

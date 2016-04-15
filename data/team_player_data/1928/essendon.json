@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Len",
-          "lastname": "Webster",
-          "jumper": "32",
-          "dob": "1906-12-26",
-          "height": "180cm",
-          "weight": "100kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Gregory",
           "jumper": "12",
@@ -20,12 +12,12 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Beckton",
-          "jumper": "3",
-          "dob": "1898-05-04",
-          "height": "189cm",
-          "weight": "93kg"
+          "firstname": "Len",
+          "lastname": "Webster",
+          "jumper": "32",
+          "dob": "1906-12-26",
+          "height": "180cm",
+          "weight": "100kg"
         },
         {
           "firstname": "Paddy",
@@ -42,6 +34,14 @@
           "dob": "1902-07-10",
           "height": "180cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Beckton",
+          "jumper": "3",
+          "dob": "1898-05-04",
+          "height": "189cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Frank",
@@ -100,20 +100,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Dolan",
-          "jumper": "6",
-          "dob": "1906-06-14",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Thomas",
           "lastname": "Clarke",
           "jumper": "23",
           "dob": "1906-11-21",
           "height": "170cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Dolan",
+          "jumper": "6",
+          "dob": "1906-06-14",
+          "height": "180cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Syd",
@@ -164,20 +164,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Parris",
-          "jumper": "21",
-          "dob": "1905-07-31",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Rowley",
           "lastname": "Watt",
           "jumper": "10",
           "dob": "1898-07-17",
           "height": "163cm",
           "weight": "61kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Parris",
+          "jumper": "21",
+          "dob": "1905-07-31",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Norm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Ned",
-          "lastname": "McSweeney",
+          "lastname": "Mc Sweeney",
           "jumper": "9",
           "dob": "1903-09-10",
           "height": "182cm",

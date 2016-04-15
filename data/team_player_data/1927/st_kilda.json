@@ -20,22 +20,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ed",
-          "lastname": "Sanneman",
-          "jumper": "25",
-          "dob": "1902-06-22",
-          "height": "185cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Phillips",
-          "jumper": "9",
-          "dob": "1905-05-27",
-          "height": "183cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Wal",
           "lastname": "Gunnyon",
           "jumper": "28",
@@ -50,6 +34,22 @@
           "dob": "1901-08-18",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Ed",
+          "lastname": "Sanneman",
+          "jumper": "25",
+          "dob": "1902-06-22",
+          "height": "185cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Phillips",
+          "jumper": "9",
+          "dob": "1905-05-27",
+          "height": "183cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Barney",
@@ -84,14 +84,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Cyril",
-          "lastname": "Gambetta",
-          "jumper": "7",
-          "dob": "1899-08-01",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Lomer",
           "jumper": "14",
@@ -106,6 +98,14 @@
           "dob": "1906-05-31",
           "height": "173cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Cyril",
+          "lastname": "Gambetta",
+          "jumper": "7",
+          "dob": "1899-08-01",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Roy",
@@ -140,20 +140,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Dalton",
-          "jumper": "3",
-          "dob": "1904-12-29",
-          "height": "167cm",
-          "weight": "65kg"
-        },
-        {
           "firstname": "Syd",
           "lastname": "Hayhow",
           "jumper": "17",
           "dob": "1906-06-29",
           "height": "182cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Dalton",
+          "jumper": "3",
+          "dob": "1904-12-29",
+          "height": "167cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Stan",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Dermot",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "11",
           "dob": "1906-04-28",
           "height": "—",
@@ -276,14 +276,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Proudfoot",
-          "jumper": "14",
-          "dob": "1906-09-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Vin",
           "lastname": "Arthur",
           "jumper": "30",
@@ -292,12 +284,12 @@
           "weight": "72kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Heinz",
-          "jumper": "—",
-          "dob": "1891-10-08",
-          "height": "169cm",
-          "weight": "73kg"
+          "firstname": "Alec",
+          "lastname": "Proudfoot",
+          "jumper": "14",
+          "dob": "1906-09-14",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Harry",
@@ -306,6 +298,14 @@
           "dob": "1897-01-30",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Heinz",
+          "jumper": "—",
+          "dob": "1891-10-08",
+          "height": "169cm",
+          "weight": "73kg"
         }
       ]
     }

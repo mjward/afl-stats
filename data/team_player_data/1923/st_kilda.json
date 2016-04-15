@@ -21,11 +21,19 @@
         },
         {
           "firstname": "Aubrey",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "3",
           "dob": "1894-10-23",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Mc Namara",
+          "jumper": "1",
+          "dob": "1887-01-22",
+          "height": "193cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Colin",
@@ -52,22 +60,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Dave",
-          "lastname": "McNamara",
-          "jumper": "1",
-          "dob": "1887-01-22",
-          "height": "193cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Cyril",
-          "lastname": "Gambetta",
-          "jumper": "7",
-          "dob": "1899-08-01",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Cubbins",
           "jumper": "2",
@@ -84,6 +76,14 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Cyril",
+          "lastname": "Gambetta",
+          "jumper": "7",
+          "dob": "1899-08-01",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Jimmy",
           "lastname": "Milne",
           "jumper": "6",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Rex",
-          "lastname": "DeGaris",
+          "lastname": "De Garis",
           "jumper": "14",
           "dob": "1896-12-29",
           "height": "175cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "16",
           "dob": "1899-01-15",
           "height": "175cm",

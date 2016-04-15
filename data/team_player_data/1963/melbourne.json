@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Brian",
-          "lastname": "Roet",
-          "jumper": "18",
-          "dob": "1939-11-02",
-          "height": "187cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "LordJnr",
-          "jumper": "4",
-          "dob": "1937-04-02",
-          "height": "188cm",
-          "weight": "93kg"
-        },
-        {
           "firstname": "Bryan",
           "lastname": "Kenneally",
           "jumper": "22",
@@ -36,7 +20,7 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Harold'Hassa'",
+          "firstname": "Harold' Hassa'",
           "lastname": "Mann",
           "jumper": "29",
           "dob": "1940-10-10",
@@ -52,12 +36,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Neil",
-          "lastname": "Crompton",
-          "jumper": "5",
-          "dob": "1937-08-16",
-          "height": "178cm",
-          "weight": "79kg"
+          "firstname": "Brian",
+          "lastname": "Roet",
+          "jumper": "18",
+          "dob": "1939-11-02",
+          "height": "187cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Lord Jnr",
+          "jumper": "4",
+          "dob": "1937-04-02",
+          "height": "188cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Ray",
@@ -84,7 +76,7 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Bob'Tassie'",
+          "firstname": "Bob' Tassie'",
           "lastname": "Johnson",
           "jumper": "8",
           "dob": "1937-12-02",
@@ -92,12 +84,12 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Adams",
-          "jumper": "6",
-          "dob": "1935-06-12",
-          "height": "168cm",
-          "weight": "76kg"
+          "firstname": "Neil",
+          "lastname": "Crompton",
+          "jumper": "5",
+          "dob": "1937-08-16",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Brian",
@@ -114,6 +106,14 @@
           "dob": "1943-01-21",
           "height": "182cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Adams",
+          "jumper": "6",
+          "dob": "1935-06-12",
+          "height": "168cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Brian",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "BarassiJnr",
+          "lastname": "Barassi Jnr",
           "jumper": "31",
           "dob": "1936-02-27",
           "height": "179cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsJnr",
+          "lastname": "Matthews Jnr",
           "jumper": "39",
           "dob": "1943-05-10",
           "height": "169cm",
@@ -180,20 +180,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Kerry",
-          "lastname": "Rattray",
-          "jumper": "25",
-          "dob": "1944-07-13",
-          "height": "183cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Dawson",
           "jumper": "17",
           "dob": "1941-05-08",
           "height": "177cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Kerry",
+          "lastname": "Rattray",
+          "jumper": "25",
+          "dob": "1944-07-13",
+          "height": "183cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Ray",

@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Mike",
+          "lastname": "Green",
+          "jumper": "37",
+          "dob": "1948-05-14",
+          "height": "193cm",
+          "weight": "95kg"
+        },
+        {
           "firstname": "Kevin",
           "lastname": "Sheedy",
           "jumper": "10",
@@ -20,12 +28,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Mike",
-          "lastname": "Green",
-          "jumper": "37",
-          "dob": "1948-05-14",
-          "height": "193cm",
-          "weight": "95kg"
+          "firstname": "Kevin",
+          "lastname": "Bartlett",
+          "jumper": "29",
+          "dob": "1947-03-06",
+          "height": "177cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Roger",
@@ -50,14 +58,6 @@
           "dob": "1947-04-02",
           "height": "185cm",
           "weight": "84kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "Bartlett",
-          "jumper": "29",
-          "dob": "1947-03-06",
-          "height": "177cm",
-          "weight": "71kg"
         },
         {
           "firstname": "Geoff",
@@ -92,20 +92,20 @@
           "weight": "97kg"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Barrot",
-          "jumper": "24",
-          "dob": "1944-05-06",
-          "height": "180cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Ronaldson",
           "jumper": "2",
           "dob": "1946-10-01",
           "height": "196cm",
           "weight": "102kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Barrot",
+          "jumper": "24",
+          "dob": "1944-05-06",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Graeme",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "20",
           "dob": "1946-05-10",
           "height": "193cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Des",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "48",
           "dob": "1945-03-15",
           "height": "185cm",

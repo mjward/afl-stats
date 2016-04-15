@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Tom",
-          "lastname": "Brownlees",
-          "jumper": "3",
-          "dob": "1891-10-20",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Armstrong",
-          "jumper": "1",
-          "dob": "1887-06-16",
-          "height": "180cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Hope",
           "jumper": "24",
@@ -68,28 +52,28 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Tom",
+          "lastname": "Brownlees",
+          "jumper": "3",
+          "dob": "1891-10-20",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Armstrong",
+          "jumper": "1",
+          "dob": "1887-06-16",
+          "height": "180cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Stan",
           "lastname": "Thomas",
           "jumper": "15",
           "dob": "1892-05-09",
           "height": "180cm",
           "weight": "79kg"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Craven",
-          "jumper": "4",
-          "dob": "1895-04-26",
-          "height": "174cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Duncan",
-          "lastname": "Moodie",
-          "jumper": "18",
-          "dob": "1897-05-07",
-          "height": "179cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Bert",
@@ -106,6 +90,22 @@
           "dob": "1890-07-19",
           "height": "185cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Craven",
+          "jumper": "4",
+          "dob": "1895-04-26",
+          "height": "174cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Duncan",
+          "lastname": "Moodie",
+          "jumper": "18",
+          "dob": "1897-05-07",
+          "height": "179cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Alwyn",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "MacKay",
+          "lastname": "Mac Kay",
           "jumper": "20",
           "dob": "1890-11-15",
           "height": "—",

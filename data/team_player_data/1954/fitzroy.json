@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Tony",
-          "lastname": "Ongarello",
-          "jumper": "5",
-          "dob": "1932-12-22",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Allan",
           "lastname": "Ruthven",
           "jumper": "7",
@@ -20,20 +12,20 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Tony",
+          "lastname": "Ongarello",
+          "jumper": "5",
+          "dob": "1932-12-22",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Kevin",
           "lastname": "Wright",
           "jumper": "13",
           "dob": "1933-02-19",
           "height": "178cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Arnie",
-          "lastname": "Bench",
-          "jumper": "24",
-          "dob": "1931-09-14",
-          "height": "185cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Colin",
@@ -52,12 +44,12 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Vin",
-          "lastname": "Williams",
-          "jumper": "10",
-          "dob": "1932-07-10",
-          "height": "178cm",
-          "weight": "73kg"
+          "firstname": "Arnie",
+          "lastname": "Bench",
+          "jumper": "24",
+          "dob": "1931-09-14",
+          "height": "185cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Jack",
@@ -66,6 +58,14 @@
           "dob": "1929-09-29",
           "height": "175cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Williams",
+          "jumper": "10",
+          "dob": "1932-07-10",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "John",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MacGregor",
+          "lastname": "Mac Gregor",
           "jumper": "14",
           "dob": "1932-09-15",
           "height": "185cm",

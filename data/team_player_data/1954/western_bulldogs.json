@@ -4,22 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Ted",
-          "lastname": "WhittenSnr",
-          "jumper": "3",
-          "dob": "1933-07-27",
-          "height": "184cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "Ross",
-          "jumper": "9",
-          "dob": "1934-02-20",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Dave",
           "lastname": "Bryden",
           "jumper": "18",
@@ -44,12 +28,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Box",
-          "jumper": "5",
-          "dob": "1932-03-22",
+          "firstname": "Ted",
+          "lastname": "Whitten Snr",
+          "jumper": "3",
+          "dob": "1933-07-27",
+          "height": "184cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Ross",
+          "jumper": "9",
+          "dob": "1934-02-20",
           "height": "180cm",
-          "weight": "79kg"
+          "weight": "83kg"
         },
         {
           "firstname": "Herb",
@@ -76,6 +68,30 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Box",
+          "jumper": "5",
+          "dob": "1932-03-22",
+          "height": "180cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Mc Carthy",
+          "jumper": "33",
+          "dob": "1934-11-03",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Gallagher",
+          "jumper": "24",
+          "dob": "1931-03-16",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Arthur",
           "lastname": "Edwards",
           "jumper": "11",
@@ -89,22 +105,6 @@
           "jumper": "22",
           "dob": "1927-05-27",
           "height": "178cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "McCarthy",
-          "jumper": "33",
-          "dob": "1934-11-03",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Gallagher",
-          "jumper": "24",
-          "dob": "1931-03-16",
-          "height": "180cm",
           "weight": "80kg"
         },
         {
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McPhee",
+          "lastname": "Mc Phee",
           "jumper": "29",
           "dob": "1934-01-12",
           "height": "170cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "OutenJnr",
+          "lastname": "Outen Jnr",
           "jumper": "27",
           "dob": "1936-02-19",
           "height": "175cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McRae",
+          "lastname": "Mc Rae",
           "jumper": "16",
           "dob": "1927-08-03",
           "height": "183cm",

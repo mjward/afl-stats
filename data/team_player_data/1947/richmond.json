@@ -12,14 +12,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Leo",
-          "lastname": "Merrett",
-          "jumper": "22",
-          "dob": "1920-04-05",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Burge",
           "jumper": "10",
@@ -28,12 +20,12 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Morris",
-          "jumper": "5",
-          "dob": "1921-04-24",
-          "height": "188cm",
-          "weight": "86kg"
+          "firstname": "Leo",
+          "lastname": "Merrett",
+          "jumper": "22",
+          "dob": "1920-04-05",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Billy",
@@ -45,19 +37,19 @@
         },
         {
           "firstname": "Bill",
+          "lastname": "Morris",
+          "jumper": "5",
+          "dob": "1921-04-24",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Bill",
           "lastname": "Perkins",
           "jumper": "9",
           "dob": "1920-02-10",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Max",
-          "lastname": "Oppy",
-          "jumper": "14",
-          "dob": "1924-10-14",
-          "height": "175cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Fred",
@@ -68,12 +60,28 @@
           "weight": "77kg"
         },
         {
+          "firstname": "Max",
+          "lastname": "Oppy",
+          "jumper": "14",
+          "dob": "1924-10-14",
+          "height": "175cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Ray",
           "lastname": "Poulter",
           "jumper": "24",
           "dob": "1929-03-10",
           "height": "183cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Russell",
+          "jumper": "4",
+          "dob": "1923-03-25",
+          "height": "178cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Ron",
@@ -92,14 +100,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Russell",
-          "jumper": "4",
-          "dob": "1923-03-25",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Priestley",
           "jumper": "11",
@@ -114,22 +114,6 @@
           "dob": "1922-10-01",
           "height": "183cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Ken",
-          "lastname": "Roberts",
-          "jumper": "33",
-          "dob": "1925-06-03",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Laurie",
-          "lastname": "Taylor",
-          "jumper": "25",
-          "dob": "1918-10-21",
-          "height": "188cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Arthur",
@@ -148,7 +132,23 @@
           "weight": "97kg"
         },
         {
-          "firstname": "Don'Mopsy'",
+          "firstname": "Ken",
+          "lastname": "Roberts",
+          "jumper": "33",
+          "dob": "1925-06-03",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Laurie",
+          "lastname": "Taylor",
+          "jumper": "25",
+          "dob": "1918-10-21",
+          "height": "188cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Don' Mopsy'",
           "lastname": "Fraser",
           "jumper": "21",
           "dob": "1922-10-24",
@@ -292,20 +292,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Turner",
-          "jumper": "6",
-          "dob": "1926-06-24",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Alby",
           "lastname": "Pannam",
           "jumper": "12",
           "dob": "1914-04-19",
           "height": "169cm",
           "weight": "66kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Turner",
+          "jumper": "6",
+          "dob": "1926-06-24",
+          "height": "183cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Jack",

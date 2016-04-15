@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Bill",
-          "lastname": "Eason",
-          "jumper": "15",
-          "dob": "1881-12-15",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Armstrong",
-          "jumper": "1",
-          "dob": "1887-06-16",
-          "height": "180cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Martini",
           "jumper": "11",
@@ -42,6 +26,22 @@
           "dob": "1889-11-08",
           "height": "175cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Eason",
+          "jumper": "15",
+          "dob": "1881-12-15",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Armstrong",
+          "jumper": "1",
+          "dob": "1887-06-16",
+          "height": "180cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Percy",
@@ -116,20 +116,20 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Martin",
-          "jumper": "19",
-          "dob": "1887-04-19",
-          "height": "179cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Moran",
           "jumper": "—",
           "dob": "1883-10-03",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Martin",
+          "jumper": "19",
+          "dob": "1887-04-19",
+          "height": "179cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Dave",

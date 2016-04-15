@@ -4,38 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Robert",
-          "lastname": "Fox",
-          "jumper": "24",
-          "dob": "1931-11-02",
-          "height": "189cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Greg",
-          "lastname": "Sewell",
-          "jumper": "9",
-          "dob": "1933-06-30",
-          "height": "179cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Reg",
-          "lastname": "Burgess",
-          "jumper": "18",
-          "dob": "1934-08-06",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "McConnell",
-          "jumper": "25",
-          "dob": "1927-08-21",
-          "height": "188cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Harrington",
           "jumper": "23",
@@ -76,6 +44,38 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Robert",
+          "lastname": "Fox",
+          "jumper": "24",
+          "dob": "1931-11-02",
+          "height": "189cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Sewell",
+          "jumper": "9",
+          "dob": "1933-06-30",
+          "height": "179cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Burgess",
+          "jumper": "18",
+          "dob": "1934-08-06",
+          "height": "175cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Mc Connell",
+          "jumper": "25",
+          "dob": "1927-08-21",
+          "height": "188cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Doug",
           "lastname": "Dench",
           "jumper": "6",
@@ -100,14 +100,6 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Clarke",
-          "jumper": "1",
-          "dob": "1933-07-14",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Heenan",
           "jumper": "14",
@@ -122,6 +114,14 @@
           "dob": "1932-04-19",
           "height": "193cm",
           "weight": "95kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Clarke",
+          "jumper": "1",
+          "dob": "1933-07-14",
+          "height": "175cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Fred",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "16",
           "dob": "1932-05-22",
           "height": "180cm",

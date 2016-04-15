@@ -12,14 +12,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Collins",
-          "jumper": "2",
-          "dob": "1904-05-07",
-          "height": "173cm",
-          "weight": "68kg"
-        },
-        {
           "firstname": "Hedley",
           "lastname": "Blackmore",
           "jumper": "8",
@@ -29,11 +21,19 @@
         },
         {
           "firstname": "Chas",
-          "lastname": "McSwain",
+          "lastname": "Mc Swain",
           "jumper": "3",
           "dob": "1901-10-12",
           "height": "182cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Collins",
+          "jumper": "2",
+          "dob": "1904-05-07",
+          "height": "173cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Frank",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Harvey",
-          "lastname": "DunnSnr",
+          "lastname": "Dunn Snr",
           "jumper": "16",
           "dob": "1899-08-06",
           "height": "164cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "10",
           "dob": "1902-10-18",
           "height": "—",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "28",
           "dob": "1902-02-11",
           "height": "165cm",

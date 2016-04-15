@@ -12,14 +12,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Roger",
-          "lastname": "Duffy",
-          "jumper": "7",
-          "dob": "1931-09-26",
-          "height": "180cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Wally",
           "lastname": "Donald",
           "jumper": "22",
@@ -44,20 +36,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Collins",
-          "jumper": "2",
-          "dob": "1930-01-03",
-          "height": "183cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Barrett",
-          "jumper": "14",
-          "dob": "1928-12-21",
-          "height": "177cm",
-          "weight": "76kg"
+          "firstname": "Roger",
+          "lastname": "Duffy",
+          "jumper": "7",
+          "dob": "1931-09-26",
+          "height": "180cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Herb",
@@ -76,12 +60,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Ross",
-          "jumper": "9",
-          "dob": "1934-02-20",
-          "height": "180cm",
-          "weight": "83kg"
+          "firstname": "Jack",
+          "lastname": "Collins",
+          "jumper": "2",
+          "dob": "1930-01-03",
+          "height": "183cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Barrett",
+          "jumper": "14",
+          "dob": "1928-12-21",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Brian",
@@ -116,6 +108,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Don",
+          "lastname": "Ross",
+          "jumper": "9",
+          "dob": "1934-02-20",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Allan",
           "lastname": "Rogers",
           "jumper": "35",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Ted",
-          "lastname": "WhittenSnr",
+          "lastname": "Whitten Snr",
           "jumper": "3",
           "dob": "1933-07-27",
           "height": "184cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McRae",
+          "lastname": "Mc Rae",
           "jumper": "16",
           "dob": "1927-08-03",
           "height": "183cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "LintonJnr",
+          "lastname": "Linton Jnr",
           "jumper": "23",
           "dob": "1926-11-18",
           "height": "170cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "AkedJnr",
+          "lastname": "Aked Jnr",
           "jumper": "32",
           "dob": "1932-02-05",
           "height": "180cm",
@@ -244,20 +244,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Bulman",
-          "jumper": "17",
-          "dob": "1927-09-18",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Richards",
           "jumper": "4",
           "dob": "1927-12-02",
           "height": "187cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Bulman",
+          "jumper": "17",
+          "dob": "1927-09-18",
+          "height": "188cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Merv",

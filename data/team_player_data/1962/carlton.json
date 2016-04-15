@@ -36,22 +36,6 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Collins",
-          "jumper": "19",
-          "dob": "1942-10-24",
-          "height": "175cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Wes",
-          "lastname": "Lofts",
-          "jumper": "20",
-          "dob": "1942-11-15",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Murray",
           "lastname": "Kick",
           "jumper": "30",
@@ -84,6 +68,22 @@
           "weight": "105kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Collins",
+          "jumper": "19",
+          "dob": "1942-10-24",
+          "height": "175cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Wes",
+          "lastname": "Lofts",
+          "jumper": "20",
+          "dob": "1942-11-15",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Gordon",
           "lastname": "Collis",
           "jumper": "17",
@@ -92,20 +92,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Gill",
-          "jumper": "12",
-          "dob": "1941-10-26",
-          "height": "182cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Crowe",
           "jumper": "14",
           "dob": "1936-05-27",
           "height": "185cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Gill",
+          "jumper": "12",
+          "dob": "1941-10-26",
+          "height": "182cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Bruce",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "McMaster-Smith",
+          "lastname": "Mc Master- Smith",
           "jumper": "40",
           "dob": "1939-11-19",
           "height": "169cm",

@@ -20,14 +20,6 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Flanagan",
-          "jumper": "10",
-          "dob": "1924-03-28",
-          "height": "187cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Brown",
           "jumper": "14",
@@ -42,6 +34,14 @@
           "dob": "1922-11-12",
           "height": "178cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Flanagan",
+          "jumper": "10",
+          "dob": "1924-03-28",
+          "height": "187cm",
+          "weight": "92kg"
         },
         {
           "firstname": "George",
@@ -84,20 +84,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Bauer",
-          "jumper": "19",
-          "dob": "1922-05-17",
-          "height": "178cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Bailey",
           "jumper": "33",
           "dob": "1921-10-02",
           "height": "173cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Bauer",
+          "jumper": "19",
+          "dob": "1922-05-17",
+          "height": "178cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Norm",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "MundayJnr",
+          "lastname": "Munday Jnr",
           "jumper": "15",
           "dob": "1917-11-01",
           "height": "188cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Mick",
-          "lastname": "McGlynn",
+          "lastname": "Mc Glynn",
           "jumper": "30",
           "dob": "1922-02-12",
           "height": "178cm",
@@ -260,14 +260,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Pike",
-          "jumper": "18",
-          "dob": "1925-06-03",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Powell",
           "jumper": "31",
@@ -276,12 +268,12 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Brown",
-          "jumper": "21",
-          "dob": "1920-09-03",
+          "firstname": "Frank",
+          "lastname": "Pike",
+          "jumper": "18",
+          "dob": "1925-06-03",
           "height": "180cm",
-          "weight": "76kg"
+          "weight": "73kg"
         },
         {
           "firstname": "Alan",
@@ -290,6 +282,14 @@
           "dob": "1920-08-06",
           "height": "185cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Brown",
+          "jumper": "21",
+          "dob": "1920-09-03",
+          "height": "180cm",
+          "weight": "76kg"
         }
       ]
     }

@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McGowan",
+          "lastname": "Mc Gowan",
           "jumper": "3",
           "dob": "1938-01-01",
           "height": "165cm",
@@ -45,23 +45,15 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "SkiltonJnr",
+          "lastname": "Skilton Jnr",
           "jumper": "14",
           "dob": "1938-11-08",
           "height": "171cm",
           "weight": "76kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Alexander",
-          "jumper": "36",
-          "dob": "1939-07-20",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Hugh",
-          "lastname": "McLaughlinJnr",
+          "lastname": "Mc Laughlin Jnr",
           "jumper": "25",
           "dob": "1935-10-13",
           "height": "178cm",
@@ -82,6 +74,14 @@
           "dob": "1940-01-06",
           "height": "191cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Alexander",
+          "jumper": "36",
+          "dob": "1939-07-20",
+          "height": "179cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",
@@ -140,20 +140,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Allan",
-          "lastname": "Hotchkin",
-          "jumper": "20",
-          "dob": "1943-02-07",
-          "height": "180cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Plumridge",
           "jumper": "17",
           "dob": "1944-04-13",
           "height": "179cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "Hotchkin",
+          "jumper": "20",
+          "dob": "1943-02-07",
+          "height": "180cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Albie",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "McGee",
+          "lastname": "Mc Gee",
           "jumper": "49",
           "dob": "1945-03-18",
           "height": "180cm",
@@ -325,7 +325,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "43",
           "dob": "1938-10-21",
           "height": "175cm",

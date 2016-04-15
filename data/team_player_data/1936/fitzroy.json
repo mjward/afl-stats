@@ -5,14 +5,14 @@
       "Fitzroy": [
         {
           "firstname": "Haydn",
-          "lastname": "BuntonSnr",
+          "lastname": "Bunton Snr",
           "jumper": "7",
           "dob": "1911-07-05",
           "height": "179cm",
           "weight": "73kg"
         },
         {
-          "firstname": "Denis'Dinny'",
+          "firstname": "Denis' Dinny'",
           "lastname": "Ryan",
           "jumper": "4",
           "dob": "1916-07-10",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McConchie",
+          "lastname": "Mc Conchie",
           "jumper": "19",
           "dob": "1910-05-30",
           "height": "175cm",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "TooheyJnr",
+          "lastname": "Toohey Jnr",
           "jumper": "10",
           "dob": "1915-06-01",
           "height": "185cm",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McLellan",
+          "lastname": "Mc Lellan",
           "jumper": "17",
           "dob": "1916-03-16",
           "height": "178cm",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Russell",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "9",
           "dob": "1912-12-10",
           "height": "182cm",
@@ -140,8 +140,8 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Jim'Brum'",
-          "lastname": "O'Meara",
+          "firstname": "Jim' Brum'",
+          "lastname": "O' Meara",
           "jumper": "11",
           "dob": "1908-09-16",
           "height": "177cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "O'Leary",
+          "lastname": "O' Leary",
           "jumper": "8",
           "dob": "1911-03-23",
           "height": "179cm",
@@ -221,14 +221,14 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "30",
           "dob": "1911-10-31",
           "height": "178cm",
           "weight": "75kg"
         },
         {
-          "firstname": "Wilfred'Chicken'",
+          "firstname": "Wilfred' Chicken'",
           "lastname": "Smallhorn",
           "jumper": "21",
           "dob": "1911-02-25",
@@ -276,14 +276,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Allan",
-          "lastname": "White",
-          "jumper": "24",
-          "dob": "1915-07-21",
-          "height": "179cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Calverley",
           "jumper": "20",
@@ -298,6 +290,14 @@
           "dob": "1913-02-02",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "White",
+          "jumper": "24",
+          "dob": "1915-07-21",
+          "height": "179cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Leo",
@@ -340,20 +340,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Col",
-          "lastname": "Crawford",
-          "jumper": "11",
-          "dob": "1913-05-14",
-          "height": "173cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Neeson",
           "jumper": "8",
           "dob": "1914-06-15",
           "height": "182cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Col",
+          "lastname": "Crawford",
+          "jumper": "11",
+          "dob": "1913-05-14",
+          "height": "173cm",
+          "weight": "67kg"
         }
       ]
     }

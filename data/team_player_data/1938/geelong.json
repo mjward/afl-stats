@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Gordon",
-          "lastname": "Abbott",
-          "jumper": "7",
-          "dob": "1914-09-26",
-          "height": "185cm",
-          "weight": "91kg"
-        },
-        {
-          "firstname": "Tommy",
-          "lastname": "Quinn",
-          "jumper": "16",
-          "dob": "1908-08-11",
-          "height": "169cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Dougherty",
           "jumper": "6",
@@ -41,6 +25,22 @@
           "jumper": "29",
           "dob": "1916-04-22",
           "height": "184cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Abbott",
+          "jumper": "7",
+          "dob": "1914-09-26",
+          "height": "185cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Tommy",
+          "lastname": "Quinn",
+          "jumper": "16",
+          "dob": "1908-08-11",
+          "height": "169cm",
           "weight": "80kg"
         },
         {
@@ -69,6 +69,14 @@
         },
         {
           "firstname": "Jack",
+          "lastname": "Grant",
+          "jumper": "14",
+          "dob": "1915-09-24",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jack",
           "lastname": "Butcher",
           "jumper": "31",
           "dob": "1914-10-28",
@@ -84,11 +92,19 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Grant",
-          "jumper": "14",
-          "dob": "1915-09-24",
-          "height": "183cm",
+          "firstname": "Bill",
+          "lastname": "Dyer",
+          "jumper": "2",
+          "dob": "1917-03-15",
+          "height": "175cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Angie",
+          "lastname": "Muller",
+          "jumper": "28",
+          "dob": "1912-11-13",
+          "height": "175cm",
           "weight": "82kg"
         },
         {
@@ -106,22 +122,6 @@
           "dob": "1915-03-17",
           "height": "178cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Dyer",
-          "jumper": "2",
-          "dob": "1917-03-15",
-          "height": "175cm",
-          "weight": "69kg"
-        },
-        {
-          "firstname": "Angie",
-          "lastname": "Muller",
-          "jumper": "28",
-          "dob": "1912-11-13",
-          "height": "175cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Geoff",

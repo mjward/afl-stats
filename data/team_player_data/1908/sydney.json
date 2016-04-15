@@ -20,14 +20,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Mortimer",
-          "jumper": "16",
-          "dob": "1886-04-24",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Anderson",
           "jumper": "—",
@@ -42,6 +34,14 @@
           "dob": "1880-11-13",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Mortimer",
+          "jumper": "16",
+          "dob": "1886-04-24",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Phonse",
@@ -68,15 +68,7 @@
           "weight": "—"
         },
         {
-          "firstname": "Bert",
-          "lastname": "Atkins",
-          "jumper": "—",
-          "dob": "1885-01-17",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "25",
           "dob": "1886-11-10",
@@ -90,6 +82,22 @@
           "dob": "1880-03-11",
           "height": "180cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Atkins",
+          "jumper": "—",
+          "dob": "1885-01-17",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Goddard",
+          "jumper": "—",
+          "dob": "1880-02-24",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Dick",
@@ -108,28 +116,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Goddard",
-          "jumper": "—",
-          "dob": "1880-02-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Wade",
           "jumper": "—",
           "dob": "1884-12-22",
           "height": "170cm",
           "weight": "66kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Ricketts",
-          "jumper": "1",
-          "dob": "1885-07-03",
-          "height": "173cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Bill",
@@ -146,6 +138,14 @@
           "dob": "1885-12-30",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Ricketts",
+          "jumper": "1",
+          "dob": "1885-07-03",
+          "height": "173cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Jack",

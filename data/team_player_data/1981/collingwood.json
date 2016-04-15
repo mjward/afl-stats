@@ -4,14 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Peter",
-          "lastname": "Daicos",
-          "jumper": "35",
-          "dob": "1961-09-20",
-          "height": "184cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Tony",
           "lastname": "Shaw",
           "jumper": "22",
@@ -37,7 +29,23 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCormack",
+          "lastname": "Daicos",
+          "jumper": "35",
+          "dob": "1961-09-20",
+          "height": "184cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Taylor",
+          "jumper": "28",
+          "dob": "1953-12-30",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Mc Cormack",
           "jumper": "6",
           "dob": "1956-08-01",
           "height": "188cm",
@@ -58,14 +66,6 @@
           "dob": "1957-01-11",
           "height": "198cm",
           "weight": "97kg"
-        },
-        {
-          "firstname": "Michael",
-          "lastname": "Taylor",
-          "jumper": "28",
-          "dob": "1953-12-30",
-          "height": "183cm",
-          "weight": "84kg"
         },
         {
           "firstname": "Craig",
@@ -116,6 +116,14 @@
           "weight": "88kg"
         },
         {
+          "firstname": "Ricky",
+          "lastname": "Barham",
+          "jumper": "1",
+          "dob": "1958-11-28",
+          "height": "183cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Rene",
           "lastname": "Kink",
           "jumper": "36",
@@ -130,14 +138,6 @@
           "dob": "1956-09-15",
           "height": "193cm",
           "weight": "99kg"
-        },
-        {
-          "firstname": "Ricky",
-          "lastname": "Barham",
-          "jumper": "1",
-          "dob": "1958-11-28",
-          "height": "183cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Kevin",

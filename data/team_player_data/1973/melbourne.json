@@ -4,6 +4,14 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Ray",
+          "lastname": "Biffin",
+          "jumper": "19",
+          "dob": "1949-05-06",
+          "height": "182cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Paul",
           "lastname": "Callery",
           "jumper": "35",
@@ -28,12 +36,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Biffin",
-          "jumper": "19",
-          "dob": "1949-05-06",
-          "height": "182cm",
-          "weight": "92kg"
+          "firstname": "Jim",
+          "lastname": "Tilbrook",
+          "jumper": "18",
+          "dob": "1946-06-10",
+          "height": "184cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Sullivan",
+          "jumper": "4",
+          "dob": "1949-01-18",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Greg",
@@ -76,20 +92,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Tilbrook",
-          "jumper": "18",
-          "dob": "1946-06-10",
-          "height": "184cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "Tony",
-          "lastname": "Sullivan",
-          "jumper": "4",
-          "dob": "1949-01-18",
-          "height": "180cm",
-          "weight": "82kg"
+          "firstname": "Frank",
+          "lastname": "Davis",
+          "jumper": "6",
+          "dob": "1944-08-25",
+          "height": "178cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Stephen",
@@ -98,14 +106,6 @@
           "dob": "1953-01-25",
           "height": "184cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Davis",
-          "jumper": "6",
-          "dob": "1944-08-25",
-          "height": "178cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Ross",
@@ -140,20 +140,20 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Glenn",
-          "lastname": "Swan",
-          "jumper": "36",
-          "dob": "1952-10-01",
-          "height": "197cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Robert",
           "lastname": "Flower",
           "jumper": "2",
           "dob": "1955-08-05",
           "height": "183cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Glenn",
+          "lastname": "Swan",
+          "jumper": "36",
+          "dob": "1952-10-01",
+          "height": "197cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Henry",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Greg",
-          "lastname": "MacDonald",
+          "lastname": "Mac Donald",
           "jumper": "45",
           "dob": "1954-12-01",
           "height": "170cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Shane",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "20",
           "dob": "1952-08-05",
           "height": "185cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McGuinness",
+          "lastname": "Mc Guinness",
           "jumper": "49",
           "dob": "1953-10-15",
           "height": "187cm",

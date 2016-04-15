@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Noel",
-          "lastname": "McMahen",
+          "lastname": "Mc Mahen",
           "jumper": "35",
           "dob": "1926-10-30",
           "height": "184cm",
@@ -36,6 +36,14 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Denis",
+          "lastname": "Cordner",
+          "jumper": "1",
+          "dob": "1924-06-28",
+          "height": "191cm",
+          "weight": "91kg"
+        },
+        {
           "firstname": "Mike",
           "lastname": "Woods",
           "jumper": "37",
@@ -50,14 +58,6 @@
           "dob": "1927-01-09",
           "height": "182cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Denis",
-          "lastname": "Cordner",
-          "jumper": "1",
-          "dob": "1924-06-28",
-          "height": "191cm",
-          "weight": "91kg"
         },
         {
           "firstname": "John",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "2",
           "dob": "1929-12-19",
           "height": "178cm",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Geoff",
-          "lastname": "McGivern",
+          "lastname": "Mc Givern",
           "jumper": "17",
           "dob": "1930-12-27",
           "height": "189cm",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "20",
           "dob": "1931-11-30",
           "height": "191cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "O'Keeffe",
+          "lastname": "O' Keeffe",
           "jumper": "23",
           "dob": "1930-08-12",
           "height": "171cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "5",
           "dob": "1929-08-27",
           "height": "175cm",
@@ -196,20 +196,20 @@
           "weight": "65kg"
         },
         {
+          "firstname": "Ken",
+          "lastname": "Mc Kaige",
+          "jumper": "29",
+          "dob": "1929-08-17",
+          "height": "187cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Colin",
           "lastname": "Love",
           "jumper": "19",
           "dob": "1929-06-09",
           "height": "183cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Ken",
-          "lastname": "McKaige",
-          "jumper": "29",
-          "dob": "1929-08-17",
-          "height": "187cm",
-          "weight": "81kg"
         },
         {
           "firstname": "John",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "25",
           "dob": "1927-03-29",
           "height": "185cm",

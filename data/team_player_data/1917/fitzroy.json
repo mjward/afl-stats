@@ -4,6 +4,14 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Fred",
+          "lastname": "Moore",
+          "jumper": "15",
+          "dob": "1890-06-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Parratt",
           "jumper": "20",
@@ -12,12 +20,12 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Moore",
-          "jumper": "15",
-          "dob": "1890-06-25",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Chris",
+          "lastname": "Lethbridge",
+          "jumper": "12",
+          "dob": "1890-05-24",
+          "height": "183cm",
+          "weight": "83kg"
         },
         {
           "firstname": "George",
@@ -29,7 +37,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "TooheySnr",
+          "lastname": "Toohey Snr",
           "jumper": "3",
           "dob": "1886-07-23",
           "height": "183cm",
@@ -52,12 +60,12 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Chris",
-          "lastname": "Lethbridge",
-          "jumper": "12",
-          "dob": "1890-05-24",
+          "firstname": "Ted",
+          "lastname": "Mc Donald",
+          "jumper": "23",
+          "dob": "1891-01-06",
           "height": "183cm",
-          "weight": "83kg"
+          "weight": "78kg"
         },
         {
           "firstname": "Jim",
@@ -68,12 +76,12 @@
           "weight": "63kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "McDonald",
-          "jumper": "23",
-          "dob": "1891-01-06",
-          "height": "183cm",
-          "weight": "78kg"
+          "firstname": "Charlie",
+          "lastname": "Norris",
+          "jumper": "22",
+          "dob": "1881-07-23",
+          "height": "178cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Tom",
@@ -82,14 +90,6 @@
           "dob": "1896-12-01",
           "height": "178cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Norris",
-          "jumper": "22",
-          "dob": "1881-07-23",
-          "height": "178cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Frank",
@@ -221,17 +221,9 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "10",
           "dob": "1887-09-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Powditch",
-          "jumper": "25",
-          "dob": "1894-05-21",
           "height": "—",
           "weight": "—"
         },
@@ -242,6 +234,14 @@
           "dob": "1889-07-14",
           "height": "180cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Powditch",
+          "jumper": "25",
+          "dob": "1894-05-21",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Charlie",

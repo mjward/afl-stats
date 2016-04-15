@@ -21,7 +21,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "43",
           "dob": "1949-11-05",
           "height": "191cm",
@@ -36,20 +36,28 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Mark",
-          "lastname": "MacLure",
-          "jumper": "36",
-          "dob": "1955-07-14",
-          "height": "188cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Rod",
           "lastname": "Austin",
           "jumper": "21",
           "dob": "1953-01-26",
           "height": "180cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Mac Lure",
+          "jumper": "36",
+          "dob": "1955-07-14",
+          "height": "188cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Doull",
+          "jumper": "11",
+          "dob": "1950-09-11",
+          "height": "185cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Rod",
@@ -68,14 +76,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Bruce",
-          "lastname": "Doull",
-          "jumper": "11",
-          "dob": "1950-09-11",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Armstrong",
           "jumper": "12",
@@ -84,7 +84,7 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Peter'Percy'",
+          "firstname": "Peter' Percy'",
           "lastname": "Jones",
           "jumper": "28",
           "dob": "1946-10-20",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McConville",
+          "lastname": "Mc Conville",
           "jumper": "33",
           "dob": "1958-08-17",
           "height": "185cm",

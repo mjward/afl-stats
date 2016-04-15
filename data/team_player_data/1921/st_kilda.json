@@ -4,16 +4,8 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Barney",
-          "lastname": "Carr",
-          "jumper": "13",
-          "dob": "1897-08-27",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Rex",
-          "lastname": "DeGaris",
+          "lastname": "De Garis",
           "jumper": "14",
           "dob": "1896-12-29",
           "height": "175cm",
@@ -36,20 +28,12 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Williams",
-          "jumper": "2",
-          "dob": "1891-07-19",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Kerley",
-          "jumper": "16",
-          "dob": "1894-12-12",
-          "height": "178cm",
-          "weight": "73kg"
+          "firstname": "Barney",
+          "lastname": "Carr",
+          "jumper": "13",
+          "dob": "1897-08-27",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Harry",
@@ -76,6 +60,30 @@
           "weight": "61kg"
         },
         {
+          "firstname": "Stan",
+          "lastname": "Williams",
+          "jumper": "2",
+          "dob": "1891-07-19",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Kerley",
+          "jumper": "16",
+          "dob": "1894-12-12",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Moyes",
+          "jumper": "9",
+          "dob": "1896-07-28",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Cubbins",
           "jumper": "4",
@@ -92,12 +100,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Moyes",
-          "jumper": "9",
-          "dob": "1896-07-28",
-          "height": "170cm",
-          "weight": "66kg"
+          "firstname": "Bill",
+          "lastname": "Woodcock",
+          "jumper": "19",
+          "dob": "1888-06-29",
+          "height": "182cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Harry",
@@ -108,16 +116,8 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Woodcock",
-          "jumper": "19",
-          "dob": "1888-06-29",
-          "height": "182cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Jack",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "31",
           "dob": "1899-01-15",
           "height": "175cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Dave",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "19",
           "dob": "1887-01-22",
           "height": "193cm",
@@ -252,14 +252,6 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Ivor",
-          "lastname": "Aldridge",
-          "jumper": "24",
-          "dob": "1899-11-13",
-          "height": "178cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Gus",
           "lastname": "Howell",
           "jumper": "22",
@@ -268,12 +260,28 @@
           "weight": "—"
         },
         {
+          "firstname": "Ivor",
+          "lastname": "Aldridge",
+          "jumper": "24",
+          "dob": "1899-11-13",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Pat",
           "lastname": "Kennedy",
           "jumper": "28",
           "dob": "1898-07-30",
           "height": "191cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Deagan",
+          "jumper": "16",
+          "dob": "1898-03-22",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Wally",
@@ -290,14 +298,6 @@
           "dob": "1891-12-19",
           "height": "182cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Jimmy",
-          "lastname": "Deagan",
-          "jumper": "16",
-          "dob": "1898-03-22",
-          "height": "—",
-          "weight": "—"
         }
       ]
     }

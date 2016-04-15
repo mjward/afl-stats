@@ -4,6 +4,22 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Leo",
+          "lastname": "Maguire",
+          "jumper": "31",
+          "dob": "1920-06-23",
+          "height": "188cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Oppy",
+          "jumper": "14",
+          "dob": "1924-10-14",
+          "height": "175cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Bob",
           "lastname": "Bawden",
           "jumper": "23",
@@ -21,19 +37,11 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "Maguire",
-          "jumper": "31",
-          "dob": "1920-06-23",
-          "height": "188cm",
-          "weight": "97kg"
-        },
-        {
-          "firstname": "Max",
-          "lastname": "Oppy",
-          "jumper": "14",
-          "dob": "1924-10-14",
-          "height": "175cm",
-          "weight": "81kg"
+          "lastname": "Merrett",
+          "jumper": "22",
+          "dob": "1920-04-05",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Brian",
@@ -42,14 +50,6 @@
           "dob": "1920-10-12",
           "height": "188cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Leo",
-          "lastname": "Merrett",
-          "jumper": "22",
-          "dob": "1920-04-05",
-          "height": "178cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Bert",
@@ -84,6 +84,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Dyer",
+          "jumper": "17",
+          "dob": "1913-11-15",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Fred",
           "lastname": "Cook",
           "jumper": "7",
@@ -98,14 +106,6 @@
           "dob": "1921-04-24",
           "height": "188cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Dyer",
-          "jumper": "17",
-          "dob": "1913-11-15",
-          "height": "185cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Jack",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "HughesJnr",
+          "lastname": "Hughes Jnr",
           "jumper": "4",
           "dob": "1921-02-09",
           "height": "180cm",

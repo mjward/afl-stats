@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Terry",
+          "lastname": "Bright",
+          "jumper": "4",
+          "dob": "1958-02-12",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "David",
           "lastname": "Clarke",
           "jumper": "14",
@@ -36,14 +44,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Bright",
-          "jumper": "4",
-          "dob": "1958-02-12",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Hawkins",
           "jumper": "26",
@@ -60,20 +60,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Nankervis",
-          "jumper": "40",
-          "dob": "1948-01-03",
-          "height": "183cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Andy",
           "lastname": "Preston",
           "jumper": "28",
           "dob": "1957-08-16",
           "height": "180cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Nankervis",
+          "jumper": "40",
+          "dob": "1948-01-03",
+          "height": "183cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Ray",
@@ -124,7 +124,7 @@
           "weight": "99kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",
@@ -133,19 +133,19 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "Featherby",
-          "jumper": "6",
-          "dob": "1951-12-12",
-          "height": "183cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Peter",
           "lastname": "Johnston",
           "jumper": "3",
           "dob": "1957-11-13",
           "height": "192cm",
           "weight": "95kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Featherby",
+          "jumper": "6",
+          "dob": "1951-12-12",
+          "height": "183cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Glenn",
@@ -188,14 +188,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Malcolm",
-          "lastname": "Reed",
-          "jumper": "1",
-          "dob": "1958-02-11",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Mario",
           "lastname": "Bortolotto",
           "jumper": "29",
@@ -210,6 +202,14 @@
           "dob": "1953-08-01",
           "height": "177cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Malcolm",
+          "lastname": "Reed",
+          "jumper": "1",
+          "dob": "1958-02-11",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Paul",

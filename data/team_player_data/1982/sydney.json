@@ -4,22 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Max",
-          "lastname": "Kruse",
-          "jumper": "34",
-          "dob": "1958-10-29",
-          "height": "188cm",
-          "weight": "91kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "Carter",
-          "jumper": "13",
-          "dob": "1954-10-29",
-          "height": "191cm",
-          "weight": "93kg"
-        },
-        {
           "firstname": "Dennis",
           "lastname": "Carroll",
           "jumper": "7",
@@ -50,6 +34,22 @@
           "dob": "1960-11-27",
           "height": "178cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Kruse",
+          "jumper": "34",
+          "dob": "1958-10-29",
+          "height": "188cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Carter",
+          "jumper": "13",
+          "dob": "1954-10-29",
+          "height": "191cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Greg",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "Rhys-Jones",
+          "lastname": "Rhys- Jones",
           "jumper": "30",
           "dob": "1962-06-16",
           "height": "187cm",
@@ -108,20 +108,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Colin",
-          "lastname": "Hounsell",
-          "jumper": "23",
-          "dob": "1955-09-04",
-          "height": "173cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Anthony",
           "lastname": "Daniher",
           "jumper": "19",
           "dob": "1963-01-21",
           "height": "191cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Hounsell",
+          "jumper": "23",
+          "dob": "1955-09-04",
+          "height": "173cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Bernie",
@@ -156,20 +156,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Steven",
-          "lastname": "Taubert",
-          "jumper": "24",
-          "dob": "1953-10-06",
-          "height": "193cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Craig",
           "lastname": "Braddy",
           "jumper": "12",
           "dob": "1959-04-12",
           "height": "192cm",
           "weight": "91kg"
+        },
+        {
+          "firstname": "Steven",
+          "lastname": "Taubert",
+          "jumper": "24",
+          "dob": "1953-10-06",
+          "height": "193cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Gerard",

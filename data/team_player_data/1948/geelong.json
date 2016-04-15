@@ -4,20 +4,20 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Bruce",
-          "lastname": "Morrison",
-          "jumper": "1",
-          "dob": "1923-06-19",
-          "height": "180cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Lunn",
           "jumper": "23",
           "dob": "1929-05-07",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Morrison",
+          "jumper": "1",
+          "dob": "1923-06-19",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Percy",
@@ -44,22 +44,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Fitzgerald",
-          "jumper": "3",
-          "dob": "1924-12-14",
-          "height": "178cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Bernie",
-          "lastname": "Smith",
-          "jumper": "11",
-          "dob": "1927-12-19",
-          "height": "178cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Davis",
           "jumper": "4",
@@ -74,6 +58,22 @@
           "dob": "1928-05-15",
           "height": "179cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Fitzgerald",
+          "jumper": "3",
+          "dob": "1924-12-14",
+          "height": "178cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Bernie",
+          "lastname": "Smith",
+          "jumper": "11",
+          "dob": "1927-12-19",
+          "height": "178cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Don",
@@ -92,20 +92,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "White",
-          "jumper": "30",
-          "dob": "1922-08-26",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Irvine",
           "jumper": "12",
           "dob": "1926-02-17",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "White",
+          "jumper": "30",
+          "dob": "1922-08-26",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Russ",
@@ -236,14 +236,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Wood",
-          "jumper": "27",
-          "dob": "1923-05-29",
-          "height": "174cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Bailey",
           "jumper": "33",
@@ -252,8 +244,16 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Ron",
+          "lastname": "Wood",
+          "jumper": "27",
+          "dob": "1923-05-29",
+          "height": "174cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Jack",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "18",
           "dob": "1924-02-13",
           "height": "180cm",
@@ -268,20 +268,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Pritchard",
-          "jumper": "21",
-          "dob": "1927-01-29",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Luke",
           "jumper": "17",
           "dob": "1923-05-17",
           "height": "168cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Pritchard",
+          "jumper": "21",
+          "dob": "1927-01-29",
+          "height": "183cm",
+          "weight": "81kg"
         },
         {
           "firstname": "George",

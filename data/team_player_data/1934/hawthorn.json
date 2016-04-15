@@ -12,6 +12,22 @@
           "weight": "77kg"
         },
         {
+          "firstname": "Clarrie",
+          "lastname": "Lonsdale",
+          "jumper": "4",
+          "dob": "1906-09-13",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Ivan",
+          "lastname": "Mc Alpine",
+          "jumper": "32",
+          "dob": "1907-07-19",
+          "height": "182cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Stan",
           "lastname": "Spinks",
           "jumper": "8",
@@ -28,30 +44,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Clarrie",
-          "lastname": "Lonsdale",
-          "jumper": "4",
-          "dob": "1906-09-13",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Ivan",
-          "lastname": "McAlpine",
-          "jumper": "32",
-          "dob": "1907-07-19",
-          "height": "182cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Chandler",
-          "jumper": "5",
-          "dob": "1913-10-07",
-          "height": "179cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Ernie",
           "lastname": "Loveless",
           "jumper": "17",
@@ -60,11 +52,11 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Stuart",
-          "lastname": "Stewart",
-          "jumper": "9",
-          "dob": "1907-04-26",
-          "height": "185cm",
+          "firstname": "Bert",
+          "lastname": "Chandler",
+          "jumper": "5",
+          "dob": "1913-10-07",
+          "height": "179cm",
           "weight": "83kg"
         },
         {
@@ -82,6 +74,14 @@
           "dob": "1906-03-19",
           "height": "187cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Stuart",
+          "lastname": "Stewart",
+          "jumper": "9",
+          "dob": "1907-04-26",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Mal",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Jerry",
-          "lastname": "McAuliffe",
+          "lastname": "Mc Auliffe",
           "jumper": "26",
           "dob": "1910-08-27",
           "height": "—",
@@ -317,7 +317,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeySnr",
+          "lastname": "Twomey Snr",
           "jumper": "31",
           "dob": "1899-05-14",
           "height": "174cm",
@@ -333,7 +333,7 @@
         },
         {
           "firstname": "Fred",
-          "lastname": "DeAbel",
+          "lastname": "De Abel",
           "jumper": "29",
           "dob": "1910-05-04",
           "height": "—",

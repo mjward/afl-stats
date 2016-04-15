@@ -4,30 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Alec",
-          "lastname": "Eason",
-          "jumper": "16",
-          "dob": "1889-11-08",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "Brownlees",
-          "jumper": "17",
-          "dob": "1891-10-20",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Billy",
-          "lastname": "McCarter",
-          "jumper": "4",
-          "dob": "1888-10-23",
-          "height": "170cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Healy",
           "jumper": "18",
@@ -60,20 +36,28 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Percy",
-          "lastname": "Scown",
-          "jumper": "10",
-          "dob": "1883-07-13",
-          "height": "178cm",
-          "weight": "67kg"
+          "firstname": "Alec",
+          "lastname": "Eason",
+          "jumper": "16",
+          "dob": "1889-11-08",
+          "height": "175cm",
+          "weight": "78kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Marsham",
-          "jumper": "3",
-          "dob": "1890-07-19",
-          "height": "185cm",
-          "weight": "90kg"
+          "firstname": "Tom",
+          "lastname": "Brownlees",
+          "jumper": "17",
+          "dob": "1891-10-20",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Mc Carter",
+          "jumper": "4",
+          "dob": "1888-10-23",
+          "height": "170cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Billy",
@@ -100,6 +84,22 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Percy",
+          "lastname": "Scown",
+          "jumper": "10",
+          "dob": "1883-07-13",
+          "height": "178cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Marsham",
+          "jumper": "3",
+          "dob": "1890-07-19",
+          "height": "185cm",
+          "weight": "90kg"
+        },
+        {
           "firstname": "Les",
           "lastname": "Armstrong",
           "jumper": "7",
@@ -116,20 +116,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Gray",
-          "jumper": "20",
-          "dob": "1885-08-17",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Dalton",
           "jumper": "12",
           "dob": "1891-08-22",
           "height": "180cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Gray",
+          "jumper": "20",
+          "dob": "1885-08-17",
+          "height": "175cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Les",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "BakerJnr",
+          "lastname": "Baker Jnr",
           "jumper": "25",
           "dob": "1891-12-09",
           "height": "180cm",
@@ -196,20 +196,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Holligan",
-          "jumper": "13",
-          "dob": "1886-01-29",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Edmund",
           "lastname": "Webber",
           "jumper": "24",
           "dob": "1894-03-12",
           "height": "180cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Holligan",
+          "jumper": "13",
+          "dob": "1886-01-29",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Bert",

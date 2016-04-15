@@ -4,14 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Kevin",
-          "lastname": "Rose",
-          "jumper": "29",
-          "dob": "1939-06-04",
-          "height": "184cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Murray",
           "lastname": "Weideman",
           "jumper": "1",
@@ -28,12 +20,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Gabelich",
-          "jumper": "2",
-          "dob": "1933-07-03",
-          "height": "193cm",
-          "weight": "109kg"
+          "firstname": "Kevin",
+          "lastname": "Rose",
+          "jumper": "29",
+          "dob": "1939-06-04",
+          "height": "184cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Errol",
@@ -60,6 +52,14 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Ray",
+          "lastname": "Gabelich",
+          "jumper": "2",
+          "dob": "1933-07-03",
+          "height": "193cm",
+          "weight": "109kg"
+        },
+        {
           "firstname": "Bert",
           "lastname": "Chapman",
           "jumper": "25",
@@ -76,20 +76,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "McLean",
-          "jumper": "47",
-          "dob": "1942-09-10",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Knox",
           "jumper": "36",
           "dob": "1941-07-04",
           "height": "183cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Mc Lean",
+          "jumper": "47",
+          "dob": "1942-09-10",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Max",
@@ -252,20 +252,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Neville",
-          "lastname": "Withers",
-          "jumper": "6",
-          "dob": "1940-12-06",
-          "height": "189cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Robin",
           "lastname": "Fildes",
           "jumper": "15",
           "dob": "1940-11-13",
           "height": "187cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Neville",
+          "lastname": "Withers",
+          "jumper": "6",
+          "dob": "1940-12-06",
+          "height": "189cm",
+          "weight": "84kg"
         },
         {
           "firstname": "John",

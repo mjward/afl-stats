@@ -4,28 +4,20 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Bob",
-          "lastname": "Sellers",
-          "jumper": "25",
-          "dob": "1905-02-23",
-          "height": "182cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jim",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "8",
           "dob": "1900-12-30",
           "height": "175cm",
           "weight": "73kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Sherer",
-          "jumper": "27",
-          "dob": "1903-07-28",
-          "height": "177cm",
-          "weight": "74kg"
+          "firstname": "Bob",
+          "lastname": "Sellers",
+          "jumper": "25",
+          "dob": "1905-02-23",
+          "height": "182cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bert",
@@ -50,6 +42,14 @@
           "dob": "1906-11-09",
           "height": "165cm",
           "weight": "65kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Sherer",
+          "jumper": "27",
+          "dob": "1903-07-28",
+          "height": "177cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Pat",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Godfrey",
-          "lastname": "McRae",
+          "lastname": "Mc Rae",
           "jumper": "10",
           "dob": "1906-07-17",
           "height": "—",

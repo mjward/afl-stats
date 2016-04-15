@@ -4,22 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "George",
-          "lastname": "Bisset",
-          "jumper": "6",
-          "dob": "1943-03-10",
-          "height": "168cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Reilly",
-          "jumper": "32",
-          "dob": "1942-01-11",
-          "height": "191cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Jillard",
           "jumper": "25",
@@ -37,15 +21,39 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "30",
           "dob": "1942-07-22",
           "height": "180cm",
           "weight": "73kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Bisset",
+          "jumper": "6",
+          "dob": "1943-03-10",
+          "height": "168cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Reilly",
+          "jumper": "32",
+          "dob": "1942-01-11",
+          "height": "191cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Greenwood",
+          "jumper": "1",
+          "dob": "1941-12-15",
+          "height": "188cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Ted",
-          "lastname": "WhittenSnr",
+          "lastname": "Whitten Snr",
           "jumper": "3",
           "dob": "1933-07-27",
           "height": "184cm",
@@ -58,14 +66,6 @@
           "dob": "1938-09-28",
           "height": "191cm",
           "weight": "89kg"
-        },
-        {
-          "firstname": "Ken",
-          "lastname": "Greenwood",
-          "jumper": "1",
-          "dob": "1941-12-15",
-          "height": "188cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Gary",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McGowan",
+          "lastname": "Mc Gowan",
           "jumper": "22",
           "dob": "1945-11-30",
           "height": "185cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "37",
           "dob": "1947-06-28",
           "height": "180cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Rod",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "23",
           "dob": "1948-01-11",
           "height": "183cm",

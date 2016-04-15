@@ -19,7 +19,7 @@ module Scrapers
     private
 
     def clean_input(string)
-      string.gsub(non_breaking_space, "").gsub(/\A[[:space:]]+|[[:space:]]+\z/, '').strip
+      string.gsub(non_breaking_space, "").gsub(/\A[[:space:]]+|[[:space:]]+\z/, '').strip.split(/(?=[A-Z])/).join(" ")
     end
 
     def non_breaking_space

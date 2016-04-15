@@ -5,6 +5,14 @@
       "Hawthorn": [
         {
           "firstname": "Peter",
+          "lastname": "Hudson",
+          "jumper": "26",
+          "dob": "1946-02-19",
+          "height": "189cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Peter",
           "lastname": "Crimmins",
           "jumper": "5",
           "dob": "1948-07-08",
@@ -36,22 +44,6 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Hudson",
-          "jumper": "26",
-          "dob": "1946-02-19",
-          "height": "189cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Keddie",
-          "jumper": "2",
-          "dob": "1946-05-10",
-          "height": "183cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Robert",
           "lastname": "Day",
           "jumper": "12",
@@ -66,6 +58,14 @@
           "dob": "1952-03-01",
           "height": "178cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Keddie",
+          "jumper": "2",
+          "dob": "1946-05-10",
+          "height": "183cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Les",
@@ -108,14 +108,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Des",
-          "lastname": "Meagher",
-          "jumper": "30",
-          "dob": "1944-03-07",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Stevenson",
           "jumper": "34",
@@ -124,12 +116,12 @@
           "weight": "93kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Angus",
-          "jumper": "33",
-          "dob": "1948-08-19",
-          "height": "174cm",
-          "weight": "73kg"
+          "firstname": "Des",
+          "lastname": "Meagher",
+          "jumper": "30",
+          "dob": "1944-03-07",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Ian",
@@ -138,6 +130,14 @@
           "dob": "1947-04-11",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Angus",
+          "jumper": "33",
+          "dob": "1948-08-19",
+          "height": "174cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Michael",
@@ -204,20 +204,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Douge",
-          "jumper": "35",
-          "dob": "1951-03-02",
-          "height": "182cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Geoff",
           "lastname": "Smith",
           "jumper": "22",
           "dob": "1948-10-22",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Douge",
+          "jumper": "35",
+          "dob": "1951-03-02",
+          "height": "182cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Ron",

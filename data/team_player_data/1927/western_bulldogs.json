@@ -5,23 +5,15 @@
       "Western Bulldogs": [
         {
           "firstname": "Alby",
-          "lastname": "OutenSnr",
+          "lastname": "Outen Snr",
           "jumper": "20",
           "dob": "1902-12-06",
           "height": "178cm",
           "weight": "76kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Gaudion",
-          "jumper": "3",
-          "dob": "1904-04-14",
-          "height": "180cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Norm",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "17",
           "dob": "1898-05-03",
           "height": "168cm",
@@ -45,7 +37,7 @@
         },
         {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "7",
           "dob": "1907-07-19",
           "height": "182cm",
@@ -53,11 +45,11 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "Rowe",
-          "jumper": "8",
-          "dob": "1902-04-25",
-          "height": "—",
-          "weight": "—"
+          "lastname": "Gaudion",
+          "jumper": "3",
+          "dob": "1904-04-14",
+          "height": "180cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Paddy",
@@ -66,6 +58,14 @@
           "dob": "1896-09-06",
           "height": "173cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Rowe",
+          "jumper": "8",
+          "dob": "1902-04-25",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Roy",
@@ -109,11 +109,19 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "AkedSnr",
+          "lastname": "Aked Snr",
           "jumper": "21",
           "dob": "1902-11-25",
           "height": "183cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Doolan",
+          "jumper": "11",
+          "dob": "1895-07-27",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Les",
@@ -124,12 +132,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Doolan",
-          "jumper": "11",
-          "dob": "1895-07-27",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Arthur",
+          "lastname": "Stevens",
+          "jumper": "9",
+          "dob": "1899-06-27",
+          "height": "188cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Sam",
@@ -146,14 +154,6 @@
           "dob": "1900-05-10",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Stevens",
-          "jumper": "9",
-          "dob": "1899-06-27",
-          "height": "188cm",
-          "weight": "93kg"
         },
         {
           "firstname": "Don",

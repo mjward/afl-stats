@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Tommy",
+          "lastname": "Quinn",
+          "jumper": "16",
+          "dob": "1908-08-11",
+          "height": "169cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Hardiman",
           "jumper": "27",
@@ -12,12 +20,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Tommy",
-          "lastname": "Quinn",
-          "jumper": "16",
-          "dob": "1908-08-11",
-          "height": "169cm",
-          "weight": "80kg"
+          "firstname": "Les",
+          "lastname": "Hardiman",
+          "jumper": "25",
+          "dob": "1911-04-01",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Clive",
@@ -28,11 +36,11 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Hardiman",
-          "jumper": "25",
-          "dob": "1911-04-01",
-          "height": "185cm",
+          "firstname": "Jack",
+          "lastname": "Evans",
+          "jumper": "5",
+          "dob": "1908-01-19",
+          "height": "182cm",
           "weight": "81kg"
         },
         {
@@ -58,14 +66,6 @@
           "dob": "1911-01-24",
           "height": "184cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Evans",
-          "jumper": "5",
-          "dob": "1908-01-19",
-          "height": "182cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Jim",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Alex",
-          "lastname": "McGregor",
+          "lastname": "Mc Gregor",
           "jumper": "7",
           "dob": "1908-06-15",
           "height": "179cm",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Rupe",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "6",
           "dob": "1910-03-17",
           "height": "184cm",
@@ -173,19 +173,11 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "MacKay",
+          "lastname": "Mac Kay",
           "jumper": "11",
           "dob": "1911-03-08",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Walker",
-          "jumper": "15",
-          "dob": "1910-08-28",
-          "height": "180cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Joe",
@@ -194,6 +186,14 @@
           "dob": "1913-01-15",
           "height": "168cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Walker",
+          "jumper": "15",
+          "dob": "1910-08-28",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Bill",
@@ -228,18 +228,18 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Stapleton",
-          "jumper": "9",
-          "dob": "1907-07-17",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Blair",
           "jumper": "24",
           "dob": "1912-06-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Stapleton",
+          "jumper": "9",
+          "dob": "1907-07-17",
           "height": "—",
           "weight": "—"
         },
@@ -276,20 +276,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Grant",
-          "jumper": "23",
-          "dob": "1915-09-24",
-          "height": "183cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Allen",
           "jumper": "34",
           "dob": "1912-11-25",
           "height": "181cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Grant",
+          "jumper": "23",
+          "dob": "1915-09-24",
+          "height": "183cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Bill",

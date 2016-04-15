@@ -4,6 +4,14 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Billy",
+          "lastname": "Griffith",
+          "jumper": "29",
+          "dob": "1880-12-26",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Paddy",
           "lastname": "Shea",
           "jumper": "18",
@@ -18,14 +26,6 @@
           "dob": "1886-07-11",
           "height": "168cm",
           "weight": "62kg"
-        },
-        {
-          "firstname": "Billy",
-          "lastname": "Griffith",
-          "jumper": "29",
-          "dob": "1880-12-26",
-          "height": "175cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Dave",
@@ -108,14 +108,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Farnsworth",
-          "jumper": "—",
-          "dob": "1885-12-03",
-          "height": "179cm",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Davies",
           "jumper": "—",
@@ -130,6 +122,14 @@
           "dob": "1884-12-02",
           "height": "179cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Farnsworth",
+          "jumper": "—",
+          "dob": "1885-12-03",
+          "height": "179cm",
+          "weight": "—"
         },
         {
           "firstname": "Bert",

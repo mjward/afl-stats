@@ -28,6 +28,22 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Allan",
+          "lastname": "Greenshields",
+          "jumper": "5",
+          "dob": "1926-01-22",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Rosewarne",
+          "jumper": "10",
+          "dob": "1924-07-18",
+          "height": "173cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Coffey",
           "jumper": "14",
@@ -52,30 +68,6 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Allan",
-          "lastname": "Greenshields",
-          "jumper": "5",
-          "dob": "1926-01-22",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Keith",
-          "lastname": "Rosewarne",
-          "jumper": "10",
-          "dob": "1924-07-18",
-          "height": "173cm",
-          "weight": "67kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Green",
-          "jumper": "15",
-          "dob": "1921-03-06",
-          "height": "182cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Wilkie",
           "jumper": "9",
@@ -90,6 +82,14 @@
           "dob": "1927-09-22",
           "height": "185cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Green",
+          "jumper": "15",
+          "dob": "1921-03-06",
+          "height": "182cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Tom",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "29",
           "dob": "1930-01-28",
           "height": "180cm",
@@ -196,20 +196,20 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Bruce",
+          "lastname": "Mc Lennan",
+          "jumper": "18",
+          "dob": "1928-04-28",
+          "height": "177cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "William",
           "lastname": "Dicks",
           "jumper": "22",
           "dob": "1930-09-16",
           "height": "173cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Bruce",
-          "lastname": "McLennan",
-          "jumper": "18",
-          "dob": "1928-04-28",
-          "height": "177cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Max",

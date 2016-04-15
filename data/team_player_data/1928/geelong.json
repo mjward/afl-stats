@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Ted",
-          "lastname": "Baker",
-          "jumper": "2",
-          "dob": "1901-01-21",
-          "height": "165cm",
-          "weight": "68kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Todd",
-          "jumper": "19",
-          "dob": "1903-01-10",
-          "height": "185cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Chambers",
           "jumper": "8",
@@ -34,6 +18,22 @@
           "dob": "1901-04-11",
           "height": "166cm",
           "weight": "57kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Baker",
+          "jumper": "2",
+          "dob": "1901-01-21",
+          "height": "165cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Todd",
+          "jumper": "19",
+          "dob": "1903-01-10",
+          "height": "185cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Les",
@@ -52,14 +52,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Williams",
-          "jumper": "24",
-          "dob": "1902-01-31",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Eric",
           "lastname": "Fleming",
           "jumper": "11",
@@ -76,12 +68,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Mockridge",
-          "jumper": "17",
-          "dob": "1903-10-21",
-          "height": "174cm",
-          "weight": "79kg"
+          "firstname": "Jack",
+          "lastname": "Williams",
+          "jumper": "24",
+          "dob": "1902-01-31",
+          "height": "179cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Reg",
@@ -90,6 +82,14 @@
           "dob": "1906-03-27",
           "height": "185cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Mockridge",
+          "jumper": "17",
+          "dob": "1903-10-21",
+          "height": "174cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Carji",
@@ -196,20 +196,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Clearson",
-          "jumper": "9",
-          "dob": "1901-03-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Milton",
           "lastname": "Lamb",
           "jumper": "7",
           "dob": "1909-07-14",
           "height": "173cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Clearson",
+          "jumper": "9",
+          "dob": "1901-03-07",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Cyril",
@@ -236,18 +236,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Milton",
-          "lastname": "White",
-          "jumper": "11",
-          "dob": "1902-06-19",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Arch",
           "lastname": "Bell",
           "jumper": "21",
           "dob": "1905-08-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Milton",
+          "lastname": "White",
+          "jumper": "11",
+          "dob": "1902-06-19",
           "height": "—",
           "weight": "—"
         },

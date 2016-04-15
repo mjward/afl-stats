@@ -4,6 +4,14 @@
     "teams": {
       "North Melbourne": [
         {
+          "firstname": "Mick",
+          "lastname": "Nolan",
+          "jumper": "22",
+          "dob": "1949-11-09",
+          "height": "194cm",
+          "weight": "124kg"
+        },
+        {
           "firstname": "Wayne",
           "lastname": "Schimmelbusch",
           "jumper": "20",
@@ -20,20 +28,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Mick",
-          "lastname": "Nolan",
-          "jumper": "22",
-          "dob": "1949-11-09",
-          "height": "194cm",
-          "weight": "124kg"
-        },
-        {
           "firstname": "Keith",
           "lastname": "Greig",
           "jumper": "27",
           "dob": "1951-10-23",
           "height": "180cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Cable",
+          "jumper": "9",
+          "dob": "1943-09-22",
+          "height": "168cm",
+          "weight": "70kg"
         },
         {
           "firstname": "David",
@@ -68,14 +76,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Barry",
-          "lastname": "Cable",
-          "jumper": "9",
-          "dob": "1943-09-22",
-          "height": "168cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Melrose",
           "jumper": "17",
@@ -108,20 +108,20 @@
           "weight": "95kg"
         },
         {
-          "firstname": "Malcolm",
-          "lastname": "Blight",
-          "jumper": "15",
-          "dob": "1950-02-16",
-          "height": "182cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Brent",
           "lastname": "Crosswell",
           "jumper": "8",
           "dob": "1950-08-08",
           "height": "188cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Malcolm",
+          "lastname": "Blight",
+          "jumper": "15",
+          "dob": "1950-02-16",
+          "height": "182cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Paul",
@@ -156,20 +156,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Barry",
-          "lastname": "Goodingham",
-          "jumper": "10",
-          "dob": "1945-05-09",
-          "height": "199cm",
-          "weight": "99kg"
-        },
-        {
           "firstname": "Arnold",
           "lastname": "Briedis",
           "jumper": "6",
           "dob": "1955-08-20",
           "height": "189cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Goodingham",
+          "jumper": "10",
+          "dob": "1945-05-09",
+          "height": "199cm",
+          "weight": "99kg"
         },
         {
           "firstname": "Phil",

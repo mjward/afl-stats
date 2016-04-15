@@ -29,7 +29,7 @@
         },
         {
           "firstname": "Ted",
-          "lastname": "WhittenJnr",
+          "lastname": "Whitten Jnr",
           "jumper": "22",
           "dob": "1957-03-15",
           "height": "178cm",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "ReidJnr",
+          "lastname": "Reid Jnr",
           "jumper": "5",
           "dob": "1955-12-23",
           "height": "191cm",
@@ -228,20 +228,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Matt",
-          "lastname": "Johnson",
-          "jumper": "8",
-          "dob": "1959-03-09",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Munro",
           "jumper": "10",
           "dob": "1957-11-16",
           "height": "180cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Matt",
+          "lastname": "Johnson",
+          "jumper": "8",
+          "dob": "1959-03-09",
+          "height": "180cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Brian",
@@ -300,20 +300,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Davis",
-          "jumper": "46",
-          "dob": "1955-06-01",
-          "height": "199cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Tony",
           "lastname": "Fox",
           "jumper": "37",
           "dob": "1958-07-16",
           "height": "182cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Davis",
+          "jumper": "46",
+          "dob": "1955-06-01",
+          "height": "199cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Mick",

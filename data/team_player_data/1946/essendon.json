@@ -20,30 +20,6 @@
           "weight": "91kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Hassell",
-          "jumper": "6",
-          "dob": "1923-10-05",
-          "height": "173cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Dick",
-          "lastname": "Reynolds",
-          "jumper": "3",
-          "dob": "1915-06-20",
-          "height": "179cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Gordon",
-          "lastname": "Lane",
-          "jumper": "22",
-          "dob": "1921-05-30",
-          "height": "187cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Hutchison",
           "jumper": "7",
@@ -76,6 +52,38 @@
           "weight": "70kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Hassell",
+          "jumper": "6",
+          "dob": "1923-10-05",
+          "height": "173cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Reynolds",
+          "jumper": "3",
+          "dob": "1915-06-20",
+          "height": "179cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Lane",
+          "jumper": "22",
+          "dob": "1921-05-30",
+          "height": "187cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Jones",
+          "jumper": "24",
+          "dob": "1924-11-07",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Cassin",
           "jumper": "19",
@@ -100,12 +108,12 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Jones",
-          "jumper": "24",
-          "dob": "1924-11-07",
-          "height": "185cm",
-          "weight": "85kg"
+          "firstname": "Cec",
+          "lastname": "Ruddell",
+          "jumper": "21",
+          "dob": "1917-05-23",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Herbie",
@@ -114,14 +122,6 @@
           "dob": "1921-04-04",
           "height": "179cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Cec",
-          "lastname": "Ruddell",
-          "jumper": "21",
-          "dob": "1917-05-23",
-          "height": "182cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Bill",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McClure",
+          "lastname": "Mc Clure",
           "jumper": "31",
           "dob": "1925-06-05",
           "height": "188cm",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Ivor",
-          "lastname": "McIvor",
+          "lastname": "Mc Ivor",
           "jumper": "31",
           "dob": "1917-09-16",
           "height": "187cm",

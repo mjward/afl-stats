@@ -4,14 +4,6 @@
     "teams": {
       "University": [
         {
-          "firstname": "Jack",
-          "lastname": "Gray",
-          "jumper": "1",
-          "dob": "1888-07-12",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Hurrey",
           "jumper": "21",
@@ -20,10 +12,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Allan",
-          "lastname": "McCracken",
-          "jumper": "15",
-          "dob": "1889-04-13",
+          "firstname": "Jack",
+          "lastname": "Gray",
+          "jumper": "1",
+          "dob": "1888-07-12",
           "height": "—",
           "weight": "—"
         },
@@ -44,18 +36,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Doig",
-          "jumper": "4",
-          "dob": "1891-12-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Wilson",
-          "jumper": "—",
-          "dob": "1888-08-24",
+          "firstname": "Allan",
+          "lastname": "Mc Cracken",
+          "jumper": "15",
+          "dob": "1889-04-13",
           "height": "—",
           "weight": "—"
         },
@@ -69,9 +53,25 @@
         },
         {
           "firstname": "Ken",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "11",
           "dob": "1890-08-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Doig",
+          "jumper": "4",
+          "dob": "1891-12-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Wilson",
+          "jumper": "—",
+          "dob": "1888-08-24",
           "height": "—",
           "weight": "—"
         },
@@ -116,6 +116,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Hinman",
+          "jumper": "14",
+          "dob": "1892-07-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "George",
           "lastname": "Anderson",
           "jumper": "2",
@@ -128,14 +136,6 @@
           "lastname": "Cumming",
           "jumper": "3",
           "dob": "1891-09-29",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Hinman",
-          "jumper": "14",
-          "dob": "1892-07-01",
           "height": "—",
           "weight": "—"
         },
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Reg",
-          "lastname": "McGillicuddy",
+          "lastname": "Mc Gillicuddy",
           "jumper": "—",
           "dob": "1891-07-24",
           "height": "—",
@@ -292,18 +292,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Birrell",
-          "jumper": "—",
-          "dob": "1885-01-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Rupe",
           "lastname": "Matthews",
           "jumper": "—",
           "dob": "1888-07-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Birrell",
+          "jumper": "—",
+          "dob": "1885-01-24",
           "height": "—",
           "weight": "—"
         }

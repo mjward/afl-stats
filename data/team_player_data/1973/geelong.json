@@ -20,6 +20,22 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Ken",
+          "lastname": "Newland",
+          "jumper": "3",
+          "dob": "1949-05-04",
+          "height": "187cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Nankervis",
+          "jumper": "33",
+          "dob": "1950-08-14",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Wayne",
           "lastname": "Closter",
           "jumper": "1",
@@ -52,30 +68,6 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Newland",
-          "jumper": "3",
-          "dob": "1949-05-04",
-          "height": "187cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Bruce",
-          "lastname": "Nankervis",
-          "jumper": "33",
-          "dob": "1950-08-14",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Hawkins",
-          "jumper": "26",
-          "dob": "1954-05-21",
-          "height": "188cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Phil",
           "lastname": "Stevens",
           "jumper": "4",
@@ -90,6 +82,14 @@
           "dob": "1946-12-21",
           "height": "191cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Hawkins",
+          "jumper": "26",
+          "dob": "1954-05-21",
+          "height": "188cm",
+          "weight": "83kg"
         },
         {
           "firstname": "David",
@@ -108,7 +108,7 @@
           "weight": "104kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",

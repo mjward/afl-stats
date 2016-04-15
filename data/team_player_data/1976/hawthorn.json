@@ -4,6 +4,14 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Michael",
+          "lastname": "Tuck",
+          "jumper": "17",
+          "dob": "1953-06-24",
+          "height": "188cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Rowlings",
           "jumper": "22",
@@ -21,19 +29,11 @@
         },
         {
           "firstname": "David",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "8",
           "dob": "1955-09-08",
           "height": "185cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Michael",
-          "lastname": "Tuck",
-          "jumper": "17",
-          "dob": "1953-06-24",
-          "height": "188cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Alan",
@@ -92,20 +92,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Knights",
-          "jumper": "24",
-          "dob": "1952-03-30",
-          "height": "188cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Bremner",
           "jumper": "20",
           "dob": "1947-04-11",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Knights",
+          "jumper": "24",
+          "dob": "1952-03-30",
+          "height": "188cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Peter",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Gerald",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "21",
           "dob": "1951-11-02",
           "height": "191cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Alle",
-          "lastname": "DeWolde",
+          "lastname": "De Wolde",
           "jumper": "27",
           "dob": "1955-12-27",
           "height": "182cm",

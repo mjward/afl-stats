@@ -5,7 +5,7 @@
       "St Kilda": [
         {
           "firstname": "Billy",
-          "lastname": "McGregor",
+          "lastname": "Mc Gregor",
           "jumper": "—",
           "dob": "1876-11-20",
           "height": "—",
@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "—",
           "dob": "1877-06-15",
           "height": "—",
@@ -36,14 +36,6 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Sutherland",
-          "jumper": "—",
-          "dob": "1876-02-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Pearce",
           "jumper": "—",
@@ -58,6 +50,14 @@
           "dob": "1877-01-04",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Sutherland",
+          "jumper": "—",
+          "dob": "1876-02-24",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Cecil",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1879-01-09",
           "height": "—",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Jerry",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "—",
           "dob": "1874-12-25",
           "height": "—",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "O'Gorman",
+          "lastname": "O' Gorman",
           "jumper": "—",
           "dob": "1874-11-08",
           "height": "—",
@@ -260,14 +260,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Henry",
-          "lastname": "Jackson",
-          "jumper": "—",
-          "dob": "1877-12-20",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harold",
           "lastname": "Stewart",
           "jumper": "—",
@@ -276,8 +268,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Henry",
+          "lastname": "Jackson",
+          "jumper": "—",
+          "dob": "1877-12-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bill",
-          "lastname": "McNabb",
+          "lastname": "Mc Nabb",
           "jumper": "—",
           "dob": "1880-02-12",
           "height": "—",

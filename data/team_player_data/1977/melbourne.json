@@ -20,6 +20,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Robert",
+          "lastname": "Flower",
+          "jumper": "2",
+          "dob": "1955-08-05",
+          "height": "183cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Colin",
           "lastname": "Graham",
           "jumper": "27",
@@ -36,11 +44,11 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Robert",
-          "lastname": "Flower",
-          "jumper": "2",
-          "dob": "1955-08-05",
-          "height": "183cm",
+          "firstname": "Ross",
+          "lastname": "Brewer",
+          "jumper": "6",
+          "dob": "1953-08-14",
+          "height": "188cm",
           "weight": "75kg"
         },
         {
@@ -52,14 +60,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Ross",
-          "lastname": "Brewer",
-          "jumper": "6",
-          "dob": "1953-08-14",
-          "height": "188cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Tony",
           "lastname": "Sullivan",
           "jumper": "4",
@@ -69,7 +69,7 @@
         },
         {
           "firstname": "Craig",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "10",
           "dob": "1949-12-08",
           "height": "196cm",
@@ -124,20 +124,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Hutchison",
-          "jumper": "43",
-          "dob": "1957-06-13",
-          "height": "182cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Giampaolo",
           "jumper": "22",
           "dob": "1954-02-07",
           "height": "173cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Hutchison",
+          "jumper": "43",
+          "dob": "1957-06-13",
+          "height": "182cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Tom",
@@ -268,20 +268,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Brett",
-          "lastname": "Marchant",
-          "jumper": "48",
-          "dob": "1959-10-29",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Mark",
           "lastname": "Alves",
           "jumper": "39",
           "dob": "1956-12-19",
           "height": "180cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Brett",
+          "lastname": "Marchant",
+          "jumper": "48",
+          "dob": "1959-10-29",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Brian",
@@ -317,7 +317,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "38",
           "dob": "1956-03-24",
           "height": "181cm",

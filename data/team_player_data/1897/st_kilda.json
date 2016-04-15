@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "—",
           "dob": "1874-06-03",
           "height": "—",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "—",
           "dob": "1879-08-22",
           "height": "173cm",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "O'Grady",
+          "lastname": "O' Grady",
           "jumper": "—",
           "dob": "1872-09-15",
           "height": "—",
@@ -164,20 +164,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Dan",
-          "lastname": "Collins",
-          "jumper": "—",
-          "dob": "1872-08-22",
-          "height": "182cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Stewart",
           "jumper": "—",
           "dob": "1875-04-11",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Dan",
+          "lastname": "Collins",
+          "jumper": "—",
+          "dob": "1872-08-22",
+          "height": "182cm",
+          "weight": "90kg"
         },
         {
           "firstname": "George",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Jerry",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "—",
           "dob": "1874-12-25",
           "height": "—",
@@ -260,14 +260,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Matt",
-          "lastname": "Conniff",
-          "jumper": "—",
-          "dob": "1877-02-08",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Albert",
           "lastname": "Middleton",
           "jumper": "—",
@@ -284,8 +276,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Matt",
+          "lastname": "Conniff",
+          "jumper": "—",
+          "dob": "1877-02-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Mick",
-          "lastname": "O'Hagan",
+          "lastname": "O' Hagan",
           "jumper": "—",
           "dob": "1878-01-22",
           "height": "—",

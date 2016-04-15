@@ -21,7 +21,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "AkedSnr",
+          "lastname": "Aked Snr",
           "jumper": "23",
           "dob": "1902-11-25",
           "height": "183cm",
@@ -36,14 +36,6 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Eric",
-          "lastname": "Andersen",
-          "jumper": "11",
-          "dob": "1904-07-02",
-          "height": "179cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Baker",
           "jumper": "9",
@@ -52,12 +44,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Thompson",
-          "jumper": "13",
-          "dob": "1905-02-18",
-          "height": "177cm",
-          "weight": "78kg"
+          "firstname": "Eric",
+          "lastname": "Andersen",
+          "jumper": "11",
+          "dob": "1904-07-02",
+          "height": "179cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Arthur",
@@ -66,6 +58,14 @@
           "dob": "1899-06-27",
           "height": "188cm",
           "weight": "93kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Thompson",
+          "jumper": "13",
+          "dob": "1905-02-18",
+          "height": "177cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Charlie",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "12",
           "dob": "1907-07-19",
           "height": "182cm",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Bernie",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "4",
           "dob": "1909-05-14",
           "height": "169cm",
@@ -204,18 +204,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Bonnie",
-          "lastname": "Izzard",
-          "jumper": "32",
-          "dob": "1908-07-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Gil",
           "lastname": "Patrick",
           "jumper": "24",
           "dob": "1908-01-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bonnie",
+          "lastname": "Izzard",
+          "jumper": "32",
+          "dob": "1908-07-15",
           "height": "—",
           "weight": "—"
         },
@@ -260,6 +260,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Alby",
+          "lastname": "Outen Snr",
+          "jumper": "20",
+          "dob": "1902-12-06",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Wunhym",
           "jumper": "10",
@@ -284,14 +292,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Alby",
-          "lastname": "OutenSnr",
-          "jumper": "20",
-          "dob": "1902-12-06",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Eric",
           "lastname": "Fordham",
           "jumper": "—",
@@ -308,20 +308,20 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Thompson",
-          "jumper": "13",
-          "dob": "1906-05-30",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Bobby",
           "lastname": "Mills",
           "jumper": "35",
           "dob": "1909-08-28",
           "height": "185cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Thompson",
+          "jumper": "13",
+          "dob": "1906-05-30",
+          "height": "183cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Jack",

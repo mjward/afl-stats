@@ -4,20 +4,20 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Vic",
-          "lastname": "Thorp",
-          "jumper": "5",
-          "dob": "1890-10-25",
-          "height": "178cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Barney",
           "lastname": "Herbert",
           "jumper": "1",
           "dob": "1889-02-20",
           "height": "188cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Thorp",
+          "jumper": "5",
+          "dob": "1890-10-25",
+          "height": "178cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Syd",
@@ -28,6 +28,14 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Roy",
+          "lastname": "Taylor",
+          "jumper": "12",
+          "dob": "1891-08-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Clarrie",
           "lastname": "Hall",
           "jumper": "22",
@@ -36,12 +44,12 @@
           "weight": "64kg"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Taylor",
-          "jumper": "12",
-          "dob": "1891-08-06",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Max",
+          "lastname": "Hislop",
+          "jumper": "29",
+          "dob": "1895-08-25",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Harry",
@@ -58,14 +66,6 @@
           "dob": "1893-08-02",
           "height": "182cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Max",
-          "lastname": "Hislop",
-          "jumper": "29",
-          "dob": "1895-08-25",
-          "height": "178cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Reg",
@@ -172,20 +172,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Cronk",
-          "jumper": "21",
-          "dob": "1890-09-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Donald",
           "lastname": "Don",
           "jumper": "17",
           "dob": "1900-08-17",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Cronk",
+          "jumper": "21",
+          "dob": "1890-09-10",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Dave",

@@ -12,6 +12,14 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Sid",
+          "lastname": "Dyer",
+          "jumper": "5",
+          "dob": "1916-05-25",
+          "height": "170cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Fred",
           "lastname": "Fairweather",
           "jumper": "21",
@@ -26,14 +34,6 @@
           "dob": "1925-11-13",
           "height": "173cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Sid",
-          "lastname": "Dyer",
-          "jumper": "5",
-          "dob": "1916-05-25",
-          "height": "170cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Alf",
@@ -53,7 +53,7 @@
         },
         {
           "firstname": "Keith",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "20",
           "dob": "1922-04-26",
           "height": "178cm",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Dally",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1918-10-31",
           "height": "182cm",
@@ -76,20 +76,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Ryan",
-          "jumper": "9",
-          "dob": "1920-02-23",
-          "height": "183cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Turner",
           "jumper": "24",
           "dob": "1921-12-20",
           "height": "179cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Ryan",
+          "jumper": "9",
+          "dob": "1920-02-23",
+          "height": "183cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Roy",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "McCorkell",
+          "lastname": "Mc Corkell",
           "jumper": "12",
           "dob": "1918-07-02",
           "height": "183cm",
@@ -188,20 +188,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Stubbs",
-          "jumper": "36",
-          "dob": "1919-09-27",
-          "height": "192cm",
-          "weight": "95kg"
-        },
-        {
           "firstname": "Jackie",
           "lastname": "Huggard",
           "jumper": "32",
           "dob": "1926-01-28",
           "height": "170cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Stubbs",
+          "jumper": "36",
+          "dob": "1919-09-27",
+          "height": "192cm",
+          "weight": "95kg"
         },
         {
           "firstname": "Joe",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McMaster",
+          "lastname": "Mc Master",
           "jumper": "33",
           "dob": "1922-03-15",
           "height": "179cm",
@@ -324,20 +324,20 @@
           "weight": "65kg"
         },
         {
-          "firstname": "Milton",
-          "lastname": "Clark",
-          "jumper": "33",
-          "dob": "1922-06-27",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Teddy",
           "lastname": "Long",
           "jumper": "32",
           "dob": "1921-07-01",
           "height": "168cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Milton",
+          "lastname": "Clark",
+          "jumper": "33",
+          "dob": "1922-06-27",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Pat",
@@ -348,20 +348,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Steane",
-          "jumper": "—",
-          "dob": "1925-02-22",
-          "height": "164cm",
-          "weight": "64kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Allan",
           "jumper": "23",
           "dob": "1924-03-03",
           "height": "180cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Steane",
+          "jumper": "—",
+          "dob": "1925-02-22",
+          "height": "164cm",
+          "weight": "64kg"
         },
         {
           "firstname": "Jim",

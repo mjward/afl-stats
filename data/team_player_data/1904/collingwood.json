@@ -4,22 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Matthew",
-          "lastname": "Fell",
-          "jumper": "—",
-          "dob": "1875-08-23",
-          "height": "180cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "MonohanSnr",
-          "jumper": "—",
-          "dob": "1873-08-21",
-          "height": "184cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Rush",
           "jumper": "—",
@@ -36,12 +20,28 @@
           "weight": "80kg"
         },
         {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
           "jumper": "17",
           "dob": "1882-12-12",
           "height": "180cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Fell",
+          "jumper": "—",
+          "dob": "1875-08-23",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Monohan Snr",
+          "jumper": "—",
+          "dob": "1873-08-21",
+          "height": "184cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Jack",
@@ -108,20 +108,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Pears",
-          "jumper": "—",
-          "dob": "1877-07-28",
-          "height": "170cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Angus",
           "jumper": "—",
           "dob": "1875-04-15",
           "height": "180cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Pears",
+          "jumper": "—",
+          "dob": "1877-07-28",
+          "height": "170cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Bill",
@@ -164,18 +164,18 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Addison",
+          "firstname": "Grahame",
+          "lastname": "Mc Conechy",
           "jumper": "—",
-          "dob": "1884-01-01",
+          "dob": "1880-06-06",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Grahame",
-          "lastname": "McConechy",
+          "firstname": "Jim",
+          "lastname": "Addison",
           "jumper": "—",
-          "dob": "1880-06-06",
+          "dob": "1884-01-01",
           "height": "—",
           "weight": "—"
         },
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Doug",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1886-04-16",
           "height": "177cm",

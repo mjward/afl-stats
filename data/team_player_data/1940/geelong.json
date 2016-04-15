@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Tom",
-          "lastname": "Arklay",
-          "jumper": "8",
-          "dob": "1914-03-26",
-          "height": "179cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Grant",
           "jumper": "14",
@@ -26,6 +18,22 @@
           "dob": "1913-04-12",
           "height": "177cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Arklay",
+          "jumper": "8",
+          "dob": "1914-03-26",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Harwood",
+          "jumper": "12",
+          "dob": "1920-09-15",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Mick",
@@ -52,14 +60,6 @@
           "weight": "93kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Harwood",
-          "jumper": "12",
-          "dob": "1920-09-15",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Geoff",
           "lastname": "Mahon",
           "jumper": "15",
@@ -84,14 +84,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Gniel",
-          "jumper": "7",
-          "dob": "1919-04-06",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Glenister",
           "jumper": "23",
@@ -108,20 +100,20 @@
           "weight": "80kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Gniel",
+          "jumper": "7",
+          "dob": "1919-04-06",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Leo",
           "lastname": "Dean",
           "jumper": "1",
           "dob": "1914-10-04",
           "height": "168cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Nash",
-          "jumper": "2",
-          "dob": "1914-05-14",
-          "height": "170cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Percy",
@@ -146,6 +138,14 @@
           "dob": "1916-04-19",
           "height": "178cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Nash",
+          "jumper": "2",
+          "dob": "1914-05-14",
+          "height": "170cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Angie",

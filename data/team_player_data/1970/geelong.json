@@ -52,7 +52,7 @@
           "weight": "77kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Shane",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "8",
           "dob": "1952-04-22",
           "height": "191cm",

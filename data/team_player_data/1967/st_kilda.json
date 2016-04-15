@@ -20,14 +20,6 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Read",
-          "jumper": "21",
-          "dob": "1943-12-26",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Verdun",
           "lastname": "Howell",
           "jumper": "16",
@@ -60,20 +52,20 @@
           "weight": "92kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Read",
+          "jumper": "21",
+          "dob": "1943-12-26",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Breen",
           "jumper": "27",
           "dob": "1948-01-07",
           "height": "191cm",
           "weight": "93kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Sierakowski",
-          "jumper": "13",
-          "dob": "1945-11-01",
-          "height": "188cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Kevin",
@@ -92,20 +84,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Brian",
+          "lastname": "Sierakowski",
+          "jumper": "13",
+          "dob": "1945-11-01",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Bob",
           "lastname": "Murray",
           "jumper": "6",
           "dob": "1942-04-05",
           "height": "183cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "O'Dea",
-          "jumper": "40",
-          "dob": "1949-02-02",
-          "height": "185cm",
-          "weight": "91kg"
         },
         {
           "firstname": "Des",
@@ -116,6 +108,14 @@
           "weight": "92kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "O' Dea",
+          "jumper": "40",
+          "dob": "1949-02-02",
+          "height": "185cm",
+          "weight": "91kg"
+        },
+        {
           "firstname": "Carl",
           "lastname": "Ditterich",
           "jumper": "10",
@@ -124,20 +124,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Bonney",
-          "jumper": "24",
-          "dob": "1946-05-21",
-          "height": "177cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Stewart",
           "jumper": "5",
           "dob": "1943-07-14",
           "height": "180cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Bonney",
+          "jumper": "24",
+          "dob": "1946-05-21",
+          "height": "177cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Darrel",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "McMullen",
+          "lastname": "Mc Mullen",
           "jumper": "33",
           "dob": "1949-06-02",
           "height": "173cm",

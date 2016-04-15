@@ -4,6 +4,30 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Ned",
+          "lastname": "Sutton",
+          "jumper": "—",
+          "dob": "1868-03-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Moysey",
+          "jumper": "—",
+          "dob": "1874-05-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Mc Ginis",
+          "jumper": "—",
+          "dob": "1874-11-11",
+          "height": "175cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Austin",
           "lastname": "Lewis",
           "jumper": "—",
@@ -28,38 +52,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Ned",
-          "lastname": "Sutton",
-          "jumper": "—",
-          "dob": "1868-03-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Moysey",
-          "jumper": "—",
-          "dob": "1874-05-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "McGinis",
-          "jumper": "—",
-          "dob": "1874-11-11",
-          "height": "175cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Young",
-          "jumper": "—",
-          "dob": "1877-12-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Wood",
           "jumper": "—",
@@ -72,6 +64,22 @@
           "lastname": "Sheahan",
           "jumper": "—",
           "dob": "1870-09-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Young",
+          "jumper": "—",
+          "dob": "1877-12-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Mitchell",
+          "jumper": "—",
+          "dob": "1874-11-22",
           "height": "—",
           "weight": "—"
         },
@@ -92,16 +100,8 @@
           "weight": "—"
         },
         {
-          "firstname": "Henry",
-          "lastname": "Mitchell",
-          "jumper": "—",
-          "dob": "1874-11-22",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Norm",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "—",
           "dob": "1879-04-13",
           "height": "—",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "WardillJnr",
+          "lastname": "Wardill Jnr",
           "jumper": "—",
           "dob": "1872-07-05",
           "height": "—",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "—",
           "dob": "1872-11-07",
           "height": "180cm",
@@ -268,14 +268,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Godby",
-          "jumper": "—",
-          "dob": "1880-01-09",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alex",
           "lastname": "Murdoch",
           "jumper": "—",
@@ -292,6 +284,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Godby",
+          "jumper": "—",
+          "dob": "1880-01-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Arthur",
           "lastname": "Kirk",
           "jumper": "—",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McCoy",
+          "lastname": "Mc Coy",
           "jumper": "—",
           "dob": "1875-08-29",
           "height": "—",

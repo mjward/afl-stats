@@ -60,6 +60,22 @@
           "weight": "94kg"
         },
         {
+          "firstname": "Geoff",
+          "lastname": "Williams",
+          "jumper": "21",
+          "dob": "1930-11-18",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "O' Connell",
+          "jumper": "20",
+          "dob": "1932-03-08",
+          "height": "193cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Ron",
           "lastname": "Hovey",
           "jumper": "12",
@@ -74,22 +90,6 @@
           "dob": "1937-11-28",
           "height": "169cm",
           "weight": "61kg"
-        },
-        {
-          "firstname": "Geoff",
-          "lastname": "Williams",
-          "jumper": "21",
-          "dob": "1930-11-18",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "O'Connell",
-          "jumper": "20",
-          "dob": "1932-03-08",
-          "height": "193cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Colin",
@@ -109,19 +109,11 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "17",
           "dob": "1935-08-30",
           "height": "174cm",
           "weight": "72kg"
-        },
-        {
-          "firstname": "Matt",
-          "lastname": "Goggin",
-          "jumper": "1",
-          "dob": "1936-07-21",
-          "height": "180cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Bruce",
@@ -132,20 +124,20 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Matt",
+          "lastname": "Goggin",
+          "jumper": "1",
+          "dob": "1936-07-21",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Les",
           "lastname": "Borrack",
           "jumper": "14",
           "dob": "1933-04-25",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Fitzpatrick",
-          "jumper": "8",
-          "dob": "1932-03-02",
-          "height": "193cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Bill",
@@ -164,8 +156,16 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Frank",
+          "lastname": "Fitzpatrick",
+          "jumper": "8",
+          "dob": "1932-03-02",
+          "height": "193cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "George",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "33",
           "dob": "1935-11-16",
           "height": "184cm",
@@ -237,19 +237,11 @@
         },
         {
           "firstname": "Fred",
-          "lastname": "LeDeux",
+          "lastname": "Le Deux",
           "jumper": "22",
           "dob": "1934-12-04",
           "height": "188cm",
           "weight": "89kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "Smith",
-          "jumper": "37",
-          "dob": "1937-10-28",
-          "height": "192cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Barry",
@@ -258,6 +250,14 @@
           "dob": "1938-05-28",
           "height": "185cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Smith",
+          "jumper": "37",
+          "dob": "1937-10-28",
+          "height": "192cm",
+          "weight": "86kg"
         },
         {
           "firstname": "George",

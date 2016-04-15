@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Bob",
-          "lastname": "Weatherill",
-          "jumper": "15",
-          "dob": "1897-07-20",
-          "height": "180cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Barney",
           "lastname": "Herbert",
           "jumper": "1",
@@ -28,11 +20,11 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Shand",
-          "jumper": "19",
-          "dob": "1893-08-02",
-          "height": "182cm",
+          "firstname": "Bob",
+          "lastname": "Weatherill",
+          "jumper": "15",
+          "dob": "1897-07-20",
+          "height": "180cm",
           "weight": "70kg"
         },
         {
@@ -44,19 +36,19 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Jimmy",
+          "lastname": "Shand",
+          "jumper": "19",
+          "dob": "1893-08-02",
+          "height": "182cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Donald",
           "lastname": "Don",
           "jumper": "17",
           "dob": "1900-08-17",
           "height": "175cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Artie",
-          "lastname": "Bettles",
-          "jumper": "16",
-          "dob": "1891-03-25",
-          "height": "178cm",
           "weight": "76kg"
         },
         {
@@ -68,20 +60,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Denis",
-          "lastname": "Gleeson",
-          "jumper": "9",
-          "dob": "1896-01-19",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Syd",
-          "lastname": "Reeves",
-          "jumper": "11",
-          "dob": "1891-08-29",
-          "height": "177cm",
-          "weight": "67kg"
+          "firstname": "Artie",
+          "lastname": "Bettles",
+          "jumper": "16",
+          "dob": "1891-03-25",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Pat",
@@ -116,6 +100,22 @@
           "weight": "64kg"
         },
         {
+          "firstname": "Denis",
+          "lastname": "Gleeson",
+          "jumper": "9",
+          "dob": "1896-01-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Reeves",
+          "jumper": "11",
+          "dob": "1891-08-29",
+          "height": "177cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "George",
           "lastname": "Bayliss",
           "jumper": "2",
@@ -124,7 +124,7 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "4",
           "dob": "1886-11-10",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "14",
           "dob": "1896-05-31",
           "height": "—",

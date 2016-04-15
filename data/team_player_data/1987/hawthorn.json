@@ -1,0 +1,249 @@
+{
+  "team_player_data": {
+    "year": 1987,
+    "teams": {
+      "Hawthorn": [
+        {
+          "firstname": "Peter",
+          "lastname": "Curran",
+          "jumper": "25",
+          "dob": "1962-07-15",
+          "height": "192cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Kennedy Jnr",
+          "jumper": "34",
+          "dob": "1959-11-22",
+          "height": "190cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Dear",
+          "jumper": "14",
+          "dob": "1963-04-17",
+          "height": "198cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Tuck",
+          "jumper": "17",
+          "dob": "1953-06-24",
+          "height": "188cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Platten",
+          "jumper": "44",
+          "dob": "1963-03-17",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Langford",
+          "jumper": "24",
+          "dob": "1963-01-02",
+          "height": "193cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Russell",
+          "lastname": "Morris",
+          "jumper": "15",
+          "dob": "1962-06-01",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Jencke",
+          "jumper": "1",
+          "dob": "1966-03-25",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Ayres",
+          "jumper": "7",
+          "dob": "1960-09-28",
+          "height": "187cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Dipierdomenico",
+          "jumper": "9",
+          "dob": "1958-05-05",
+          "height": "185cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Dunstall",
+          "jumper": "19",
+          "dob": "1964-08-14",
+          "height": "188cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "Dermott",
+          "lastname": "Brereton",
+          "jumper": "23",
+          "dob": "1964-08-19",
+          "height": "186cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Richard",
+          "lastname": "Loveridge",
+          "jumper": "22",
+          "dob": "1963-01-15",
+          "height": "178cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Schwab",
+          "jumper": "30",
+          "dob": "1960-09-22",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Mew",
+          "jumper": "2",
+          "dob": "1961-05-07",
+          "height": "189cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Russell",
+          "lastname": "Greene",
+          "jumper": "29",
+          "dob": "1957-05-30",
+          "height": "185cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Buckenara",
+          "jumper": "11",
+          "dob": "1958-07-03",
+          "height": "184cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Abbott",
+          "jumper": "39",
+          "dob": "1964-10-25",
+          "height": "195cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Darrin",
+          "lastname": "Pritchard",
+          "jumper": "41",
+          "dob": "1966-03-21",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Rodney",
+          "lastname": "Eade",
+          "jumper": "26",
+          "dob": "1958-04-04",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Russo",
+          "jumper": "4",
+          "dob": "1959-10-29",
+          "height": "177cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Lester- Smith",
+          "jumper": "6",
+          "dob": "1959-07-18",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Dear",
+          "jumper": "13",
+          "dob": "1966-12-28",
+          "height": "188cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "James",
+          "lastname": "Morrissey",
+          "jumper": "35",
+          "dob": "1964-10-04",
+          "height": "184cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Collins",
+          "jumper": "40",
+          "dob": "1965-04-25",
+          "height": "174cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Harding",
+          "jumper": "12",
+          "dob": "1964-06-04",
+          "height": "193cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "Anthony",
+          "lastname": "Condon",
+          "jumper": "43",
+          "dob": "1967-12-06",
+          "height": "186cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Wittman",
+          "jumper": "10",
+          "dob": "1965-08-30",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Symonds",
+          "jumper": "32",
+          "dob": "1962-02-15",
+          "height": "185cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Handley",
+          "jumper": "8",
+          "dob": "1965-01-08",
+          "height": "183cm",
+          "weight": "76kg"
+        }
+      ]
+    }
+  }
+}

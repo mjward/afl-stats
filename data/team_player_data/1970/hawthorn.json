@@ -4,22 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Norm",
-          "lastname": "Bussell",
-          "jumper": "16",
-          "dob": "1945-01-06",
-          "height": "193cm",
-          "weight": "91kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "Scott",
-          "jumper": "23",
-          "dob": "1947-12-20",
-          "height": "190cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Hudson",
           "jumper": "26",
@@ -44,20 +28,28 @@
           "weight": "92kg"
         },
         {
+          "firstname": "Norm",
+          "lastname": "Bussell",
+          "jumper": "16",
+          "dob": "1945-01-06",
+          "height": "193cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Scott",
+          "jumper": "23",
+          "dob": "1947-12-20",
+          "height": "190cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Alan",
           "lastname": "Martello",
           "jumper": "14",
           "dob": "1952-09-14",
           "height": "193cm",
           "weight": "100kg"
-        },
-        {
-          "firstname": "Des",
-          "lastname": "Meagher",
-          "jumper": "30",
-          "dob": "1944-03-07",
-          "height": "185cm",
-          "weight": "86kg"
         },
         {
           "firstname": "David",
@@ -68,12 +60,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Smith",
-          "jumper": "22",
-          "dob": "1948-10-22",
-          "height": "175cm",
-          "weight": "70kg"
+          "firstname": "Des",
+          "lastname": "Meagher",
+          "jumper": "30",
+          "dob": "1944-03-07",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Michael",
@@ -90,6 +82,14 @@
           "dob": "1952-03-30",
           "height": "188cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Smith",
+          "jumper": "22",
+          "dob": "1948-10-22",
+          "height": "175cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Les",

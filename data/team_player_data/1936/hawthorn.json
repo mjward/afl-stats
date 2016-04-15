@@ -4,6 +4,22 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Bill",
+          "lastname": "Ford",
+          "jumper": "21",
+          "dob": "1906-07-18",
+          "height": "191cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Pool",
+          "jumper": "19",
+          "dob": "1906-11-09",
+          "height": "165cm",
+          "weight": "65kg"
+        },
+        {
           "firstname": "George",
           "lastname": "Dower",
           "jumper": "25",
@@ -29,35 +45,11 @@
         },
         {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "1",
           "dob": "1907-07-19",
           "height": "182cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Ford",
-          "jumper": "21",
-          "dob": "1906-07-18",
-          "height": "191cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Pool",
-          "jumper": "19",
-          "dob": "1906-11-09",
-          "height": "165cm",
-          "weight": "65kg"
-        },
-        {
-          "firstname": "Viv",
-          "lastname": "Randall",
-          "jumper": "7",
-          "dob": "1914-03-07",
-          "height": "170cm",
-          "weight": "74kg"
         },
         {
           "firstname": "Clarrie",
@@ -66,6 +58,14 @@
           "dob": "1906-09-13",
           "height": "180cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Viv",
+          "lastname": "Randall",
+          "jumper": "7",
+          "dob": "1914-03-07",
+          "height": "170cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Tom",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "DeLuca",
+          "lastname": "De Luca",
           "jumper": "24",
           "dob": "1908-11-09",
           "height": "179cm",

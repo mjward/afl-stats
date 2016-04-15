@@ -5,19 +5,11 @@
       "St Kilda": [
         {
           "firstname": "Rex",
-          "lastname": "DeGaris",
+          "lastname": "De Garis",
           "jumper": "14",
           "dob": "1896-12-29",
           "height": "175cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Matthews",
-          "jumper": "8",
-          "dob": "1902-12-07",
-          "height": "179cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Stan",
@@ -44,11 +36,11 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Colin",
-          "lastname": "Watson",
-          "jumper": "31",
-          "dob": "1900-10-12",
-          "height": "180cm",
+          "firstname": "Harold",
+          "lastname": "Matthews",
+          "jumper": "8",
+          "dob": "1902-12-07",
+          "height": "179cm",
           "weight": "83kg"
         },
         {
@@ -68,20 +60,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Colin",
+          "lastname": "Watson",
+          "jumper": "31",
+          "dob": "1900-10-12",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Barney",
           "lastname": "Carr",
           "jumper": "13",
           "dob": "1897-08-27",
           "height": "175cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Armstrong",
-          "jumper": "3",
-          "dob": "1899-04-21",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Jack",
@@ -100,26 +92,34 @@
           "weight": "74kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Armstrong",
+          "jumper": "3",
+          "dob": "1899-04-21",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "John",
-          "lastname": "LordSnr",
+          "lastname": "Lord Snr",
           "jumper": "17",
           "dob": "1899-09-16",
           "height": "191cm",
           "weight": "85kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Morden",
-          "jumper": "11",
-          "dob": "1899-07-20",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Tasman",
           "lastname": "Roberts",
           "jumper": "4",
           "dob": "1901-08-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Morden",
+          "jumper": "11",
+          "dob": "1899-07-20",
           "height": "—",
           "weight": "—"
         },

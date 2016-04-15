@@ -1,0 +1,289 @@
+{
+  "team_player_data": {
+    "year": 2014,
+    "teams": {
+      "Fremantle": [
+        {
+          "firstname": "Cameron",
+          "lastname": "Sutcliffe",
+          "jumper": "33",
+          "dob": "1992-05-23",
+          "height": "186cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Danyle",
+          "lastname": "Pearce",
+          "jumper": "6",
+          "dob": "1986-04-07",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Mundy",
+          "jumper": "16",
+          "dob": "1985-07-20",
+          "height": "192cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Lee",
+          "lastname": "Spurr",
+          "jumper": "34",
+          "dob": "1987-07-27",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Ryan",
+          "lastname": "Crowley",
+          "jumper": "15",
+          "dob": "1984-03-05",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Duffield",
+          "jumper": "41",
+          "dob": "1985-02-05",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Lachie",
+          "lastname": "Neale",
+          "jumper": "27",
+          "dob": "1993-05-24",
+          "height": "176cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Mayne",
+          "jumper": "23",
+          "dob": "1988-11-02",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Aaron",
+          "lastname": "Sandilands",
+          "jumper": "31",
+          "dob": "1982-12-06",
+          "height": "211cm",
+          "weight": "120kg"
+        },
+        {
+          "firstname": "Tendai",
+          "lastname": "Mzungu",
+          "jumper": "13",
+          "dob": "1986-02-28",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Zac",
+          "lastname": "Dawson",
+          "jumper": "3",
+          "dob": "1986-02-22",
+          "height": "197cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Pavlich",
+          "jumper": "29",
+          "dob": "1981-12-31",
+          "height": "192cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Zac",
+          "lastname": "Clarke",
+          "jumper": "30",
+          "dob": "1990-03-28",
+          "height": "203cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Nick",
+          "lastname": "Suban",
+          "jumper": "8",
+          "dob": "1990-05-09",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Hill",
+          "jumper": "32",
+          "dob": "1990-05-01",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Nat",
+          "lastname": "Fyfe",
+          "jumper": "7",
+          "dob": "1991-09-18",
+          "height": "190cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Hayden",
+          "lastname": "Ballantyne",
+          "jumper": "1",
+          "dob": "1987-07-16",
+          "height": "174cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Barlow",
+          "jumper": "21",
+          "dob": "1987-12-18",
+          "height": "189cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Johnson",
+          "jumper": "37",
+          "dob": "1984-10-20",
+          "height": "195cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "de Boer",
+          "jumper": "9",
+          "dob": "1990-03-10",
+          "height": "186cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Luke",
+          "lastname": "Mc Pharlin",
+          "jumper": "18",
+          "dob": "1981-12-01",
+          "height": "192cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Garrick",
+          "lastname": "Ibbotson",
+          "jumper": "5",
+          "dob": "1988-03-15",
+          "height": "186cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Hayden",
+          "lastname": "Crozier",
+          "jumper": "17",
+          "dob": "1993-12-24",
+          "height": "185cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Matt",
+          "lastname": "Taberner",
+          "jumper": "20",
+          "dob": "1993-06-17",
+          "height": "197cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Clancee",
+          "lastname": "Pearce",
+          "jumper": "46",
+          "dob": "1990-10-23",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Walters",
+          "jumper": "10",
+          "dob": "1991-01-07",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Sheridan",
+          "jumper": "11",
+          "dob": "1993-10-28",
+          "height": "187cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Alex",
+          "lastname": "Silvagni",
+          "jumper": "36",
+          "dob": "1987-09-24",
+          "height": "192cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Sylvia",
+          "jumper": "4",
+          "dob": "1985-11-08",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Anthony",
+          "lastname": "Morabito",
+          "jumper": "2",
+          "dob": "1991-10-29",
+          "height": "191cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Hannath",
+          "jumper": "38",
+          "dob": "1991-07-09",
+          "height": "201cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Duffy",
+          "jumper": "24",
+          "dob": "1993-04-11",
+          "height": "184cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Apeness",
+          "jumper": "35",
+          "dob": "1995-01-28",
+          "height": "199cm",
+          "weight": "101kg"
+        },
+        {
+          "firstname": "Jonathon",
+          "lastname": "Griffin",
+          "jumper": "12",
+          "dob": "1986-01-14",
+          "height": "201cm",
+          "weight": "102kg"
+        },
+        {
+          "firstname": "Joshua",
+          "lastname": "Simpson",
+          "jumper": "14",
+          "dob": "1994-02-09",
+          "height": "184cm",
+          "weight": "78kg"
+        }
+      ]
+    }
+  }
+}

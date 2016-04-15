@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Kelvin",
-          "lastname": "Moore",
-          "jumper": "15",
-          "dob": "1950-08-15",
-          "height": "188cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Michael",
           "lastname": "Tuck",
           "jumper": "17",
@@ -29,27 +21,19 @@
         },
         {
           "firstname": "David",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "8",
           "dob": "1955-09-08",
           "height": "185cm",
           "weight": "92kg"
         },
         {
-          "firstname": "Leigh",
-          "lastname": "Matthews",
-          "jumper": "3",
-          "dob": "1952-03-01",
-          "height": "178cm",
+          "firstname": "Kelvin",
+          "lastname": "Moore",
+          "jumper": "15",
+          "dob": "1950-08-15",
+          "height": "188cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "Hudson",
-          "jumper": "1",
-          "dob": "1946-02-19",
-          "height": "189cm",
-          "weight": "92kg"
         },
         {
           "firstname": "Michael",
@@ -76,12 +60,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Martello",
-          "jumper": "14",
-          "dob": "1952-09-14",
-          "height": "193cm",
-          "weight": "100kg"
+          "firstname": "Leigh",
+          "lastname": "Matthews",
+          "jumper": "3",
+          "dob": "1952-03-01",
+          "height": "178cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Hudson",
+          "jumper": "1",
+          "dob": "1946-02-19",
+          "height": "189cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Don",
@@ -98,6 +90,14 @@
           "dob": "1956-02-01",
           "height": "182cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Martello",
+          "jumper": "14",
+          "dob": "1952-09-14",
+          "height": "193cm",
+          "weight": "100kg"
         },
         {
           "firstname": "Rodney",
@@ -140,19 +140,19 @@
           "weight": "75kg"
         },
         {
+          "firstname": "Gerald",
+          "lastname": "Mc Carthy",
+          "jumper": "21",
+          "dob": "1951-11-02",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Ian",
           "lastname": "Paton",
           "jumper": "42",
           "dob": "1957-02-21",
           "height": "193cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Gerald",
-          "lastname": "McCarthy",
-          "jumper": "21",
-          "dob": "1951-11-02",
-          "height": "191cm",
           "weight": "92kg"
         },
         {
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Alle",
-          "lastname": "DeWolde",
+          "lastname": "De Wolde",
           "jumper": "27",
           "dob": "1955-12-27",
           "height": "182cm",
@@ -236,20 +236,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Petch",
-          "jumper": "34",
-          "dob": "1954-11-24",
-          "height": "182cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Don",
           "lastname": "Fletcher",
           "jumper": "7",
           "dob": "1958-04-25",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Petch",
+          "jumper": "34",
+          "dob": "1954-11-24",
+          "height": "182cm",
+          "weight": "78kg"
         }
       ]
     }

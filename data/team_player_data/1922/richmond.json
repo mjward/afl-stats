@@ -20,24 +20,8 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Harley",
-          "jumper": "16",
-          "dob": "1895-06-29",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Ernie",
-          "lastname": "Taylor",
-          "jumper": "7",
-          "dob": "1898-06-10",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Norm'Snowy'",
-          "lastname": "McIntosh",
+          "firstname": "Norm' Snowy'",
+          "lastname": "Mc Intosh",
           "jumper": "3",
           "dob": "1890-03-03",
           "height": "175cm",
@@ -69,7 +53,23 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "HughesSnr",
+          "lastname": "Harley",
+          "jumper": "16",
+          "dob": "1895-06-29",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Taylor",
+          "jumper": "7",
+          "dob": "1898-06-10",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Hughes Snr",
           "jumper": "18",
           "dob": "1894-02-26",
           "height": "175cm",
@@ -84,20 +84,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Weatherill",
-          "jumper": "28",
-          "dob": "1900-05-23",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Hislop",
           "jumper": "6",
           "dob": "1895-08-25",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Weatherill",
+          "jumper": "28",
+          "dob": "1900-05-23",
+          "height": "183cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Clarrie",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Angus",
-          "lastname": "MacIsaac",
+          "lastname": "Mac Isaac",
           "jumper": "28",
           "dob": "1900-04-15",
           "height": "187cm",
@@ -172,19 +172,19 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Rupert",
-          "lastname": "Gibb",
-          "jumper": "27",
-          "dob": "1900-08-25",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Huggard",
           "jumper": "25",
           "dob": "1894-02-01",
           "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Rupert",
+          "lastname": "Gibb",
+          "jumper": "27",
+          "dob": "1900-08-25",
+          "height": "183cm",
           "weight": "83kg"
         },
         {
@@ -236,6 +236,14 @@
           "weight": "95kg"
         },
         {
+          "firstname": "Ray",
+          "lastname": "Ross",
+          "jumper": "22",
+          "dob": "1903-04-20",
+          "height": "173cm",
+          "weight": "71kg"
+        },
+        {
           "firstname": "Bob",
           "lastname": "Stewart",
           "jumper": "30",
@@ -250,14 +258,6 @@
           "dob": "1898-09-02",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Ross",
-          "jumper": "22",
-          "dob": "1903-04-20",
-          "height": "173cm",
-          "weight": "71kg"
         },
         {
           "firstname": "Rob",

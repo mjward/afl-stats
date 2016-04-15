@@ -4,24 +4,8 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Bill",
-          "lastname": "Cubbins",
-          "jumper": "2",
-          "dob": "1899-05-04",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Ivan",
-          "lastname": "McAlpine",
-          "jumper": "22",
-          "dob": "1907-07-19",
-          "height": "182cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Frank",
-          "lastname": "AkedSnr",
+          "lastname": "Aked Snr",
           "jumper": "8",
           "dob": "1902-11-25",
           "height": "183cm",
@@ -37,7 +21,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "15",
           "dob": "1909-03-25",
           "height": "185cm",
@@ -53,19 +37,19 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "Spurling",
-          "jumper": "14",
-          "dob": "1907-10-28",
-          "height": "179cm",
-          "weight": "78kg"
+          "lastname": "Cubbins",
+          "jumper": "2",
+          "dob": "1899-05-04",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
-          "firstname": "Walter",
-          "lastname": "Minogue",
-          "jumper": "3",
-          "dob": "1910-04-06",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Ivan",
+          "lastname": "Mc Alpine",
+          "jumper": "22",
+          "dob": "1907-07-19",
+          "height": "182cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Alby",
@@ -88,6 +72,22 @@
           "lastname": "Hanson",
           "jumper": "11",
           "dob": "1909-10-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Spurling",
+          "jumper": "14",
+          "dob": "1907-10-28",
+          "height": "179cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Walter",
+          "lastname": "Minogue",
+          "jumper": "3",
+          "dob": "1910-04-06",
           "height": "—",
           "weight": "—"
         },
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Wally",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "12",
           "dob": "1907-01-02",
           "height": "—",

@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Bob",
-          "lastname": "Matlock",
-          "jumper": "7",
-          "dob": "1918-08-03",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Don",
           "lastname": "Grossman",
           "jumper": "17",
@@ -44,12 +36,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Vic",
-          "lastname": "Castles",
-          "jumper": "8",
-          "dob": "1918-01-04",
-          "height": "173cm",
-          "weight": "70kg"
+          "firstname": "Bob",
+          "lastname": "Matlock",
+          "jumper": "7",
+          "dob": "1918-08-03",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Jack",
@@ -76,12 +68,12 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Billy",
-          "lastname": "King",
-          "jumper": "12",
-          "dob": "1920-08-17",
-          "height": "178cm",
-          "weight": "76kg"
+          "firstname": "Vic",
+          "lastname": "Castles",
+          "jumper": "8",
+          "dob": "1918-01-04",
+          "height": "173cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Billy",
@@ -108,8 +100,16 @@
           "weight": "96kg"
         },
         {
+          "firstname": "Billy",
+          "lastname": "King",
+          "jumper": "12",
+          "dob": "1920-08-17",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Herbie",
-          "lastname": "MatthewsSnr",
+          "lastname": "Matthews Snr",
           "jumper": "1",
           "dob": "1913-11-12",
           "height": "177cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Jimmy",
-          "lastname": "McKnight",
+          "lastname": "Mc Knight",
           "jumper": "10",
           "dob": "1923-08-09",
           "height": "170cm",

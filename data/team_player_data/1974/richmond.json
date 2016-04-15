@@ -12,22 +12,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Merv",
-          "lastname": "Keane",
-          "jumper": "40",
-          "dob": "1953-07-29",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Robert",
-          "lastname": "McGhie",
-          "jumper": "12",
-          "dob": "1951-08-18",
-          "height": "192cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Wayne",
           "lastname": "Walsh",
           "jumper": "7",
@@ -58,6 +42,22 @@
           "dob": "1954-04-03",
           "height": "185cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Merv",
+          "lastname": "Keane",
+          "jumper": "40",
+          "dob": "1953-07-29",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Mc Ghie",
+          "jumper": "12",
+          "dob": "1951-08-18",
+          "height": "192cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Kevin",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Craig",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "9",
           "dob": "1949-12-08",
           "height": "196cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Ricky",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "31",
           "dob": "1947-11-08",
           "height": "185cm",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Marty",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "14",
           "dob": "1953-02-17",
           "height": "180cm",

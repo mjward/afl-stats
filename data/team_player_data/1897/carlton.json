@@ -4,18 +4,18 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Ernie",
-          "lastname": "Walton",
-          "jumper": "—",
-          "dob": "1875-04-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Brook",
           "lastname": "Hannah",
           "jumper": "—",
           "dob": "1874-09-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Walton",
+          "jumper": "—",
+          "dob": "1875-04-07",
           "height": "—",
           "weight": "—"
         },
@@ -48,6 +48,14 @@
           "lastname": "Casey",
           "jumper": "—",
           "dob": "1872-12-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Williams",
+          "jumper": "—",
+          "dob": "1867-04-15",
           "height": "—",
           "weight": "—"
         },
@@ -100,14 +108,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Williams",
-          "jumper": "—",
-          "dob": "1867-04-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Woodhouse",
           "jumper": "—",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Wally",
-          "lastname": "O'Cock",
+          "lastname": "O' Cock",
           "jumper": "—",
           "dob": "1875-06-17",
           "height": "175cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Henry",
-          "lastname": "McPetrie",
+          "lastname": "Mc Petrie",
           "jumper": "—",
           "dob": "1877-03-14",
           "height": "—",
@@ -300,20 +300,20 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Johnston",
-          "jumper": "—",
-          "dob": "1877-02-12",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Ahern",
           "jumper": "—",
           "dob": "1873-06-24",
           "height": "170cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Johnston",
+          "jumper": "—",
+          "dob": "1877-02-12",
+          "height": "—",
+          "weight": "—"
         }
       ]
     }

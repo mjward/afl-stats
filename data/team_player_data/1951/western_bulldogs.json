@@ -4,14 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Peter",
-          "lastname": "Box",
-          "jumper": "5",
-          "dob": "1932-03-22",
-          "height": "180cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Collins",
           "jumper": "2",
@@ -21,10 +13,26 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McRae",
+          "lastname": "Mc Rae",
           "jumper": "16",
           "dob": "1927-08-03",
           "height": "183cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Box",
+          "jumper": "5",
+          "dob": "1932-03-22",
+          "height": "180cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Bryden",
+          "jumper": "18",
+          "dob": "1927-06-23",
+          "height": "187cm",
           "weight": "86kg"
         },
         {
@@ -52,28 +60,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Dave",
-          "lastname": "Bryden",
-          "jumper": "18",
-          "dob": "1927-06-23",
-          "height": "187cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Wearmouth",
           "jumper": "33",
           "dob": "1926-05-12",
           "height": "173cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "McLaren",
-          "jumper": "21",
-          "dob": "1925-03-22",
-          "height": "170cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Bill",
@@ -92,20 +84,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Alby",
-          "lastname": "LintonJnr",
-          "jumper": "23",
-          "dob": "1926-11-18",
+          "firstname": "George",
+          "lastname": "Mc Laren",
+          "jumper": "21",
+          "dob": "1925-03-22",
           "height": "170cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "WhittenSnr",
-          "jumper": "3",
-          "dob": "1933-07-27",
-          "height": "184cm",
-          "weight": "89kg"
+          "weight": "68kg"
         },
         {
           "firstname": "Herb",
@@ -114,6 +98,22 @@
           "dob": "1930-09-13",
           "height": "188cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Alby",
+          "lastname": "Linton Jnr",
+          "jumper": "23",
+          "dob": "1926-11-18",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Whitten Snr",
+          "jumper": "3",
+          "dob": "1933-07-27",
+          "height": "184cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Bill",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "ReidSnr",
+          "lastname": "Reid Snr",
           "jumper": "7",
           "dob": "1929-04-27",
           "height": "175cm",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Geoff",
-          "lastname": "VanDerFeen",
+          "lastname": "Van Der Feen",
           "jumper": "10",
           "dob": "1930-02-25",
           "height": "183cm",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "AkedJnr",
+          "lastname": "Aked Jnr",
           "jumper": "32",
           "dob": "1932-02-05",
           "height": "180cm",

@@ -28,6 +28,14 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Mc Kenzie",
+          "jumper": "4",
+          "dob": "1889-01-31",
+          "height": "165cm",
+          "weight": "61kg"
+        },
+        {
           "firstname": "Bobby",
           "lastname": "Monk",
           "jumper": "16",
@@ -45,11 +53,11 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McKenzie",
-          "jumper": "4",
-          "dob": "1889-01-31",
-          "height": "165cm",
-          "weight": "61kg"
+          "lastname": "Hendrie",
+          "jumper": "12",
+          "dob": "1884-01-22",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Jack",
@@ -58,14 +66,6 @@
           "dob": "1889-07-22",
           "height": "168cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Hendrie",
-          "jumper": "12",
-          "dob": "1884-01-22",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "David",
@@ -140,18 +140,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Sykes",
-          "jumper": "20",
-          "dob": "1881-05-02",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Henderson",
           "jumper": "—",
           "dob": "1887-12-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Sykes",
+          "jumper": "20",
+          "dob": "1881-05-02",
           "height": "—",
           "weight": "—"
         },
@@ -204,6 +204,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Archie",
+          "lastname": "Pratt",
+          "jumper": "—",
+          "dob": "1879-01-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Les",
           "lastname": "Mitchell",
           "jumper": "—",
@@ -216,14 +224,6 @@
           "lastname": "Nolan",
           "jumper": "22",
           "dob": "1883-10-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Archie",
-          "lastname": "Pratt",
-          "jumper": "—",
-          "dob": "1879-01-17",
           "height": "—",
           "weight": "—"
         },
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McMaster",
+          "lastname": "Mc Master",
           "jumper": "—",
           "dob": "1887-10-07",
           "height": "—",

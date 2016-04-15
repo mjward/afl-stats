@@ -52,20 +52,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "Colling",
-          "jumper": "12",
-          "dob": "1950-03-17",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Russell",
           "lastname": "Greene",
           "jumper": "29",
           "dob": "1957-05-30",
           "height": "185cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Colling",
+          "jumper": "12",
+          "dob": "1950-03-17",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Ian",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Maurice",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "15",
           "dob": "1954-01-22",
           "height": "183cm",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",
@@ -148,20 +148,20 @@
           "weight": "94kg"
         },
         {
-          "firstname": "Phil",
-          "lastname": "Stevens",
-          "jumper": "13",
-          "dob": "1950-09-14",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Don",
           "lastname": "Discher",
           "jumper": "21",
           "dob": "1954-04-17",
           "height": "196cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Stevens",
+          "jumper": "13",
+          "dob": "1950-09-14",
+          "height": "183cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Mark",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Gary",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "8",
           "dob": "1953-03-03",
           "height": "178cm",
@@ -220,20 +220,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Andrew",
-          "lastname": "Cross",
-          "jumper": "13",
-          "dob": "1961-04-13",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Mildenhall",
           "jumper": "39",
           "dob": "1953-04-10",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Cross",
+          "jumper": "13",
+          "dob": "1961-04-13",
+          "height": "178cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Michael",

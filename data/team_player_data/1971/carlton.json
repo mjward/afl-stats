@@ -21,7 +21,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "43",
           "dob": "1949-11-05",
           "height": "191cm",
@@ -44,14 +44,6 @@
           "weight": "105kg"
         },
         {
-          "firstname": "Sergio",
-          "lastname": "Silvagni",
-          "jumper": "1",
-          "dob": "1938-06-28",
-          "height": "183cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Adrian",
           "lastname": "Gallagher",
           "jumper": "10",
@@ -65,6 +57,14 @@
           "jumper": "34",
           "dob": "1946-01-25",
           "height": "185cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Sergio",
+          "lastname": "Silvagni",
+          "jumper": "1",
+          "dob": "1938-06-28",
+          "height": "183cm",
           "weight": "92kg"
         },
         {
@@ -92,20 +92,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Syd",
-          "lastname": "Jackson",
-          "jumper": "5",
-          "dob": "1944-07-01",
-          "height": "173cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Hall",
           "jumper": "3",
           "dob": "1944-05-21",
           "height": "191cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Jackson",
+          "jumper": "5",
+          "dob": "1944-07-01",
+          "height": "173cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Trevor",
@@ -140,6 +140,22 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Gary",
+          "lastname": "Crane",
+          "jumper": "6",
+          "dob": "1944-08-25",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Peter' Percy'",
+          "lastname": "Jones",
+          "jumper": "28",
+          "dob": "1946-10-20",
+          "height": "198cm",
+          "weight": "105kg"
+        },
+        {
           "firstname": "Bryan",
           "lastname": "Quirk",
           "jumper": "32",
@@ -156,36 +172,12 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "Crane",
-          "jumper": "6",
-          "dob": "1944-08-25",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Peter'Percy'",
-          "lastname": "Jones",
-          "jumper": "28",
-          "dob": "1946-10-20",
-          "height": "198cm",
-          "weight": "105kg"
-        },
-        {
           "firstname": "John",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "50",
           "dob": "1951-04-22",
           "height": "183cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Neil",
-          "lastname": "Chandler",
-          "jumper": "22",
-          "dob": "1949-05-06",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "John",
@@ -194,6 +186,14 @@
           "dob": "1951-08-25",
           "height": "185cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Neil",
+          "lastname": "Chandler",
+          "jumper": "22",
+          "dob": "1949-05-06",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Brian",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Ricky",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "14",
           "dob": "1947-11-08",
           "height": "185cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Gary",
-          "lastname": "Lawson-Smith",
+          "lastname": "Lawson- Smith",
           "jumper": "16",
           "dob": "1947-06-30",
           "height": "191cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "29",
           "dob": "1950-12-14",
           "height": "187cm",

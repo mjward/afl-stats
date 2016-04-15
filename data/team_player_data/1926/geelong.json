@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Jack",
+          "lastname": "Chambers",
+          "jumper": "8",
+          "dob": "1901-12-06",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Lloyd",
           "lastname": "Hagger",
           "jumper": "14",
@@ -36,22 +44,6 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Chambers",
-          "jumper": "8",
-          "dob": "1901-12-06",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Jerram",
-          "jumper": "1",
-          "dob": "1904-08-15",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Syd",
           "lastname": "Hall",
           "jumper": "4",
@@ -68,6 +60,22 @@
           "weight": "81kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Jerram",
+          "jumper": "1",
+          "dob": "1904-08-15",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Carji",
+          "lastname": "Greeves",
+          "jumper": "20",
+          "dob": "1903-11-01",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Tom",
           "lastname": "Fitzmaurice",
           "jumper": "23",
@@ -81,14 +89,6 @@
           "jumper": "24",
           "dob": "1902-01-31",
           "height": "179cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Carji",
-          "lastname": "Greeves",
-          "jumper": "20",
-          "dob": "1903-11-01",
-          "height": "175cm",
           "weight": "76kg"
         },
         {

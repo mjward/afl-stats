@@ -4,6 +4,14 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Brian",
+          "lastname": "Mc Gowan",
+          "jumper": "3",
+          "dob": "1938-01-01",
+          "height": "165cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Paul",
           "lastname": "Harrison",
           "jumper": "18",
@@ -28,22 +36,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "McGowan",
-          "jumper": "3",
-          "dob": "1938-01-01",
-          "height": "165cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "SkiltonJnr",
-          "jumper": "14",
-          "dob": "1938-11-08",
-          "height": "171cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Heriot",
           "jumper": "21",
@@ -58,6 +50,14 @@
           "dob": "1939-06-18",
           "height": "180cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Skilton Jnr",
+          "jumper": "14",
+          "dob": "1938-11-08",
+          "height": "171cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Trevor",
@@ -84,20 +84,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Phillips",
-          "jumper": "38",
-          "dob": "1943-09-23",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Gary",
           "lastname": "Johnston",
           "jumper": "42",
           "dob": "1941-04-29",
           "height": "177cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Phillips",
+          "jumper": "38",
+          "dob": "1943-09-23",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "John",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "McGee",
+          "lastname": "Mc Gee",
           "jumper": "49",
           "dob": "1945-03-18",
           "height": "180cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McLaughlinJnr",
+          "lastname": "Mc Laughlin Jnr",
           "jumper": "25",
           "dob": "1935-10-13",
           "height": "178cm",
@@ -220,14 +220,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Batch",
-          "jumper": "27",
-          "dob": "1941-06-24",
-          "height": "188cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Cotton",
           "jumper": "43",
@@ -242,6 +234,14 @@
           "dob": "1938-12-23",
           "height": "193cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Batch",
+          "jumper": "27",
+          "dob": "1941-06-24",
+          "height": "188cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",

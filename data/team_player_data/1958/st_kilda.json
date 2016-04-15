@@ -28,14 +28,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Mulrooney",
-          "jumper": "9",
-          "dob": "1934-08-24",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Walton",
           "jumper": "18",
@@ -50,6 +42,14 @@
           "dob": "1933-06-15",
           "height": "185cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Mulrooney",
+          "jumper": "9",
+          "dob": "1934-08-24",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Eric",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Barry",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "5",
           "dob": "1937-08-09",
           "height": "185cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1936-08-02",
           "height": "177cm",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "21",
           "dob": "1936-01-20",
           "height": "179cm",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Milne",
-          "lastname": "McCooke",
+          "lastname": "Mc Cooke",
           "jumper": "38",
           "dob": "1934-10-09",
           "height": "185cm",

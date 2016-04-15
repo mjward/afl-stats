@@ -4,6 +4,14 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Bobby",
+          "lastname": "Monk",
+          "jumper": "16",
+          "dob": "1886-01-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Joe",
           "lastname": "Pearce",
           "jumper": "19",
@@ -26,14 +34,6 @@
           "dob": "1887-06-13",
           "height": "180cm",
           "weight": "72kg"
-        },
-        {
-          "firstname": "Bobby",
-          "lastname": "Monk",
-          "jumper": "16",
-          "dob": "1886-01-21",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Jim",
@@ -108,20 +108,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Paddy",
-          "lastname": "Mills",
-          "jumper": "—",
-          "dob": "1884-03-17",
-          "height": "174cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Hodgkins",
           "jumper": "—",
           "dob": "1886-02-01",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Paddy",
+          "lastname": "Mills",
+          "jumper": "—",
+          "dob": "1884-03-17",
+          "height": "174cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Harry",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "4",
           "dob": "1889-01-31",
           "height": "165cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Billy",
-          "lastname": "McBean",
+          "lastname": "Mc Bean",
           "jumper": "—",
           "dob": "1889-02-28",
           "height": "—",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McNeilage",
+          "lastname": "Mc Neilage",
           "jumper": "—",
           "dob": "1890-08-03",
           "height": "177cm",

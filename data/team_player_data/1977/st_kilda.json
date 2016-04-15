@@ -12,14 +12,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Robert",
-          "lastname": "Elliott",
-          "jumper": "8",
-          "dob": "1953-04-29",
-          "height": "188cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Baker",
           "jumper": "20",
@@ -52,12 +44,12 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "Colling",
-          "jumper": "12",
-          "dob": "1950-03-17",
+          "firstname": "Robert",
+          "lastname": "Elliott",
+          "jumper": "8",
+          "dob": "1953-04-29",
           "height": "188cm",
-          "weight": "87kg"
+          "weight": "81kg"
         },
         {
           "firstname": "Kevin",
@@ -76,6 +68,14 @@
           "weight": "93kg"
         },
         {
+          "firstname": "Gary",
+          "lastname": "Colling",
+          "jumper": "12",
+          "dob": "1950-03-17",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Mildenhall",
           "jumper": "39",
@@ -92,14 +92,6 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "Callery",
-          "jumper": "35",
-          "dob": "1950-04-18",
-          "height": "165cm",
-          "weight": "68kg"
-        },
-        {
           "firstname": "Rex",
           "lastname": "Hunt",
           "jumper": "2",
@@ -114,6 +106,14 @@
           "dob": "1953-09-25",
           "height": "192cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Callery",
+          "jumper": "35",
+          "dob": "1950-04-18",
+          "height": "165cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Gary",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Maurice",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "15",
           "dob": "1954-01-22",
           "height": "183cm",

@@ -5,14 +5,6 @@
       "Geelong": [
         {
           "firstname": "Jack",
-          "lastname": "Evans",
-          "jumper": "5",
-          "dob": "1908-01-19",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Jack",
           "lastname": "Williams",
           "jumper": "24",
           "dob": "1902-01-31",
@@ -50,6 +42,14 @@
           "dob": "1906-03-27",
           "height": "185cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Evans",
+          "jumper": "5",
+          "dob": "1908-01-19",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Bill",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Rupe",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "6",
           "dob": "1910-03-17",
           "height": "184cm",

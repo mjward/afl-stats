@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Martin",
-          "lastname": "Bolger",
-          "jumper": "9",
-          "dob": "1906-08-19",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Dyer",
           "jumper": "17",
@@ -44,12 +36,12 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Strang",
-          "jumper": "23",
-          "dob": "1908-02-10",
-          "height": "185cm",
-          "weight": "83kg"
+          "firstname": "Martin",
+          "lastname": "Bolger",
+          "jumper": "9",
+          "dob": "1906-08-19",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Stan",
@@ -69,11 +61,19 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "16",
           "dob": "1908-03-20",
           "height": "175cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Strang",
+          "jumper": "23",
+          "dob": "1908-02-10",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Maurie",
@@ -92,14 +92,6 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Geddes",
-          "jumper": "8",
-          "dob": "1903-11-04",
-          "height": "173cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Foster",
           "jumper": "11",
@@ -108,8 +100,16 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Alan",
+          "lastname": "Geddes",
+          "jumper": "8",
+          "dob": "1903-11-04",
+          "height": "173cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Tom",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "18",
           "dob": "1904-12-24",
           "height": "185cm",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Basil",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "9",
           "dob": "1904-08-03",
           "height": "180cm",
@@ -140,20 +140,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Maurie",
-          "lastname": "Sheahan",
-          "jumper": "4",
-          "dob": "1905-12-24",
-          "height": "180cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Stenhouse",
           "jumper": "26",
           "dob": "1911-11-20",
           "height": "185cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Maurie",
+          "lastname": "Sheahan",
+          "jumper": "4",
+          "dob": "1905-12-24",
+          "height": "180cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Sid",
@@ -181,18 +181,18 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "Twyford",
-          "jumper": "2",
-          "dob": "1908-10-12",
-          "height": "173cm",
+          "lastname": "Mc Conchie",
+          "jumper": "31",
+          "dob": "1910-05-30",
+          "height": "175cm",
           "weight": "68kg"
         },
         {
           "firstname": "Jack",
-          "lastname": "McConchie",
-          "jumper": "31",
-          "dob": "1910-05-30",
-          "height": "175cm",
+          "lastname": "Twyford",
+          "jumper": "2",
+          "dob": "1908-10-12",
+          "height": "173cm",
           "weight": "68kg"
         },
         {

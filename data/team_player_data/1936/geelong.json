@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Gordon",
-          "lastname": "Abbott",
-          "jumper": "7",
-          "dob": "1914-09-26",
-          "height": "185cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Arklay",
           "jumper": "8",
@@ -26,6 +18,14 @@
           "dob": "1908-08-11",
           "height": "169cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Abbott",
+          "jumper": "7",
+          "dob": "1914-09-26",
+          "height": "185cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Fred",
@@ -68,6 +68,14 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Hardiman",
+          "jumper": "25",
+          "dob": "1911-04-01",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Norm",
           "lastname": "Glenister",
           "jumper": "23",
@@ -84,26 +92,10 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Hardiman",
-          "jumper": "25",
-          "dob": "1911-04-01",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Hardiman",
           "jumper": "27",
           "dob": "1905-02-20",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Evans",
-          "jumper": "5",
-          "dob": "1908-01-19",
           "height": "182cm",
           "weight": "81kg"
         },
@@ -122,6 +114,14 @@
           "dob": "1915-12-27",
           "height": "179cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Evans",
+          "jumper": "5",
+          "dob": "1908-01-19",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Len",

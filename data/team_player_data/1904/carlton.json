@@ -4,22 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Frank",
-          "lastname": "Hince",
-          "jumper": "—",
-          "dob": "1882-01-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Elliott",
-          "jumper": "1",
-          "dob": "1879-04-07",
-          "height": "177cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Albert",
           "lastname": "Trim",
           "jumper": "—",
@@ -44,16 +28,24 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Roland",
+          "firstname": "Frank",
+          "lastname": "Hince",
           "jumper": "—",
-          "dob": "1876-01-29",
-          "height": "174cm",
-          "weight": "69kg"
+          "dob": "1882-01-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Elliott",
+          "jumper": "1",
+          "dob": "1879-04-07",
+          "height": "177cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Henry",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1873-02-09",
           "height": "—",
@@ -66,6 +58,14 @@
           "dob": "1874-07-24",
           "height": "—",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Roland",
+          "jumper": "—",
+          "dob": "1876-01-29",
+          "height": "174cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Jim",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1868-11-29",
           "height": "—",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "—",
           "dob": "1882-05-27",
           "height": "—",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "—",
           "dob": "1876-06-08",
           "height": "—",
@@ -268,6 +268,22 @@
           "weight": "—"
         },
         {
+          "firstname": "Norm",
+          "lastname": "Hogg",
+          "jumper": "—",
+          "dob": "1883-06-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Cullen",
+          "jumper": "—",
+          "dob": "1878-06-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Matt",
           "lastname": "Crowe",
           "jumper": "—",
@@ -288,22 +304,6 @@
           "lastname": "Scott",
           "jumper": "—",
           "dob": "1874-04-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Norm",
-          "lastname": "Hogg",
-          "jumper": "—",
-          "dob": "1883-06-01",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Cullen",
-          "jumper": "—",
-          "dob": "1878-06-09",
           "height": "—",
           "weight": "—"
         }

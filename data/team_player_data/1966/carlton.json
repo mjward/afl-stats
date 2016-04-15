@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Wes",
-          "lastname": "Lofts",
-          "jumper": "20",
-          "dob": "1942-11-15",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Adrian",
           "lastname": "Gallagher",
           "jumper": "10",
@@ -42,6 +34,14 @@
           "dob": "1945-01-21",
           "height": "184cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Wes",
+          "lastname": "Lofts",
+          "jumper": "20",
+          "dob": "1942-11-15",
+          "height": "188cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Ron",
@@ -92,20 +92,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Mc Lean",
+          "jumper": "36",
+          "dob": "1941-05-06",
+          "height": "187cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Ken",
           "lastname": "Greenwood",
           "jumper": "5",
           "dob": "1941-12-15",
           "height": "188cm",
           "weight": "96kg"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "McLean",
-          "jumper": "36",
-          "dob": "1941-05-06",
-          "height": "187cm",
-          "weight": "86kg"
         },
         {
           "firstname": "John",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "BarassiJnr",
+          "lastname": "Barassi Jnr",
           "jumper": "31",
           "dob": "1936-02-27",
           "height": "179cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Ricky",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "14",
           "dob": "1947-11-08",
           "height": "185cm",
@@ -228,20 +228,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Peter'Percy'",
-          "lastname": "Jones",
-          "jumper": "28",
-          "dob": "1946-10-20",
-          "height": "198cm",
-          "weight": "105kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Gilbert",
           "jumper": "50",
           "dob": "1948-12-31",
           "height": "177cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Peter' Percy'",
+          "lastname": "Jones",
+          "jumper": "28",
+          "dob": "1946-10-20",
+          "height": "198cm",
+          "weight": "105kg"
         },
         {
           "firstname": "Paul",

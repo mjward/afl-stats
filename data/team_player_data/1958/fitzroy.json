@@ -4,38 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Kevin",
-          "lastname": "Wright",
-          "jumper": "13",
-          "dob": "1933-02-19",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Graham",
-          "lastname": "Campbell",
-          "jumper": "20",
-          "dob": "1936-07-22",
-          "height": "177cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Keith",
-          "lastname": "Wiegard",
-          "jumper": "18",
-          "dob": "1938-01-07",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Graeme",
-          "lastname": "MacKenzie",
-          "jumper": "29",
-          "dob": "1935-03-08",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Jones",
           "jumper": "17",
@@ -74,6 +42,38 @@
           "dob": "1930-09-08",
           "height": "185cm",
           "weight": "91kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Wright",
+          "jumper": "13",
+          "dob": "1933-02-19",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Campbell",
+          "jumper": "20",
+          "dob": "1936-07-22",
+          "height": "177cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Wiegard",
+          "jumper": "18",
+          "dob": "1938-01-07",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Mac Kenzie",
+          "jumper": "29",
+          "dob": "1935-03-08",
+          "height": "175cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Owen",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MacGregor",
+          "lastname": "Mac Gregor",
           "jumper": "14",
           "dob": "1932-09-15",
           "height": "185cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Les",
-          "lastname": "HughsonJnr",
+          "lastname": "Hughson Jnr",
           "jumper": "8",
           "dob": "1938-12-01",
           "height": "178cm",

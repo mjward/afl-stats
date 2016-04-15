@@ -4,6 +4,14 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Ron",
+          "lastname": "Clegg",
+          "jumper": "23",
+          "dob": "1927-11-17",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Billy",
           "lastname": "Williams",
           "jumper": "4",
@@ -18,22 +26,6 @@
           "dob": "1918-02-10",
           "height": "180cm",
           "weight": "90kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "Clegg",
-          "jumper": "23",
-          "dob": "1927-11-17",
-          "height": "183cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "Alan",
-          "lastname": "Linden",
-          "jumper": "31",
-          "dob": "1917-04-27",
-          "height": "191cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Billy",
@@ -52,6 +44,14 @@
           "weight": "99kg"
         },
         {
+          "firstname": "Alan",
+          "lastname": "Linden",
+          "jumper": "31",
+          "dob": "1917-04-27",
+          "height": "191cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Vic",
           "lastname": "Castles",
           "jumper": "8",
@@ -68,20 +68,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Mears",
-          "jumper": "19",
-          "dob": "1922-04-30",
-          "height": "168cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Holland",
           "jumper": "5",
           "dob": "1923-03-28",
           "height": "173cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Mears",
+          "jumper": "19",
+          "dob": "1922-04-30",
+          "height": "168cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Peter",
@@ -108,14 +108,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Grossman",
-          "jumper": "17",
-          "dob": "1920-12-27",
-          "height": "182cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Cleary",
           "jumper": "20",
@@ -137,6 +129,14 @@
           "jumper": "33",
           "dob": "1928-10-04",
           "height": "185cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Grossman",
+          "jumper": "17",
+          "dob": "1920-12-27",
+          "height": "182cm",
           "weight": "80kg"
         },
         {
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Neville",
-          "lastname": "StibbardSnr",
+          "lastname": "Stibbard Snr",
           "jumper": "18",
           "dob": "1923-12-11",
           "height": "188cm",
@@ -244,20 +244,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Max",
-          "lastname": "Piggott",
-          "jumper": "16",
-          "dob": "1920-06-20",
-          "height": "183cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Dowling",
           "jumper": "34",
           "dob": "1922-09-17",
           "height": "168cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Piggott",
+          "jumper": "16",
+          "dob": "1920-06-20",
+          "height": "183cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Vic",
@@ -349,7 +349,7 @@
         },
         {
           "firstname": "Jimmy",
-          "lastname": "McKnight",
+          "lastname": "Mc Knight",
           "jumper": "24",
           "dob": "1923-08-09",
           "height": "170cm",

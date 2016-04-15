@@ -52,16 +52,8 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Phil",
-          "lastname": "Ryan",
-          "jumper": "10",
-          "dob": "1925-05-15",
-          "height": "189cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "John",
-          "lastname": "McHale",
+          "lastname": "Mc Hale",
           "jumper": "15",
           "dob": "1915-01-13",
           "height": "185cm",
@@ -74,6 +66,14 @@
           "dob": "1923-02-28",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Ryan",
+          "jumper": "10",
+          "dob": "1925-05-15",
+          "height": "189cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Kevin",
@@ -108,14 +108,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Utting",
-          "jumper": "34",
-          "dob": "1923-03-12",
-          "height": "170cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Des",
           "lastname": "Negri",
           "jumper": "18",
@@ -138,6 +130,14 @@
           "dob": "1921-07-17",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Utting",
+          "jumper": "34",
+          "dob": "1923-03-12",
+          "height": "170cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Don",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Neil",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "11",
           "dob": "1920-10-15",
           "height": "183cm",

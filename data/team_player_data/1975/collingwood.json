@@ -36,14 +36,6 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Atkinson",
-          "jumper": "16",
-          "dob": "1951-10-20",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Cooper",
           "jumper": "10",
@@ -58,6 +50,14 @@
           "dob": "1950-06-30",
           "height": "191cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Atkinson",
+          "jumper": "16",
+          "dob": "1951-10-20",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Bob",
@@ -100,6 +100,14 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Phil",
+          "lastname": "Carman",
+          "jumper": "9",
+          "dob": "1950-09-04",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Ross",
           "lastname": "Dunne",
           "jumper": "12",
@@ -116,14 +124,6 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Phil",
-          "lastname": "Carman",
-          "jumper": "9",
-          "dob": "1950-09-04",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Rene",
           "lastname": "Kink",
           "jumper": "36",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Denis",
-          "lastname": "O'Callaghan",
+          "lastname": "O' Callaghan",
           "jumper": "29",
           "dob": "1949-02-07",
           "height": "178cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "6",
           "dob": "1946-08-27",
           "height": "191cm",
@@ -268,20 +268,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Mike",
-          "lastname": "Delahunty",
-          "jumper": "4",
-          "dob": "1952-09-13",
-          "height": "185cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Michael",
           "lastname": "Browne",
           "jumper": "32",
           "dob": "1954-01-26",
           "height": "194cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Delahunty",
+          "jumper": "4",
+          "dob": "1952-09-13",
+          "height": "185cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Greg",

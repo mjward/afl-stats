@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Syd",
-          "lastname": "AndersonJnr",
-          "jumper": "36",
-          "dob": "1918-01-03",
-          "height": "183cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Maurie",
           "lastname": "Gibb",
           "jumper": "10",
@@ -60,20 +52,20 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Syd",
+          "lastname": "Anderson Jnr",
+          "jumper": "36",
+          "dob": "1918-01-03",
+          "height": "183cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Allan",
-          "lastname": "LaFontaine",
+          "lastname": "La Fontaine",
           "jumper": "17",
           "dob": "1910-12-15",
           "height": "175cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Roberts",
-          "jumper": "19",
-          "dob": "1912-02-27",
-          "height": "175cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Alby",
@@ -82,6 +74,14 @@
           "dob": "1920-09-08",
           "height": "166cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Roberts",
+          "jumper": "19",
+          "dob": "1912-02-27",
+          "height": "175cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Rowley",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "BarassiSnr",
+          "lastname": "Barassi Snr",
           "jumper": "31",
           "dob": "1913-10-24",
           "height": "173cm",
@@ -124,19 +124,19 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "O' Keefe",
+          "jumper": "29",
+          "dob": "1915-09-29",
+          "height": "193cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Harold",
           "lastname": "Ball",
           "jumper": "11",
           "dob": "1920-05-29",
           "height": "188cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "O'Keefe",
-          "jumper": "29",
-          "dob": "1915-09-29",
-          "height": "193cm",
           "weight": "87kg"
         },
         {
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Col",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "25",
           "dob": "1920-08-05",
           "height": "178cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Shane",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "22",
           "dob": "1919-06-06",
           "height": "183cm",

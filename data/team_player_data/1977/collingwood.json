@@ -4,6 +4,14 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "Len",
+          "lastname": "Thompson",
+          "jumper": "2",
+          "dob": "1947-08-27",
+          "height": "200cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Kevin",
           "lastname": "Worthington",
           "jumper": "27",
@@ -12,12 +20,20 @@
           "weight": "88kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Thompson",
-          "jumper": "2",
-          "dob": "1947-08-27",
-          "height": "200cm",
-          "weight": "96kg"
+          "firstname": "Ronnie",
+          "lastname": "Wearmouth",
+          "jumper": "5",
+          "dob": "1950-07-17",
+          "height": "175cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Picken",
+          "jumper": "25",
+          "dob": "1956-06-07",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Ross",
@@ -52,22 +68,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Ronnie",
-          "lastname": "Wearmouth",
-          "jumper": "5",
-          "dob": "1950-07-17",
-          "height": "175cm",
-          "weight": "71kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Picken",
-          "jumper": "25",
-          "dob": "1956-06-07",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Graeme",
           "lastname": "Anderson",
           "jumper": "21",
@@ -76,20 +76,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Moore",
-          "jumper": "30",
-          "dob": "1957-01-11",
-          "height": "198cm",
-          "weight": "97kg"
-        },
-        {
           "firstname": "Wayne",
           "lastname": "Richardson",
           "jumper": "18",
           "dob": "1946-12-08",
           "height": "179cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Moore",
+          "jumper": "30",
+          "dob": "1957-01-11",
+          "height": "198cm",
+          "weight": "97kg"
         },
         {
           "firstname": "Ian",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "6",
           "dob": "1956-08-01",
           "height": "188cm",

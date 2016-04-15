@@ -45,7 +45,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "33",
           "dob": "1935-11-16",
           "height": "184cm",
@@ -108,14 +108,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "Vinar",
-          "jumper": "8",
-          "dob": "1940-03-24",
-          "height": "188cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Pomeroy",
           "jumper": "26",
@@ -130,6 +122,14 @@
           "dob": "1938-10-21",
           "height": "187cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Vinar",
+          "jumper": "8",
+          "dob": "1940-03-24",
+          "height": "188cm",
+          "weight": "83kg"
         },
         {
           "firstname": "John",
@@ -156,20 +156,20 @@
           "weight": "78kg"
         },
         {
+          "firstname": "John",
+          "lastname": "O' Neill",
+          "jumper": "17",
+          "dob": "1935-08-30",
+          "height": "174cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Colin",
           "lastname": "Barton",
           "jumper": "9",
           "dob": "1937-04-17",
           "height": "180cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "O'Neill",
-          "jumper": "17",
-          "dob": "1935-08-30",
-          "height": "174cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Stan",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "20",
           "dob": "1932-03-08",
           "height": "193cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "VanT'Hag",
+          "lastname": "Van T' Hag",
           "jumper": "21",
           "dob": "1940-07-06",
           "height": "183cm",

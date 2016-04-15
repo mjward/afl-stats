@@ -21,14 +21,6 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "Anderson",
-          "jumper": "27",
-          "dob": "1908-10-29",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Jack",
           "lastname": "Wrout",
           "jumper": "3",
           "dob": "1911-10-08",
@@ -36,12 +28,12 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Adamson",
-          "jumper": "8",
-          "dob": "1905-08-01",
-          "height": "178cm",
-          "weight": "87kg"
+          "firstname": "Jack",
+          "lastname": "Anderson",
+          "jumper": "27",
+          "dob": "1908-10-29",
+          "height": "180cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Charlie",
@@ -60,6 +52,14 @@
           "weight": "99kg"
         },
         {
+          "firstname": "Jimmy",
+          "lastname": "Adamson",
+          "jumper": "8",
+          "dob": "1905-08-01",
+          "height": "178cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Ted",
           "lastname": "Ellis",
           "jumper": "15",
@@ -68,20 +68,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Cairo",
-          "lastname": "Dixon",
-          "jumper": "21",
-          "dob": "1911-02-04",
-          "height": "182cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Findlay",
           "jumper": "11",
           "dob": "1913-10-29",
           "height": "168cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Cairo",
+          "lastname": "Dixon",
+          "jumper": "21",
+          "dob": "1911-02-04",
+          "height": "182cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Jack",
@@ -108,20 +108,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Jerram",
-          "jumper": "2",
-          "dob": "1904-08-15",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Jock",
           "lastname": "Cordner",
           "jumper": "6",
           "dob": "1910-06-09",
           "height": "175cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Jerram",
+          "jumper": "2",
+          "dob": "1904-08-15",
+          "height": "185cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Ted",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Clem",
-          "lastname": "McCann",
+          "lastname": "Mc Cann",
           "jumper": "28",
           "dob": "1911-08-20",
           "height": "—",
@@ -300,18 +300,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Mick",
-          "lastname": "Maroney",
-          "jumper": "—",
-          "dob": "1910-11-01",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Parker",
           "jumper": "23",
           "dob": "1911-03-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Maroney",
+          "jumper": "—",
+          "dob": "1910-11-01",
           "height": "—",
           "weight": "—"
         },
@@ -333,7 +333,7 @@
         },
         {
           "firstname": "Ken",
-          "lastname": "McKernan",
+          "lastname": "Mc Kernan",
           "jumper": "40",
           "dob": "1911-08-09",
           "height": "182cm",

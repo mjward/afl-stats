@@ -4,22 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Norm",
-          "lastname": "Brown",
-          "jumper": "23",
-          "dob": "1943-08-06",
-          "height": "191cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Slocum",
-          "jumper": "27",
-          "dob": "1936-08-16",
-          "height": "170cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Colin",
           "lastname": "Bond",
           "jumper": "5",
@@ -44,12 +28,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Murray",
-          "jumper": "2",
-          "dob": "1938-06-18",
-          "height": "178cm",
-          "weight": "79kg"
+          "firstname": "Norm",
+          "lastname": "Brown",
+          "jumper": "23",
+          "dob": "1943-08-06",
+          "height": "191cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Slocum",
+          "jumper": "27",
+          "dob": "1936-08-16",
+          "height": "170cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Barry",
@@ -60,12 +52,12 @@
           "weight": "78kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Bahen",
-          "jumper": "13",
-          "dob": "1943-10-04",
-          "height": "174cm",
-          "weight": "74kg"
+          "firstname": "Kevin",
+          "lastname": "Murray",
+          "jumper": "2",
+          "dob": "1938-06-18",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Graham",
@@ -84,20 +76,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "John",
+          "lastname": "Bahen",
+          "jumper": "13",
+          "dob": "1943-10-04",
+          "height": "174cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Russell",
           "lastname": "Crow",
           "jumper": "32",
           "dob": "1941-09-17",
           "height": "191cm",
           "weight": "105kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Pert",
-          "jumper": "3",
-          "dob": "1936-01-28",
-          "height": "182cm",
-          "weight": "76kg"
         },
         {
           "firstname": "John",
@@ -117,7 +109,7 @@
         },
         {
           "firstname": "Colin",
-          "lastname": "McRae",
+          "lastname": "Mc Rae",
           "jumper": "33",
           "dob": "1945-04-20",
           "height": "191cm",
@@ -130,6 +122,14 @@
           "dob": "1937-05-03",
           "height": "187cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Pert",
+          "jumper": "3",
+          "dob": "1936-01-28",
+          "height": "182cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Wayne",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Mara",
+          "lastname": "O' Mara",
           "jumper": "54",
           "dob": "1941-02-24",
           "height": "185cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McCrae",
+          "lastname": "Mc Crae",
           "jumper": "7",
           "dob": "1943-10-31",
           "height": "175cm",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "36",
           "dob": "1942-09-01",
           "height": "173cm",

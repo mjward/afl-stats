@@ -36,6 +36,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Don",
+          "lastname": "Gross",
+          "jumper": "15",
+          "dob": "1947-04-01",
+          "height": "173cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Daryl",
           "lastname": "Gerlach",
           "jumper": "17",
@@ -53,19 +61,11 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "24",
           "dob": "1939-03-23",
           "height": "188cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "Gross",
-          "jumper": "15",
-          "dob": "1947-04-01",
-          "height": "173cm",
-          "weight": "75kg"
         },
         {
           "firstname": "Alan",
@@ -188,20 +188,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Allan",
-          "lastname": "Graco",
-          "jumper": "52",
-          "dob": "1948-01-29",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Gary",
           "lastname": "Parkes",
           "jumper": "5",
           "dob": "1951-07-02",
           "height": "185cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "Graco",
+          "jumper": "52",
+          "dob": "1948-01-29",
+          "height": "183cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Ken",
@@ -212,20 +212,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Greenwood",
-          "jumper": "2",
-          "dob": "1947-03-24",
-          "height": "175cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Neish",
           "jumper": "8",
           "dob": "1950-08-23",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Greenwood",
+          "jumper": "2",
+          "dob": "1947-03-24",
+          "height": "175cm",
+          "weight": "79kg"
         },
         {
           "firstname": "David",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Rod",
-          "lastname": "McFarlane",
+          "lastname": "Mc Farlane",
           "jumper": "20",
           "dob": "1950-12-16",
           "height": "191cm",

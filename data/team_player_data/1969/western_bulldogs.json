@@ -4,6 +4,14 @@
     "teams": {
       "Western Bulldogs": [
         {
+          "firstname": "Barry",
+          "lastname": "Round",
+          "jumper": "14",
+          "dob": "1950-01-26",
+          "height": "193cm",
+          "weight": "105kg"
+        },
+        {
           "firstname": "David",
           "lastname": "Darcy",
           "jumper": "15",
@@ -12,12 +20,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Barry",
-          "lastname": "Round",
-          "jumper": "14",
-          "dob": "1950-01-26",
-          "height": "193cm",
-          "weight": "105kg"
+          "firstname": "Ian",
+          "lastname": "Bryant",
+          "jumper": "5",
+          "dob": "1942-06-11",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "David",
@@ -36,22 +44,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Bryant",
-          "jumper": "5",
-          "dob": "1942-06-11",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "WhittenSnr",
-          "jumper": "3",
-          "dob": "1933-07-27",
-          "height": "184cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Jillard",
           "jumper": "25",
@@ -60,20 +52,20 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Ted",
+          "lastname": "Whitten Snr",
+          "jumper": "3",
+          "dob": "1933-07-27",
+          "height": "184cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "30",
           "dob": "1942-07-22",
           "height": "180cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Stuart",
-          "lastname": "Magee",
-          "jumper": "23",
-          "dob": "1943-10-13",
-          "height": "174cm",
-          "weight": "74kg"
         },
         {
           "firstname": "Gary",
@@ -82,6 +74,14 @@
           "dob": "1946-11-19",
           "height": "187cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Stuart",
+          "lastname": "Magee",
+          "jumper": "23",
+          "dob": "1943-10-13",
+          "height": "174cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Ricky",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McGowan",
+          "lastname": "Mc Gowan",
           "jumper": "22",
           "dob": "1945-11-30",
           "height": "185cm",
@@ -172,20 +172,20 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Bernie",
-          "lastname": "Quinlan",
-          "jumper": "2",
-          "dob": "1951-07-21",
-          "height": "193cm",
-          "weight": "97kg"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Casey",
           "jumper": "34",
           "dob": "1950-03-25",
           "height": "180cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Bernie",
+          "lastname": "Quinlan",
+          "jumper": "2",
+          "dob": "1951-07-21",
+          "height": "193cm",
+          "weight": "97kg"
         },
         {
           "firstname": "Graeme",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "40",
           "dob": "1951-08-18",
           "height": "192cm",

@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Ray",
-          "lastname": "Brew",
-          "jumper": "26",
-          "dob": "1903-01-14",
-          "height": "175cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Gilby",
           "jumper": "6",
@@ -20,12 +12,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Vallence",
-          "jumper": "22",
-          "dob": "1905-06-04",
-          "height": "183cm",
-          "weight": "81kg"
+          "firstname": "Ray",
+          "lastname": "Brew",
+          "jumper": "26",
+          "dob": "1903-01-14",
+          "height": "175cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Frank",
@@ -52,20 +44,20 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Harry",
+          "lastname": "Vallence",
+          "jumper": "22",
+          "dob": "1905-06-04",
+          "height": "183cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Harvey",
-          "lastname": "DunnSnr",
+          "lastname": "Dunn Snr",
           "jumper": "16",
           "dob": "1899-08-06",
           "height": "164cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Davey",
-          "jumper": "17",
-          "dob": "1908-05-11",
-          "height": "192cm",
-          "weight": "88kg"
         },
         {
           "firstname": "Charlie",
@@ -74,6 +66,14 @@
           "dob": "1903-08-24",
           "height": "183cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Davey",
+          "jumper": "17",
+          "dob": "1908-05-11",
+          "height": "192cm",
+          "weight": "88kg"
         },
         {
           "firstname": "Joe",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Chas",
-          "lastname": "McSwain",
+          "lastname": "Mc Swain",
           "jumper": "3",
           "dob": "1901-10-12",
           "height": "182cm",

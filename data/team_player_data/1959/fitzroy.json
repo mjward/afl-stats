@@ -4,6 +4,38 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Ron",
+          "lastname": "Harvey",
+          "jumper": "19",
+          "dob": "1935-11-11",
+          "height": "192cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Mac Kenzie",
+          "jumper": "29",
+          "dob": "1935-03-08",
+          "height": "175cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Henderson",
+          "jumper": "23",
+          "dob": "1934-01-27",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Gotch",
+          "jumper": "4",
+          "dob": "1936-08-06",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Graham",
           "lastname": "Campbell",
           "jumper": "20",
@@ -28,36 +60,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Harvey",
-          "jumper": "19",
-          "dob": "1935-11-11",
-          "height": "192cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Graeme",
-          "lastname": "MacKenzie",
-          "jumper": "29",
-          "dob": "1935-03-08",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Henderson",
-          "jumper": "23",
-          "dob": "1934-01-27",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Graham",
-          "lastname": "Gotch",
-          "jumper": "4",
-          "dob": "1936-08-06",
-          "height": "178cm",
-          "weight": "79kg"
+          "firstname": "Ian",
+          "lastname": "Aston",
+          "jumper": "6",
+          "dob": "1937-10-14",
+          "height": "170cm",
+          "weight": "64kg"
         },
         {
           "firstname": "Kevin",
@@ -74,14 +82,6 @@
           "dob": "1933-07-25",
           "height": "180cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Aston",
-          "jumper": "6",
-          "dob": "1937-10-14",
-          "height": "170cm",
-          "weight": "64kg"
         },
         {
           "firstname": "Alan",
@@ -108,14 +108,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Furness",
-          "jumper": "30",
-          "dob": "1930-11-09",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Tony",
           "lastname": "Ongarello",
           "jumper": "5",
@@ -124,12 +116,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Hill",
-          "jumper": "15",
-          "dob": "1936-08-14",
-          "height": "182cm",
-          "weight": "75kg"
+          "firstname": "Don",
+          "lastname": "Furness",
+          "jumper": "30",
+          "dob": "1930-11-09",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Wally",
@@ -138,6 +130,14 @@
           "dob": "1936-05-25",
           "height": "168cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Hill",
+          "jumper": "15",
+          "dob": "1936-08-14",
+          "height": "182cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Keith",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Les",
-          "lastname": "HughsonJnr",
+          "lastname": "Hughson Jnr",
           "jumper": "8",
           "dob": "1938-12-01",
           "height": "178cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Colin",
-          "lastname": "MacNeil",
+          "lastname": "Mac Neil",
           "jumper": "38",
           "dob": "1936-08-05",
           "height": "197cm",

@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Percy",
-          "lastname": "Maybury",
-          "jumper": "3",
-          "dob": "1891-09-24",
-          "height": "175cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Barney",
           "lastname": "Herbert",
           "jumper": "1",
@@ -44,12 +36,28 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Percy",
+          "lastname": "Maybury",
+          "jumper": "3",
+          "dob": "1891-09-24",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Hughie",
           "lastname": "James",
           "jumper": "15",
           "dob": "1890-05-04",
           "height": "185cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Gibson",
+          "jumper": "6",
+          "dob": "1885-06-23",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Bob",
@@ -68,22 +76,6 @@
           "weight": "67kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Gibson",
-          "jumper": "6",
-          "dob": "1885-06-23",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Farrell",
-          "jumper": "9",
-          "dob": "1889-10-19",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Love",
           "jumper": "4",
@@ -100,8 +92,16 @@
           "weight": "74kg"
         },
         {
+          "firstname": "Ted",
+          "lastname": "Farrell",
+          "jumper": "9",
+          "dob": "1889-10-19",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Frank",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "19",
           "dob": "1890-08-09",
           "height": "174cm",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "O'Donoghue",
+          "lastname": "O' Donoghue",
           "jumper": "8",
           "dob": "1891-06-03",
           "height": "183cm",
@@ -148,20 +148,20 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Dave",
-          "lastname": "Moffatt",
-          "jumper": "14",
-          "dob": "1892-05-18",
-          "height": "188cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Clarrie",
           "lastname": "Hall",
           "jumper": "22",
           "dob": "1890-01-18",
           "height": "160cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Moffatt",
+          "jumper": "14",
+          "dob": "1892-05-18",
+          "height": "188cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Ted",

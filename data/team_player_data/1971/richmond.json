@@ -12,6 +12,22 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Stewart",
+          "jumper": "2",
+          "dob": "1943-07-14",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Clay",
+          "jumper": "8",
+          "dob": "1945-03-06",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Kevin",
           "lastname": "Sheedy",
           "jumper": "10",
@@ -50,22 +66,6 @@
           "dob": "1947-02-04",
           "height": "193cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Stewart",
-          "jumper": "2",
-          "dob": "1943-07-14",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Dick",
-          "lastname": "Clay",
-          "jumper": "8",
-          "dob": "1945-03-06",
-          "height": "185cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Graeme",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Craig",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "9",
           "dob": "1949-12-08",
           "height": "196cm",
@@ -292,14 +292,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Laurie",
-          "lastname": "Fowler",
-          "jumper": "45",
-          "dob": "1951-12-29",
-          "height": "179cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Lloyd",
           "lastname": "French",
           "jumper": "31",
@@ -308,12 +300,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Owen",
-          "jumper": "52",
-          "dob": "1948-07-21",
-          "height": "188cm",
-          "weight": "83kg"
+          "firstname": "Laurie",
+          "lastname": "Fowler",
+          "jumper": "45",
+          "dob": "1951-12-29",
+          "height": "179cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Mike",
@@ -322,6 +314,14 @@
           "dob": "1949-04-12",
           "height": "165cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Owen",
+          "jumper": "52",
+          "dob": "1948-07-21",
+          "height": "188cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Graham",

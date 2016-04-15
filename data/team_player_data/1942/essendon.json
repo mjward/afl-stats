@@ -4,6 +4,22 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Percy",
+          "lastname": "Bushby",
+          "jumper": "35",
+          "dob": "1919-05-27",
+          "height": "189cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Flanigan",
+          "jumper": "30",
+          "dob": "1914-03-25",
+          "height": "175cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Wally",
           "lastname": "Buttsworth",
           "jumper": "15",
@@ -21,43 +37,11 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "HirdSnr",
+          "lastname": "Hird Snr",
           "jumper": "6",
           "dob": "1918-08-11",
           "height": "188cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Percy",
-          "lastname": "Bushby",
-          "jumper": "35",
-          "dob": "1919-05-27",
-          "height": "189cm",
-          "weight": "90kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Flanigan",
-          "jumper": "30",
-          "dob": "1914-03-25",
-          "height": "175cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Ernie",
-          "lastname": "Coward",
-          "jumper": "1",
-          "dob": "1916-01-27",
-          "height": "170cm",
-          "weight": "67kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "Reynolds",
-          "jumper": "29",
-          "dob": "1916-11-21",
-          "height": "180cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Cec",
@@ -76,6 +60,22 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Ernie",
+          "lastname": "Coward",
+          "jumper": "1",
+          "dob": "1916-01-27",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Reynolds",
+          "jumper": "29",
+          "dob": "1916-11-21",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Hugh",
           "lastname": "Torney",
           "jumper": "20",
@@ -92,20 +92,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Abbott",
-          "jumper": "25",
-          "dob": "1914-09-26",
-          "height": "185cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Murray",
           "lastname": "Exelby",
           "jumper": "4",
           "dob": "1912-10-11",
           "height": "173cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Abbott",
+          "jumper": "25",
+          "dob": "1914-09-26",
+          "height": "185cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Jack",

@@ -4,22 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Doug",
-          "lastname": "Hawkins",
-          "jumper": "7",
-          "dob": "1960-05-05",
-          "height": "180cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Mick",
-          "lastname": "Egan",
-          "jumper": "10",
-          "dob": "1958-02-18",
-          "height": "173cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Steve",
           "lastname": "Wallis",
           "jumper": "24",
@@ -45,7 +29,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "34",
           "dob": "1961-04-04",
           "height": "171cm",
@@ -58,6 +42,22 @@
           "dob": "1956-02-03",
           "height": "188cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Hawkins",
+          "jumper": "7",
+          "dob": "1960-05-05",
+          "height": "180cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Egan",
+          "jumper": "10",
+          "dob": "1958-02-18",
+          "height": "173cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Brian",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Stephen",
-          "lastname": "MacPherson",
+          "lastname": "Mac Pherson",
           "jumper": "27",
           "dob": "1964-12-02",
           "height": "178cm",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "51",
           "dob": "1965-03-03",
           "height": "180cm",
@@ -156,6 +156,14 @@
           "weight": "90kg"
         },
         {
+          "firstname": "Darren",
+          "lastname": "Baxter",
+          "jumper": "35",
+          "dob": "1965-03-19",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Foster",
           "jumper": "32",
@@ -172,16 +180,8 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Darren",
-          "lastname": "Baxter",
-          "jumper": "35",
-          "dob": "1965-03-19",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Rod",
-          "lastname": "MacPherson",
+          "lastname": "Mac Pherson",
           "jumper": "43",
           "dob": "1963-09-21",
           "height": "177cm",
@@ -204,20 +204,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Rickman",
-          "jumper": "37",
-          "dob": "1963-03-24",
-          "height": "183cm",
-          "weight": "93kg"
-        },
-        {
           "firstname": "Chris",
           "lastname": "Hansen",
           "jumper": "17",
           "dob": "1956-05-07",
           "height": "196cm",
           "weight": "100kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Rickman",
+          "jumper": "37",
+          "dob": "1963-03-24",
+          "height": "183cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Les",

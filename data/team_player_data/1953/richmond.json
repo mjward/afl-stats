@@ -4,6 +4,22 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Kevin",
+          "lastname": "Dillon",
+          "jumper": "31",
+          "dob": "1924-12-23",
+          "height": "175cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Havel",
+          "lastname": "Rowe",
+          "jumper": "3",
+          "dob": "1928-05-08",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Geoff",
           "lastname": "Spring",
           "jumper": "19",
@@ -28,20 +44,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Dillon",
-          "jumper": "31",
-          "dob": "1924-12-23",
-          "height": "175cm",
-          "weight": "77kg"
-        },
-        {
-          "firstname": "Havel",
-          "lastname": "Rowe",
-          "jumper": "3",
-          "dob": "1928-05-08",
-          "height": "178cm",
-          "weight": "73kg"
+          "firstname": "Ron",
+          "lastname": "Branton",
+          "jumper": "29",
+          "dob": "1933-06-10",
+          "height": "170cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Allan",
@@ -68,12 +76,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Branton",
-          "jumper": "29",
-          "dob": "1933-06-10",
-          "height": "170cm",
-          "weight": "71kg"
+          "firstname": "Billy",
+          "lastname": "Wilson",
+          "jumper": "32",
+          "dob": "1924-10-18",
+          "height": "173cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Brian",
@@ -92,14 +100,6 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Wilson",
-          "jumper": "32",
-          "dob": "1924-10-18",
-          "height": "173cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Jeff",
           "lastname": "Patterson",
           "jumper": "25",
@@ -108,20 +108,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Hafey",
-          "jumper": "18",
-          "dob": "1931-08-05",
-          "height": "173cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Poulter",
           "jumper": "24",
           "dob": "1929-03-10",
           "height": "183cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Hafey",
+          "jumper": "18",
+          "dob": "1931-08-05",
+          "height": "173cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Kevin",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "4",
           "dob": "1928-07-13",
           "height": "178cm",

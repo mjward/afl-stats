@@ -4,30 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Gary",
-          "lastname": "Brice",
-          "jumper": "7",
-          "dob": "1948-10-07",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Terry",
-          "lastname": "O'Neill",
-          "jumper": "19",
-          "dob": "1956-06-10",
-          "height": "189cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "David",
-          "lastname": "McLeish",
-          "jumper": "29",
-          "dob": "1950-02-21",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Teasdale",
           "jumper": "20",
@@ -44,12 +20,28 @@
           "weight": "76kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Rantall",
-          "jumper": "5",
-          "dob": "1943-12-09",
-          "height": "182cm",
-          "weight": "77kg"
+          "firstname": "Gary",
+          "lastname": "Brice",
+          "jumper": "7",
+          "dob": "1948-10-07",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "O' Neill",
+          "jumper": "19",
+          "dob": "1956-06-10",
+          "height": "189cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Mc Leish",
+          "jumper": "29",
+          "dob": "1950-02-21",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "David",
@@ -74,6 +66,14 @@
           "dob": "1956-04-17",
           "height": "180cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Rantall",
+          "jumper": "5",
+          "dob": "1943-12-09",
+          "height": "182cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Mark",
@@ -172,20 +172,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Michael",
-          "lastname": "Smith",
-          "jumper": "28",
-          "dob": "1959-04-28",
-          "height": "191cm",
-          "weight": "88kg"
-        },
-        {
           "firstname": "Shane",
           "lastname": "Zantuck",
           "jumper": "30",
           "dob": "1955-05-20",
           "height": "177cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Smith",
+          "jumper": "28",
+          "dob": "1959-04-28",
+          "height": "191cm",
+          "weight": "88kg"
         },
         {
           "firstname": "Stewart",
@@ -268,20 +268,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Woodman",
-          "jumper": "10",
-          "dob": "1950-10-10",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Dempster",
           "jumper": "13",
           "dob": "1955-01-14",
           "height": "192cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Woodman",
+          "jumper": "10",
+          "dob": "1950-10-10",
+          "height": "175cm",
+          "weight": "70kg"
         }
       ]
     }

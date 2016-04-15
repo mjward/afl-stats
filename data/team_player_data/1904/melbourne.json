@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Jack",
-          "lastname": "Strong",
-          "jumper": "24",
-          "dob": "1884-04-18",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Young",
-          "jumper": "—",
-          "dob": "1877-12-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "George",
           "lastname": "Moodie",
           "jumper": "—",
@@ -44,18 +28,26 @@
           "weight": "—"
         },
         {
-          "firstname": "Vin",
-          "lastname": "Coutie",
-          "jumper": "—",
-          "dob": "1881-10-28",
+          "firstname": "Jack",
+          "lastname": "Strong",
+          "jumper": "24",
+          "dob": "1884-04-18",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Purse",
+          "firstname": "Charlie",
+          "lastname": "Young",
           "jumper": "—",
-          "dob": "1879-06-28",
+          "dob": "1877-12-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Coutie",
+          "jumper": "—",
+          "dob": "1881-10-28",
           "height": "—",
           "weight": "—"
         },
@@ -69,7 +61,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McClelland",
+          "lastname": "Mc Clelland",
           "jumper": "—",
           "dob": "1875-02-09",
           "height": "—",
@@ -84,10 +76,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Leach",
+          "firstname": "Jack",
+          "lastname": "Purse",
           "jumper": "—",
-          "dob": "1883-04-24",
+          "dob": "1879-06-28",
           "height": "—",
           "weight": "—"
         },
@@ -96,6 +88,14 @@
           "lastname": "Drane",
           "jumper": "—",
           "dob": "1881-02-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Leach",
+          "jumper": "—",
+          "dob": "1883-04-24",
           "height": "—",
           "weight": "—"
         },
@@ -116,20 +116,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Adam",
-          "jumper": "—",
-          "dob": "1883-03-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Pearce",
           "jumper": "19",
           "dob": "1885-01-28",
           "height": "184cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Adam",
+          "jumper": "—",
+          "dob": "1883-03-11",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Paddy",

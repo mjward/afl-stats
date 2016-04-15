@@ -12,22 +12,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Denis",
-          "lastname": "Zeunert",
-          "jumper": "19",
-          "dob": "1931-07-12",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Noel",
-          "lastname": "O'Brien",
-          "jumper": "26",
-          "dob": "1933-01-09",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "John",
           "lastname": "James",
           "jumper": "10",
@@ -50,6 +34,22 @@
           "dob": "1928-06-25",
           "height": "178cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Denis",
+          "lastname": "Zeunert",
+          "jumper": "19",
+          "dob": "1931-07-12",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Noel",
+          "lastname": "O' Brien",
+          "jumper": "26",
+          "dob": "1933-01-09",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Peter",
@@ -92,14 +92,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Gerald",
-          "lastname": "Burke",
-          "jumper": "5",
-          "dob": "1930-12-02",
-          "height": "187cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Sullivan",
           "jumper": "30",
@@ -108,12 +100,12 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Crowe",
-          "jumper": "34",
-          "dob": "1936-05-27",
-          "height": "185cm",
-          "weight": "72kg"
+          "firstname": "Gerald",
+          "lastname": "Burke",
+          "jumper": "5",
+          "dob": "1930-12-02",
+          "height": "187cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Graham",
@@ -132,6 +124,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Crowe",
+          "jumper": "34",
+          "dob": "1936-05-27",
+          "height": "185cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Aitken",
           "jumper": "29",
@@ -148,20 +148,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Chick",
-          "jumper": "23",
-          "dob": "1932-08-25",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Bergin",
           "jumper": "36",
           "dob": "1936-09-15",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Chick",
+          "jumper": "23",
+          "dob": "1932-08-25",
+          "height": "175cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Keith",

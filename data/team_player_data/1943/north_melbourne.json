@@ -4,14 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Herb",
-          "lastname": "Jones",
-          "jumper": "15",
-          "dob": "1915-08-28",
-          "height": "182cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Findlay",
           "jumper": "9",
@@ -28,12 +20,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Alf",
-          "lastname": "Crump",
-          "jumper": "4",
-          "dob": "1922-08-07",
-          "height": "185cm",
-          "weight": "84kg"
+          "firstname": "Herb",
+          "lastname": "Jones",
+          "jumper": "15",
+          "dob": "1915-08-28",
+          "height": "182cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Don",
@@ -44,12 +36,12 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Moran",
-          "jumper": "30",
-          "dob": "1919-03-23",
-          "height": "180cm",
-          "weight": "73kg"
+          "firstname": "Alf",
+          "lastname": "Crump",
+          "jumper": "4",
+          "dob": "1922-08-07",
+          "height": "185cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Alf",
@@ -58,6 +50,14 @@
           "dob": "1912-07-04",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Moran",
+          "jumper": "30",
+          "dob": "1919-03-23",
+          "height": "180cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Alan",
@@ -69,7 +69,7 @@
         },
         {
           "firstname": "Dally",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1918-10-31",
           "height": "182cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "McGain",
+          "lastname": "Mc Gain",
           "jumper": "3",
           "dob": "1917-02-05",
           "height": "174cm",
@@ -260,20 +260,20 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Vin",
-          "lastname": "Casey",
-          "jumper": "20",
-          "dob": "1918-05-05",
-          "height": "177cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Chirgwin",
           "jumper": "13",
           "dob": "1914-06-26",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Casey",
+          "jumper": "20",
+          "dob": "1918-05-05",
+          "height": "177cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Mick",

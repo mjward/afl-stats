@@ -36,20 +36,20 @@
           "weight": "97kg"
         },
         {
+          "firstname": "David",
+          "lastname": "Mc Mahon",
+          "jumper": "19",
+          "dob": "1951-10-19",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Chris",
           "lastname": "Hansen",
           "jumper": "16",
           "dob": "1956-05-07",
           "height": "196cm",
           "weight": "100kg"
-        },
-        {
-          "firstname": "David",
-          "lastname": "McMahon",
-          "jumper": "19",
-          "dob": "1951-10-19",
-          "height": "180cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Laurie",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Gerald",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "23",
           "dob": "1951-11-02",
           "height": "191cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Leigh",
-          "lastname": "McConnon",
+          "lastname": "Mc Connon",
           "jumper": "34",
           "dob": "1953-06-09",
           "height": "177cm",
@@ -204,20 +204,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Andrew",
-          "lastname": "Veal",
-          "jumper": "53",
-          "dob": "1961-05-11",
-          "height": "183cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "David",
           "lastname": "Rankin",
           "jumper": "42",
           "dob": "1960-07-12",
           "height": "173cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Veal",
+          "jumper": "53",
+          "dob": "1961-05-11",
+          "height": "183cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",

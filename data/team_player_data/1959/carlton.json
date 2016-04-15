@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Denis",
-          "lastname": "Zeunert",
-          "jumper": "19",
-          "dob": "1931-07-12",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Ferry",
           "jumper": "25",
@@ -44,12 +36,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Nicholls",
-          "jumper": "2",
-          "dob": "1939-08-13",
-          "height": "189cm",
-          "weight": "105kg"
+          "firstname": "Denis",
+          "lastname": "Zeunert",
+          "jumper": "19",
+          "dob": "1931-07-12",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Bruce",
@@ -66,6 +58,14 @@
           "dob": "1937-10-19",
           "height": "189cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Nicholls",
+          "jumper": "2",
+          "dob": "1939-08-13",
+          "height": "189cm",
+          "weight": "105kg"
         },
         {
           "firstname": "Sergio",
@@ -116,14 +116,6 @@
           "weight": "93kg"
         },
         {
-          "firstname": "Laurie",
-          "lastname": "Kerr",
-          "jumper": "11",
-          "dob": "1928-06-25",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Clarke",
           "jumper": "16",
@@ -136,6 +128,14 @@
           "lastname": "Nicholls",
           "jumper": "12",
           "dob": "1936-11-23",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Laurie",
+          "lastname": "Kerr",
+          "jumper": "11",
+          "dob": "1928-06-25",
           "height": "178cm",
           "weight": "80kg"
         },
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "39",
           "dob": "1936-11-17",
           "height": "180cm",

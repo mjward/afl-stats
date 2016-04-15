@@ -4,6 +4,14 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "Frank",
+          "lastname": "Hailwood",
+          "jumper": "—",
+          "dob": "1873-04-03",
+          "height": "184cm",
+          "weight": "91kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Proudfoot",
           "jumper": "—",
@@ -36,12 +44,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Hailwood",
+          "firstname": "Wal",
+          "lastname": "Gillard",
           "jumper": "—",
-          "dob": "1873-04-03",
-          "height": "184cm",
-          "weight": "91kg"
+          "dob": "1874-07-10",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Matthew",
@@ -53,23 +61,23 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MonohanSnr",
+          "lastname": "Monohan Snr",
           "jumper": "—",
           "dob": "1873-08-21",
           "height": "184cm",
           "weight": "82kg"
         },
         {
-          "firstname": "Wal",
-          "lastname": "Gillard",
+          "firstname": "Bill",
+          "lastname": "Stranger",
           "jumper": "—",
-          "dob": "1874-07-10",
+          "dob": "1871-10-27",
           "height": "—",
           "weight": "—"
         },
         {
           "firstname": "Bill",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "—",
           "dob": "1877-03-23",
           "height": "175cm",
@@ -100,14 +108,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Stranger",
-          "jumper": "—",
-          "dob": "1871-10-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Lardie",
           "lastname": "Tulloch",
           "jumper": "—",
@@ -124,6 +124,14 @@
           "weight": "77kg"
         },
         {
+          "firstname": "Charlie",
+          "lastname": "Sime",
+          "jumper": "—",
+          "dob": "1871-08-03",
+          "height": "170cm",
+          "weight": "71kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Gregory",
           "jumper": "—",
@@ -138,14 +146,6 @@
           "dob": "1876-03-02",
           "height": "185cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Sime",
-          "jumper": "—",
-          "dob": "1871-08-03",
-          "height": "170cm",
-          "weight": "71kg"
         },
         {
           "firstname": "Mick",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Bobby",
-          "lastname": "McCubbin",
+          "lastname": "Mc Cubbin",
           "jumper": "—",
           "dob": "1868-06-16",
           "height": "—",

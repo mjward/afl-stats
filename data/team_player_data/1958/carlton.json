@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "John",
-          "lastname": "James",
-          "jumper": "10",
-          "dob": "1934-01-18",
-          "height": "175cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Comben",
           "jumper": "15",
@@ -41,6 +33,14 @@
           "jumper": "25",
           "dob": "1931-08-08",
           "height": "179cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "James",
+          "jumper": "10",
+          "dob": "1934-01-18",
+          "height": "175cm",
           "weight": "81kg"
         },
         {
@@ -76,14 +76,6 @@
           "weight": "93kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Nicholls",
-          "jumper": "12",
-          "dob": "1936-11-23",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Donaldson",
           "jumper": "13",
@@ -98,6 +90,14 @@
           "dob": "1930-12-02",
           "height": "187cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Nicholls",
+          "jumper": "12",
+          "dob": "1936-11-23",
+          "height": "178cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Doug",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Graham",
-          "lastname": "McColl",
+          "lastname": "Mc Coll",
           "jumper": "36",
           "dob": "1934-06-18",
           "height": "189cm",
@@ -269,19 +269,11 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "O'Dwyer",
+          "lastname": "O' Dwyer",
           "jumper": "7",
           "dob": "1938-02-05",
           "height": "170cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Stephenson",
-          "jumper": "9",
-          "dob": "1937-05-13",
-          "height": "184cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Bill",
@@ -290,6 +282,14 @@
           "dob": "1936-06-28",
           "height": "177cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Stephenson",
+          "jumper": "9",
+          "dob": "1937-05-13",
+          "height": "184cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Kevin",

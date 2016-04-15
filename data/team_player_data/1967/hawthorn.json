@@ -20,14 +20,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Arthur",
-          "jumper": "2",
-          "dob": "1936-06-09",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Hudson",
           "jumper": "26",
@@ -36,19 +28,11 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Wilson",
-          "jumper": "10",
-          "dob": "1945-01-21",
+          "firstname": "Graham",
+          "lastname": "Arthur",
+          "jumper": "2",
+          "dob": "1936-06-09",
           "height": "180cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Des",
-          "lastname": "Meagher",
-          "jumper": "30",
-          "dob": "1944-03-07",
-          "height": "185cm",
           "weight": "86kg"
         },
         {
@@ -68,6 +52,30 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Ray",
+          "lastname": "Wilson",
+          "jumper": "10",
+          "dob": "1945-01-21",
+          "height": "180cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Des",
+          "lastname": "Meagher",
+          "jumper": "30",
+          "dob": "1944-03-07",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Dunshea",
+          "jumper": "34",
+          "dob": "1943-10-11",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Terry",
           "lastname": "Gay",
           "jumper": "28",
@@ -82,14 +90,6 @@
           "dob": "1942-09-12",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Dunshea",
-          "jumper": "34",
-          "dob": "1943-10-11",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Peter",
@@ -124,6 +124,14 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Bremner",
+          "jumper": "39",
+          "dob": "1947-04-11",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Vin",
           "lastname": "Crowe",
           "jumper": "22",
@@ -138,14 +146,6 @@
           "dob": "1947-03-03",
           "height": "189cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Bremner",
-          "jumper": "39",
-          "dob": "1947-04-11",
-          "height": "180cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Ray",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "16",
           "dob": "1942-09-10",
           "height": "185cm",

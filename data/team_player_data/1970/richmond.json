@@ -4,20 +4,20 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Francis",
-          "lastname": "Bourke",
-          "jumper": "30",
-          "dob": "1947-04-02",
-          "height": "185cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Bartlett",
           "jumper": "29",
           "dob": "1947-03-06",
           "height": "177cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Francis",
+          "lastname": "Bourke",
+          "jumper": "30",
+          "dob": "1947-04-02",
+          "height": "185cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Graeme",
@@ -36,6 +36,14 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Mike",
+          "lastname": "Green",
+          "jumper": "37",
+          "dob": "1948-05-14",
+          "height": "193cm",
+          "weight": "95kg"
+        },
+        {
           "firstname": "Eric",
           "lastname": "Moore",
           "jumper": "7",
@@ -44,12 +52,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Mike",
-          "lastname": "Green",
-          "jumper": "37",
-          "dob": "1948-05-14",
+          "firstname": "Ray",
+          "lastname": "Boyanich",
+          "jumper": "19",
+          "dob": "1947-02-04",
           "height": "193cm",
-          "weight": "95kg"
+          "weight": "92kg"
         },
         {
           "firstname": "Kevin",
@@ -66,14 +74,6 @@
           "dob": "1946-01-22",
           "height": "191cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Boyanich",
-          "jumper": "19",
-          "dob": "1947-02-04",
-          "height": "193cm",
-          "weight": "92kg"
         },
         {
           "firstname": "Roger",
@@ -116,20 +116,20 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Colin",
-          "lastname": "Beard",
-          "jumper": "16",
-          "dob": "1941-12-12",
-          "height": "188cm",
-          "weight": "94kg"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Brown",
           "jumper": "40",
           "dob": "1942-10-09",
           "height": "171cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Beard",
+          "jumper": "16",
+          "dob": "1941-12-12",
+          "height": "188cm",
+          "weight": "94kg"
         },
         {
           "firstname": "Geoff",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "20",
           "dob": "1946-05-10",
           "height": "193cm",

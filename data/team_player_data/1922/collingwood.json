@@ -4,8 +4,16 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "Gordon",
+          "lastname": "Coventry",
+          "jumper": "5",
+          "dob": "1901-09-25",
+          "height": "183cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Syd",
-          "lastname": "CoventrySnr",
+          "lastname": "Coventry Snr",
           "jumper": "6",
           "dob": "1899-06-13",
           "height": "182cm",
@@ -28,22 +36,6 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Coventry",
-          "jumper": "5",
-          "dob": "1901-09-25",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Maurie",
-          "lastname": "Sheehy",
-          "jumper": "19",
-          "dob": "1893-06-12",
-          "height": "175cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Rowe",
           "jumper": "30",
@@ -61,15 +53,23 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "PannamJnr",
+          "lastname": "Pannam Jnr",
           "jumper": "16",
           "dob": "1897-04-21",
           "height": "174cm",
           "weight": "69kg"
         },
         {
+          "firstname": "Maurie",
+          "lastname": "Sheehy",
+          "jumper": "19",
+          "dob": "1893-06-12",
+          "height": "175cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Charlie",
-          "lastname": "TysonJnr",
+          "lastname": "Tyson Jnr",
           "jumper": "24",
           "dob": "1897-11-14",
           "height": "183cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeySnr",
+          "lastname": "Twomey Snr",
           "jumper": "29",
           "dob": "1899-05-14",
           "height": "174cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Hector",
-          "lastname": "Lingwood-Smith",
+          "lastname": "Lingwood- Smith",
           "jumper": "22",
           "dob": "1900-05-22",
           "height": "178cm",
@@ -252,20 +252,20 @@
           "weight": "60kg"
         },
         {
-          "firstname": "Charles",
-          "lastname": "Wall",
-          "jumper": "29",
-          "dob": "1895-06-21",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Plant",
           "jumper": "17",
           "dob": "1900-09-14",
           "height": "182cm",
           "weight": "68kg"
+        },
+        {
+          "firstname": "Charles",
+          "lastname": "Wall",
+          "jumper": "29",
+          "dob": "1895-06-21",
+          "height": "—",
+          "weight": "—"
         }
       ]
     }

@@ -4,6 +4,22 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Chris",
+          "lastname": "Smith",
+          "jumper": "8",
+          "dob": "1955-09-29",
+          "height": "189cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "O' Keeffe",
+          "jumper": "11",
+          "dob": "1952-10-22",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Alan",
           "lastname": "Thompson",
           "jumper": "21",
@@ -17,22 +33,6 @@
           "jumper": "4",
           "dob": "1947-03-22",
           "height": "192cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Chris",
-          "lastname": "Smith",
-          "jumper": "8",
-          "dob": "1955-09-29",
-          "height": "189cm",
-          "weight": "97kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "O'Keeffe",
-          "jumper": "11",
-          "dob": "1952-10-22",
-          "height": "180cm",
           "weight": "83kg"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "6",
           "dob": "1948-06-11",
           "height": "191cm",
@@ -156,20 +156,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Garry",
-          "lastname": "Wilson",
-          "jumper": "29",
-          "dob": "1953-07-17",
-          "height": "178cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Lewis",
           "jumper": "43",
           "dob": "1953-05-22",
           "height": "196cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Wilson",
+          "jumper": "29",
+          "dob": "1953-07-17",
+          "height": "178cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Jim",
@@ -309,7 +309,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McGuinness",
+          "lastname": "Mc Guinness",
           "jumper": "48",
           "dob": "1953-10-15",
           "height": "187cm",

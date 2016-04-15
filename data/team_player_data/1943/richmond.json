@@ -12,6 +12,14 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Leo",
+          "lastname": "Merrett",
+          "jumper": "22",
+          "dob": "1920-04-05",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Ron",
           "lastname": "Durham",
           "jumper": "1",
@@ -26,14 +34,6 @@
           "dob": "1916-05-10",
           "height": "184cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Leo",
-          "lastname": "Merrett",
-          "jumper": "22",
-          "dob": "1920-04-05",
-          "height": "178cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Dick",
@@ -68,6 +68,14 @@
           "weight": "97kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Scott",
+          "jumper": "6",
+          "dob": "1915-10-27",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Ray",
           "lastname": "Steele",
           "jumper": "4",
@@ -82,14 +90,6 @@
           "dob": "1924-10-14",
           "height": "175cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Scott",
-          "jumper": "6",
-          "dob": "1915-10-27",
-          "height": "188cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Bernie",
@@ -172,20 +172,20 @@
           "weight": "88kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Hunt",
-          "jumper": "16",
-          "dob": "1918-03-06",
-          "height": "180cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Broadstock",
           "jumper": "24",
           "dob": "1920-12-01",
           "height": "183cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Hunt",
+          "jumper": "16",
+          "dob": "1918-03-06",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Gordon",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McIlveen",
+          "lastname": "Mc Ilveen",
           "jumper": "20",
           "dob": "1919-06-18",
           "height": "170cm",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "10",
           "dob": "1918-06-23",
           "height": "173cm",

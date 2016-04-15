@@ -29,7 +29,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1868-11-29",
           "height": "—",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Henry",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1873-02-09",
           "height": "—",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1871-02-28",
           "height": "—",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Firth",
-          "lastname": "McCallum",
+          "lastname": "Mc Callum",
           "jumper": "—",
           "dob": "1872-12-27",
           "height": "—",
@@ -212,6 +212,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Mc Kay",
+          "jumper": "—",
+          "dob": "1879-07-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Paddy",
           "lastname": "Leahy",
           "jumper": "—",
@@ -224,14 +232,6 @@
           "lastname": "Paterson",
           "jumper": "—",
           "dob": "1875-10-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "McKay",
-          "jumper": "—",
-          "dob": "1879-07-10",
           "height": "—",
           "weight": "—"
         },

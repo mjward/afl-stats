@@ -20,14 +20,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Len",
-          "lastname": "Bowe",
-          "jumper": "4",
-          "dob": "1885-10-27",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Ogden",
           "jumper": "16",
@@ -44,12 +36,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Laing",
-          "jumper": "15",
-          "dob": "1893-04-04",
-          "height": "170cm",
-          "weight": "80kg"
+          "firstname": "Len",
+          "lastname": "Bowe",
+          "jumper": "4",
+          "dob": "1885-10-27",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Dave",
@@ -68,6 +60,14 @@
           "weight": "96kg"
         },
         {
+          "firstname": "Roy",
+          "lastname": "Laing",
+          "jumper": "15",
+          "dob": "1893-04-04",
+          "height": "170cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Syd",
           "lastname": "Sutherland",
           "jumper": "10",
@@ -82,14 +82,6 @@
           "dob": "1896-09-16",
           "height": "173cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Jimmy",
-          "lastname": "Sullivan",
-          "jumper": "8",
-          "dob": "1896-04-08",
-          "height": "168cm",
-          "weight": "58kg"
         },
         {
           "firstname": "Pat",
@@ -116,6 +108,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Jimmy",
+          "lastname": "Sullivan",
+          "jumper": "8",
+          "dob": "1896-04-08",
+          "height": "168cm",
+          "weight": "58kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Collins",
           "jumper": "22",
@@ -132,20 +132,20 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Baring",
-          "jumper": "6",
-          "dob": "1890-12-15",
-          "height": "185cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Walker",
           "jumper": "24",
           "dob": "1891-07-04",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Baring",
+          "jumper": "6",
+          "dob": "1890-12-15",
+          "height": "185cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Bobby",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "20",
           "dob": "1899-09-21",
           "height": "—",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Paddy",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "28",
           "dob": "1897-03-27",
           "height": "—",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "McInerney",
+          "lastname": "Mc Inerney",
           "jumper": "23",
           "dob": "1898-04-24",
           "height": "180cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McLear",
+          "lastname": "Mc Lear",
           "jumper": "—",
           "dob": "1896-12-21",
           "height": "191cm",

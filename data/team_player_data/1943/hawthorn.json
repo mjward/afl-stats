@@ -4,6 +4,30 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Reg",
+          "lastname": "Horkings",
+          "jumper": "7",
+          "dob": "1919-06-20",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Bohan",
+          "jumper": "15",
+          "dob": "1919-07-21",
+          "height": "179cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Williams",
+          "jumper": "3",
+          "dob": "1913-04-14",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Burke",
           "jumper": "10",
@@ -37,35 +61,11 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "8",
           "dob": "1915-09-29",
           "height": "193cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Reg",
-          "lastname": "Horkings",
-          "jumper": "7",
-          "dob": "1919-06-20",
-          "height": "170cm",
-          "weight": "66kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Bohan",
-          "jumper": "15",
-          "dob": "1919-07-21",
-          "height": "179cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Williams",
-          "jumper": "3",
-          "dob": "1913-04-14",
-          "height": "175cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Jack",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "GossSnr",
+          "lastname": "Goss Snr",
           "jumper": "28",
           "dob": "1915-06-06",
           "height": "177cm",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Donohue",
+          "lastname": "O' Donohue",
           "jumper": "23",
           "dob": "1923-06-14",
           "height": "179cm",

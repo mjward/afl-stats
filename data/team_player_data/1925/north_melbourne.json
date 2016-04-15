@@ -4,6 +4,14 @@
     "teams": {
       "North Melbourne": [
         {
+          "firstname": "Harold",
+          "lastname": "Johnston",
+          "jumper": "6",
+          "dob": "1895-05-01",
+          "height": "168cm",
+          "weight": "65kg"
+        },
+        {
           "firstname": "Wels",
           "lastname": "Eicke",
           "jumper": "1",
@@ -28,28 +36,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Harold",
-          "lastname": "Johnston",
-          "jumper": "6",
-          "dob": "1895-05-01",
-          "height": "168cm",
-          "weight": "65kg"
-        },
-        {
           "firstname": "Duncan",
           "lastname": "Lindsay",
           "jumper": "3",
           "dob": "1902-04-04",
           "height": "178cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Metcalf",
-          "jumper": "14",
-          "dob": "1899-07-27",
-          "height": "188cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Jack",
@@ -66,6 +58,14 @@
           "dob": "1902-08-23",
           "height": "173cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Metcalf",
+          "jumper": "14",
+          "dob": "1899-07-27",
+          "height": "188cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Johnny",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Curly",
-          "lastname": "LintonSnr",
+          "lastname": "Linton Snr",
           "jumper": "11",
           "dob": "1895-09-05",
           "height": "179cm",
@@ -140,20 +140,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Leo",
-          "lastname": "Dwyer",
-          "jumper": "19",
-          "dob": "1907-05-09",
-          "height": "172cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Don",
           "lastname": "Watson",
           "jumper": "21",
           "dob": "1905-05-06",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Dwyer",
+          "jumper": "19",
+          "dob": "1907-05-09",
+          "height": "172cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Fred",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "23",
           "dob": "1898-11-02",
           "height": "—",
@@ -196,20 +196,20 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Clarrie",
-          "lastname": "Nolan",
-          "jumper": "32",
-          "dob": "1904-08-24",
-          "height": "187cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Teddy",
           "lastname": "Shorten",
           "jumper": "9",
           "dob": "1898-04-28",
           "height": "168cm",
           "weight": "58kg"
+        },
+        {
+          "firstname": "Clarrie",
+          "lastname": "Nolan",
+          "jumper": "32",
+          "dob": "1904-08-24",
+          "height": "187cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Frank",
@@ -229,17 +229,9 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "McCasker",
+          "lastname": "Mc Casker",
           "jumper": "31",
           "dob": "1902-10-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Harper",
-          "jumper": "13",
-          "dob": "1900-07-26",
           "height": "—",
           "weight": "—"
         },
@@ -248,6 +240,14 @@
           "lastname": "Greensmith",
           "jumper": "18",
           "dob": "1899-12-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Harper",
+          "jumper": "13",
+          "dob": "1900-07-26",
           "height": "—",
           "weight": "—"
         },

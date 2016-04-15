@@ -12,14 +12,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Neil",
-          "lastname": "Roberts",
-          "jumper": "10",
-          "dob": "1933-06-15",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Allan",
           "lastname": "Jeans",
           "jumper": "14",
@@ -34,6 +26,14 @@
           "dob": "1932-11-18",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Neil",
+          "lastname": "Roberts",
+          "jumper": "10",
+          "dob": "1933-06-15",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Paul",
@@ -77,19 +77,19 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "Muir",
-          "jumper": "23",
-          "dob": "1936-07-11",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Brian",
           "lastname": "Gleeson",
           "jumper": "24",
           "dob": "1934-11-03",
           "height": "188cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Muir",
+          "jumper": "23",
+          "dob": "1936-07-11",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Peter",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "33",
           "dob": "1936-01-20",
           "height": "179cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "2",
           "dob": "1930-01-28",
           "height": "180cm",
@@ -236,6 +236,14 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Gleeson",
+          "jumper": "24",
+          "dob": "1931-07-04",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Max",
           "lastname": "Stephenson",
           "jumper": "19",
@@ -250,14 +258,6 @@
           "dob": "1929-09-21",
           "height": "173cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Gleeson",
-          "jumper": "24",
-          "dob": "1931-07-04",
-          "height": "173cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Bob",

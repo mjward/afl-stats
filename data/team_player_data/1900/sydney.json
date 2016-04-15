@@ -4,6 +4,14 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Harry",
+          "lastname": "Lampe",
+          "jumper": "—",
+          "dob": "1874-09-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Fraser",
           "jumper": "—",
@@ -28,22 +36,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Lampe",
-          "jumper": "—",
-          "dob": "1874-09-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Dave",
-          "lastname": "Adamson",
-          "jumper": "—",
-          "dob": "1874-06-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Howson",
           "jumper": "—",
@@ -53,9 +45,17 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "PurdySnr",
+          "lastname": "Purdy Snr",
           "jumper": "—",
           "dob": "1867-08-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Adamson",
+          "jumper": "—",
+          "dob": "1874-06-14",
           "height": "—",
           "weight": "—"
         },
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1872-08-11",
           "height": "—",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Mike",
-          "lastname": "O'Hehir",
+          "lastname": "O' Hehir",
           "jumper": "—",
           "dob": "1876-05-09",
           "height": "—",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1874-09-19",
           "height": "—",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Tim",
-          "lastname": "McKeegan",
+          "lastname": "Mc Keegan",
           "jumper": "—",
           "dob": "1877-09-26",
           "height": "—",

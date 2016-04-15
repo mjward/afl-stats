@@ -4,6 +4,14 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Peter",
+          "lastname": "Schwab",
+          "jumper": "30",
+          "dob": "1960-09-22",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Terry",
           "lastname": "Wallace",
           "jumper": "16",
@@ -28,16 +36,8 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Schwab",
-          "jumper": "30",
-          "dob": "1960-09-22",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "John",
-          "lastname": "KennedyJnr",
+          "lastname": "Kennedy Jnr",
           "jumper": "34",
           "dob": "1959-11-22",
           "height": "190cm",
@@ -52,20 +52,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Rodney",
-          "lastname": "Eade",
-          "jumper": "26",
-          "dob": "1958-04-04",
-          "height": "183cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Leigh",
           "lastname": "Matthews",
           "jumper": "3",
           "dob": "1952-03-01",
           "height": "178cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Rodney",
+          "lastname": "Eade",
+          "jumper": "26",
+          "dob": "1958-04-04",
+          "height": "183cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Peter",
@@ -124,6 +124,14 @@
           "weight": "95kg"
         },
         {
+          "firstname": "Dermott",
+          "lastname": "Brereton",
+          "jumper": "23",
+          "dob": "1964-08-19",
+          "height": "186cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Colin",
           "lastname": "Robertson",
           "jumper": "32",
@@ -140,14 +148,6 @@
           "weight": "93kg"
         },
         {
-          "firstname": "Dermott",
-          "lastname": "Brereton",
-          "jumper": "23",
-          "dob": "1964-08-19",
-          "height": "186cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Richard",
           "lastname": "Loveridge",
           "jumper": "22",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "20",
           "dob": "1957-10-10",
           "height": "193cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "8",
           "dob": "1955-09-08",
           "height": "185cm",

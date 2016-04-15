@@ -68,18 +68,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Sowden",
-          "jumper": "—",
-          "dob": "1878-04-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Henderson",
           "jumper": "—",
           "dob": "1880-07-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Sowden",
+          "jumper": "—",
+          "dob": "1878-04-06",
           "height": "—",
           "weight": "—"
         },
@@ -124,14 +124,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Howard",
-          "jumper": "—",
-          "dob": "1878-01-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Drane",
           "jumper": "—",
@@ -144,6 +136,14 @@
           "lastname": "Rogers",
           "jumper": "—",
           "dob": "1883-05-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Howard",
+          "jumper": "—",
+          "dob": "1878-01-30",
           "height": "—",
           "weight": "—"
         },
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McCooey",
+          "lastname": "Mc Cooey",
           "jumper": "—",
           "dob": "1888-09-26",
           "height": "—",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "—",
           "dob": "1878-09-26",
           "height": "177cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "MacKay",
+          "lastname": "Mac Kay",
           "jumper": "—",
           "dob": "1880-05-05",
           "height": "—",
@@ -284,14 +284,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "West",
-          "jumper": "—",
-          "dob": "1889-02-17",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Lance",
           "lastname": "Sleeman",
           "jumper": "—",
@@ -304,6 +296,14 @@
           "lastname": "Suhr",
           "jumper": "—",
           "dob": "1885-07-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "West",
+          "jumper": "—",
+          "dob": "1889-02-17",
           "height": "—",
           "weight": "—"
         },
@@ -341,7 +341,7 @@
         },
         {
           "firstname": "Alec",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "—",
           "dob": "1882-08-30",
           "height": "—",

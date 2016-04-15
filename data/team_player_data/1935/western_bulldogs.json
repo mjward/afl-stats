@@ -4,22 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Jack",
-          "lastname": "Bridgfoot",
-          "jumper": "11",
-          "dob": "1910-09-28",
-          "height": "184cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Bennett",
-          "jumper": "5",
-          "dob": "1911-09-22",
-          "height": "184cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Leahy",
           "jumper": "9",
@@ -34,6 +18,22 @@
           "dob": "1909-08-11",
           "height": "161cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Bridgfoot",
+          "jumper": "11",
+          "dob": "1910-09-28",
+          "height": "184cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Bennett",
+          "jumper": "5",
+          "dob": "1911-09-22",
+          "height": "184cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Les",
@@ -60,6 +60,22 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Bernie",
+          "lastname": "O' Brien",
+          "jumper": "24",
+          "dob": "1909-05-14",
+          "height": "169cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "Mc Laughlin Snr",
+          "jumper": "25",
+          "dob": "1909-07-16",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Norm",
           "lastname": "Ware",
           "jumper": "4",
@@ -76,24 +92,8 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Bernie",
-          "lastname": "O'Brien",
-          "jumper": "24",
-          "dob": "1909-05-14",
-          "height": "169cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Hugh",
-          "lastname": "McLaughlinSnr",
-          "jumper": "25",
-          "dob": "1909-07-16",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Cliff",
-          "lastname": "McCrae",
+          "lastname": "Mc Crae",
           "jumper": "32",
           "dob": "1913-11-30",
           "height": "180cm",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "18",
           "dob": "1909-03-25",
           "height": "185cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Fred",
-          "lastname": "McEvoy",
+          "lastname": "Mc Evoy",
           "jumper": "30",
           "dob": "1913-11-03",
           "height": "174cm",
@@ -220,20 +220,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Hallahan",
-          "jumper": "33",
-          "dob": "1911-12-16",
-          "height": "178cm",
-          "weight": "69kg"
-        },
-        {
           "firstname": "Rob",
           "lastname": "Sainsbury",
           "jumper": "28",
           "dob": "1916-01-05",
           "height": "173cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Hallahan",
+          "jumper": "33",
+          "dob": "1911-12-16",
+          "height": "178cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Clarrie",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "O'Leary",
+          "lastname": "O' Leary",
           "jumper": "26",
           "dob": "1911-03-23",
           "height": "179cm",

@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "John",
-          "lastname": "Rantall",
-          "jumper": "5",
-          "dob": "1943-12-09",
-          "height": "182cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Russell",
           "lastname": "Cook",
           "jumper": "17",
@@ -20,24 +12,16 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Way",
-          "jumper": "30",
-          "dob": "1944-02-09",
-          "height": "196cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Terry",
-          "lastname": "Leahy",
-          "jumper": "19",
-          "dob": "1946-10-12",
-          "height": "184cm",
-          "weight": "81kg"
+          "firstname": "John",
+          "lastname": "Rantall",
+          "jumper": "5",
+          "dob": "1943-12-09",
+          "height": "182cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Haydn",
-          "lastname": "McAuliffe",
+          "lastname": "Mc Auliffe",
           "jumper": "25",
           "dob": "1946-05-15",
           "height": "175cm",
@@ -58,6 +42,22 @@
           "dob": "1944-07-26",
           "height": "187cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Way",
+          "jumper": "30",
+          "dob": "1944-02-09",
+          "height": "196cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Leahy",
+          "jumper": "19",
+          "dob": "1946-10-12",
+          "height": "184cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Graeme",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsJnr",
+          "lastname": "Matthews Jnr",
           "jumper": "2",
           "dob": "1943-05-10",
           "height": "169cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McLeish",
+          "lastname": "Mc Leish",
           "jumper": "29",
           "dob": "1950-02-21",
           "height": "180cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCracken",
+          "lastname": "Mc Cracken",
           "jumper": "22",
           "dob": "1949-12-01",
           "height": "175cm",
@@ -300,20 +300,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Phillips",
-          "jumper": "3",
-          "dob": "1943-09-23",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Priest",
           "jumper": "9",
           "dob": "1947-11-17",
           "height": "188cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Phillips",
+          "jumper": "3",
+          "dob": "1943-09-23",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "John",

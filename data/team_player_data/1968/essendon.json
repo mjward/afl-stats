@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Don",
-          "lastname": "McKenzie",
-          "jumper": "24",
-          "dob": "1939-03-23",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Ellis",
           "jumper": "30",
@@ -44,20 +36,12 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Epis",
-          "jumper": "28",
-          "dob": "1937-08-27",
-          "height": "182cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Williams",
-          "jumper": "22",
-          "dob": "1947-07-17",
-          "height": "189cm",
-          "weight": "87kg"
+          "firstname": "Don",
+          "lastname": "Mc Kenzie",
+          "jumper": "24",
+          "dob": "1939-03-23",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Ted",
@@ -73,6 +57,22 @@
           "jumper": "32",
           "dob": "1943-09-15",
           "height": "185cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Epis",
+          "jumper": "28",
+          "dob": "1937-08-27",
+          "height": "182cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Williams",
+          "jumper": "22",
+          "dob": "1947-07-17",
+          "height": "189cm",
           "weight": "87kg"
         },
         {
@@ -92,20 +92,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Payne",
-          "jumper": "7",
-          "dob": "1944-11-13",
-          "height": "187cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Daryl",
           "lastname": "Gerlach",
           "jumper": "17",
           "dob": "1944-01-25",
           "height": "180cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Payne",
+          "jumper": "7",
+          "dob": "1944-11-13",
+          "height": "187cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Alan",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Lindsay",
-          "lastname": "McGie",
+          "lastname": "Mc Gie",
           "jumper": "4",
           "dob": "1945-03-30",
           "height": "188cm",
@@ -276,20 +276,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Robert",
-          "lastname": "Thompson",
-          "jumper": "47",
-          "dob": "1947-06-19",
-          "height": "174cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Crowley",
           "jumper": "34",
           "dob": "1948-04-04",
           "height": "178cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Thompson",
+          "jumper": "47",
+          "dob": "1947-06-19",
+          "height": "174cm",
+          "weight": "75kg"
         }
       ]
     }

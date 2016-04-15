@@ -4,22 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Barry",
-          "lastname": "Breen",
-          "jumper": "17",
-          "dob": "1948-01-07",
-          "height": "191cm",
-          "weight": "93kg"
-        },
-        {
-          "firstname": "Stephen",
-          "lastname": "Theodore",
-          "jumper": "23",
-          "dob": "1950-12-18",
-          "height": "178cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Stuart",
           "lastname": "Trott",
           "jumper": "7",
@@ -34,6 +18,22 @@
           "dob": "1942-09-12",
           "height": "173cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Breen",
+          "jumper": "17",
+          "dob": "1948-01-07",
+          "height": "191cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Theodore",
+          "jumper": "23",
+          "dob": "1950-12-18",
+          "height": "178cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Gary",
@@ -60,14 +60,6 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Mynott",
-          "jumper": "2",
-          "dob": "1944-01-29",
-          "height": "193cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Bonney",
           "jumper": "1",
@@ -92,8 +84,16 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Brian",
+          "lastname": "Mynott",
+          "jumper": "2",
+          "dob": "1944-01-29",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "John",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "9",
           "dob": "1943-11-01",
           "height": "191cm",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",
@@ -124,20 +124,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Wayne",
-          "lastname": "Judson",
-          "jumper": "42",
-          "dob": "1952-07-11",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Lawrence",
           "jumper": "13",
           "dob": "1946-02-13",
           "height": "183cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Judson",
+          "jumper": "42",
+          "dob": "1952-07-11",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Rod",

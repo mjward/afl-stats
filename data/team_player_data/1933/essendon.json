@@ -4,6 +4,14 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Johnny",
+          "lastname": "Walker",
+          "jumper": "8",
+          "dob": "1908-11-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Williamson",
           "jumper": "25",
@@ -20,12 +28,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Johnny",
-          "lastname": "Walker",
-          "jumper": "8",
-          "dob": "1908-11-14",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Garnet",
+          "lastname": "Campbell",
+          "jumper": "17",
+          "dob": "1903-07-31",
+          "height": "175cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Ted",
@@ -44,36 +52,12 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Garnet",
-          "lastname": "Campbell",
-          "jumper": "17",
-          "dob": "1903-07-31",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Thomas",
           "lastname": "Clarke",
           "jumper": "23",
           "dob": "1906-11-21",
           "height": "170cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Keith",
-          "lastname": "Forbes",
-          "jumper": "1",
-          "dob": "1906-05-28",
-          "height": "171cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Howard",
-          "lastname": "Okey",
-          "jumper": "2",
-          "dob": "1906-02-12",
-          "height": "177cm",
-          "weight": "69kg"
         },
         {
           "firstname": "Dick",
@@ -90,6 +74,22 @@
           "dob": "1909-09-23",
           "height": "173cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Forbes",
+          "jumper": "1",
+          "dob": "1906-05-28",
+          "height": "171cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Howard",
+          "lastname": "Okey",
+          "jumper": "2",
+          "dob": "1906-02-12",
+          "height": "177cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Syd",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Clive",
-          "lastname": "McCorkell",
+          "lastname": "Mc Corkell",
           "jumper": "5",
           "dob": "1910-05-20",
           "height": "—",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "6",
           "dob": "1909-01-24",
           "height": "—",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McCleary",
+          "lastname": "Mc Cleary",
           "jumper": "6",
           "dob": "1911-07-14",
           "height": "—",

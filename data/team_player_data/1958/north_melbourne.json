@@ -4,38 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "John",
-          "lastname": "Dugdale",
-          "jumper": "6",
-          "dob": "1936-03-08",
-          "height": "182cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Wiltshire",
-          "jumper": "22",
-          "dob": "1932-11-24",
-          "height": "192cm",
-          "weight": "104kg"
-        },
-        {
-          "firstname": "Noel",
-          "lastname": "Teasdale",
-          "jumper": "2",
-          "dob": "1938-01-02",
-          "height": "188cm",
-          "weight": "98kg"
-        },
-        {
-          "firstname": "Allen",
-          "lastname": "Aylett",
-          "jumper": "17",
-          "dob": "1934-04-24",
-          "height": "174cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Laurie",
           "lastname": "Dwyer",
           "jumper": "27",
@@ -84,6 +52,38 @@
           "weight": "76kg"
         },
         {
+          "firstname": "John",
+          "lastname": "Dugdale",
+          "jumper": "6",
+          "dob": "1936-03-08",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Wiltshire",
+          "jumper": "22",
+          "dob": "1932-11-24",
+          "height": "192cm",
+          "weight": "104kg"
+        },
+        {
+          "firstname": "Noel",
+          "lastname": "Teasdale",
+          "jumper": "2",
+          "dob": "1938-01-02",
+          "height": "188cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "Allen",
+          "lastname": "Aylett",
+          "jumper": "17",
+          "dob": "1934-04-24",
+          "height": "174cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Brian",
           "lastname": "Cahill",
           "jumper": "1",
@@ -108,14 +108,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "McMahon",
-          "jumper": "21",
-          "dob": "1930-05-17",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Brady",
           "jumper": "20",
@@ -124,12 +116,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Max",
-          "lastname": "Ritchie",
-          "jumper": "1",
-          "dob": "1934-11-04",
-          "height": "184cm",
-          "weight": "91kg"
+          "firstname": "Kevin",
+          "lastname": "Mc Mahon",
+          "jumper": "21",
+          "dob": "1930-05-17",
+          "height": "170cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Gerald",
@@ -138,6 +130,14 @@
           "dob": "1935-02-20",
           "height": "177cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Ritchie",
+          "jumper": "1",
+          "dob": "1934-11-04",
+          "height": "184cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Bryan",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "19",
           "dob": "1932-05-22",
           "height": "180cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "31",
           "dob": "1937-10-29",
           "height": "188cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "31",
           "dob": "1935-08-30",
           "height": "189cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Rod",
-          "lastname": "McKindlay",
+          "lastname": "Mc Kindlay",
           "jumper": "10",
           "dob": "1935-10-25",
           "height": "188cm",

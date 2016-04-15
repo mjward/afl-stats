@@ -12,6 +12,22 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Fred",
+          "lastname": "Froude",
+          "jumper": "12",
+          "dob": "1910-07-03",
+          "height": "174cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Marcus",
+          "lastname": "Whelan",
+          "jumper": "28",
+          "dob": "1914-06-27",
+          "height": "175cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Albert",
           "lastname": "Collier",
           "jumper": "5",
@@ -36,20 +52,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Froude",
-          "jumper": "12",
-          "dob": "1910-07-03",
-          "height": "174cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Marcus",
-          "lastname": "Whelan",
-          "jumper": "28",
-          "dob": "1914-06-27",
-          "height": "175cm",
-          "weight": "67kg"
+          "firstname": "Norm",
+          "lastname": "Le Brun",
+          "jumper": "18",
+          "dob": "1908-04-22",
+          "height": "171cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Harold",
@@ -66,14 +74,6 @@
           "dob": "1909-11-23",
           "height": "189cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Norm",
-          "lastname": "LeBrun",
-          "jumper": "18",
-          "dob": "1908-04-22",
-          "height": "171cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Harry",
@@ -108,16 +108,8 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Vin",
-          "lastname": "Doherty",
-          "jumper": "10",
-          "dob": "1911-03-26",
-          "height": "169cm",
-          "weight": "63kg"
-        },
-        {
           "firstname": "Syd",
-          "lastname": "CoventrySnr",
+          "lastname": "Coventry Snr",
           "jumper": "4",
           "dob": "1899-06-13",
           "height": "182cm",
@@ -130,6 +122,14 @@
           "dob": "1913-04-17",
           "height": "183cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Doherty",
+          "jumper": "10",
+          "dob": "1911-03-26",
+          "height": "169cm",
+          "weight": "63kg"
         },
         {
           "firstname": "George",
@@ -212,20 +212,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Lou",
-          "lastname": "Riley",
-          "jumper": "26",
-          "dob": "1909-09-07",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Andrew",
           "jumper": "30",
           "dob": "1908-02-28",
           "height": "174cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Lou",
+          "lastname": "Riley",
+          "jumper": "26",
+          "dob": "1909-09-07",
+          "height": "175cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Jack",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Alf",
-          "lastname": "Andrew-Street",
+          "lastname": "Andrew- Street",
           "jumper": "26",
           "dob": "1914-04-08",
           "height": "—",

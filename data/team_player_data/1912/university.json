@@ -4,14 +4,6 @@
     "teams": {
       "University": [
         {
-          "firstname": "Jack",
-          "lastname": "Gray",
-          "jumper": "1",
-          "dob": "1888-07-12",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Little",
           "jumper": "8",
@@ -29,11 +21,27 @@
         },
         {
           "firstname": "Jack",
+          "lastname": "Gray",
+          "jumper": "1",
+          "dob": "1888-07-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
           "lastname": "Brake",
           "jumper": "2",
           "dob": "1890-11-11",
           "height": "188cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "West",
+          "jumper": "2",
+          "dob": "1889-02-17",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Vic",
@@ -44,10 +52,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "West",
-          "jumper": "2",
-          "dob": "1889-02-17",
+          "firstname": "Dave",
+          "lastname": "Greenham",
+          "jumper": "8",
+          "dob": "1889-02-14",
           "height": "—",
           "weight": "—"
         },
@@ -68,10 +76,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Dave",
-          "lastname": "Greenham",
-          "jumper": "8",
-          "dob": "1889-02-14",
+          "firstname": "Lester",
+          "lastname": "Kelly",
+          "jumper": "17",
+          "dob": "1892-02-14",
           "height": "—",
           "weight": "—"
         },
@@ -84,10 +92,10 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Lester",
-          "lastname": "Kelly",
-          "jumper": "17",
-          "dob": "1892-02-14",
+          "firstname": "Bill",
+          "lastname": "Denehy",
+          "jumper": "28",
+          "dob": "1889-05-29",
           "height": "—",
           "weight": "—"
         },
@@ -96,14 +104,6 @@
           "lastname": "Martin",
           "jumper": "5",
           "dob": "1889-11-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Denehy",
-          "jumper": "28",
-          "dob": "1889-05-29",
           "height": "—",
           "weight": "—"
         },
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Ken",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "11",
           "dob": "1890-08-18",
           "height": "—",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "McCracken",
+          "lastname": "Mc Cracken",
           "jumper": "15",
           "dob": "1889-04-13",
           "height": "—",

@@ -68,14 +68,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Garnet",
-          "lastname": "Campbell",
-          "jumper": "17",
-          "dob": "1903-07-31",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Webster",
           "jumper": "32",
@@ -89,6 +81,14 @@
           "jumper": "7",
           "dob": "1909-09-23",
           "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Garnet",
+          "lastname": "Campbell",
+          "jumper": "17",
+          "dob": "1903-07-31",
+          "height": "175cm",
           "weight": "70kg"
         },
         {
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "LeBrun",
+          "lastname": "Le Brun",
           "jumper": "13",
           "dob": "1908-04-22",
           "height": "171cm",
@@ -156,20 +156,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Simpson",
-          "jumper": "19",
-          "dob": "1905-05-20",
-          "height": "170cm",
-          "weight": "65kg"
-        },
-        {
           "firstname": "Roy",
           "lastname": "Payne",
           "jumper": "31",
           "dob": "1909-10-07",
           "height": "188cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Simpson",
+          "jumper": "19",
+          "dob": "1905-05-20",
+          "height": "170cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Frank",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Mal",
-          "lastname": "MacRae",
+          "lastname": "Mac Rae",
           "jumper": "24",
           "dob": "1907-10-17",
           "height": "—",
@@ -260,18 +260,18 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Gerry",
-          "lastname": "Hartigan",
-          "jumper": "18",
-          "dob": "1905-01-08",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Tommy",
           "lastname": "Gubbins",
           "jumper": "16",
           "dob": "1907-07-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Gerry",
+          "lastname": "Hartigan",
+          "jumper": "18",
+          "dob": "1905-01-08",
           "height": "—",
           "weight": "—"
         }

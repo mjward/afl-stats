@@ -84,6 +84,14 @@
           "weight": "82kg"
         },
         {
+          "firstname": "John",
+          "lastname": "O' Donnell",
+          "jumper": "28",
+          "dob": "1947-06-08",
+          "height": "184cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Gary",
           "lastname": "Colling",
           "jumper": "32",
@@ -92,28 +100,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "John",
-          "lastname": "O'Donnell",
-          "jumper": "28",
-          "dob": "1947-06-08",
-          "height": "184cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Mynott",
           "jumper": "2",
           "dob": "1944-01-29",
           "height": "193cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "Neale",
-          "jumper": "18",
-          "dob": "1945-07-18",
-          "height": "189cm",
-          "weight": "99kg"
         },
         {
           "firstname": "Ian",
@@ -125,19 +117,19 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",
           "weight": "91kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Synman",
-          "jumper": "9",
-          "dob": "1938-09-28",
-          "height": "188cm",
-          "weight": "85kg"
+          "firstname": "Kevin",
+          "lastname": "Neale",
+          "jumper": "18",
+          "dob": "1945-07-18",
+          "height": "189cm",
+          "weight": "99kg"
         },
         {
           "firstname": "Stuart",
@@ -146,6 +138,14 @@
           "dob": "1948-04-25",
           "height": "177cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Synman",
+          "jumper": "9",
+          "dob": "1938-09-28",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Brian",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Graeme",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "24",
           "dob": "1947-09-15",
           "height": "185cm",

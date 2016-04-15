@@ -21,19 +21,19 @@
         },
         {
           "firstname": "Len",
-          "lastname": "Wallace",
-          "jumper": "17",
-          "dob": "1909-01-09",
-          "height": "180cm",
-          "weight": "64kg"
-        },
-        {
-          "firstname": "Len",
           "lastname": "Webster",
           "jumper": "32",
           "dob": "1906-12-26",
           "height": "180cm",
           "weight": "100kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Wallace",
+          "jumper": "17",
+          "dob": "1909-01-09",
+          "height": "180cm",
+          "weight": "64kg"
         },
         {
           "firstname": "Keith",
@@ -76,20 +76,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Pattinson",
-          "jumper": "24",
-          "dob": "1914-05-06",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Hugh",
           "lastname": "Torney",
           "jumper": "20",
           "dob": "1909-11-14",
           "height": "191cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Pattinson",
+          "jumper": "24",
+          "dob": "1914-05-06",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Ted",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Mick",
-          "lastname": "McFarlane",
+          "lastname": "Mc Farlane",
           "jumper": "36",
           "dob": "1908-10-25",
           "height": "182cm",
@@ -172,20 +172,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Murray",
-          "lastname": "Exelby",
-          "jumper": "2",
-          "dob": "1912-10-11",
-          "height": "173cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Welch",
           "jumper": "15",
           "dob": "1913-01-30",
           "height": "182cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Murray",
+          "lastname": "Exelby",
+          "jumper": "2",
+          "dob": "1912-10-11",
+          "height": "173cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Jack",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McGorlick",
+          "lastname": "Mc Gorlick",
           "jumper": "22",
           "dob": "1916-01-31",
           "height": "174cm",

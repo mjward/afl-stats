@@ -4,18 +4,18 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Hugh",
-          "lastname": "Gavin",
-          "jumper": "—",
-          "dob": "1878-10-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Scott",
           "jumper": "—",
           "dob": "1874-04-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "Gavin",
+          "jumper": "—",
+          "dob": "1878-10-25",
           "height": "—",
           "weight": "—"
         },
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "O'Loughlin",
+          "lastname": "O' Loughlin",
           "jumper": "—",
           "dob": "1873-10-29",
           "height": "—",
@@ -196,7 +196,7 @@
           "weight": "—"
         },
         {
-          "firstname": "CharlesTracker",
+          "firstname": "Charles Tracker",
           "lastname": "Forbes",
           "jumper": "—",
           "dob": "1865-05-08",

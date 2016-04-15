@@ -4,6 +4,14 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Graeme",
+          "lastname": "Bond",
+          "jumper": "34",
+          "dob": "1949-11-27",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Trevor",
           "lastname": "Barker",
           "jumper": "1",
@@ -20,12 +28,20 @@
           "weight": "88kg"
         },
         {
-          "firstname": "Graeme",
-          "lastname": "Bond",
-          "jumper": "34",
-          "dob": "1949-11-27",
-          "height": "175cm",
-          "weight": "76kg"
+          "firstname": "Barry",
+          "lastname": "Breen",
+          "jumper": "4",
+          "dob": "1948-01-07",
+          "height": "191cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Maurice",
+          "lastname": "O' Keefe",
+          "jumper": "15",
+          "dob": "1954-01-22",
+          "height": "183cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Carl",
@@ -36,20 +52,12 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Barry",
-          "lastname": "Breen",
-          "jumper": "4",
-          "dob": "1948-01-07",
-          "height": "191cm",
-          "weight": "93kg"
-        },
-        {
-          "firstname": "Maurice",
-          "lastname": "O'Keefe",
-          "jumper": "15",
-          "dob": "1954-01-22",
-          "height": "183cm",
-          "weight": "85kg"
+          "firstname": "Robert",
+          "lastname": "Elliott",
+          "jumper": "8",
+          "dob": "1953-04-29",
+          "height": "188cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Graeme",
@@ -58,14 +66,6 @@
           "dob": "1954-12-27",
           "height": "178cm",
           "weight": "77kg"
-        },
-        {
-          "firstname": "Robert",
-          "lastname": "Elliott",
-          "jumper": "8",
-          "dob": "1953-04-29",
-          "height": "188cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Jeff",
@@ -100,14 +100,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Rex",
-          "lastname": "Hunt",
-          "jumper": "5",
-          "dob": "1949-03-07",
-          "height": "191cm",
-          "weight": "97kg"
-        },
-        {
           "firstname": "Russell",
           "lastname": "Tweeddale",
           "jumper": "23",
@@ -124,12 +116,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "O'Dea",
-          "jumper": "14",
-          "dob": "1949-02-02",
-          "height": "185cm",
-          "weight": "91kg"
+          "firstname": "Rex",
+          "lastname": "Hunt",
+          "jumper": "5",
+          "dob": "1949-03-07",
+          "height": "191cm",
+          "weight": "97kg"
         },
         {
           "firstname": "Gary",
@@ -138,6 +130,14 @@
           "dob": "1951-10-05",
           "height": "183cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "O' Dea",
+          "jumper": "14",
+          "dob": "1949-02-02",
+          "height": "185cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Russell",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Gary",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "11",
           "dob": "1953-03-03",
           "height": "178cm",

@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Phil",
+          "lastname": "Egan",
+          "jumper": "13",
+          "dob": "1963-02-09",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Rowlings",
           "jumper": "22",
@@ -20,12 +28,20 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Phil",
-          "lastname": "Egan",
-          "jumper": "13",
-          "dob": "1963-02-09",
-          "height": "180cm",
+          "firstname": "John",
+          "lastname": "Annear",
+          "jumper": "5",
+          "dob": "1961-06-17",
+          "height": "178cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Tim",
+          "lastname": "Gepp",
+          "jumper": "10",
+          "dob": "1960-01-21",
+          "height": "182cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Greg",
@@ -50,22 +66,6 @@
           "dob": "1958-01-16",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Annear",
-          "jumper": "5",
-          "dob": "1961-06-17",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Tim",
-          "lastname": "Gepp",
-          "jumper": "10",
-          "dob": "1960-01-21",
-          "height": "182cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Maurice",
@@ -100,20 +100,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Matthew",
-          "lastname": "Wall",
-          "jumper": "12",
-          "dob": "1960-03-05",
-          "height": "180cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Michael",
           "lastname": "Roach",
           "jumper": "8",
           "dob": "1958-10-09",
           "height": "193cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Wall",
+          "jumper": "12",
+          "dob": "1960-03-05",
+          "height": "180cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Craig",

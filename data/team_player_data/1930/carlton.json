@@ -4,22 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Charlie",
-          "lastname": "Davey",
-          "jumper": "17",
-          "dob": "1908-05-11",
-          "height": "192cm",
-          "weight": "88kg"
-        },
-        {
-          "firstname": "Ansell",
-          "lastname": "Clarke",
-          "jumper": "31",
-          "dob": "1907-08-12",
-          "height": "173cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Green",
           "jumper": "14",
@@ -50,6 +34,22 @@
           "dob": "1908-12-10",
           "height": "183cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Davey",
+          "jumper": "17",
+          "dob": "1908-05-11",
+          "height": "192cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Ansell",
+          "lastname": "Clarke",
+          "jumper": "31",
+          "dob": "1907-08-12",
+          "height": "173cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Alex",
@@ -132,20 +132,20 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Vallence",
-          "jumper": "22",
-          "dob": "1905-06-04",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Clover",
           "jumper": "1",
           "dob": "1895-03-20",
           "height": "185cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Vallence",
+          "jumper": "22",
+          "dob": "1905-06-04",
+          "height": "183cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Maurie",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Chas",
-          "lastname": "McSwain",
+          "lastname": "Mc Swain",
           "jumper": "3",
           "dob": "1901-10-12",
           "height": "182cm",

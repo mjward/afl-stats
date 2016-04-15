@@ -4,6 +4,14 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Charlie",
+          "lastname": "Streeter",
+          "jumper": "9",
+          "dob": "1895-08-15",
+          "height": "170cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Herbert",
           "lastname": "White",
           "jumper": "8",
@@ -20,16 +28,8 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Streeter",
-          "jumper": "9",
-          "dob": "1895-08-15",
-          "height": "170cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Ivor",
-          "lastname": "Warne-Smith",
+          "lastname": "Warne- Smith",
           "jumper": "14",
           "dob": "1897-10-29",
           "height": "182cm",
@@ -37,19 +37,11 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "JohnsonSnr",
+          "lastname": "Johnson Snr",
           "jumper": "16",
           "dob": "1902-06-27",
           "height": "191cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Corbett",
-          "jumper": "12",
-          "dob": "1895-11-23",
-          "height": "178cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Ossie",
@@ -60,12 +52,12 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Abernethy",
-          "jumper": "4",
-          "dob": "1902-11-04",
-          "height": "175cm",
-          "weight": "81kg"
+          "firstname": "Bob",
+          "lastname": "Corbett",
+          "jumper": "12",
+          "dob": "1895-11-23",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Harry",
@@ -74,6 +66,14 @@
           "dob": "1896-07-28",
           "height": "170cm",
           "weight": "66kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Abernethy",
+          "jumper": "4",
+          "dob": "1902-11-04",
+          "height": "175cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Jack",
@@ -132,6 +132,14 @@
           "weight": "58kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Tymms",
+          "jumper": "26",
+          "dob": "1903-08-16",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Jimmy",
           "lastname": "Davidson",
           "jumper": "29",
@@ -146,14 +154,6 @@
           "dob": "1897-11-15",
           "height": "184cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Tymms",
-          "jumper": "26",
-          "dob": "1903-08-16",
-          "height": "183cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Dave",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "21",
           "dob": "1904-04-13",
           "height": "—",
@@ -220,14 +220,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Percy",
-          "lastname": "Tulloh",
-          "jumper": "18",
-          "dob": "1900-09-19",
-          "height": "173cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Eric",
           "lastname": "Andersen",
           "jumper": "32",
@@ -236,7 +228,15 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Frank'Pop'",
+          "firstname": "Percy",
+          "lastname": "Tulloh",
+          "jumper": "18",
+          "dob": "1900-09-19",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Frank' Pop'",
           "lastname": "Vine",
           "jumper": "23",
           "dob": "1904-10-01",

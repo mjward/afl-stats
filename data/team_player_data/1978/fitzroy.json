@@ -4,16 +4,8 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Warwick",
-          "lastname": "Irwin",
-          "jumper": "7",
-          "dob": "1952-06-03",
-          "height": "182cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
@@ -44,6 +36,14 @@
           "weight": "100kg"
         },
         {
+          "firstname": "Warwick",
+          "lastname": "Irwin",
+          "jumper": "7",
+          "dob": "1952-06-03",
+          "height": "182cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Russ",
           "lastname": "Hodges",
           "jumper": "17",
@@ -52,8 +52,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Harvey",
+          "lastname": "Merrigan",
+          "jumper": "36",
+          "dob": "1949-12-04",
+          "height": "189cm",
+          "weight": "90kg"
+        },
+        {
           "firstname": "Gerald",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "23",
           "dob": "1951-11-02",
           "height": "191cm",
@@ -66,14 +74,6 @@
           "dob": "1955-09-29",
           "height": "189cm",
           "weight": "97kg"
-        },
-        {
-          "firstname": "Harvey",
-          "lastname": "Merrigan",
-          "jumper": "36",
-          "dob": "1949-12-04",
-          "height": "189cm",
-          "weight": "90kg"
         },
         {
           "firstname": "Brian",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Neil",
-          "lastname": "MacLeod",
+          "lastname": "Mac Leod",
           "jumper": "20",
           "dob": "1960-01-15",
           "height": "175cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Keeffe",
+          "lastname": "O' Keeffe",
           "jumper": "11",
           "dob": "1952-10-22",
           "height": "180cm",

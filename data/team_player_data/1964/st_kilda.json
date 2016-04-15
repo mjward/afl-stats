@@ -4,6 +4,22 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Jim",
+          "lastname": "Wallis",
+          "jumper": "11",
+          "dob": "1941-11-12",
+          "height": "192cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Cooper",
+          "jumper": "15",
+          "dob": "1946-04-02",
+          "height": "188cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Ian",
           "lastname": "Synman",
           "jumper": "9",
@@ -28,30 +44,6 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Wallis",
-          "jumper": "11",
-          "dob": "1941-11-12",
-          "height": "192cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Cooper",
-          "jumper": "15",
-          "dob": "1946-04-02",
-          "height": "188cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Walsh",
-          "jumper": "7",
-          "dob": "1934-10-25",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Morrow",
           "jumper": "8",
@@ -68,12 +60,12 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Read",
-          "jumper": "21",
-          "dob": "1943-12-26",
-          "height": "175cm",
-          "weight": "75kg"
+          "firstname": "Brian",
+          "lastname": "Walsh",
+          "jumper": "7",
+          "dob": "1934-10-25",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Ian",
@@ -82,6 +74,14 @@
           "dob": "1943-07-14",
           "height": "180cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Read",
+          "jumper": "21",
+          "dob": "1943-12-26",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Daryl",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Ray",
-          "lastname": "McHugh",
+          "lastname": "Mc Hugh",
           "jumper": "19",
           "dob": "1938-07-02",
           "height": "187cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "2",
           "dob": "1938-12-15",
           "height": "198cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "20",
           "dob": "1938-09-24",
           "height": "188cm",

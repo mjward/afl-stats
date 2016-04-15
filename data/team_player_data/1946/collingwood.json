@@ -4,14 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Lou",
-          "lastname": "Richards",
-          "jumper": "21",
-          "dob": "1923-03-15",
-          "height": "170cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Green",
           "jumper": "9",
@@ -28,6 +20,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Lou",
+          "lastname": "Richards",
+          "jumper": "21",
+          "dob": "1923-03-15",
+          "height": "170cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Charlie",
           "lastname": "Utting",
           "jumper": "27",
@@ -36,20 +36,20 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Hocking",
-          "jumper": "10",
-          "dob": "1919-08-12",
-          "height": "178cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Burns",
           "jumper": "4",
           "dob": "1918-10-06",
           "height": "170cm",
           "weight": "66kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Hocking",
+          "jumper": "10",
+          "dob": "1919-08-12",
+          "height": "178cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Tom",
@@ -76,20 +76,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Marcus",
-          "lastname": "Whelan",
-          "jumper": "30",
-          "dob": "1914-06-27",
-          "height": "175cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Phil",
           "lastname": "Ryan",
           "jumper": "23",
           "dob": "1925-05-15",
           "height": "189cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Marcus",
+          "lastname": "Whelan",
+          "jumper": "30",
+          "dob": "1914-06-27",
+          "height": "175cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Kevin",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeyJnr",
+          "lastname": "Twomey Jnr",
           "jumper": "—",
           "dob": "1927-09-28",
           "height": "179cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "RoseSnr",
+          "lastname": "Rose Snr",
           "jumper": "22",
           "dob": "1928-08-07",
           "height": "178cm",

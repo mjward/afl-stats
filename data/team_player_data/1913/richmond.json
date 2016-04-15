@@ -4,30 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Clarrie",
-          "lastname": "Hall",
-          "jumper": "22",
-          "dob": "1890-01-18",
-          "height": "160cm",
-          "weight": "64kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Oliver",
-          "jumper": "27",
-          "dob": "1890-04-14",
-          "height": "180cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Morgan",
-          "jumper": "16",
-          "dob": "1892-10-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Maybury",
           "jumper": "3",
@@ -52,12 +28,28 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Keggin",
-          "jumper": "18",
-          "dob": "1891-07-28",
-          "height": "188cm",
-          "weight": "83kg"
+          "firstname": "Clarrie",
+          "lastname": "Hall",
+          "jumper": "22",
+          "dob": "1890-01-18",
+          "height": "160cm",
+          "weight": "64kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Oliver",
+          "jumper": "27",
+          "dob": "1890-04-14",
+          "height": "180cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Morgan",
+          "jumper": "16",
+          "dob": "1892-10-11",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Vic",
@@ -65,6 +57,14 @@
           "jumper": "5",
           "dob": "1890-10-25",
           "height": "178cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Keggin",
+          "jumper": "18",
+          "dob": "1891-07-28",
+          "height": "188cm",
           "weight": "83kg"
         },
         {
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "19",
           "dob": "1890-08-09",
           "height": "174cm",

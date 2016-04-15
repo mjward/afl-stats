@@ -4,6 +4,22 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "Michael",
+          "lastname": "Taylor",
+          "jumper": "28",
+          "dob": "1953-12-30",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Williams",
+          "jumper": "21",
+          "dob": "1958-08-21",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "David",
           "lastname": "Cloke",
           "jumper": "33",
@@ -25,22 +41,6 @@
           "jumper": "22",
           "dob": "1960-07-23",
           "height": "170cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Michael",
-          "lastname": "Taylor",
-          "jumper": "28",
-          "dob": "1953-12-30",
-          "height": "183cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "Mark",
-          "lastname": "Williams",
-          "jumper": "21",
-          "dob": "1958-08-21",
-          "height": "183cm",
           "weight": "80kg"
         },
         {
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "6",
           "dob": "1956-08-01",
           "height": "188cm",
@@ -244,20 +244,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Allan",
-          "lastname": "Edwards",
-          "jumper": "8",
-          "dob": "1957-11-12",
-          "height": "188cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Tommy",
           "lastname": "Floyd",
           "jumper": "5",
           "dob": "1960-10-07",
           "height": "170cm",
           "weight": "68kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "Edwards",
+          "jumper": "8",
+          "dob": "1957-11-12",
+          "height": "188cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Chris",

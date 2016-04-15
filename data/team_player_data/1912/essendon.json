@@ -4,6 +4,14 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Jack",
+          "lastname": "Kirby",
+          "jumper": "11",
+          "dob": "1889-07-01",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Dan",
           "lastname": "Hanley",
           "jumper": "10",
@@ -18,14 +26,6 @@
           "dob": "1885-10-27",
           "height": "175cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Kirby",
-          "jumper": "11",
-          "dob": "1889-07-01",
-          "height": "170cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Bill",
@@ -44,14 +44,6 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Baring",
-          "jumper": "5",
-          "dob": "1890-12-15",
-          "height": "185cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Belcher",
           "jumper": "1",
@@ -60,12 +52,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "George",
-          "lastname": "McLeod",
-          "jumper": "14",
-          "dob": "1879-08-22",
-          "height": "173cm",
-          "weight": "83kg"
+          "firstname": "Fred",
+          "lastname": "Baring",
+          "jumper": "5",
+          "dob": "1890-12-15",
+          "height": "185cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Lou",
@@ -84,6 +76,14 @@
           "weight": "76kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Mc Leod",
+          "jumper": "14",
+          "dob": "1879-08-22",
+          "height": "173cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Ogden",
           "jumper": "16",
@@ -100,14 +100,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Chalmers",
-          "jumper": "7",
-          "dob": "1890-09-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Martin",
           "jumper": "12",
@@ -116,8 +108,16 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Wally",
+          "lastname": "Chalmers",
+          "jumper": "7",
+          "dob": "1890-09-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Fred",
-          "lastname": "O'Shea",
+          "lastname": "O' Shea",
           "jumper": "15",
           "dob": "1886-10-05",
           "height": "170cm",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "25",
           "dob": "1887-09-25",
           "height": "—",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Ted",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "13",
           "dob": "1891-01-06",
           "height": "183cm",

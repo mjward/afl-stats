@@ -4,6 +4,14 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Ken",
+          "lastname": "Fletcher",
+          "jumper": "21",
+          "dob": "1948-01-21",
+          "height": "184cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Geoff",
           "lastname": "Blethyn",
           "jumper": "11",
@@ -20,44 +28,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Fletcher",
-          "jumper": "21",
-          "dob": "1948-01-21",
-          "height": "184cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Davis",
           "jumper": "32",
           "dob": "1943-09-15",
           "height": "185cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Williams",
-          "jumper": "22",
-          "dob": "1947-07-17",
-          "height": "189cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Alan",
-          "lastname": "Noonan",
-          "jumper": "10",
-          "dob": "1947-10-13",
-          "height": "188cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "McKenzie",
-          "jumper": "24",
-          "dob": "1939-03-23",
-          "height": "188cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Barry",
@@ -84,12 +60,28 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Daryl",
-          "lastname": "Gerlach",
-          "jumper": "17",
-          "dob": "1944-01-25",
-          "height": "180cm",
-          "weight": "78kg"
+          "firstname": "John",
+          "lastname": "Williams",
+          "jumper": "22",
+          "dob": "1947-07-17",
+          "height": "189cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Noonan",
+          "jumper": "10",
+          "dob": "1947-10-13",
+          "height": "188cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Mc Kenzie",
+          "jumper": "24",
+          "dob": "1939-03-23",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "John",
@@ -98,6 +90,14 @@
           "dob": "1951-07-02",
           "height": "180cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Daryl",
+          "lastname": "Gerlach",
+          "jumper": "17",
+          "dob": "1944-01-25",
+          "height": "180cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Greg",
@@ -172,20 +172,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Hugh",
-          "lastname": "Delahunty",
-          "jumper": "40",
-          "dob": "1949-06-28",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Gary",
           "lastname": "Parkes",
           "jumper": "5",
           "dob": "1951-07-02",
           "height": "185cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "Delahunty",
+          "jumper": "40",
+          "dob": "1949-06-28",
+          "height": "185cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Ken",

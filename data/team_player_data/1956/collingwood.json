@@ -12,30 +12,6 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Greve",
-          "jumper": "7",
-          "dob": "1934-11-30",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Murray",
-          "lastname": "Weideman",
-          "jumper": "27",
-          "dob": "1936-02-16",
-          "height": "187cm",
-          "weight": "96kg"
-        },
-        {
-          "firstname": "Lerrel",
-          "lastname": "Sharp",
-          "jumper": "29",
-          "dob": "1933-06-06",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Jones",
           "jumper": "23",
@@ -58,6 +34,30 @@
           "dob": "1936-05-05",
           "height": "183cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Greve",
+          "jumper": "7",
+          "dob": "1934-11-30",
+          "height": "179cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Murray",
+          "lastname": "Weideman",
+          "jumper": "27",
+          "dob": "1936-02-16",
+          "height": "187cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Lerrel",
+          "lastname": "Sharp",
+          "jumper": "29",
+          "dob": "1933-06-06",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ron",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeyJnr",
+          "lastname": "Twomey Jnr",
           "jumper": "—",
           "dob": "1927-09-28",
           "height": "179cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "O'Bree",
+          "lastname": "O' Bree",
           "jumper": "34",
           "dob": "1936-06-05",
           "height": "188cm",

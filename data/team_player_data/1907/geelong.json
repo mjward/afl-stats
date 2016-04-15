@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Joe",
-          "lastname": "Slater",
-          "jumper": "10",
-          "dob": "1888-11-29",
-          "height": "179cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Grigg",
           "jumper": "8",
@@ -20,12 +12,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Alby",
-          "lastname": "Palmer",
-          "jumper": "—",
-          "dob": "1885-07-22",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Joe",
+          "lastname": "Slater",
+          "jumper": "10",
+          "dob": "1888-11-29",
+          "height": "179cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Bill",
@@ -40,6 +32,14 @@
           "lastname": "Stephens",
           "jumper": "—",
           "dob": "1879-05-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Alby",
+          "lastname": "Palmer",
+          "jumper": "—",
+          "dob": "1885-07-22",
           "height": "—",
           "weight": "—"
         },
@@ -60,16 +60,8 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Henry",
-          "lastname": "Young",
-          "jumper": "—",
-          "dob": "1873-05-18",
-          "height": "191cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Bill",
-          "lastname": "McKinley",
+          "lastname": "Mc Kinley",
           "jumper": "—",
           "dob": "1882-03-24",
           "height": "—",
@@ -82,6 +74,14 @@
           "dob": "1879-12-25",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Young",
+          "jumper": "—",
+          "dob": "1873-05-18",
+          "height": "191cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Les",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Alec",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1882-07-04",
           "height": "—",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McNeilage",
+          "lastname": "Mc Neilage",
           "jumper": "—",
           "dob": "1885-02-17",
           "height": "—",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McNeilage",
+          "lastname": "Mc Neilage",
           "jumper": "—",
           "dob": "1890-08-03",
           "height": "177cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "—",
           "dob": "1883-11-05",
           "height": "—",

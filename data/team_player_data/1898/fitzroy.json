@@ -4,6 +4,22 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Paddy",
+          "lastname": "Noonan",
+          "jumper": "—",
+          "dob": "1875-09-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Kiernan",
+          "jumper": "—",
+          "dob": "1878-03-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Pat",
           "lastname": "Descrimes",
           "jumper": "—",
@@ -36,18 +52,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Paddy",
-          "lastname": "Noonan",
+          "firstname": "Bill",
+          "lastname": "Mc Speerin",
           "jumper": "—",
-          "dob": "1875-09-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Chris",
-          "lastname": "Kiernan",
-          "jumper": "—",
-          "dob": "1878-03-23",
+          "dob": "1874-09-25",
           "height": "—",
           "weight": "—"
         },
@@ -84,14 +92,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "McSpeerin",
-          "jumper": "—",
-          "dob": "1874-09-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Grace",
           "jumper": "—",
@@ -108,14 +108,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Mick",
-          "lastname": "Grace",
-          "jumper": "—",
-          "dob": "1874-07-24",
-          "height": "—",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Stan",
           "lastname": "Reid",
           "jumper": "—",
@@ -124,8 +116,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Mick",
+          "lastname": "Grace",
+          "jumper": "—",
+          "dob": "1874-07-24",
+          "height": "—",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Alf",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1876-11-30",
           "height": "—",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "—",
           "dob": "1877-06-15",
           "height": "—",
@@ -164,18 +164,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "Jenkins",
-          "jumper": "—",
-          "dob": "1879-10-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Jenkins",
           "jumper": "—",
           "dob": "1878-06-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Jenkins",
+          "jumper": "—",
+          "dob": "1879-10-04",
           "height": "—",
           "weight": "—"
         },
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McEwen",
+          "lastname": "Mc Ewen",
           "jumper": "—",
           "dob": "1877-04-02",
           "height": "—",

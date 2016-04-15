@@ -4,6 +4,14 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Harry",
+          "lastname": "Lever",
+          "jumper": "2",
+          "dob": "1886-01-05",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Woodcock",
           "jumper": "17",
@@ -18,22 +26,6 @@
           "dob": "1890-06-20",
           "height": "170cm",
           "weight": "66kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Lever",
-          "jumper": "2",
-          "dob": "1886-01-05",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Pierce",
-          "jumper": "12",
-          "dob": "1886-03-08",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Fred",
@@ -52,6 +44,14 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Bert",
+          "lastname": "Pierce",
+          "jumper": "12",
+          "dob": "1886-03-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Vic",
           "lastname": "Cumberland",
           "jumper": "6",
@@ -68,20 +68,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Harris",
-          "jumper": "28",
-          "dob": "1885-10-14",
-          "height": "173cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Harrie",
           "lastname": "Hattam",
           "jumper": "25",
           "dob": "1890-07-07",
           "height": "178cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Harris",
+          "jumper": "28",
+          "dob": "1885-10-14",
+          "height": "173cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Gordon",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "MorrisseySnr",
+          "lastname": "Morrissey Snr",
           "jumper": "1",
           "dob": "1883-01-01",
           "height": "174cm",
@@ -205,17 +205,9 @@
         },
         {
           "firstname": "Alex",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "20",
           "dob": "1882-01-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Booth",
-          "jumper": "—",
-          "dob": "1886-08-04",
           "height": "—",
           "weight": "—"
         },
@@ -228,10 +220,10 @@
           "weight": "58kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Burns",
+          "firstname": "Harold",
+          "lastname": "Booth",
           "jumper": "—",
-          "dob": "1889-02-02",
+          "dob": "1886-08-04",
           "height": "—",
           "weight": "—"
         },
@@ -244,6 +236,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Ted",
+          "lastname": "Burns",
+          "jumper": "—",
+          "dob": "1889-02-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Paul",
           "lastname": "White",
           "jumper": "16",
@@ -252,18 +252,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Aubrey",
-          "lastname": "Hart",
-          "jumper": "19",
-          "dob": "1893-09-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Patterson",
           "jumper": "22",
           "dob": "1888-09-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Aubrey",
+          "lastname": "Hart",
+          "jumper": "19",
+          "dob": "1893-09-04",
           "height": "—",
           "weight": "—"
         },

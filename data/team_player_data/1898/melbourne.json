@@ -4,20 +4,20 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Fred",
+          "lastname": "Mc Ginis",
+          "jumper": "—",
+          "dob": "1874-11-11",
+          "height": "175cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Alf",
           "lastname": "Wood",
           "jumper": "—",
           "dob": "1875-02-15",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "McGinis",
-          "jumper": "—",
-          "dob": "1874-11-11",
-          "height": "175cm",
-          "weight": "74kg"
         },
         {
           "firstname": "Austin",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "WardillJnr",
+          "lastname": "Wardill Jnr",
           "jumper": "—",
           "dob": "1872-07-05",
           "height": "—",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "PirrieSnr",
+          "lastname": "Pirrie Snr",
           "jumper": "—",
           "dob": "1879-04-15",
           "height": "178cm",
@@ -124,18 +124,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Eddie",
-          "lastname": "Sholl",
-          "jumper": "—",
-          "dob": "1872-04-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Dave",
           "lastname": "Strahan",
           "jumper": "—",
           "dob": "1874-10-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Sholl",
+          "jumper": "—",
+          "dob": "1872-04-15",
           "height": "—",
           "weight": "—"
         },
@@ -212,6 +212,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Harold",
+          "lastname": "Rippon",
+          "jumper": "—",
+          "dob": "1874-02-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Davidson",
           "jumper": "—",
@@ -224,14 +232,6 @@
           "lastname": "Atkinson",
           "jumper": "—",
           "dob": "1878-04-02",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Rippon",
-          "jumper": "—",
-          "dob": "1874-02-23",
           "height": "—",
           "weight": "—"
         },
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "—",
           "dob": "1879-04-13",
           "height": "—",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "—",
           "dob": "1872-11-07",
           "height": "180cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Les",
-          "lastname": "MacPherson",
+          "lastname": "Mac Pherson",
           "jumper": "—",
           "dob": "1880-05-17",
           "height": "175cm",
@@ -341,7 +341,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McClelland",
+          "lastname": "Mc Clelland",
           "jumper": "—",
           "dob": "1875-02-09",
           "height": "—",

@@ -4,14 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Ron",
-          "lastname": "Kingston",
-          "jumper": "9",
-          "dob": "1931-10-10",
-          "height": "179cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Hamilton",
           "jumper": "8",
@@ -28,12 +20,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Mick",
-          "lastname": "Twomey",
-          "jumper": "25",
-          "dob": "1931-09-25",
-          "height": "185cm",
-          "weight": "87kg"
+          "firstname": "Ron",
+          "lastname": "Kingston",
+          "jumper": "9",
+          "dob": "1931-10-10",
+          "height": "179cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Des",
@@ -42,6 +34,14 @@
           "dob": "1927-09-05",
           "height": "168cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Twomey",
+          "jumper": "25",
+          "dob": "1931-09-25",
+          "height": "185cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Jack",
@@ -53,14 +53,6 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "Hickey",
-          "jumper": "19",
-          "dob": "1930-12-13",
-          "height": "173cm",
-          "weight": "69kg"
-        },
-        {
-          "firstname": "Jack",
           "lastname": "Parker",
           "jumper": "18",
           "dob": "1931-05-03",
@@ -68,12 +60,12 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Murray",
-          "lastname": "Weideman",
-          "jumper": "27",
-          "dob": "1936-02-16",
-          "height": "187cm",
-          "weight": "96kg"
+          "firstname": "Jack",
+          "lastname": "Hickey",
+          "jumper": "19",
+          "dob": "1930-12-13",
+          "height": "173cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Neil",
@@ -82,6 +74,14 @@
           "dob": "1924-08-26",
           "height": "188cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Murray",
+          "lastname": "Weideman",
+          "jumper": "27",
+          "dob": "1936-02-16",
+          "height": "187cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Keith",
@@ -108,14 +108,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Hower",
-          "jumper": "28",
-          "dob": "1931-09-03",
-          "height": "182cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Gooch",
           "jumper": "14",
@@ -124,8 +116,16 @@
           "weight": "90kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Hower",
+          "jumper": "28",
+          "dob": "1931-09-03",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Bob",
-          "lastname": "RoseSnr",
+          "lastname": "Rose Snr",
           "jumper": "22",
           "dob": "1928-08-07",
           "height": "178cm",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeyJnr",
+          "lastname": "Twomey Jnr",
           "jumper": "—",
           "dob": "1927-09-28",
           "height": "179cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "CoventryJnr",
+          "lastname": "Coventry Jnr",
           "jumper": "30",
           "dob": "1932-03-14",
           "height": "185cm",

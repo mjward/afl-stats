@@ -4,19 +4,19 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Jock",
-          "lastname": "McCorkell",
-          "jumper": "18",
-          "dob": "1918-07-02",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Reeves",
           "jumper": "24",
           "dob": "1929-09-02",
           "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Jock",
+          "lastname": "Mc Corkell",
+          "jumper": "18",
+          "dob": "1918-07-02",
+          "height": "183cm",
           "weight": "86kg"
         },
         {
@@ -37,11 +37,19 @@
         },
         {
           "firstname": "Dally",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1918-10-31",
           "height": "182cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Mc Kenzie",
+          "jumper": "20",
+          "dob": "1922-04-26",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Les",
@@ -58,14 +66,6 @@
           "dob": "1920-12-02",
           "height": "175cm",
           "weight": "66kg"
-        },
-        {
-          "firstname": "Keith",
-          "lastname": "McKenzie",
-          "jumper": "20",
-          "dob": "1922-04-26",
-          "height": "178cm",
-          "weight": "75kg"
         },
         {
           "firstname": "Leo",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Neville",
-          "lastname": "StibbardSnr",
+          "lastname": "Stibbard Snr",
           "jumper": "30",
           "dob": "1923-12-11",
           "height": "188cm",
@@ -252,19 +252,19 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Claude",
-          "lastname": "Curtin",
-          "jumper": "10",
-          "dob": "1920-07-04",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Allan",
           "lastname": "Maas",
           "jumper": "5",
           "dob": "1922-07-13",
           "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Claude",
+          "lastname": "Curtin",
+          "jumper": "10",
+          "dob": "1920-07-04",
+          "height": "183cm",
           "weight": "83kg"
         },
         {
@@ -284,20 +284,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Harvey",
-          "jumper": "—",
-          "dob": "1926-10-10",
-          "height": "185cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Yea",
           "jumper": "17",
           "dob": "1924-11-13",
           "height": "179cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Harvey",
+          "jumper": "—",
+          "dob": "1926-10-10",
+          "height": "185cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Roy",

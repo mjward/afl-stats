@@ -20,8 +20,16 @@
           "weight": "63kg"
         },
         {
+          "firstname": "Cliff",
+          "lastname": "Hutton",
+          "jumper": "13",
+          "dob": "1887-07-27",
+          "height": "188cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Harold",
-          "lastname": "McLennan",
+          "lastname": "Mc Lennan",
           "jumper": "19",
           "dob": "1888-07-26",
           "height": "178cm",
@@ -42,14 +50,6 @@
           "dob": "1887-07-12",
           "height": "171cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Cliff",
-          "lastname": "Hutton",
-          "jumper": "13",
-          "dob": "1887-07-27",
-          "height": "188cm",
-          "weight": "96kg"
         },
         {
           "firstname": "George",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "—",
           "dob": "1887-12-27",
           "height": "—",
@@ -172,18 +172,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Dowell",
-          "jumper": "7",
-          "dob": "1888-01-27",
+          "firstname": "Tom",
+          "lastname": "Mc Cluskey",
+          "jumper": "—",
+          "dob": "1890-08-31",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Tom",
-          "lastname": "McCluskey",
-          "jumper": "—",
-          "dob": "1890-08-31",
+          "firstname": "Charlie",
+          "lastname": "Dowell",
+          "jumper": "7",
+          "dob": "1888-01-27",
           "height": "—",
           "weight": "—"
         },

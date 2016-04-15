@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Ron",
+          "lastname": "Hosking",
+          "jumper": "11",
+          "dob": "1943-09-18",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Geoff",
           "lastname": "Rosenow",
           "jumper": "27",
@@ -20,12 +28,28 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Hosking",
-          "jumper": "11",
-          "dob": "1943-09-18",
-          "height": "180cm",
-          "weight": "85kg"
+          "firstname": "Bill",
+          "lastname": "Goggin",
+          "jumper": "35",
+          "dob": "1941-01-04",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Graham' Polly'",
+          "lastname": "Farmer",
+          "jumper": "5",
+          "dob": "1935-03-10",
+          "height": "191cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Ryan",
+          "jumper": "26",
+          "dob": "1944-11-26",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Colin",
@@ -42,46 +66,6 @@
           "dob": "1945-02-26",
           "height": "180cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Goggin",
-          "jumper": "35",
-          "dob": "1941-01-04",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Graham'Polly'",
-          "lastname": "Farmer",
-          "jumper": "5",
-          "dob": "1935-03-10",
-          "height": "191cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Ryan",
-          "jumper": "26",
-          "dob": "1944-11-26",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "Walker",
-          "jumper": "34",
-          "dob": "1942-06-12",
-          "height": "183cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Sharrock",
-          "jumper": "10",
-          "dob": "1944-02-16",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Alistair",
@@ -108,7 +92,23 @@
           "weight": "86kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "Peter",
+          "lastname": "Walker",
+          "jumper": "34",
+          "dob": "1942-06-12",
+          "height": "183cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Sharrock",
+          "jumper": "10",
+          "dob": "1944-02-16",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",
@@ -124,20 +124,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "Vinar",
-          "jumper": "8",
-          "dob": "1940-03-24",
-          "height": "188cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Tony",
           "lastname": "Polinelli",
           "jumper": "36",
           "dob": "1943-02-18",
           "height": "170cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Vinar",
+          "jumper": "8",
+          "dob": "1940-03-24",
+          "height": "188cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Terry",

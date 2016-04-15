@@ -132,6 +132,14 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Phil",
+          "lastname": "Carman",
+          "jumper": "2",
+          "dob": "1950-09-04",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Rod",
           "lastname": "Oborne",
           "jumper": "8",
@@ -141,19 +149,11 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "6",
           "dob": "1956-08-01",
           "height": "188cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Phil",
-          "lastname": "Carman",
-          "jumper": "2",
-          "dob": "1950-09-04",
-          "height": "188cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Shane",

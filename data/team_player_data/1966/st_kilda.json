@@ -4,6 +4,22 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Daryl",
+          "lastname": "Griffiths",
+          "jumper": "25",
+          "dob": "1945-11-06",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Mynott",
+          "jumper": "2",
+          "dob": "1944-01-29",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Rodger",
           "lastname": "Head",
           "jumper": "1",
@@ -36,20 +52,12 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Daryl",
-          "lastname": "Griffiths",
-          "jumper": "25",
-          "dob": "1945-11-06",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Brian",
-          "lastname": "Mynott",
-          "jumper": "2",
-          "dob": "1944-01-29",
-          "height": "193cm",
-          "weight": "92kg"
+          "lastname": "Sierakowski",
+          "jumper": "13",
+          "dob": "1945-11-01",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Ross",
@@ -66,14 +74,6 @@
           "dob": "1942-04-05",
           "height": "183cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Sierakowski",
-          "jumper": "13",
-          "dob": "1945-11-01",
-          "height": "188cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Ian",

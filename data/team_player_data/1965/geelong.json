@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Tony",
+          "lastname": "Polinelli",
+          "jumper": "36",
+          "dob": "1943-02-18",
+          "height": "170cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Walker",
           "jumper": "34",
@@ -20,7 +28,7 @@
           "weight": "80kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",
@@ -28,12 +36,20 @@
           "weight": "94kg"
         },
         {
-          "firstname": "Tony",
-          "lastname": "Polinelli",
-          "jumper": "36",
-          "dob": "1943-02-18",
-          "height": "170cm",
-          "weight": "75kg"
+          "firstname": "Ron",
+          "lastname": "Hosking",
+          "jumper": "11",
+          "dob": "1943-09-18",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Vinar",
+          "jumper": "8",
+          "dob": "1940-03-24",
+          "height": "188cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bill",
@@ -52,28 +68,12 @@
           "weight": "94kg"
         },
         {
-          "firstname": "Graham'Polly'",
+          "firstname": "Graham' Polly'",
           "lastname": "Farmer",
           "jumper": "5",
           "dob": "1935-03-10",
           "height": "191cm",
           "weight": "94kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "Hosking",
-          "jumper": "11",
-          "dob": "1943-09-18",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Paul",
-          "lastname": "Vinar",
-          "jumper": "8",
-          "dob": "1940-03-24",
-          "height": "188cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Gareth",
@@ -188,6 +188,14 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Gordon",
+          "lastname": "Hynes",
+          "jumper": "12",
+          "dob": "1944-11-06",
+          "height": "177cm",
+          "weight": "77kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Yeates",
           "jumper": "40",
@@ -202,14 +210,6 @@
           "dob": "1946-09-04",
           "height": "177cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Gordon",
-          "lastname": "Hynes",
-          "jumper": "12",
-          "dob": "1944-11-06",
-          "height": "177cm",
-          "weight": "77kg"
         },
         {
           "firstname": "Ricky",

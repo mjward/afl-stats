@@ -4,6 +4,22 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Tony",
+          "lastname": "Buhagiar",
+          "jumper": "20",
+          "dob": "1955-10-03",
+          "height": "166cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Justin",
+          "lastname": "Madden",
+          "jumper": "44",
+          "dob": "1961-05-31",
+          "height": "206cm",
+          "weight": "107kg"
+        },
+        {
           "firstname": "Terry",
           "lastname": "Daniher",
           "jumper": "5",
@@ -36,22 +52,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Tony",
-          "lastname": "Buhagiar",
-          "jumper": "20",
-          "dob": "1955-10-03",
-          "height": "166cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Justin",
-          "lastname": "Madden",
-          "jumper": "44",
-          "dob": "1961-05-31",
-          "height": "206cm",
-          "weight": "107kg"
-        },
-        {
           "firstname": "Tim",
           "lastname": "Watson",
           "jumper": "32",
@@ -68,14 +68,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Simon",
-          "lastname": "Madden",
-          "jumper": "27",
-          "dob": "1957-12-30",
-          "height": "198cm",
-          "weight": "99kg"
-        },
-        {
           "firstname": "Neil",
           "lastname": "Clarke",
           "jumper": "8",
@@ -85,7 +77,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "VanDerHaar",
+          "lastname": "Van Der Haar",
           "jumper": "18",
           "dob": "1958-03-07",
           "height": "192cm",
@@ -98,6 +90,14 @@
           "dob": "1955-08-20",
           "height": "185cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Madden",
+          "jumper": "27",
+          "dob": "1957-12-30",
+          "height": "198cm",
+          "weight": "99kg"
         },
         {
           "firstname": "Stephen",

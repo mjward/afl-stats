@@ -21,7 +21,7 @@
         },
         {
           "firstname": "Austin",
-          "lastname": "RobertsonJnr",
+          "lastname": "Robertson Jnr",
           "jumper": "16",
           "dob": "1943-04-29",
           "height": "182cm",
@@ -37,7 +37,7 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsJnr",
+          "lastname": "Matthews Jnr",
           "jumper": "2",
           "dob": "1943-05-10",
           "height": "169cm",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "SkiltonJnr",
+          "lastname": "Skilton Jnr",
           "jumper": "14",
           "dob": "1938-11-08",
           "height": "171cm",
@@ -173,19 +173,11 @@
         },
         {
           "firstname": "Haydn",
-          "lastname": "McAuliffe",
+          "lastname": "Mc Auliffe",
           "jumper": "25",
           "dob": "1946-05-15",
           "height": "175cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Glen",
-          "lastname": "Parker",
-          "jumper": "41",
-          "dob": "1945-01-12",
-          "height": "180cm",
-          "weight": "67kg"
         },
         {
           "firstname": "Des",
@@ -196,6 +188,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Glen",
+          "lastname": "Parker",
+          "jumper": "41",
+          "dob": "1945-01-12",
+          "height": "180cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Clive",
           "lastname": "Pasquill",
           "jumper": "36",
@@ -204,20 +204,20 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Elkin",
-          "lastname": "Reilly",
-          "jumper": "35",
-          "dob": "1939-04-02",
-          "height": "191cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Phillips",
           "jumper": "42",
           "dob": "1943-09-23",
           "height": "178cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Elkin",
+          "lastname": "Reilly",
+          "jumper": "35",
+          "dob": "1939-04-02",
+          "height": "191cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Greg",
@@ -244,20 +244,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Dore",
-          "jumper": "38",
-          "dob": "1945-01-01",
-          "height": "185cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Geoff",
           "lastname": "Davey",
           "jumper": "22",
           "dob": "1945-09-03",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Dore",
+          "jumper": "38",
+          "dob": "1945-01-01",
+          "height": "185cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Russell",

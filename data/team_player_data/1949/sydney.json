@@ -4,6 +4,22 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Tom",
+          "lastname": "Ryan",
+          "jumper": "10",
+          "dob": "1924-11-07",
+          "height": "173cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Fox",
+          "jumper": "8",
+          "dob": "1924-03-26",
+          "height": "177cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Ron",
           "lastname": "Clegg",
           "jumper": "23",
@@ -26,22 +42,6 @@
           "dob": "1922-04-03",
           "height": "185cm",
           "weight": "91kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "Ryan",
-          "jumper": "10",
-          "dob": "1924-11-07",
-          "height": "173cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Fox",
-          "jumper": "8",
-          "dob": "1924-03-26",
-          "height": "177cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Dick",
@@ -84,20 +84,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Crane",
-          "jumper": "21",
-          "dob": "1928-02-07",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Garrick",
           "jumper": "29",
           "dob": "1926-07-22",
           "height": "185cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Crane",
+          "jumper": "21",
+          "dob": "1928-02-07",
+          "height": "179cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Frank",
@@ -108,18 +108,18 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Schaefer",
-          "jumper": "22",
-          "dob": "1928-12-20",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Callick",
           "jumper": "36",
           "dob": "1925-08-14",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Schaefer",
+          "jumper": "22",
+          "dob": "1928-12-20",
           "height": "180cm",
           "weight": "76kg"
         },
@@ -220,20 +220,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Bulpit",
-          "jumper": "5",
-          "dob": "1926-09-04",
-          "height": "165cm",
-          "weight": "64kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Simpson",
           "jumper": "37",
           "dob": "1928-06-02",
           "height": "185cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Bulpit",
+          "jumper": "5",
+          "dob": "1926-09-04",
+          "height": "165cm",
+          "weight": "64kg"
         },
         {
           "firstname": "Jack",
@@ -260,20 +260,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Vic",
-          "lastname": "Hill",
-          "jumper": "15",
-          "dob": "1926-10-17",
-          "height": "175cm",
-          "weight": "68kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Collins",
           "jumper": "30",
           "dob": "1922-04-09",
           "height": "178cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Hill",
+          "jumper": "15",
+          "dob": "1926-10-17",
+          "height": "175cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Fred",

@@ -4,6 +4,14 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Dave",
+          "lastname": "Mc Namara",
+          "jumper": "1",
+          "dob": "1887-01-22",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Wally",
           "lastname": "Scott",
           "jumper": "—",
@@ -28,16 +36,8 @@
           "weight": "—"
         },
         {
-          "firstname": "Dave",
-          "lastname": "McNamara",
-          "jumper": "1",
-          "dob": "1887-01-22",
-          "height": "193cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "George",
-          "lastname": "MorrisseySnr",
+          "lastname": "Morrissey Snr",
           "jumper": "30",
           "dob": "1883-01-01",
           "height": "174cm",
@@ -60,18 +60,18 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Pat",
-          "lastname": "O'Connor",
-          "jumper": "—",
-          "dob": "1881-01-20",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Cowell",
           "jumper": "—",
           "dob": "1885-05-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Pat",
+          "lastname": "O' Connor",
+          "jumper": "—",
+          "dob": "1881-01-20",
           "height": "—",
           "weight": "—"
         },
@@ -100,20 +100,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Chris",
-          "lastname": "Bant",
-          "jumper": "—",
-          "dob": "1881-02-21",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Vic",
           "lastname": "Barwick",
           "jumper": "29",
           "dob": "1879-06-17",
           "height": "177cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Bant",
+          "jumper": "—",
+          "dob": "1881-02-21",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Dan",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Dan",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "—",
           "dob": "1884-10-27",
           "height": "—",

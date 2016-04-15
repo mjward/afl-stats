@@ -4,16 +4,8 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Percy",
-          "lastname": "Bushby",
-          "jumper": "35",
-          "dob": "1919-05-27",
-          "height": "189cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Allan",
-          "lastname": "HirdSnr",
+          "lastname": "Hird Snr",
           "jumper": "6",
           "dob": "1918-08-11",
           "height": "188cm",
@@ -36,12 +28,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Reynolds",
-          "jumper": "3",
-          "dob": "1915-06-20",
-          "height": "179cm",
-          "weight": "82kg"
+          "firstname": "Percy",
+          "lastname": "Bushby",
+          "jumper": "35",
+          "dob": "1919-05-27",
+          "height": "189cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Bill",
@@ -68,12 +60,28 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Dick",
+          "lastname": "Reynolds",
+          "jumper": "3",
+          "dob": "1915-06-20",
+          "height": "179cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Ron",
           "lastname": "Jory",
           "jumper": "19",
           "dob": "1925-05-12",
           "height": "183cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Laurie",
+          "lastname": "Dearle",
+          "jumper": "10",
+          "dob": "1919-10-16",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Jack",
@@ -90,14 +98,6 @@
           "dob": "1914-07-08",
           "height": "193cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Laurie",
-          "lastname": "Dearle",
-          "jumper": "10",
-          "dob": "1919-10-16",
-          "height": "175cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Bill",
@@ -156,20 +156,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Murray",
-          "lastname": "Dimble",
-          "jumper": "9",
-          "dob": "1922-12-08",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Terry",
           "lastname": "Healy",
           "jumper": "11",
           "dob": "1921-07-02",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Murray",
+          "lastname": "Dimble",
+          "jumper": "9",
+          "dob": "1922-12-08",
+          "height": "180cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Noel",

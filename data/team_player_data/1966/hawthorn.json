@@ -4,20 +4,20 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Ray",
-          "lastname": "Wilson",
-          "jumper": "10",
-          "dob": "1945-01-21",
-          "height": "180cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Gardner",
           "jumper": "14",
           "dob": "1946-11-03",
           "height": "189cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Wilson",
+          "jumper": "10",
+          "dob": "1945-01-21",
+          "height": "180cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Graham",
@@ -60,16 +60,8 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Des",
-          "lastname": "Dickson",
-          "jumper": "8",
-          "dob": "1941-01-10",
-          "height": "187cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Kevin",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "16",
           "dob": "1942-09-10",
           "height": "185cm",
@@ -90,6 +82,14 @@
           "dob": "1942-01-15",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Des",
+          "lastname": "Dickson",
+          "jumper": "8",
+          "dob": "1941-01-10",
+          "height": "187cm",
+          "weight": "96kg"
         },
         {
           "firstname": "David",
@@ -236,14 +236,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Dunshea",
-          "jumper": "34",
-          "dob": "1943-10-11",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Johnson",
           "jumper": "19",
@@ -252,11 +244,11 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Burgess",
-          "jumper": "13",
-          "dob": "1945-08-08",
-          "height": "188cm",
+          "firstname": "John",
+          "lastname": "Dunshea",
+          "jumper": "34",
+          "dob": "1943-10-11",
+          "height": "185cm",
           "weight": "83kg"
         },
         {
@@ -268,6 +260,14 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Greg",
+          "lastname": "Burgess",
+          "jumper": "13",
+          "dob": "1945-08-08",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Bruce",
           "lastname": "Reid",
           "jumper": "48",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Cam",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "26",
           "dob": "1940-05-24",
           "height": "180cm",

@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Alan",
-          "lastname": "Pentland",
-          "jumper": "16",
-          "dob": "1883-10-03",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Grimshaw",
           "jumper": "10",
@@ -28,7 +20,7 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "25",
           "dob": "1886-11-10",
@@ -52,12 +44,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Deas",
-          "jumper": "8",
-          "dob": "1886-09-17",
-          "height": "180cm",
-          "weight": "82kg"
+          "firstname": "Alan",
+          "lastname": "Pentland",
+          "jumper": "16",
+          "dob": "1883-10-03",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Arthur",
@@ -66,6 +58,22 @@
           "dob": "1886-09-09",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Deas",
+          "jumper": "8",
+          "dob": "1886-09-17",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Prince",
+          "jumper": "19",
+          "dob": "1885-09-30",
+          "height": "164cm",
+          "weight": "62kg"
         },
         {
           "firstname": "George",
@@ -84,14 +92,6 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Prince",
-          "jumper": "19",
-          "dob": "1885-09-30",
-          "height": "164cm",
-          "weight": "62kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Scobie",
           "jumper": "23",
@@ -100,18 +100,18 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Bert",
-          "lastname": "Streckfuss",
-          "jumper": "—",
-          "dob": "1888-09-22",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Dolphin",
           "jumper": "—",
           "dob": "1881-11-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Streckfuss",
+          "jumper": "—",
+          "dob": "1888-09-22",
           "height": "—",
           "weight": "—"
         },

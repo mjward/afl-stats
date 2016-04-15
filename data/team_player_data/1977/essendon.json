@@ -12,20 +12,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Garry",
-          "lastname": "Foulds",
-          "jumper": "38",
-          "dob": "1956-05-13",
-          "height": "188cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Roberts",
           "jumper": "6",
           "dob": "1952-05-13",
           "height": "185cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Foulds",
+          "jumper": "38",
+          "dob": "1956-05-13",
+          "height": "188cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Max",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "VanDerHaar",
+          "lastname": "Van Der Haar",
           "jumper": "18",
           "dob": "1958-03-07",
           "height": "192cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "43",
           "dob": "1956-04-27",
           "height": "185cm",

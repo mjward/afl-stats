@@ -44,14 +44,6 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "McCormack",
-          "jumper": "6",
-          "dob": "1956-08-01",
-          "height": "188cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Shaw",
           "jumper": "23",
@@ -60,12 +52,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Magro",
-          "jumper": "3",
-          "dob": "1954-07-28",
-          "height": "177cm",
-          "weight": "80kg"
+          "firstname": "Peter",
+          "lastname": "Mc Cormack",
+          "jumper": "6",
+          "dob": "1956-08-01",
+          "height": "188cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Kevin",
@@ -74,6 +66,14 @@
           "dob": "1953-05-25",
           "height": "189cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Magro",
+          "jumper": "3",
+          "dob": "1954-07-28",
+          "height": "177cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Craig",
@@ -124,20 +124,20 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Morris",
-          "jumper": "14",
-          "dob": "1950-08-20",
-          "height": "180cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Derek",
           "lastname": "Shaw",
           "jumper": "4",
           "dob": "1959-03-03",
           "height": "194cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Morris",
+          "jumper": "14",
+          "dob": "1950-08-20",
+          "height": "180cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Tony",
@@ -284,20 +284,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Cooper",
-          "jumper": "10",
-          "dob": "1954-06-12",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Price",
           "jumper": "5",
           "dob": "1949-03-08",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Cooper",
+          "jumper": "10",
+          "dob": "1954-06-12",
+          "height": "183cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Stephen",

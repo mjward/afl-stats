@@ -77,7 +77,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "Rhys-Jones",
+          "lastname": "Rhys- Jones",
           "jumper": "30",
           "dob": "1962-06-16",
           "height": "187cm",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Stephen",
-          "lastname": "McBroom",
+          "lastname": "Mc Broom",
           "jumper": "46",
           "dob": "1964-04-01",
           "height": "169cm",

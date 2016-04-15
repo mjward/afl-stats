@@ -5,7 +5,7 @@
       "Fitzroy": [
         {
           "firstname": "Haydn",
-          "lastname": "BuntonSnr",
+          "lastname": "Bunton Snr",
           "jumper": "7",
           "dob": "1911-07-05",
           "height": "179cm",
@@ -44,22 +44,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Wilfred'Chicken'",
-          "lastname": "Smallhorn",
-          "jumper": "21",
-          "dob": "1911-02-25",
-          "height": "173cm",
-          "weight": "65kg"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Batchelor",
-          "jumper": "3",
-          "dob": "1902-11-25",
-          "height": "168cm",
-          "weight": "63kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Gibson",
           "jumper": "5",
@@ -74,6 +58,22 @@
           "dob": "1906-01-01",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Wilfred' Chicken'",
+          "lastname": "Smallhorn",
+          "jumper": "21",
+          "dob": "1911-02-25",
+          "height": "173cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Batchelor",
+          "jumper": "3",
+          "dob": "1902-11-25",
+          "height": "168cm",
+          "weight": "63kg"
         },
         {
           "firstname": "Colin",
@@ -140,14 +140,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Fleming",
-          "jumper": "26",
-          "dob": "1909-11-16",
-          "height": "180cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Colin",
           "lastname": "Benham",
           "jumper": "1",
@@ -162,6 +154,14 @@
           "dob": "1910-04-23",
           "height": "183cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Fleming",
+          "jumper": "26",
+          "dob": "1909-11-16",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Roy",
@@ -228,20 +228,20 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Roy",
+          "lastname": "Mc Dougall",
+          "jumper": "33",
+          "dob": "1907-07-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Frank",
           "lastname": "Pearce",
           "jumper": "36",
           "dob": "1904-06-13",
           "height": "177cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "McDougall",
-          "jumper": "33",
-          "dob": "1907-07-02",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Arthur",

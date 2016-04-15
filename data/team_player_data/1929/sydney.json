@@ -4,6 +4,14 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Hugh",
+          "lastname": "Mc Laughlin Snr",
+          "jumper": "17",
+          "dob": "1909-07-16",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Reville",
           "jumper": "25",
@@ -12,16 +20,8 @@
           "weight": "88kg"
         },
         {
-          "firstname": "Hugh",
-          "lastname": "McLaughlinSnr",
-          "jumper": "17",
-          "dob": "1909-07-16",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Austin",
-          "lastname": "RobertsonSnr",
+          "lastname": "Robertson Snr",
           "jumper": "—",
           "dob": "1907-11-21",
           "height": "—",
@@ -76,6 +76,14 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Hec",
+          "lastname": "Mc Kay",
+          "jumper": "10",
+          "dob": "1904-12-15",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Charles",
           "lastname": "Stanbridge",
           "jumper": "2",
@@ -84,12 +92,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Hec",
-          "lastname": "McKay",
-          "jumper": "10",
-          "dob": "1904-12-15",
-          "height": "180cm",
-          "weight": "82kg"
+          "firstname": "Jack",
+          "lastname": "Barnes",
+          "jumper": "29",
+          "dob": "1905-05-20",
+          "height": "185cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Terry",
@@ -98,14 +106,6 @@
           "dob": "1907-08-14",
           "height": "173cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Barnes",
-          "jumper": "29",
-          "dob": "1905-05-20",
-          "height": "185cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Cyril",
@@ -156,20 +156,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Syd",
-          "lastname": "Hogg",
-          "jumper": "7",
-          "dob": "1902-09-06",
-          "height": "170cm",
-          "weight": "63kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Bollman",
           "jumper": "16",
           "dob": "1904-07-15",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Hogg",
+          "jumper": "7",
+          "dob": "1902-09-06",
+          "height": "170cm",
+          "weight": "63kg"
         },
         {
           "firstname": "Len",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1906-06-09",
           "height": "185cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "LeBrun",
+          "lastname": "Le Brun",
           "jumper": "13",
           "dob": "1908-04-22",
           "height": "171cm",
@@ -260,18 +260,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Eddie",
-          "lastname": "Rosenbrock",
-          "jumper": "18",
-          "dob": "1908-02-06",
+          "firstname": "Bill",
+          "lastname": "O' Connor",
+          "jumper": "20",
+          "dob": "1908-03-13",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "O'Connor",
-          "jumper": "20",
-          "dob": "1908-03-13",
+          "firstname": "Eddie",
+          "lastname": "Rosenbrock",
+          "jumper": "18",
+          "dob": "1908-02-06",
           "height": "—",
           "weight": "—"
         }

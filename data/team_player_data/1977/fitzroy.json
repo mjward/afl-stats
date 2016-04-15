@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Warwick",
-          "lastname": "Irwin",
-          "jumper": "7",
-          "dob": "1952-06-03",
-          "height": "182cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Murphy",
           "jumper": "5",
@@ -20,12 +12,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Miller",
-          "jumper": "3",
-          "dob": "1949-12-16",
-          "height": "185cm",
-          "weight": "86kg"
+          "firstname": "Warwick",
+          "lastname": "Irwin",
+          "jumper": "7",
+          "dob": "1952-06-03",
+          "height": "182cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Bob",
@@ -42,6 +34,14 @@
           "dob": "1954-07-23",
           "height": "183cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Miller",
+          "jumper": "3",
+          "dob": "1949-12-16",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Ron",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
@@ -69,7 +69,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Keeffe",
+          "lastname": "O' Keeffe",
           "jumper": "11",
           "dob": "1952-10-22",
           "height": "180cm",
@@ -90,14 +90,6 @@
           "dob": "1951-11-20",
           "height": "185cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Brown",
-          "jumper": "2",
-          "dob": "1957-09-27",
-          "height": "183cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Greg",
@@ -122,6 +114,14 @@
           "dob": "1949-12-04",
           "height": "189cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Brown",
+          "jumper": "2",
+          "dob": "1957-09-27",
+          "height": "183cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Geoff",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Neil",
-          "lastname": "MacLeod",
+          "lastname": "Mac Leod",
           "jumper": "20",
           "dob": "1960-01-15",
           "height": "175cm",

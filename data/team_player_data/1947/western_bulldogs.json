@@ -4,6 +4,14 @@
     "teams": {
       "Western Bulldogs": [
         {
+          "firstname": "Wally",
+          "lastname": "Donald",
+          "jumper": "22",
+          "dob": "1927-05-27",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Logan",
           "jumper": "23",
@@ -20,24 +28,8 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Donald",
-          "jumper": "22",
-          "dob": "1927-05-27",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Evan",
-          "lastname": "Rees",
-          "jumper": "31",
-          "dob": "1923-08-06",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "George",
-          "lastname": "McLaren",
+          "lastname": "Mc Laren",
           "jumper": "21",
           "dob": "1925-03-22",
           "height": "170cm",
@@ -69,11 +61,27 @@
         },
         {
           "firstname": "Marty",
-          "lastname": "McDonnell",
+          "lastname": "Mc Donnell",
           "jumper": "32",
           "dob": "1920-12-28",
           "height": "183cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Evan",
+          "lastname": "Rees",
+          "jumper": "31",
+          "dob": "1923-08-06",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Mc Cankie",
+          "jumper": "27",
+          "dob": "1924-11-08",
+          "height": "180cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Bill",
@@ -82,14 +90,6 @@
           "dob": "1921-11-09",
           "height": "183cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Len",
-          "lastname": "McCankie",
-          "jumper": "27",
-          "dob": "1924-11-08",
-          "height": "180cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Reg",
@@ -116,20 +116,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Allan",
-          "lastname": "Moncrieff",
-          "jumper": "29",
-          "dob": "1924-03-19",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Hickey",
           "jumper": "7",
           "dob": "1917-07-19",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "Moncrieff",
+          "jumper": "29",
+          "dob": "1924-03-19",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Pat",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "LintonJnr",
+          "lastname": "Linton Jnr",
           "jumper": "2",
           "dob": "1926-11-18",
           "height": "170cm",

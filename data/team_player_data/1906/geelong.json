@@ -4,6 +4,22 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Dick",
+          "lastname": "Grigg",
+          "jumper": "8",
+          "dob": "1885-06-08",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Eason",
+          "jumper": "15",
+          "dob": "1881-12-15",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Stephens",
           "jumper": "—",
@@ -13,7 +29,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McKinley",
+          "lastname": "Mc Kinley",
           "jumper": "—",
           "dob": "1882-03-24",
           "height": "—",
@@ -34,22 +50,6 @@
           "dob": "1879-12-25",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Dick",
-          "lastname": "Grigg",
-          "jumper": "8",
-          "dob": "1885-06-08",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Eason",
-          "jumper": "15",
-          "dob": "1881-12-15",
-          "height": "178cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Tom",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Alec",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1882-07-04",
           "height": "—",
@@ -148,18 +148,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Edgar",
-          "lastname": "Stubbs",
-          "jumper": "—",
-          "dob": "1883-03-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Dupe",
           "jumper": "—",
           "dob": "1876-01-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Edgar",
+          "lastname": "Stubbs",
+          "jumper": "—",
+          "dob": "1883-03-28",
           "height": "—",
           "weight": "—"
         },
@@ -173,17 +173,9 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "MundaySnr",
+          "lastname": "Munday Snr",
           "jumper": "—",
           "dob": "1887-07-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Billy",
-          "lastname": "Gallagher",
-          "jumper": "—",
-          "dob": "1885-08-11",
           "height": "—",
           "weight": "—"
         },
@@ -192,6 +184,14 @@
           "lastname": "Crowl",
           "jumper": "—",
           "dob": "1883-12-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Gallagher",
+          "jumper": "—",
+          "dob": "1885-08-11",
           "height": "—",
           "weight": "—"
         },
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1885-05-19",
           "height": "—",
@@ -284,14 +284,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Getsom",
-          "jumper": "—",
-          "dob": "1885-01-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Norman",
           "lastname": "Davison",
           "jumper": "—",
@@ -300,12 +292,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Orchard",
-          "jumper": "11",
-          "dob": "1888-08-09",
-          "height": "180cm",
-          "weight": "76kg"
+          "firstname": "Bill",
+          "lastname": "Getsom",
+          "jumper": "—",
+          "dob": "1885-01-11",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Joe",
@@ -322,6 +314,14 @@
           "dob": "1884-10-02",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Orchard",
+          "jumper": "11",
+          "dob": "1888-08-09",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Teddy",

@@ -4,14 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Col",
-          "lastname": "Thornton",
-          "jumper": "32",
-          "dob": "1927-05-08",
-          "height": "193cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Vic",
           "lastname": "Lawrence",
           "jumper": "19",
@@ -36,6 +28,14 @@
           "weight": "75kg"
         },
         {
+          "firstname": "Col",
+          "lastname": "Thornton",
+          "jumper": "32",
+          "dob": "1927-05-08",
+          "height": "193cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Jock",
           "lastname": "Spencer",
           "jumper": "7",
@@ -50,6 +50,38 @@
           "dob": "1929-08-27",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Dynon",
+          "jumper": "2",
+          "dob": "1925-08-11",
+          "height": "179cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Mc Mahon",
+          "jumper": "21",
+          "dob": "1930-05-17",
+          "height": "170cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Reeves",
+          "jumper": "24",
+          "dob": "1923-06-22",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Mc Kenzie",
+          "jumper": "20",
+          "dob": "1922-04-26",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Les",
@@ -68,38 +100,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Dynon",
-          "jumper": "2",
-          "dob": "1925-08-11",
-          "height": "179cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "McMahon",
-          "jumper": "21",
-          "dob": "1930-05-17",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Reeves",
-          "jumper": "24",
-          "dob": "1923-06-22",
-          "height": "179cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Keith",
-          "lastname": "McKenzie",
-          "jumper": "20",
-          "dob": "1922-04-26",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Fletcher",
           "jumper": "34",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "McCorkell",
+          "lastname": "Mc Corkell",
           "jumper": "18",
           "dob": "1918-07-02",
           "height": "183cm",
@@ -244,20 +244,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Condon",
-          "jumper": "16",
-          "dob": "1923-03-12",
-          "height": "171cm",
-          "weight": "66kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Clark",
           "jumper": "15",
           "dob": "1924-08-02",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Condon",
+          "jumper": "16",
+          "dob": "1923-03-12",
+          "height": "171cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Neil",
@@ -276,20 +276,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Milroy",
-          "jumper": "12",
-          "dob": "1929-10-24",
-          "height": "189cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Cuffe",
           "jumper": "17",
           "dob": "1931-03-08",
           "height": "170cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Milroy",
+          "jumper": "12",
+          "dob": "1929-10-24",
+          "height": "189cm",
+          "weight": "90kg"
         }
       ]
     }

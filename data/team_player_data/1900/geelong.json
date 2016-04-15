@@ -21,25 +21,9 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1871-02-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Mick",
-          "lastname": "Donaghy",
-          "jumper": "—",
-          "dob": "1877-11-14",
-          "height": "193cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Pincott",
-          "jumper": "—",
-          "dob": "1877-03-03",
           "height": "—",
           "weight": "—"
         },
@@ -84,6 +68,22 @@
           "weight": "77kg"
         },
         {
+          "firstname": "Mick",
+          "lastname": "Donaghy",
+          "jumper": "—",
+          "dob": "1877-11-14",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Pincott",
+          "jumper": "—",
+          "dob": "1877-03-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "James",
           "lastname": "Horman",
           "jumper": "—",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Firth",
-          "lastname": "McCallum",
+          "lastname": "Mc Callum",
           "jumper": "—",
           "dob": "1872-12-27",
           "height": "—",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1868-11-29",
           "height": "—",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "DeGruchy",
+          "lastname": "De Gruchy",
           "jumper": "—",
           "dob": "1877-06-30",
           "height": "—",

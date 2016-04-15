@@ -4,20 +4,20 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Alan",
-          "lastname": "Linden",
-          "jumper": "33",
-          "dob": "1917-04-27",
-          "height": "191cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Graham",
           "jumper": "27",
           "dob": "1916-05-07",
           "height": "191cm",
           "weight": "99kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Linden",
+          "jumper": "33",
+          "dob": "1917-04-27",
+          "height": "191cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Don",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "DeMedici",
+          "lastname": "De Medici",
           "jumper": "15",
           "dob": "1920-05-28",
           "height": "180cm",
@@ -220,20 +220,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Crane",
-          "jumper": "26",
-          "dob": "1921-12-21",
-          "height": "185cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Pat",
           "lastname": "Grace",
           "jumper": "19",
           "dob": "1924-05-28",
           "height": "185cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Crane",
+          "jumper": "26",
+          "dob": "1921-12-21",
+          "height": "185cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Ken",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Jimmy",
-          "lastname": "McKnight",
+          "lastname": "Mc Knight",
           "jumper": "19",
           "dob": "1923-08-09",
           "height": "170cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Len",
-          "lastname": "O'Shea",
+          "lastname": "O' Shea",
           "jumper": "33",
           "dob": "1920-01-23",
           "height": "178cm",
@@ -332,20 +332,20 @@
           "weight": "91kg"
         },
         {
+          "firstname": "Herbie",
+          "lastname": "Matthews Snr",
+          "jumper": "1",
+          "dob": "1913-11-12",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Allan",
           "lastname": "Mullenger",
           "jumper": "21",
           "dob": "1920-04-12",
           "height": "183cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Herbie",
-          "lastname": "MatthewsSnr",
-          "jumper": "1",
-          "dob": "1913-11-12",
-          "height": "177cm",
-          "weight": "76kg"
         }
       ]
     }

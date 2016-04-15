@@ -4,6 +4,14 @@
     "teams": {
       "Carlton": [
         {
+          "firstname": "Billy",
+          "lastname": "Monagle",
+          "jumper": "—",
+          "dob": "1876-11-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Casey",
           "jumper": "—",
@@ -20,10 +28,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Monagle",
+          "firstname": "Bill",
+          "lastname": "Mc Namara",
           "jumper": "—",
-          "dob": "1876-11-26",
+          "dob": "1876-06-08",
           "height": "—",
           "weight": "—"
         },
@@ -37,7 +45,7 @@
         },
         {
           "firstname": "Henry",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1873-02-09",
           "height": "—",
@@ -60,14 +68,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "McNamara",
-          "jumper": "—",
-          "dob": "1876-06-08",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Williams",
           "jumper": "—",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Wally",
-          "lastname": "O'Cock",
+          "lastname": "O' Cock",
           "jumper": "—",
           "dob": "1875-06-17",
           "height": "175cm",
@@ -92,7 +92,7 @@
           "weight": "—"
         },
         {
-          "firstname": "John'Bobadil'",
+          "firstname": "John' Bobadil'",
           "lastname": "Hooper",
           "jumper": "—",
           "dob": "1878-03-17",
@@ -196,18 +196,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Sweetman",
-          "jumper": "—",
-          "dob": "1873-01-05",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Hearnden",
           "jumper": "—",
           "dob": "1874-01-19",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Sweetman",
+          "jumper": "—",
+          "dob": "1873-01-05",
           "height": "—",
           "weight": "—"
         },
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Artie",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "—",
           "dob": "1880-02-26",
           "height": "—",

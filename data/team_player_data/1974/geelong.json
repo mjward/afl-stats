@@ -52,20 +52,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",
           "height": "189cm",
           "weight": "94kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Scarlett",
-          "jumper": "30",
-          "dob": "1947-05-29",
-          "height": "191cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Ricky",
@@ -74,6 +66,14 @@
           "dob": "1950-08-26",
           "height": "183cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Scarlett",
+          "jumper": "30",
+          "dob": "1947-05-29",
+          "height": "191cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Ken",
@@ -124,20 +124,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Mark",
-          "lastname": "Browne",
-          "jumper": "12",
-          "dob": "1954-11-19",
-          "height": "179cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Doyle",
           "jumper": "36",
           "dob": "1955-05-27",
           "height": "180cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Browne",
+          "jumper": "12",
+          "dob": "1954-11-19",
+          "height": "179cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Ian",

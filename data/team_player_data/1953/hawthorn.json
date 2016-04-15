@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Clive",
-          "lastname": "Philp",
-          "jumper": "8",
-          "dob": "1926-02-28",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Fletcher",
           "jumper": "1",
@@ -21,7 +13,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Mahoney",
+          "lastname": "O' Mahoney",
           "jumper": "3",
           "dob": "1931-12-07",
           "height": "179cm",
@@ -29,11 +21,19 @@
         },
         {
           "firstname": "John",
-          "lastname": "KennedySnr",
+          "lastname": "Kennedy Snr",
           "jumper": "10",
           "dob": "1928-12-20",
           "height": "188cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Clive",
+          "lastname": "Philp",
+          "jumper": "8",
+          "dob": "1926-02-28",
+          "height": "178cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Len",
@@ -52,14 +52,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Maurie",
-          "lastname": "Considine",
-          "jumper": "28",
-          "dob": "1932-06-14",
-          "height": "183cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Roy",
           "lastname": "Simmonds",
           "jumper": "27",
@@ -76,12 +68,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Lance",
-          "lastname": "Wilkinson",
-          "jumper": "16",
-          "dob": "1931-03-14",
-          "height": "170cm",
-          "weight": "70kg"
+          "firstname": "Maurie",
+          "lastname": "Considine",
+          "jumper": "28",
+          "dob": "1932-06-14",
+          "height": "183cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Ian",
@@ -98,6 +90,14 @@
           "dob": "1929-09-02",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Lance",
+          "lastname": "Wilkinson",
+          "jumper": "16",
+          "dob": "1931-03-14",
+          "height": "170cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Kevin",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Phil",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "15",
           "dob": "1930-12-31",
           "height": "175cm",
@@ -140,20 +140,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Hughes",
-          "jumper": "11",
-          "dob": "1934-06-17",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Marr",
           "jumper": "24",
           "dob": "1928-01-15",
           "height": "185cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Hughes",
+          "jumper": "11",
+          "dob": "1934-06-17",
+          "height": "183cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Graham",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McCann",
+          "lastname": "Mc Cann",
           "jumper": "9",
           "dob": "1933-08-28",
           "height": "184cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MacDonald",
+          "lastname": "Mac Donald",
           "jumper": "21",
           "dob": "1927-05-16",
           "height": "179cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "23",
           "dob": "1932-05-31",
           "height": "170cm",

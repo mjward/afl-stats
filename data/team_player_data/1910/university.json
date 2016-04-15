@@ -4,6 +4,22 @@
     "teams": {
       "University": [
         {
+          "firstname": "George",
+          "lastname": "Elliott",
+          "jumper": "26",
+          "dob": "1885-06-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Hurrey",
+          "jumper": "21",
+          "dob": "1888-01-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Ted",
           "lastname": "Cordner",
           "jumper": "22",
@@ -36,30 +52,6 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Elliott",
-          "jumper": "26",
-          "dob": "1885-06-01",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Hurrey",
-          "jumper": "21",
-          "dob": "1888-01-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Athol",
-          "lastname": "Tymms",
-          "jumper": "—",
-          "dob": "1886-02-21",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Edgar",
           "lastname": "Kneen",
           "jumper": "16",
@@ -76,8 +68,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Athol",
+          "lastname": "Tymms",
+          "jumper": "—",
+          "dob": "1886-02-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Ken",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "11",
           "dob": "1890-08-18",
           "height": "—",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "—",
           "dob": "1889-10-11",
           "height": "—",

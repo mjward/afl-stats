@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "20",
           "dob": "1925-06-11",
           "height": "189cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "13",
           "dob": "1924-02-13",
           "height": "180cm",
@@ -284,20 +284,20 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Fulton",
-          "jumper": "33",
-          "dob": "1930-04-17",
-          "height": "173cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Davies",
           "jumper": "34",
           "dob": "1930-10-13",
           "height": "169cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Fulton",
+          "jumper": "33",
+          "dob": "1930-04-17",
+          "height": "173cm",
+          "weight": "72kg"
         }
       ]
     }

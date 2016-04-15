@@ -1,0 +1,329 @@
+{
+  "team_player_data": {
+    "year": 1992,
+    "teams": {
+      "Adelaide": [
+        {
+          "firstname": "Chris",
+          "lastname": "Mc Dermott",
+          "jumper": "10",
+          "dob": "1963-11-04",
+          "height": "182cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Hart",
+          "jumper": "34",
+          "dob": "1974-07-09",
+          "height": "190cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Bickley",
+          "jumper": "26",
+          "dob": "1969-08-04",
+          "height": "178cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Rodney",
+          "lastname": "Maynard",
+          "jumper": "18",
+          "dob": "1966-09-21",
+          "height": "188cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Liptak",
+          "jumper": "27",
+          "dob": "1970-04-30",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Darel",
+          "lastname": "Hart",
+          "jumper": "3",
+          "dob": "1964-01-03",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Scott",
+          "lastname": "Lee",
+          "jumper": "13",
+          "dob": "1963-06-05",
+          "height": "178cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Shaun",
+          "lastname": "Rehn",
+          "jumper": "52",
+          "dob": "1971-08-17",
+          "height": "203cm",
+          "weight": "106kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Mc Guinness",
+          "jumper": "11",
+          "dob": "1964-05-06",
+          "height": "176cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Jarman",
+          "jumper": "2",
+          "dob": "1966-01-14",
+          "height": "177cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Nigel",
+          "lastname": "Smart",
+          "jumper": "7",
+          "dob": "1969-05-21",
+          "height": "188cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Mickan",
+          "jumper": "25",
+          "dob": "1961-01-30",
+          "height": "196cm",
+          "weight": "102kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Weidemann",
+          "jumper": "33",
+          "dob": "1966-10-21",
+          "height": "182cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Anthony",
+          "lastname": "Ingerson",
+          "jumper": "29",
+          "dob": "1969-10-13",
+          "height": "193cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Jameson",
+          "jumper": "35",
+          "dob": "1970-06-30",
+          "height": "185cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Tregenza",
+          "jumper": "12",
+          "dob": "1971-03-09",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Scott",
+          "lastname": "Hodges",
+          "jumper": "17",
+          "dob": "1968-04-26",
+          "height": "188cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Sean",
+          "lastname": "Tasker",
+          "jumper": "4",
+          "dob": "1968-06-18",
+          "height": "188cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Schwerdt",
+          "jumper": "40",
+          "dob": "1968-05-28",
+          "height": "178cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Jonathan",
+          "lastname": "Ross",
+          "jumper": "39",
+          "dob": "1973-11-03",
+          "height": "193cm",
+          "weight": "101kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Brown",
+          "jumper": "21",
+          "dob": "1969-09-29",
+          "height": "172cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Marshall",
+          "jumper": "16",
+          "dob": "1960-06-30",
+          "height": "177cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Payze",
+          "jumper": "24",
+          "dob": "1966-08-25",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Lindner",
+          "jumper": "9",
+          "dob": "1961-06-20",
+          "height": "185cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Modra",
+          "jumper": "6",
+          "dob": "1969-03-01",
+          "height": "188cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Murphy",
+          "jumper": "22",
+          "dob": "1965-09-08",
+          "height": "188cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Klug",
+          "jumper": "20",
+          "dob": "1965-09-28",
+          "height": "188cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Patterson",
+          "jumper": "46",
+          "dob": "1965-09-28",
+          "height": "189cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Brenton",
+          "lastname": "Sanderson",
+          "jumper": "36",
+          "dob": "1974-02-27",
+          "height": "185cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Rowe",
+          "jumper": "3",
+          "dob": "1965-11-03",
+          "height": "178cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Adam",
+          "lastname": "Saliba",
+          "jumper": "37",
+          "dob": "1972-07-14",
+          "height": "176cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Darren",
+          "lastname": "Smith",
+          "jumper": "28",
+          "dob": "1965-02-09",
+          "height": "193cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Grant",
+          "lastname": "Fielke",
+          "jumper": "30",
+          "dob": "1962-03-18",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Randall",
+          "lastname": "Bone",
+          "jumper": "51",
+          "dob": "1973-11-13",
+          "height": "194cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Abernethy",
+          "jumper": "5",
+          "dob": "1962-05-10",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Rouvray",
+          "jumper": "45",
+          "dob": "1972-04-18",
+          "height": "189cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Pittman",
+          "jumper": "15",
+          "dob": "1969-02-23",
+          "height": "201cm",
+          "weight": "103kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Kelly",
+          "jumper": "42",
+          "dob": "1971-07-02",
+          "height": "187cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Mc Intyre",
+          "jumper": "23",
+          "dob": "1967-01-06",
+          "height": "194cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Romano",
+          "lastname": "Negri",
+          "jumper": "1",
+          "dob": "1964-09-30",
+          "height": "204cm",
+          "weight": "104kg"
+        }
+      ]
+    }
+  }
+}

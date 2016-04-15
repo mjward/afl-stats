@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Charlie",
-          "lastname": "Young",
-          "jumper": "—",
-          "dob": "1877-12-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ernie",
           "lastname": "Tout",
           "jumper": "—",
@@ -20,16 +12,16 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Moodie",
+          "firstname": "Charlie",
+          "lastname": "Young",
           "jumper": "—",
-          "dob": "1872-10-22",
+          "dob": "1877-12-07",
           "height": "—",
           "weight": "—"
         },
         {
           "firstname": "Bill",
-          "lastname": "McClelland",
+          "lastname": "Mc Clelland",
           "jumper": "—",
           "dob": "1875-02-09",
           "height": "—",
@@ -48,6 +40,14 @@
           "lastname": "Bremner",
           "jumper": "—",
           "dob": "1872-06-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Moodie",
+          "jumper": "—",
+          "dob": "1872-10-22",
           "height": "—",
           "weight": "—"
         },
@@ -108,6 +108,22 @@
           "weight": "—"
         },
         {
+          "firstname": "Corrie",
+          "lastname": "Gardner",
+          "jumper": "—",
+          "dob": "1879-03-12",
+          "height": "171cm",
+          "weight": "63kg"
+        },
+        {
+          "firstname": "Paddy",
+          "lastname": "Mills",
+          "jumper": "—",
+          "dob": "1884-03-17",
+          "height": "174cm",
+          "weight": "77kg"
+        },
+        {
           "firstname": "Eric",
           "lastname": "Gardner",
           "jumper": "—",
@@ -130,22 +146,6 @@
           "dob": "1884-04-18",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Corrie",
-          "lastname": "Gardner",
-          "jumper": "—",
-          "dob": "1879-03-12",
-          "height": "171cm",
-          "weight": "63kg"
-        },
-        {
-          "firstname": "Paddy",
-          "lastname": "Mills",
-          "jumper": "—",
-          "dob": "1884-03-17",
-          "height": "174cm",
-          "weight": "77kg"
         },
         {
           "firstname": "Jack",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "—",
           "dob": "1884-07-06",
           "height": "—",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "—",
           "dob": "1880-05-02",
           "height": "—",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Artie",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "—",
           "dob": "1880-02-26",
           "height": "—",

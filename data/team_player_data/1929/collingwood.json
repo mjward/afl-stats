@@ -4,22 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "George",
-          "lastname": "Clayden",
-          "jumper": "10",
-          "dob": "1903-08-14",
-          "height": "187cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Rumney",
-          "jumper": "24",
-          "dob": "1907-05-16",
-          "height": "171cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Coventry",
           "jumper": "7",
@@ -29,7 +13,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "CoventrySnr",
+          "lastname": "Coventry Snr",
           "jumper": "8",
           "dob": "1899-06-13",
           "height": "182cm",
@@ -44,12 +28,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Libbis",
-          "jumper": "17",
-          "dob": "1903-07-02",
-          "height": "175cm",
-          "weight": "80kg"
+          "firstname": "George",
+          "lastname": "Clayden",
+          "jumper": "10",
+          "dob": "1903-08-14",
+          "height": "187cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Rumney",
+          "jumper": "24",
+          "dob": "1907-05-16",
+          "height": "171cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Charlie",
@@ -76,20 +68,28 @@
           "weight": "77kg"
         },
         {
+          "firstname": "Billy",
+          "lastname": "Libbis",
+          "jumper": "17",
+          "dob": "1903-07-02",
+          "height": "175cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Mac Leod",
+          "jumper": "22",
+          "dob": "1904-10-08",
+          "height": "170cm",
+          "weight": "64kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Harris",
           "jumper": "15",
           "dob": "1903-11-04",
           "height": "165cm",
           "weight": "63kg"
-        },
-        {
-          "firstname": "Norm",
-          "lastname": "MacLeod",
-          "jumper": "22",
-          "dob": "1904-10-08",
-          "height": "170cm",
-          "weight": "64kg"
         },
         {
           "firstname": "Albert",

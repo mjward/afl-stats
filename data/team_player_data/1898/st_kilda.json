@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "—",
           "dob": "1874-06-03",
           "height": "—",
@@ -156,18 +156,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Warne",
-          "jumper": "—",
-          "dob": "1879-04-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ernie",
           "lastname": "Jones",
           "jumper": "—",
           "dob": "1871-11-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Warne",
+          "jumper": "—",
+          "dob": "1879-04-11",
           "height": "—",
           "weight": "—"
         },
@@ -308,14 +308,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Stewart",
-          "jumper": "—",
-          "dob": "1878-09-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Howell",
           "jumper": "—",
@@ -324,10 +316,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Purse",
+          "firstname": "Reg",
+          "lastname": "Stewart",
           "jumper": "—",
-          "dob": "1879-06-28",
+          "dob": "1878-09-04",
           "height": "—",
           "weight": "—"
         },
@@ -344,6 +336,14 @@
           "lastname": "Louch",
           "jumper": "—",
           "dob": "1875-01-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Purse",
+          "jumper": "—",
+          "dob": "1879-06-28",
           "height": "—",
           "weight": "—"
         },
@@ -436,18 +436,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Edmund",
-          "lastname": "Kirwin",
-          "jumper": "—",
-          "dob": "—",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "David",
           "lastname": "Gaunson",
           "jumper": "—",
           "dob": "1879-09-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Edmund",
+          "lastname": "Kirwin",
+          "jumper": "—",
+          "dob": "—",
           "height": "—",
           "weight": "—"
         }

@@ -20,6 +20,22 @@
           "weight": "—"
         },
         {
+          "firstname": "Joe",
+          "lastname": "Sullivan",
+          "jumper": "—",
+          "dob": "1877-02-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Gerald",
+          "lastname": "O' Dwyer",
+          "jumper": "—",
+          "dob": "1872-09-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Charlie",
           "lastname": "Roland",
           "jumper": "—",
@@ -52,22 +68,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Sullivan",
-          "jumper": "—",
-          "dob": "1877-02-01",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Gerald",
-          "lastname": "O'Dwyer",
-          "jumper": "—",
-          "dob": "1872-09-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Rigby",
           "jumper": "—",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "—",
           "dob": "1876-06-08",
           "height": "—",
@@ -124,18 +124,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Henry",
-          "lastname": "McShane",
-          "jumper": "—",
-          "dob": "1873-02-09",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Ross",
           "jumper": "—",
           "dob": "1878-08-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Mc Shane",
+          "jumper": "—",
+          "dob": "1873-02-09",
           "height": "—",
           "weight": "—"
         },
@@ -180,18 +180,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Collins",
-          "jumper": "—",
-          "dob": "1871-05-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Matthews",
           "jumper": "—",
           "dob": "1880-06-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Collins",
+          "jumper": "—",
+          "dob": "1871-05-14",
           "height": "—",
           "weight": "—"
         },

@@ -4,22 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Albert",
-          "lastname": "Mantello",
-          "jumper": "7",
-          "dob": "1934-04-30",
-          "height": "180cm",
-          "weight": "91kg"
-        },
-        {
-          "firstname": "Michael",
-          "lastname": "Gaudion",
-          "jumper": "29",
-          "dob": "1938-06-20",
-          "height": "174cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Laurie",
           "lastname": "Dwyer",
           "jumper": "27",
@@ -36,12 +20,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Allen",
-          "lastname": "Aylett",
-          "jumper": "17",
-          "dob": "1934-04-24",
+          "firstname": "Albert",
+          "lastname": "Mantello",
+          "jumper": "7",
+          "dob": "1934-04-30",
+          "height": "180cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Gaudion",
+          "jumper": "29",
+          "dob": "1938-06-20",
           "height": "174cm",
-          "weight": "80kg"
+          "weight": "73kg"
         },
         {
           "firstname": "John",
@@ -52,12 +44,12 @@
           "weight": "98kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Palmer",
-          "jumper": "8",
-          "dob": "1938-10-03",
-          "height": "179cm",
-          "weight": "76kg"
+          "firstname": "Allen",
+          "lastname": "Aylett",
+          "jumper": "17",
+          "dob": "1934-04-24",
+          "height": "174cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Noel",
@@ -66,6 +58,14 @@
           "dob": "1938-01-02",
           "height": "188cm",
           "weight": "98kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Palmer",
+          "jumper": "8",
+          "dob": "1938-10-03",
+          "height": "179cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",
@@ -108,6 +108,14 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Barry",
+          "lastname": "Kelly",
+          "jumper": "37",
+          "dob": "1942-01-25",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Neil",
           "lastname": "Doolan",
           "jumper": "12",
@@ -122,14 +130,6 @@
           "dob": "1940-12-28",
           "height": "188cm",
           "weight": "84kg"
-        },
-        {
-          "firstname": "Barry",
-          "lastname": "Kelly",
-          "jumper": "37",
-          "dob": "1942-01-25",
-          "height": "178cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Barry",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "36",
           "dob": "1937-09-19",
           "height": "177cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Daryl",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "47",
           "dob": "1941-09-10",
           "height": "179cm",

@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Jack",
-          "lastname": "Collins",
-          "jumper": "10",
-          "dob": "1904-10-04",
-          "height": "179cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Abernethy",
-          "jumper": "4",
-          "dob": "1902-11-04",
-          "height": "175cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Corbett",
           "jumper": "12",
@@ -44,6 +28,22 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Collins",
+          "jumper": "10",
+          "dob": "1904-10-04",
+          "height": "179cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Abernethy",
+          "jumper": "4",
+          "dob": "1902-11-04",
+          "height": "175cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Jimmy",
           "lastname": "Davidson",
           "jumper": "29",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Ivor",
-          "lastname": "Warne-Smith",
+          "lastname": "Warne- Smith",
           "jumper": "14",
           "dob": "1897-10-29",
           "height": "182cm",
@@ -92,7 +92,7 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Frank'Pop'",
+          "firstname": "Frank' Pop'",
           "lastname": "Vine",
           "jumper": "23",
           "dob": "1904-10-01",
@@ -124,20 +124,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Thomas",
-          "jumper": "3",
-          "dob": "1898-08-09",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Davie",
           "jumper": "24",
           "dob": "1905-05-22",
           "height": "169cm",
           "weight": "58kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Thomas",
+          "jumper": "3",
+          "dob": "1898-08-09",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Hugh",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Tommy",
-          "lastname": "McConville",
+          "lastname": "Mc Conville",
           "jumper": "5",
           "dob": "1901-03-28",
           "height": "175cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "JohnsonSnr",
+          "lastname": "Johnson Snr",
           "jumper": "16",
           "dob": "1902-06-27",
           "height": "191cm",
@@ -236,20 +236,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Jorgensen",
-          "jumper": "7",
-          "dob": "1902-08-19",
-          "height": "180cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Veal",
           "jumper": "6",
           "dob": "1901-09-13",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Jorgensen",
+          "jumper": "7",
+          "dob": "1902-08-19",
+          "height": "180cm",
+          "weight": "72kg"
         }
       ]
     }

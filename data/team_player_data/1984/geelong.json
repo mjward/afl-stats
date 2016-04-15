@@ -20,14 +20,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Mossop",
-          "jumper": "10",
-          "dob": "1959-06-14",
-          "height": "196cm",
-          "weight": "99kg"
-        },
-        {
           "firstname": "Terry",
           "lastname": "Bright",
           "jumper": "4",
@@ -36,12 +28,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "David",
-          "lastname": "O'Keeffe",
-          "jumper": "31",
-          "dob": "1962-02-20",
-          "height": "189cm",
-          "weight": "89kg"
+          "firstname": "John",
+          "lastname": "Mossop",
+          "jumper": "10",
+          "dob": "1959-06-14",
+          "height": "196cm",
+          "weight": "99kg"
         },
         {
           "firstname": "Brian",
@@ -58,6 +50,14 @@
           "dob": "1959-08-30",
           "height": "192cm",
           "weight": "94kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "O' Keeffe",
+          "jumper": "31",
+          "dob": "1962-02-20",
+          "height": "189cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Ray",
@@ -92,20 +92,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "AblettSnr",
-          "jumper": "5",
-          "dob": "1961-10-01",
-          "height": "185cm",
-          "weight": "97kg"
-        },
-        {
           "firstname": "Andrew",
           "lastname": "Bews",
           "jumper": "27",
           "dob": "1964-07-19",
           "height": "175cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Ablett Snr",
+          "jumper": "5",
+          "dob": "1961-10-01",
+          "height": "185cm",
+          "weight": "97kg"
         },
         {
           "firstname": "Bernard",

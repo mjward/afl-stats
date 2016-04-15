@@ -4,22 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Fred",
-          "lastname": "Elliott",
-          "jumper": "1",
-          "dob": "1879-04-07",
-          "height": "177cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Caine",
-          "jumper": "—",
-          "dob": "1881-07-28",
-          "height": "184cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Mick",
           "lastname": "Grace",
           "jumper": "—",
@@ -29,7 +13,7 @@
         },
         {
           "firstname": "Rod",
-          "lastname": "McGregor",
+          "lastname": "Mc Gregor",
           "jumper": "11",
           "dob": "1882-10-19",
           "height": "178cm",
@@ -44,12 +28,20 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Alex",
-          "lastname": "Lang",
-          "jumper": "18",
-          "dob": "1888-03-12",
-          "height": "175cm",
-          "weight": "73kg"
+          "firstname": "Fred",
+          "lastname": "Elliott",
+          "jumper": "1",
+          "dob": "1879-04-07",
+          "height": "177cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Caine",
+          "jumper": "—",
+          "dob": "1881-07-28",
+          "height": "184cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Charlie",
@@ -68,7 +60,7 @@
           "weight": "75kg"
         },
         {
-          "firstname": "George'Mallee'",
+          "firstname": "George' Mallee'",
           "lastname": "Johnson",
           "jumper": "—",
           "dob": "1879-05-31",
@@ -76,12 +68,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Topping",
-          "jumper": "27",
-          "dob": "1881-08-27",
-          "height": "166cm",
-          "weight": "61kg"
+          "firstname": "Alex",
+          "lastname": "Lang",
+          "jumper": "18",
+          "dob": "1888-03-12",
+          "height": "175cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Norm",
@@ -106,6 +98,14 @@
           "dob": "1879-08-05",
           "height": "174cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Topping",
+          "jumper": "27",
+          "dob": "1881-08-27",
+          "height": "166cm",
+          "weight": "61kg"
         },
         {
           "firstname": "Billy",
@@ -236,18 +236,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Albert",
-          "lastname": "Bickford",
-          "jumper": "—",
-          "dob": "1887-08-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harvey",
           "lastname": "Gibson",
           "jumper": "—",
           "dob": "1886-04-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Albert",
+          "lastname": "Bickford",
+          "jumper": "—",
+          "dob": "1887-08-24",
           "height": "—",
           "weight": "—"
         },

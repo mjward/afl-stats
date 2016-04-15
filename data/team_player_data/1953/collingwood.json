@@ -12,30 +12,6 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Finck",
-          "jumper": "5",
-          "dob": "1930-01-21",
-          "height": "184cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "RoseSnr",
-          "jumper": "22",
-          "dob": "1928-08-07",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "Richards",
-          "jumper": "20",
-          "dob": "1928-05-11",
-          "height": "170cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Lou",
           "lastname": "Richards",
           "jumper": "1",
@@ -50,6 +26,30 @@
           "dob": "1931-10-10",
           "height": "179cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Finck",
+          "jumper": "5",
+          "dob": "1930-01-21",
+          "height": "184cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Rose Snr",
+          "jumper": "22",
+          "dob": "1928-08-07",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Richards",
+          "jumper": "20",
+          "dob": "1928-05-11",
+          "height": "170cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Peter",
@@ -117,19 +117,11 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeyJnr",
+          "lastname": "Twomey Jnr",
           "jumper": "—",
           "dob": "1927-09-28",
           "height": "179cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Parker",
-          "jumper": "18",
-          "dob": "1931-05-03",
-          "height": "178cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Arthur",
@@ -138,6 +130,14 @@
           "dob": "1931-03-20",
           "height": "188cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Parker",
+          "jumper": "18",
+          "dob": "1931-05-03",
+          "height": "178cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Maurie",

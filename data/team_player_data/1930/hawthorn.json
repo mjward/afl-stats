@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Ernie",
-          "lastname": "Utting",
-          "jumper": "2",
-          "dob": "1897-10-31",
-          "height": "166cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Mills",
           "jumper": "12",
@@ -36,6 +28,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Ernie",
+          "lastname": "Utting",
+          "jumper": "2",
+          "dob": "1897-10-31",
+          "height": "166cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Ted",
           "lastname": "Pool",
           "jumper": "19",
@@ -44,20 +44,20 @@
           "weight": "65kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Bennett",
-          "jumper": "27",
-          "dob": "1911-09-22",
-          "height": "184cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Sharpley",
           "jumper": "6",
           "dob": "1906-02-18",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Bennett",
+          "jumper": "27",
+          "dob": "1911-09-22",
+          "height": "184cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Stuart",
@@ -132,14 +132,6 @@
           "weight": "67kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Cathie",
-          "jumper": "11",
-          "dob": "1905-10-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Walter",
           "lastname": "Ware",
           "jumper": "17",
@@ -154,6 +146,14 @@
           "dob": "1905-06-11",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Cathie",
+          "jumper": "11",
+          "dob": "1905-10-26",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Arthur",
@@ -180,7 +180,7 @@
           "weight": "59kg"
         },
         {
-          "firstname": "Len'Tiny'",
+          "firstname": "Len' Tiny'",
           "lastname": "Mills",
           "jumper": "16",
           "dob": "1898-02-08",
@@ -268,20 +268,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Davies",
-          "jumper": "25",
-          "dob": "1909-11-24",
-          "height": "182cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Artie",
           "lastname": "Frecker",
           "jumper": "32",
           "dob": "1901-09-20",
           "height": "170cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Davies",
+          "jumper": "25",
+          "dob": "1909-11-24",
+          "height": "182cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Fred",

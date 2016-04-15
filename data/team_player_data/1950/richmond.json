@@ -4,6 +4,22 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Bill",
+          "lastname": "Morris",
+          "jumper": "5",
+          "dob": "1921-04-24",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Ednie",
+          "jumper": "23",
+          "dob": "1927-10-03",
+          "height": "180cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Col",
           "lastname": "Austen",
           "jumper": "16",
@@ -28,31 +44,7 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Morris",
-          "jumper": "5",
-          "dob": "1921-04-24",
-          "height": "188cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Ednie",
-          "jumper": "23",
-          "dob": "1927-10-03",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "Wright",
-          "jumper": "2",
-          "dob": "1929-02-23",
-          "height": "188cm",
-          "weight": "103kg"
-        },
-        {
-          "firstname": "Don'Mopsy'",
+          "firstname": "Don' Mopsy'",
           "lastname": "Fraser",
           "jumper": "21",
           "dob": "1922-10-24",
@@ -74,6 +66,14 @@
           "dob": "1925-11-19",
           "height": "182cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Wright",
+          "jumper": "2",
+          "dob": "1929-02-23",
+          "height": "188cm",
+          "weight": "103kg"
         },
         {
           "firstname": "Fred",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "4",
           "dob": "1928-07-13",
           "height": "178cm",
@@ -228,20 +228,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Irvine",
-          "jumper": "12",
-          "dob": "1927-03-10",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Atkinson",
           "jumper": "20",
           "dob": "1928-06-23",
           "height": "187cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Irvine",
+          "jumper": "12",
+          "dob": "1927-03-10",
+          "height": "180cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Tom",

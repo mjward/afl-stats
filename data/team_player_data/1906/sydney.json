@@ -4,6 +4,14 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Bill",
+          "lastname": "Dolphin",
+          "jumper": "—",
+          "dob": "1881-11-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Ted",
           "lastname": "Wade",
           "jumper": "—",
@@ -44,26 +52,10 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Dolphin",
-          "jumper": "—",
-          "dob": "1881-11-05",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Dick",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "—",
           "dob": "1877-06-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "Bourke",
-          "jumper": "—",
-          "dob": "1883-06-28",
           "height": "—",
           "weight": "—"
         },
@@ -76,12 +68,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Casey",
-          "jumper": "22",
-          "dob": "—",
-          "height": "168cm",
-          "weight": "58kg"
+          "firstname": "Peter",
+          "lastname": "Bourke",
+          "jumper": "—",
+          "dob": "1883-06-28",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Billy",
@@ -92,8 +84,16 @@
           "weight": "62kg"
         },
         {
+          "firstname": "Dick",
+          "lastname": "Casey",
+          "jumper": "22",
+          "dob": "—",
+          "height": "168cm",
+          "weight": "58kg"
+        },
+        {
           "firstname": "Billy",
-          "lastname": "McGee",
+          "lastname": "Mc Gee",
           "jumper": "—",
           "dob": "1878-02-27",
           "height": "183cm",
@@ -116,7 +116,7 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "25",
           "dob": "1886-11-10",
@@ -188,20 +188,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Wenborn",
-          "jumper": "—",
-          "dob": "1880-06-20",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Scott",
           "jumper": "—",
           "dob": "1880-04-26",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Wenborn",
+          "jumper": "—",
+          "dob": "1880-06-20",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "George",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Andy",
-          "lastname": "McDonell",
+          "lastname": "Mc Donell",
           "jumper": "—",
           "dob": "1882-08-24",
           "height": "—",
@@ -260,18 +260,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Sydney",
-          "lastname": "Sykes",
-          "jumper": "—",
-          "dob": "1882-02-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Pettit",
           "jumper": "—",
           "dob": "1885-07-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Sydney",
+          "lastname": "Sykes",
+          "jumper": "—",
+          "dob": "1882-02-28",
           "height": "—",
           "weight": "—"
         }

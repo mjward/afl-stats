@@ -5,7 +5,7 @@
       "Sydney": [
         {
           "firstname": "Jim",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1874-09-19",
           "height": "—",
@@ -37,7 +37,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1872-08-11",
           "height": "—",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "PurdySnr",
+          "lastname": "Purdy Snr",
           "jumper": "—",
           "dob": "1867-08-28",
           "height": "—",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Arch",
-          "lastname": "McNair",
+          "lastname": "Mc Nair",
           "jumper": "—",
           "dob": "1872-08-01",
           "height": "—",
@@ -244,18 +244,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Johnny",
-          "lastname": "Davis",
-          "jumper": "—",
-          "dob": "1876-10-18",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jimmy",
           "lastname": "Paterson",
           "jumper": "—",
           "dob": "1870-02-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Johnny",
+          "lastname": "Davis",
+          "jumper": "—",
+          "dob": "1876-10-18",
           "height": "—",
           "weight": "—"
         },

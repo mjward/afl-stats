@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Brian",
-          "lastname": "Dixon",
-          "jumper": "9",
-          "dob": "1936-05-20",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Barrie",
-          "lastname": "Vagg",
-          "jumper": "32",
-          "dob": "1943-01-21",
-          "height": "182cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Bryan",
           "lastname": "Kenneally",
           "jumper": "22",
@@ -28,7 +12,7 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Bob'Tassie'",
+          "firstname": "Bob' Tassie'",
           "lastname": "Johnson",
           "jumper": "8",
           "dob": "1937-12-02",
@@ -45,11 +29,19 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "Roet",
-          "jumper": "23",
-          "dob": "1939-11-02",
-          "height": "187cm",
-          "weight": "83kg"
+          "lastname": "Dixon",
+          "jumper": "9",
+          "dob": "1936-05-20",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Barrie",
+          "lastname": "Vagg",
+          "jumper": "32",
+          "dob": "1943-01-21",
+          "height": "182cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Derek",
@@ -60,12 +52,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Harold'Hassa'",
+          "firstname": "Harold' Hassa'",
           "lastname": "Mann",
           "jumper": "29",
           "dob": "1940-10-10",
           "height": "177cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Roet",
+          "jumper": "23",
+          "dob": "1939-11-02",
+          "height": "187cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Stan",
@@ -100,14 +100,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Davis",
-          "jumper": "6",
-          "dob": "1944-08-25",
-          "height": "178cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Walker",
           "jumper": "1",
@@ -122,6 +114,14 @@
           "dob": "1943-06-16",
           "height": "171cm",
           "weight": "66kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Davis",
+          "jumper": "6",
+          "dob": "1944-08-25",
+          "height": "178cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Brent",

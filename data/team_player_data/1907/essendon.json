@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Mark",
-          "lastname": "Shea",
-          "jumper": "—",
-          "dob": "1883-04-24",
-          "height": "173cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Davies",
           "jumper": "—",
@@ -34,6 +26,14 @@
           "dob": "1880-12-26",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Shea",
+          "jumper": "—",
+          "dob": "1883-04-24",
+          "height": "173cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Alan",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McVitty",
+          "lastname": "Mc Vitty",
           "jumper": "—",
           "dob": "1881-12-25",
           "height": "188cm",
@@ -212,18 +212,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Cliff",
-          "lastname": "Bennett",
-          "jumper": "—",
-          "dob": "1884-03-17",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Barney",
           "lastname": "Jenkins",
           "jumper": "—",
           "dob": "1884-03-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Cliff",
+          "lastname": "Bennett",
+          "jumper": "—",
+          "dob": "1884-03-17",
           "height": "—",
           "weight": "—"
         },
@@ -268,14 +268,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Sullivan",
-          "jumper": "—",
-          "dob": "1879-09-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Charles",
           "lastname": "Bolton",
           "jumper": "—",
@@ -284,8 +276,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Sullivan",
+          "jumper": "—",
+          "dob": "1879-09-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Peter",
-          "lastname": "McCann",
+          "lastname": "Mc Cann",
           "jumper": "—",
           "dob": "1882-06-25",
           "height": "—",

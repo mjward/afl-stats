@@ -4,14 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Percy",
-          "lastname": "Bowyer",
-          "jumper": "3",
-          "dob": "1909-09-06",
-          "height": "179cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Vin",
           "lastname": "Doherty",
           "jumper": "7",
@@ -28,20 +20,12 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Marcus",
-          "lastname": "Whelan",
-          "jumper": "21",
-          "dob": "1914-06-27",
-          "height": "175cm",
-          "weight": "67kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Regan",
-          "jumper": "16",
-          "dob": "1912-09-12",
-          "height": "185cm",
-          "weight": "83kg"
+          "firstname": "Percy",
+          "lastname": "Bowyer",
+          "jumper": "3",
+          "dob": "1909-09-06",
+          "height": "179cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Phonse",
@@ -58,6 +42,22 @@
           "dob": "1914-04-19",
           "height": "169cm",
           "weight": "66kg"
+        },
+        {
+          "firstname": "Marcus",
+          "lastname": "Whelan",
+          "jumper": "21",
+          "dob": "1914-06-27",
+          "height": "175cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Regan",
+          "jumper": "16",
+          "dob": "1912-09-12",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bervyn",
@@ -108,20 +108,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Stackpole",
-          "jumper": "19",
-          "dob": "1916-07-31",
-          "height": "165cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Knight",
           "jumper": "11",
           "dob": "1912-11-21",
           "height": "183cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Stackpole",
+          "jumper": "19",
+          "dob": "1916-07-31",
+          "height": "165cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Albert",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McCann",
+          "lastname": "Mc Cann",
           "jumper": "35",
           "dob": "1913-06-25",
           "height": "—",

@@ -4,20 +4,20 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Bill",
-          "lastname": "Hickey",
-          "jumper": "—",
-          "dob": "1881-06-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Gent",
           "jumper": "—",
           "dob": "1879-06-19",
           "height": "164cm",
           "weight": "62kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Hickey",
+          "jumper": "—",
+          "dob": "1881-06-14",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Bert",
@@ -36,14 +36,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Adamson",
-          "jumper": "—",
-          "dob": "1882-01-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Hassett",
           "jumper": "—",
@@ -52,10 +44,26 @@
           "weight": "—"
         },
         {
+          "firstname": "Arthur",
+          "lastname": "Adamson",
+          "jumper": "—",
+          "dob": "1882-01-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Mick",
           "lastname": "Pleass",
           "jumper": "—",
           "dob": "1874-11-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Mc Donough",
+          "jumper": "—",
+          "dob": "1879-07-26",
           "height": "—",
           "weight": "—"
         },
@@ -72,14 +80,6 @@
           "lastname": "Lampe",
           "jumper": "—",
           "dob": "1874-09-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "McDonough",
-          "jumper": "—",
-          "dob": "1879-07-26",
           "height": "—",
           "weight": "—"
         },
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Billy",
-          "lastname": "McGee",
+          "lastname": "Mc Gee",
           "jumper": "—",
           "dob": "1878-02-27",
           "height": "183cm",
@@ -245,19 +245,11 @@
         },
         {
           "firstname": "John",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "—",
           "dob": "1884-01-21",
           "height": "177cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Ossie",
-          "lastname": "O'Connell",
-          "jumper": "—",
-          "dob": "1884-09-16",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Joe",
@@ -282,6 +274,14 @@
           "dob": "1884-01-03",
           "height": "180cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ossie",
+          "lastname": "O' Connell",
+          "jumper": "—",
+          "dob": "1884-09-16",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Charles",
@@ -317,7 +317,7 @@
         },
         {
           "firstname": "Ollie",
-          "lastname": "McKelson",
+          "lastname": "Mc Kelson",
           "jumper": "—",
           "dob": "1881-08-13",
           "height": "—",
@@ -325,7 +325,7 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1885-09-28",
           "height": "—",

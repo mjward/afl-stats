@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Matt",
-          "lastname": "Cunningham",
-          "jumper": "34",
-          "dob": "1934-02-28",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Henderson",
           "jumper": "23",
@@ -21,11 +13,19 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MacGregor",
+          "lastname": "Mac Gregor",
           "jumper": "14",
           "dob": "1932-09-15",
           "height": "185cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Matt",
+          "lastname": "Cunningham",
+          "jumper": "34",
+          "dob": "1934-02-28",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Alan",
@@ -52,20 +52,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Eddie",
-          "lastname": "Goodger",
-          "jumper": "15",
-          "dob": "1929-03-10",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Murray",
           "jumper": "2",
           "dob": "1938-06-18",
           "height": "178cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Goodger",
+          "jumper": "15",
+          "dob": "1929-03-10",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Bill",
@@ -76,14 +76,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Tony",
-          "lastname": "Ongarello",
-          "jumper": "5",
-          "dob": "1932-12-22",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Vin",
           "lastname": "Williams",
           "jumper": "10",
@@ -92,8 +84,16 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Tony",
+          "lastname": "Ongarello",
+          "jumper": "5",
+          "dob": "1932-12-22",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Graeme",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "29",
           "dob": "1935-03-08",
           "height": "175cm",
@@ -165,19 +165,19 @@
         },
         {
           "firstname": "Graham",
-          "lastname": "Knight",
-          "jumper": "27",
-          "dob": "1931-05-03",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Graham",
           "lastname": "Campbell",
           "jumper": "20",
           "dob": "1936-07-22",
           "height": "177cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Knight",
+          "jumper": "27",
+          "dob": "1931-05-03",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Kevin",
@@ -228,6 +228,14 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Ivan",
+          "lastname": "Smith",
+          "jumper": "22",
+          "dob": "1933-12-31",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Ron",
           "lastname": "Smith",
           "jumper": "18",
@@ -242,14 +250,6 @@
           "dob": "1935-07-27",
           "height": "183cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Ivan",
-          "lastname": "Smith",
-          "jumper": "22",
-          "dob": "1933-12-31",
-          "height": "185cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Ken",

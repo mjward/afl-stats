@@ -28,14 +28,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Corbett",
-          "jumper": "12",
-          "dob": "1895-11-23",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Coy",
           "jumper": "19",
@@ -52,12 +44,12 @@
           "weight": "92kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Heinz",
-          "jumper": "15",
-          "dob": "1891-10-08",
-          "height": "169cm",
-          "weight": "73kg"
+          "firstname": "Bob",
+          "lastname": "Corbett",
+          "jumper": "12",
+          "dob": "1895-11-23",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Edgar",
@@ -74,6 +66,14 @@
           "dob": "1901-10-22",
           "height": "189cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Heinz",
+          "jumper": "15",
+          "dob": "1891-10-08",
+          "height": "169cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Ted",
@@ -204,20 +204,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Davidson",
-          "jumper": "29",
-          "dob": "1904-08-13",
-          "height": "165cm",
-          "weight": "62kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Davie",
           "jumper": "24",
           "dob": "1905-05-22",
           "height": "169cm",
           "weight": "58kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Davidson",
+          "jumper": "29",
+          "dob": "1904-08-13",
+          "height": "165cm",
+          "weight": "62kg"
         },
         {
           "firstname": "Alf",

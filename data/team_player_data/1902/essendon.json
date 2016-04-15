@@ -12,8 +12,8 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack'Dookie'",
-          "lastname": "McKenzie",
+          "firstname": "Jack' Dookie'",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1882-11-12",
           "height": "178cm",
@@ -44,14 +44,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Mann",
-          "jumper": "—",
-          "dob": "1878-10-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Kinnear",
           "jumper": "—",
@@ -64,6 +56,22 @@
           "lastname": "Larkin",
           "jumper": "—",
           "dob": "1874-10-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Mann",
+          "jumper": "—",
+          "dob": "1878-10-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Hiskins",
+          "jumper": "—",
+          "dob": "1878-08-08",
           "height": "—",
           "weight": "—"
         },
@@ -84,14 +92,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Hiskins",
-          "jumper": "—",
-          "dob": "1878-08-08",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Son",
           "lastname": "Barry",
           "jumper": "—",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "O'Loughlin",
+          "lastname": "O' Loughlin",
           "jumper": "—",
           "dob": "1873-10-29",
           "height": "—",
@@ -236,20 +236,20 @@
           "weight": "—"
         },
         {
-          "firstname": "CharlesTracker",
-          "lastname": "Forbes",
-          "jumper": "—",
-          "dob": "1865-05-08",
-          "height": "191cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Gray",
           "jumper": "—",
           "dob": "1874-11-20",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Charles Tracker",
+          "lastname": "Forbes",
+          "jumper": "—",
+          "dob": "1865-05-08",
+          "height": "191cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Bill",

@@ -36,14 +36,6 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Willis",
-          "lastname": "Reeve",
-          "jumper": "16",
-          "dob": "1905-04-29",
-          "height": "184cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Charles",
           "lastname": "Chapman",
           "jumper": "1",
@@ -60,6 +52,14 @@
           "weight": "87kg"
         },
         {
+          "firstname": "Willis",
+          "lastname": "Reeve",
+          "jumper": "16",
+          "dob": "1905-04-29",
+          "height": "184cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Moriarty",
           "jumper": "6",
@@ -68,20 +68,20 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Tommy",
-          "lastname": "Williams",
-          "jumper": "14",
-          "dob": "1909-09-12",
-          "height": "174cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Ellis",
           "jumper": "23",
           "dob": "1906-05-10",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Tommy",
+          "lastname": "Williams",
+          "jumper": "14",
+          "dob": "1909-09-12",
+          "height": "174cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Arthur",
@@ -108,14 +108,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Finlayson",
-          "jumper": "20",
-          "dob": "1909-03-31",
-          "height": "175cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Stott",
           "jumper": "4",
@@ -130,6 +122,14 @@
           "dob": "1905-10-10",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Finlayson",
+          "jumper": "20",
+          "dob": "1909-03-31",
+          "height": "175cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Jim",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Colin",
-          "lastname": "MacKay",
+          "lastname": "Mac Kay",
           "jumper": "17",
           "dob": "1908-02-03",
           "height": "—",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McCaffrey",
+          "lastname": "Mc Caffrey",
           "jumper": "22",
           "dob": "1905-12-21",
           "height": "—",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Mike",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "27",
           "dob": "1902-01-19",
           "height": "175cm",

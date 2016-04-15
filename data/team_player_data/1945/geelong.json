@@ -12,6 +12,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Percy",
+          "lastname": "Hunt",
+          "jumper": "25",
+          "dob": "1922-11-12",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Fitzgerald",
           "jumper": "3",
@@ -26,14 +34,6 @@
           "dob": "1918-11-17",
           "height": "169cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Percy",
-          "lastname": "Hunt",
-          "jumper": "25",
-          "dob": "1922-11-12",
-          "height": "178cm",
-          "weight": "74kg"
         },
         {
           "firstname": "Norm",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "MundayJnr",
+          "lastname": "Munday Jnr",
           "jumper": "15",
           "dob": "1917-11-01",
           "height": "188cm",
@@ -84,14 +84,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Alwyn",
-          "lastname": "Lindsay",
-          "jumper": "32",
-          "dob": "1923-06-04",
-          "height": "168cm",
-          "weight": "66kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Hose",
           "jumper": "8",
@@ -106,6 +98,14 @@
           "dob": "1920-09-03",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Alwyn",
+          "lastname": "Lindsay",
+          "jumper": "32",
+          "dob": "1923-06-04",
+          "height": "168cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Max",
@@ -300,6 +300,14 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Leo",
+          "lastname": "Dean",
+          "jumper": "20",
+          "dob": "1914-10-04",
+          "height": "168cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Max",
           "lastname": "Atkin",
           "jumper": "16",
@@ -314,14 +322,6 @@
           "dob": "1911-01-24",
           "height": "184cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Leo",
-          "lastname": "Dean",
-          "jumper": "20",
-          "dob": "1914-10-04",
-          "height": "168cm",
-          "weight": "73kg"
         }
       ]
     }

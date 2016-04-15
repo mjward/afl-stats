@@ -4,16 +4,8 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Bill",
-          "lastname": "Ford",
-          "jumper": "21",
-          "dob": "1906-07-18",
-          "height": "191cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "1",
           "dob": "1907-07-19",
           "height": "182cm",
@@ -44,12 +36,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Viv",
-          "lastname": "Randall",
-          "jumper": "7",
-          "dob": "1914-03-07",
-          "height": "170cm",
-          "weight": "74kg"
+          "firstname": "Bill",
+          "lastname": "Ford",
+          "jumper": "21",
+          "dob": "1906-07-18",
+          "height": "191cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Clarrie",
@@ -60,12 +52,28 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Viv",
+          "lastname": "Randall",
+          "jumper": "7",
+          "dob": "1914-03-07",
+          "height": "170cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Bert",
           "lastname": "Mills",
           "jumper": "12",
           "dob": "1910-02-16",
           "height": "180cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Spinks",
+          "jumper": "8",
+          "dob": "1912-10-16",
+          "height": "171cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Jack",
@@ -82,14 +90,6 @@
           "dob": "1913-07-11",
           "height": "183cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Stan",
-          "lastname": "Spinks",
-          "jumper": "8",
-          "dob": "1912-10-16",
-          "height": "171cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Dick",

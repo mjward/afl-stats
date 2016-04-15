@@ -12,14 +12,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Box",
-          "jumper": "5",
-          "dob": "1932-03-22",
-          "height": "180cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Stockman",
           "jumper": "17",
@@ -44,24 +36,16 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Donald",
-          "jumper": "22",
-          "dob": "1927-05-27",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Collins",
-          "jumper": "2",
-          "dob": "1930-01-03",
-          "height": "183cm",
-          "weight": "87kg"
+          "firstname": "Peter",
+          "lastname": "Box",
+          "jumper": "5",
+          "dob": "1932-03-22",
+          "height": "180cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Ted",
-          "lastname": "WhittenSnr",
+          "lastname": "Whitten Snr",
           "jumper": "3",
           "dob": "1933-07-27",
           "height": "184cm",
@@ -84,20 +68,28 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Wally",
+          "lastname": "Donald",
+          "jumper": "22",
+          "dob": "1927-05-27",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Collins",
+          "jumper": "2",
+          "dob": "1930-01-03",
+          "height": "183cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Ron",
           "lastname": "Porta",
           "jumper": "21",
           "dob": "1936-06-03",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "Rawson",
-          "jumper": "33",
-          "dob": "1937-01-13",
-          "height": "178cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Max",
@@ -114,6 +106,14 @@
           "dob": "1933-09-04",
           "height": "178cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Rawson",
+          "jumper": "33",
+          "dob": "1937-01-13",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",
@@ -180,20 +180,20 @@
           "weight": "75kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Mc Rae",
+          "jumper": "20",
+          "dob": "1937-10-10",
+          "height": "188cm",
+          "weight": "99kg"
+        },
+        {
           "firstname": "Harvey",
           "lastname": "Stevens",
           "jumper": "32",
           "dob": "1930-08-08",
           "height": "188cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "McRae",
-          "jumper": "20",
-          "dob": "1937-10-10",
-          "height": "188cm",
-          "weight": "99kg"
         },
         {
           "firstname": "Bob",
@@ -228,6 +228,14 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Alex",
+          "lastname": "Gardiner",
+          "jumper": "12",
+          "dob": "1935-01-03",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Byron",
           "lastname": "Guthrie",
           "jumper": "36",
@@ -242,14 +250,6 @@
           "dob": "1932-08-10",
           "height": "169cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Alex",
-          "lastname": "Gardiner",
-          "jumper": "12",
-          "dob": "1935-01-03",
-          "height": "175cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Ron",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "33",
           "dob": "1934-11-03",
           "height": "180cm",

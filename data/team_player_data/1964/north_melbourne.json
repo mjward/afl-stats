@@ -4,16 +4,8 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Mike",
-          "lastname": "Delanty",
-          "jumper": "33",
-          "dob": "1936-10-15",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Daryl",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "12",
           "dob": "1941-09-10",
           "height": "179cm",
@@ -26,6 +18,22 @@
           "dob": "1938-06-20",
           "height": "174cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Delanty",
+          "jumper": "33",
+          "dob": "1936-10-15",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Dugdale",
+          "jumper": "6",
+          "dob": "1936-03-08",
+          "height": "182cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Barry",
@@ -42,14 +50,6 @@
           "dob": "1941-02-15",
           "height": "191cm",
           "weight": "102kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Dugdale",
-          "jumper": "6",
-          "dob": "1936-03-08",
-          "height": "182cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Barry",
@@ -92,6 +92,14 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Bernie",
+          "lastname": "Mc Carthy",
+          "jumper": "1",
+          "dob": "1943-08-21",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Noel",
           "lastname": "Teasdale",
           "jumper": "2",
@@ -108,14 +116,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Bernie",
-          "lastname": "McCarthy",
-          "jumper": "1",
-          "dob": "1943-08-21",
-          "height": "191cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Karanicolas",
           "jumper": "20",
@@ -124,20 +124,20 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Carr",
-          "jumper": "10",
-          "dob": "1939-04-21",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Snell",
           "jumper": "21",
           "dob": "1942-08-15",
           "height": "185cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Carr",
+          "jumper": "10",
+          "dob": "1939-04-21",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Allen",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Graeme",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "41",
           "dob": "1938-07-19",
           "height": "174cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Barry",
-          "lastname": "McAuliffe",
+          "lastname": "Mc Auliffe",
           "jumper": "28",
           "dob": "1943-10-18",
           "height": "183cm",
@@ -282,14 +282,6 @@
           "dob": "1942-01-27",
           "height": "191cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "McGregor",
-          "jumper": "22",
-          "dob": "1942-03-27",
-          "height": "184cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Ken",
@@ -306,6 +298,14 @@
           "dob": "1935-12-21",
           "height": "188cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Mc Gregor",
+          "jumper": "22",
+          "dob": "1942-03-27",
+          "height": "184cm",
+          "weight": "76kg"
         }
       ]
     }

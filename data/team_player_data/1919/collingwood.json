@@ -29,7 +29,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "PannamJnr",
+          "lastname": "Pannam Jnr",
           "jumper": "15",
           "dob": "1897-04-21",
           "height": "174cm",
@@ -42,30 +42,6 @@
           "dob": "1893-06-12",
           "height": "175cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "Drummond",
-          "jumper": "5",
-          "dob": "1897-08-06",
-          "height": "170cm",
-          "weight": "68kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "TwomeySnr",
-          "jumper": "24",
-          "dob": "1899-05-14",
-          "height": "174cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Curtis",
-          "jumper": "2",
-          "dob": "1892-10-03",
-          "height": "189cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Alec",
@@ -93,11 +69,35 @@
         },
         {
           "firstname": "Con",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "14",
           "dob": "1893-02-10",
           "height": "180cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Drummond",
+          "jumper": "5",
+          "dob": "1897-08-06",
+          "height": "170cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Twomey Snr",
+          "jumper": "24",
+          "dob": "1899-05-14",
+          "height": "174cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Curtis",
+          "jumper": "2",
+          "dob": "1892-10-03",
+          "height": "189cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Bill",
@@ -140,20 +140,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Laxton",
-          "jumper": "11",
-          "dob": "1890-04-09",
-          "height": "170cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Mal",
           "lastname": "Seddon",
           "jumper": "26",
           "dob": "1888-05-31",
           "height": "182cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Laxton",
+          "jumper": "11",
+          "dob": "1890-04-09",
+          "height": "170cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Pen",

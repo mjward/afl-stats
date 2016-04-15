@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Tommy",
+          "lastname": "Quinn",
+          "jumper": "16",
+          "dob": "1908-08-11",
+          "height": "169cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Tom",
           "lastname": "Arklay",
           "jumper": "8",
@@ -18,30 +26,6 @@
           "dob": "1911-01-24",
           "height": "184cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Tommy",
-          "lastname": "Quinn",
-          "jumper": "16",
-          "dob": "1908-08-11",
-          "height": "169cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Hardiman",
-          "jumper": "25",
-          "dob": "1911-04-01",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Evans",
-          "jumper": "5",
-          "dob": "1908-01-19",
-          "height": "182cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Reg",
@@ -84,6 +68,22 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Hardiman",
+          "jumper": "25",
+          "dob": "1911-04-01",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Evans",
+          "jumper": "5",
+          "dob": "1908-01-19",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Allan",
           "lastname": "Everett",
           "jumper": "10",
@@ -92,19 +92,19 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Angie",
-          "lastname": "Muller",
-          "jumper": "28",
-          "dob": "1912-11-13",
-          "height": "175cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Grant",
           "jumper": "14",
           "dob": "1915-09-24",
           "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Angie",
+          "lastname": "Muller",
+          "jumper": "28",
+          "dob": "1912-11-13",
+          "height": "175cm",
           "weight": "82kg"
         },
         {
@@ -180,20 +180,20 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Leo",
-          "lastname": "Dean",
-          "jumper": "1",
-          "dob": "1914-10-04",
-          "height": "168cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Stan",
           "lastname": "Howard",
           "jumper": "3",
           "dob": "1916-04-19",
           "height": "178cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Dean",
+          "jumper": "1",
+          "dob": "1914-10-04",
+          "height": "168cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Neil",

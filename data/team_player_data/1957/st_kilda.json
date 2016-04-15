@@ -4,6 +4,22 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Geoff",
+          "lastname": "Feehan",
+          "jumper": "37",
+          "dob": "1935-01-19",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Mc Carthy",
+          "jumper": "33",
+          "dob": "1936-01-20",
+          "height": "179cm",
+          "weight": "77kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Young",
           "jumper": "15",
@@ -20,30 +36,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Feehan",
-          "jumper": "37",
-          "dob": "1935-01-19",
-          "height": "188cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "McCarthy",
-          "jumper": "33",
-          "dob": "1936-01-20",
-          "height": "179cm",
-          "weight": "77kg"
-        },
-        {
-          "firstname": "Neil",
-          "lastname": "Roberts",
-          "jumper": "10",
-          "dob": "1933-06-15",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Walsh",
           "jumper": "7",
@@ -52,12 +44,12 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Coffey",
-          "jumper": "1",
-          "dob": "1929-03-09",
-          "height": "182cm",
-          "weight": "79kg"
+          "firstname": "Neil",
+          "lastname": "Roberts",
+          "jumper": "10",
+          "dob": "1933-06-15",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Brian",
@@ -92,6 +84,14 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Coffey",
+          "jumper": "1",
+          "dob": "1929-03-09",
+          "height": "182cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Keith",
           "lastname": "Drinan",
           "jumper": "25",
@@ -108,19 +108,19 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Walton",
-          "jumper": "18",
-          "dob": "1936-08-10",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Allan",
           "lastname": "Jeans",
           "jumper": "14",
           "dob": "1933-09-21",
           "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Walton",
+          "jumper": "18",
+          "dob": "1936-08-10",
+          "height": "185cm",
           "weight": "83kg"
         },
         {
@@ -140,20 +140,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Muir",
-          "jumper": "23",
-          "dob": "1936-07-11",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Bud",
           "lastname": "Annand",
           "jumper": "20",
           "dob": "1933-06-18",
           "height": "189cm",
           "weight": "91kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Muir",
+          "jumper": "23",
+          "dob": "1936-07-11",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bob",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1936-08-02",
           "height": "177cm",
@@ -244,14 +244,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Dale",
-          "jumper": "16",
-          "dob": "1929-11-14",
-          "height": "177cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Lindsay",
           "lastname": "Cooke",
           "jumper": "26",
@@ -260,8 +252,16 @@
           "weight": "92kg"
         },
         {
+          "firstname": "Alan",
+          "lastname": "Dale",
+          "jumper": "16",
+          "dob": "1929-11-14",
+          "height": "177cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Milne",
-          "lastname": "McCooke",
+          "lastname": "Mc Cooke",
           "jumper": "38",
           "dob": "1934-10-09",
           "height": "185cm",

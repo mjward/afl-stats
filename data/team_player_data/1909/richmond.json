@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Barney",
+          "lastname": "Herbert",
+          "jumper": "1",
+          "dob": "1889-02-20",
+          "height": "188cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Billy",
           "lastname": "Schmidt",
           "jumper": "18",
@@ -26,14 +34,6 @@
           "dob": "1885-01-01",
           "height": "170cm",
           "weight": "67kg"
-        },
-        {
-          "firstname": "Barney",
-          "lastname": "Herbert",
-          "jumper": "1",
-          "dob": "1889-02-20",
-          "height": "188cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Ivo",
@@ -188,18 +188,18 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Sam",
-          "lastname": "Cooke",
-          "jumper": "—",
-          "dob": "1883-11-05",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Lyster",
           "lastname": "Kirkpatrick",
           "jumper": "—",
           "dob": "1885-07-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Cooke",
+          "jumper": "—",
+          "dob": "1883-11-05",
           "height": "—",
           "weight": "—"
         },
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "19",
           "dob": "1890-08-09",
           "height": "174cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McEwan",
+          "lastname": "Mc Ewan",
           "jumper": "—",
           "dob": "1885-12-14",
           "height": "—",
@@ -268,18 +268,18 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Megson",
+          "firstname": "George",
+          "lastname": "St John",
           "jumper": "—",
-          "dob": "1883-04-20",
+          "dob": "1878-04-14",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "StJohn",
+          "firstname": "Jack",
+          "lastname": "Megson",
           "jumper": "—",
-          "dob": "1878-04-14",
+          "dob": "1883-04-20",
           "height": "—",
           "weight": "—"
         },

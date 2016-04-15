@@ -36,20 +36,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Carkeek",
-          "jumper": "—",
-          "dob": "1878-10-17",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Mick",
           "lastname": "Madden",
           "jumper": "—",
           "dob": "1882-06-21",
           "height": "174cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Carkeek",
+          "jumper": "—",
+          "dob": "1878-10-17",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Austin",
@@ -188,14 +188,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Larkin",
-          "jumper": "—",
-          "dob": "1874-10-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Tod",
           "lastname": "Collins",
           "jumper": "—",
@@ -205,9 +197,17 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "—",
           "dob": "1881-09-24",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Larkin",
+          "jumper": "—",
+          "dob": "1874-10-27",
           "height": "—",
           "weight": "—"
         },
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "—",
           "dob": "1877-03-07",
           "height": "—",
@@ -253,9 +253,17 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "—",
           "dob": "1874-08-06",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Godby",
+          "jumper": "—",
+          "dob": "1880-01-09",
           "height": "—",
           "weight": "—"
         },
@@ -266,14 +274,6 @@
           "dob": "1884-01-01",
           "height": "177cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Godby",
-          "jumper": "—",
-          "dob": "1880-01-09",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Tom",

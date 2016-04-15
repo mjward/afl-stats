@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Don",
+          "lastname": "Harris",
+          "jumper": "2",
+          "dob": "1905-06-27",
+          "height": "174cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Les",
           "lastname": "Gallagher",
           "jumper": "23",
@@ -21,7 +29,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "18",
           "dob": "1904-12-24",
           "height": "185cm",
@@ -29,19 +37,11 @@
         },
         {
           "firstname": "Basil",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "9",
           "dob": "1904-08-03",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "Harris",
-          "jumper": "2",
-          "dob": "1905-06-27",
-          "height": "174cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Alan",
@@ -60,14 +60,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Weidner",
-          "jumper": "7",
-          "dob": "1907-03-03",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Hayes",
           "jumper": "20",
@@ -84,8 +76,16 @@
           "weight": "88kg"
         },
         {
+          "firstname": "Harry",
+          "lastname": "Weidner",
+          "jumper": "7",
+          "dob": "1907-03-03",
+          "height": "175cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Frank",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "25",
           "dob": "1900-05-02",
           "height": "173cm",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Angus",
-          "lastname": "MacIsaac",
+          "lastname": "Mac Isaac",
           "jumper": "24",
           "dob": "1900-04-15",
           "height": "187cm",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "4",
           "dob": "1905-04-16",
           "height": "180cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "21",
           "dob": "1904-06-04",
           "height": "175cm",

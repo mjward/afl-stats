@@ -20,20 +20,20 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Sexton",
-          "jumper": "11",
-          "dob": "1900-02-27",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Colin",
           "lastname": "Niven",
           "jumper": "8",
           "dob": "1903-09-06",
           "height": "183cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Sexton",
+          "jumper": "11",
+          "dob": "1900-02-27",
+          "height": "180cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Frank",
@@ -69,14 +69,14 @@
         },
         {
           "firstname": "Haydn",
-          "lastname": "BuntonSnr",
+          "lastname": "Bunton Snr",
           "jumper": "7",
           "dob": "1911-07-05",
           "height": "179cm",
           "weight": "73kg"
         },
         {
-          "firstname": "Wilfred'Chicken'",
+          "firstname": "Wilfred' Chicken'",
           "lastname": "Smallhorn",
           "jumper": "21",
           "dob": "1911-02-25",
@@ -181,17 +181,9 @@
         },
         {
           "firstname": "Mal",
-          "lastname": "MacRae",
+          "lastname": "Mac Rae",
           "jumper": "19",
           "dob": "1907-10-17",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Ernie",
-          "lastname": "Burnes",
-          "jumper": "3",
-          "dob": "1907-10-29",
           "height": "—",
           "weight": "—"
         },
@@ -202,6 +194,14 @@
           "dob": "1914-11-14",
           "height": "173cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Burnes",
+          "jumper": "3",
+          "dob": "1907-10-29",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Tommy",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "33",
           "dob": "1907-07-02",
           "height": "—",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "McKinley",
+          "lastname": "Mc Kinley",
           "jumper": "—",
           "dob": "1911-08-07",
           "height": "182cm",

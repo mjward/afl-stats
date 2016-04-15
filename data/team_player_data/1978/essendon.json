@@ -20,20 +20,20 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Fletcher",
-          "jumper": "21",
-          "dob": "1948-01-21",
-          "height": "184cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Crow",
           "jumper": "31",
           "dob": "1956-01-07",
           "height": "194cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Fletcher",
+          "jumper": "21",
+          "dob": "1948-01-21",
+          "height": "184cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Wayne",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "VanDerHaar",
+          "lastname": "Van Der Haar",
           "jumper": "18",
           "dob": "1958-03-07",
           "height": "192cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "43",
           "dob": "1956-04-27",
           "height": "185cm",

@@ -5,7 +5,7 @@
       "Sydney": [
         {
           "firstname": "Tom",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "20",
           "dob": "1892-03-09",
           "height": "180cm",
@@ -36,22 +36,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Jock",
-          "lastname": "Doherty",
-          "jumper": "6",
-          "dob": "1894-10-03",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Mark",
-          "lastname": "Tandy",
-          "jumper": "27",
-          "dob": "1892-09-03",
-          "height": "173cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Graham",
           "jumper": "12",
@@ -74,6 +58,30 @@
           "dob": "1889-11-27",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Jock",
+          "lastname": "Doherty",
+          "jumper": "6",
+          "dob": "1894-10-03",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Tandy",
+          "jumper": "27",
+          "dob": "1892-09-03",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Chip",
+          "lastname": "Turner",
+          "jumper": "3",
+          "dob": "1893-06-10",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Jim",
@@ -100,10 +108,10 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Chip",
-          "lastname": "Turner",
-          "jumper": "3",
-          "dob": "1893-06-10",
+          "firstname": "Jack",
+          "lastname": "Howell Snr",
+          "jumper": "14",
+          "dob": "1895-03-16",
           "height": "—",
           "weight": "—"
         },
@@ -112,14 +120,6 @@
           "lastname": "Barber",
           "jumper": "3",
           "dob": "1895-05-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "HowellSnr",
-          "jumper": "14",
-          "dob": "1895-03-16",
           "height": "—",
           "weight": "—"
         },
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "O'Donoghue",
+          "lastname": "O' Donoghue",
           "jumper": "32",
           "dob": "1891-06-03",
           "height": "183cm",
@@ -220,20 +220,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Cummins",
-          "jumper": "7",
-          "dob": "1896-09-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ben",
           "lastname": "Hair",
           "jumper": "15",
           "dob": "1892-09-29",
           "height": "178cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Cummins",
+          "jumper": "7",
+          "dob": "1896-09-26",
+          "height": "—",
+          "weight": "—"
         }
       ]
     }

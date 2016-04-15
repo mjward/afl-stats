@@ -4,6 +4,22 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "Ted",
+          "lastname": "Ryan",
+          "jumper": "25",
+          "dob": "1921-07-17",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Phonse",
+          "lastname": "Kyne",
+          "jumper": "2",
+          "dob": "1915-10-29",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Norm",
           "lastname": "Campbell",
           "jumper": "6",
@@ -26,22 +42,6 @@
           "dob": "1918-02-01",
           "height": "183cm",
           "weight": "79kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Ryan",
-          "jumper": "25",
-          "dob": "1921-07-17",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Phonse",
-          "lastname": "Kyne",
-          "jumper": "2",
-          "dob": "1915-10-29",
-          "height": "188cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Alby",
@@ -68,14 +68,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Marcus",
-          "lastname": "Whelan",
-          "jumper": "28",
-          "dob": "1914-06-27",
-          "height": "175cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Williams",
           "jumper": "29",
@@ -84,11 +76,35 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Marcus",
+          "lastname": "Whelan",
+          "jumper": "28",
+          "dob": "1914-06-27",
+          "height": "175cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Gordon",
           "lastname": "Hocking",
           "jumper": "10",
           "dob": "1919-08-12",
           "height": "178cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Dan",
+          "lastname": "Knott",
+          "jumper": "12",
+          "dob": "1918-06-20",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Smith",
+          "jumper": "26",
+          "dob": "1917-05-06",
+          "height": "180cm",
           "weight": "81kg"
         },
         {
@@ -114,22 +130,6 @@
           "dob": "1923-03-15",
           "height": "170cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Dan",
-          "lastname": "Knott",
-          "jumper": "12",
-          "dob": "1918-06-20",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "Smith",
-          "jumper": "26",
-          "dob": "1917-05-06",
-          "height": "180cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Norm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McHale",
+          "lastname": "Mc Hale",
           "jumper": "17",
           "dob": "1915-01-13",
           "height": "185cm",
@@ -252,20 +252,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Burns",
-          "jumper": "3",
-          "dob": "1918-10-06",
-          "height": "170cm",
-          "weight": "66kg"
-        },
-        {
           "firstname": "Clarrie",
           "lastname": "Swenson",
           "jumper": "33",
           "dob": "1923-05-23",
           "height": "175cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Burns",
+          "jumper": "3",
+          "dob": "1918-10-06",
+          "height": "170cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Norm",

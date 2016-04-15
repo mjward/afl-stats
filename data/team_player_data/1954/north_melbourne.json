@@ -4,16 +4,8 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Allen",
-          "lastname": "Aylett",
-          "jumper": "17",
-          "dob": "1934-04-24",
-          "height": "174cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Kevin",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "21",
           "dob": "1930-05-17",
           "height": "170cm",
@@ -28,28 +20,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Allen",
+          "lastname": "Aylett",
+          "jumper": "17",
+          "dob": "1934-04-24",
+          "height": "174cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Brady",
           "jumper": "20",
           "dob": "1932-02-20",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Mick",
-          "lastname": "Grambeau",
-          "jumper": "1",
-          "dob": "1930-01-01",
-          "height": "188cm",
-          "weight": "91kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Larsen",
-          "jumper": "33",
-          "dob": "1923-07-19",
-          "height": "185cm",
-          "weight": "101kg"
         },
         {
           "firstname": "Len",
@@ -68,12 +52,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Jock",
-          "lastname": "Lineen",
-          "jumper": "25",
-          "dob": "1928-02-17",
-          "height": "191cm",
-          "weight": "86kg"
+          "firstname": "Mick",
+          "lastname": "Grambeau",
+          "jumper": "1",
+          "dob": "1930-01-01",
+          "height": "188cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Larsen",
+          "jumper": "33",
+          "dob": "1923-07-19",
+          "height": "185cm",
+          "weight": "101kg"
         },
         {
           "firstname": "Pat",
@@ -90,6 +82,14 @@
           "dob": "1926-10-17",
           "height": "188cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Jock",
+          "lastname": "Lineen",
+          "jumper": "25",
+          "dob": "1928-02-17",
+          "height": "191cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Neil",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "5",
           "dob": "1929-07-09",
           "height": "174cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "16",
           "dob": "1931-11-30",
           "height": "191cm",

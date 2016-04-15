@@ -22,7 +22,7 @@ namespace :afl do
     desc "Scrape AusFootbal website for player info"
     task player_data: :environment do
       # Team.all.each do |team|
-        (1897..2015).each do |year|
+        (1971..2016).each do |year|
           puts "### #{year}"
           Scrapers::AustralianFootball::PlayerScraper.new(year).execute
         end

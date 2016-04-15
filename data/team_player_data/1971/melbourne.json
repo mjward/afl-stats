@@ -4,6 +4,14 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Peter",
+          "lastname": "Keenan",
+          "jumper": "8",
+          "dob": "1951-04-07",
+          "height": "197cm",
+          "weight": "99kg"
+        },
+        {
           "firstname": "Paul",
           "lastname": "Callery",
           "jumper": "35",
@@ -20,12 +28,12 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Keenan",
-          "jumper": "8",
-          "dob": "1951-04-07",
-          "height": "197cm",
-          "weight": "99kg"
+          "firstname": "Tony",
+          "lastname": "Sullivan",
+          "jumper": "4",
+          "dob": "1949-01-18",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Frank",
@@ -36,14 +44,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Tony",
-          "lastname": "Sullivan",
-          "jumper": "4",
-          "dob": "1949-01-18",
-          "height": "180cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Greg",
           "lastname": "Parke",
           "jumper": "26",
@@ -52,20 +52,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "Hardeman",
-          "jumper": "33",
-          "dob": "1950-02-26",
-          "height": "187cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Denis",
           "lastname": "Clark",
           "jumper": "17",
           "dob": "1950-04-22",
           "height": "174cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Hardeman",
+          "jumper": "33",
+          "dob": "1950-02-26",
+          "height": "187cm",
+          "weight": "86kg"
         },
         {
           "firstname": "John",
@@ -132,14 +132,6 @@
           "weight": "82kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Lakes",
-          "jumper": "9",
-          "dob": "1949-08-23",
-          "height": "185cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Walker",
           "jumper": "1",
@@ -148,8 +140,16 @@
           "weight": "84kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Lakes",
+          "jumper": "9",
+          "dob": "1949-08-23",
+          "height": "185cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Robert",
-          "lastname": "McKenzieJnr",
+          "lastname": "Mc Kenzie Jnr",
           "jumper": "2",
           "dob": "1950-05-31",
           "height": "180cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Shane",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "50",
           "dob": "1952-08-05",
           "height": "185cm",
@@ -268,20 +268,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Brent",
-          "lastname": "Jones",
-          "jumper": "34",
-          "dob": "1946-01-04",
-          "height": "191cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Henry",
           "lastname": "Ritterman",
           "jumper": "45",
           "dob": "1951-09-20",
           "height": "173cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Brent",
+          "lastname": "Jones",
+          "jumper": "34",
+          "dob": "1946-01-04",
+          "height": "191cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Stephen",

@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Donald",
-          "lastname": "Don",
-          "jumper": "17",
-          "dob": "1900-08-17",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Barney",
           "lastname": "Herbert",
           "jumper": "1",
@@ -33,6 +25,14 @@
           "jumper": "10",
           "dob": "1899-01-25",
           "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Donald",
+          "lastname": "Don",
+          "jumper": "17",
+          "dob": "1900-08-17",
+          "height": "175cm",
           "weight": "76kg"
         },
         {
@@ -84,14 +84,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Bayliss",
-          "jumper": "2",
-          "dob": "1895-03-30",
-          "height": "179cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Artie",
           "lastname": "Bettles",
           "jumper": "16",
@@ -101,11 +93,19 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "HughesSnr",
+          "lastname": "Hughes Snr",
           "jumper": "32",
           "dob": "1894-02-26",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Bayliss",
+          "jumper": "2",
+          "dob": "1895-03-30",
+          "height": "179cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Bob",
@@ -148,7 +148,7 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "4",
           "dob": "1886-11-10",

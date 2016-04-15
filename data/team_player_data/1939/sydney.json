@@ -12,22 +12,6 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Pratt",
-          "jumper": "10",
-          "dob": "1912-08-31",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Herbie",
-          "lastname": "MatthewsSnr",
-          "jumper": "1",
-          "dob": "1913-11-12",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Cleary",
           "jumper": "20",
@@ -42,6 +26,22 @@
           "dob": "1916-05-07",
           "height": "191cm",
           "weight": "99kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Pratt",
+          "jumper": "10",
+          "dob": "1912-08-31",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Herbie",
+          "lastname": "Matthews Snr",
+          "jumper": "1",
+          "dob": "1913-11-12",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ken",
@@ -68,20 +68,20 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Wilbur",
-          "lastname": "Harris",
-          "jumper": "33",
-          "dob": "1912-05-28",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Alex",
           "lastname": "Mitchell",
           "jumper": "18",
           "dob": "1912-05-16",
           "height": "180cm",
           "weight": "93kg"
+        },
+        {
+          "firstname": "Wilbur",
+          "lastname": "Harris",
+          "jumper": "33",
+          "dob": "1912-05-28",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Reg",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "12",
           "dob": "1912-01-10",
           "height": "180cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Clarrie",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "17",
           "dob": "1909-10-13",
           "height": "184cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Lindsay",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "12",
           "dob": "1918-08-13",
           "height": "183cm",

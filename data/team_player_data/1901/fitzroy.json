@@ -4,27 +4,19 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Lou",
-          "lastname": "Barker",
-          "jumper": "—",
-          "dob": "1876-05-26",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Bill",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "—",
           "dob": "1874-09-25",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Gerald",
-          "lastname": "Brosnan",
+          "firstname": "Lou",
+          "lastname": "Barker",
           "jumper": "—",
-          "dob": "1877-08-14",
-          "height": "175cm",
+          "dob": "1876-05-26",
+          "height": "179cm",
           "weight": "76kg"
         },
         {
@@ -44,12 +36,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Percy",
-          "lastname": "Trotter",
+          "firstname": "Gerald",
+          "lastname": "Brosnan",
           "jumper": "—",
-          "dob": "1883-09-01",
-          "height": "—",
-          "weight": "—"
+          "dob": "1877-08-14",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Eddie",
@@ -60,12 +52,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Sharp",
+          "firstname": "Percy",
+          "lastname": "Trotter",
           "jumper": "—",
-          "dob": "1882-05-17",
-          "height": "179cm",
-          "weight": "83kg"
+          "dob": "1883-09-01",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Harry",
@@ -82,6 +74,14 @@
           "dob": "1878-05-06",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Sharp",
+          "jumper": "—",
+          "dob": "1882-05-17",
+          "height": "179cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Chris",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McEwen",
+          "lastname": "Mc Ewen",
           "jumper": "—",
           "dob": "1877-04-02",
           "height": "—",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Alf",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1876-11-30",
           "height": "—",

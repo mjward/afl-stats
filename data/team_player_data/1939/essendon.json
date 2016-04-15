@@ -4,20 +4,20 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Tom",
-          "lastname": "Reynolds",
-          "jumper": "29",
-          "dob": "1916-11-21",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Cassin",
           "jumper": "19",
           "dob": "1915-07-01",
           "height": "183cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Reynolds",
+          "jumper": "29",
+          "dob": "1916-11-21",
+          "height": "180cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Ray",
@@ -60,22 +60,6 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "Coward",
-          "jumper": "1",
-          "dob": "1916-01-27",
-          "height": "170cm",
-          "weight": "67kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Pattinson",
-          "jumper": "25",
-          "dob": "1914-05-06",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Baker",
           "jumper": "7",
@@ -98,6 +82,22 @@
           "dob": "1912-10-12",
           "height": "180cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Coward",
+          "jumper": "1",
+          "dob": "1916-01-27",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Pattinson",
+          "jumper": "25",
+          "dob": "1914-05-06",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Jack",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McDermott",
+          "lastname": "Mc Dermott",
           "jumper": "2",
           "dob": "1913-05-13",
           "height": "173cm",
@@ -228,20 +228,20 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Green",
-          "jumper": "32",
-          "dob": "1914-10-12",
-          "height": "183cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Chris",
           "lastname": "Lambert",
           "jumper": "27",
           "dob": "1920-03-12",
           "height": "170cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Green",
+          "jumper": "32",
+          "dob": "1914-10-12",
+          "height": "183cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ron",

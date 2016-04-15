@@ -44,14 +44,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Zinnick",
-          "jumper": "14",
-          "dob": "1896-03-31",
-          "height": "180cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Ogden",
           "jumper": "16",
@@ -60,20 +52,20 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Charlie",
+          "lastname": "Zinnick",
+          "jumper": "14",
+          "dob": "1896-03-31",
+          "height": "180cm",
+          "weight": "91kg"
+        },
+        {
           "firstname": "Fred",
           "lastname": "Baring",
           "jumper": "5",
           "dob": "1890-12-15",
           "height": "185cm",
           "weight": "90kg"
-        },
-        {
-          "firstname": "Tommy",
-          "lastname": "Jenkins",
-          "jumper": "21",
-          "dob": "1902-06-06",
-          "height": "173cm",
-          "weight": "93kg"
         },
         {
           "firstname": "Frank",
@@ -92,6 +84,14 @@
           "weight": "74kg"
         },
         {
+          "firstname": "Tommy",
+          "lastname": "Jenkins",
+          "jumper": "21",
+          "dob": "1902-06-06",
+          "height": "173cm",
+          "weight": "93kg"
+        },
+        {
           "firstname": "Les",
           "lastname": "Woodfield",
           "jumper": "17",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "20",
           "dob": "1899-09-21",
           "height": "—",
@@ -148,14 +148,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Collins",
-          "jumper": "22",
-          "dob": "1896-05-29",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Col",
           "lastname": "Laidlaw",
           "jumper": "12",
@@ -173,7 +165,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "BarkerSnr",
+          "lastname": "Barker Snr",
           "jumper": "1",
           "dob": "1887-11-26",
           "height": "183cm",
@@ -186,6 +178,14 @@
           "dob": "1897-08-20",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Collins",
+          "jumper": "22",
+          "dob": "1896-05-29",
+          "height": "179cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Vince",

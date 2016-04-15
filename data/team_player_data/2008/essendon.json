@@ -1,0 +1,329 @@
+{
+  "team_player_data": {
+    "year": 2008,
+    "teams": {
+      "Essendon": [
+        {
+          "firstname": "Brent",
+          "lastname": "Stanton",
+          "jumper": "5",
+          "dob": "1986-05-01",
+          "height": "182cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Patrick",
+          "lastname": "Ryder",
+          "jumper": "30",
+          "dob": "1988-03-14",
+          "height": "197cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Jay",
+          "lastname": "Nash",
+          "jumper": "17",
+          "dob": "1985-12-21",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Lloyd",
+          "jumper": "18",
+          "dob": "1978-04-16",
+          "height": "192cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Slattery",
+          "jumper": "20",
+          "dob": "1986-01-22",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Nathan",
+          "lastname": "Lovett- Murray",
+          "jumper": "42",
+          "dob": "1982-11-18",
+          "height": "190cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Adam",
+          "lastname": "Mc Phee",
+          "jumper": "33",
+          "dob": "1982-10-06",
+          "height": "190cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Hille",
+          "jumper": "19",
+          "dob": "1981-06-02",
+          "height": "201cm",
+          "weight": "109kg"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Lonergan",
+          "jumper": "36",
+          "dob": "1987-03-26",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jobe",
+          "lastname": "Watson",
+          "jumper": "4",
+          "dob": "1985-02-08",
+          "height": "190cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Angus",
+          "lastname": "Monfries",
+          "jumper": "6",
+          "dob": "1987-01-19",
+          "height": "184cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Leroy",
+          "lastname": "Jetta",
+          "jumper": "7",
+          "dob": "1988-07-06",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Adam",
+          "lastname": "Ramanauskas",
+          "jumper": "9",
+          "dob": "1980-11-19",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Dustin",
+          "lastname": "Fletcher",
+          "jumper": "31",
+          "dob": "1975-05-07",
+          "height": "198cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Lovett",
+          "jumper": "13",
+          "dob": "1982-11-11",
+          "height": "183cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Welsh",
+          "jumper": "12",
+          "dob": "1983-02-11",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Laycock",
+          "jumper": "27",
+          "dob": "1984-11-04",
+          "height": "201cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "Ricky",
+          "lastname": "Dyson",
+          "jumper": "2",
+          "dob": "1985-09-28",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Mal",
+          "lastname": "Michael",
+          "jumper": "22",
+          "dob": "1977-06-24",
+          "height": "190cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Kyle",
+          "lastname": "Reimers",
+          "jumper": "37",
+          "dob": "1989-01-10",
+          "height": "182cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Mc Veigh",
+          "jumper": "10",
+          "dob": "1981-01-26",
+          "height": "184cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Damien",
+          "lastname": "Peverill",
+          "jumper": "11",
+          "dob": "1979-07-12",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Bachar",
+          "lastname": "Houli",
+          "jumper": "43",
+          "dob": "1988-05-12",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Scott",
+          "lastname": "Lucas",
+          "jumper": "25",
+          "dob": "1977-12-30",
+          "height": "192cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Winderlich",
+          "jumper": "8",
+          "dob": "1984-10-10",
+          "height": "188cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Myers",
+          "jumper": "23",
+          "dob": "1989-06-30",
+          "height": "190cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Jay",
+          "lastname": "Neagle",
+          "jumper": "1",
+          "dob": "1988-01-17",
+          "height": "191cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "Jarrod",
+          "lastname": "Atkinson",
+          "jumper": "38",
+          "dob": "1985-02-21",
+          "height": "192cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Tayte",
+          "lastname": "Pears",
+          "jumper": "16",
+          "dob": "1990-03-24",
+          "height": "191cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Alwyn",
+          "lastname": "Davey",
+          "jumper": "29",
+          "dob": "1984-05-15",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Johnson",
+          "jumper": "14",
+          "dob": "1978-01-25",
+          "height": "181cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Rhys",
+          "lastname": "Magin",
+          "jumper": "34",
+          "dob": "1989-03-04",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Courtenay",
+          "lastname": "Dempsey",
+          "jumper": "15",
+          "dob": "1987-08-28",
+          "height": "186cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Hislop",
+          "jumper": "35",
+          "dob": "1988-06-07",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Bellchambers",
+          "jumper": "44",
+          "dob": "1989-07-09",
+          "height": "201cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Heath",
+          "lastname": "Hocking",
+          "jumper": "39",
+          "dob": "1987-12-27",
+          "height": "187cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Darcy",
+          "lastname": "Daniher",
+          "jumper": "28",
+          "dob": "1989-09-21",
+          "height": "191cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Cale",
+          "lastname": "Hooker",
+          "jumper": "26",
+          "dob": "1988-10-13",
+          "height": "196cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Courtney",
+          "lastname": "Johns",
+          "jumper": "21",
+          "dob": "1984-11-14",
+          "height": "194cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Jon",
+          "lastname": "Williams",
+          "jumper": "24",
+          "dob": "1988-10-08",
+          "height": "188cm",
+          "weight": "83kg"
+        }
+      ]
+    }
+  }
+}

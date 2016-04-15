@@ -20,20 +20,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Davidson",
-          "jumper": "53",
-          "dob": "1954-04-26",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Edmond",
           "jumper": "20",
           "dob": "1958-09-03",
           "height": "183cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Davidson",
+          "jumper": "53",
+          "dob": "1954-04-26",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ian",
@@ -60,14 +60,6 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Jennings",
-          "jumper": "25",
-          "dob": "1955-04-04",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Neil",
           "lastname": "Cordy",
           "jumper": "29",
@@ -92,8 +84,16 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Geoff",
+          "lastname": "Jennings",
+          "jumper": "25",
+          "dob": "1955-04-04",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Ted",
-          "lastname": "WhittenJnr",
+          "lastname": "Whitten Jnr",
           "jumper": "22",
           "dob": "1957-03-15",
           "height": "178cm",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "34",
           "dob": "1961-04-04",
           "height": "171cm",
@@ -148,20 +148,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Bruce",
+          "lastname": "Reid Jnr",
+          "jumper": "5",
+          "dob": "1955-12-23",
+          "height": "191cm",
+          "weight": "90kg"
+        },
+        {
           "firstname": "Doug",
           "lastname": "Hawkins",
           "jumper": "7",
           "dob": "1960-05-05",
           "height": "180cm",
           "weight": "79kg"
-        },
-        {
-          "firstname": "Bruce",
-          "lastname": "ReidJnr",
-          "jumper": "5",
-          "dob": "1955-12-23",
-          "height": "191cm",
-          "weight": "90kg"
         },
         {
           "firstname": "Peter",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "McConnell",
+          "lastname": "Mc Connell",
           "jumper": "28",
           "dob": "1957-03-30",
           "height": "178cm",
@@ -228,20 +228,20 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Terry",
+          "lastname": "De Konning",
+          "jumper": "11",
+          "dob": "1961-05-10",
+          "height": "196cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Mick",
           "lastname": "Egan",
           "jumper": "10",
           "dob": "1958-02-18",
           "height": "173cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Terry",
-          "lastname": "DeKonning",
-          "jumper": "11",
-          "dob": "1961-05-10",
-          "height": "196cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Mick",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "36",
           "dob": "1956-12-10",
           "height": "196cm",
@@ -316,20 +316,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Chris",
-          "lastname": "Burton",
-          "jumper": "36",
-          "dob": "1961-10-21",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Bryan",
           "lastname": "Edwards",
           "jumper": "50",
           "dob": "1957-03-09",
           "height": "185cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Burton",
+          "jumper": "36",
+          "dob": "1961-10-21",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Greg",

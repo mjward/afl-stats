@@ -4,22 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "George",
-          "lastname": "Angus",
-          "jumper": "—",
-          "dob": "1875-04-15",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
-          "jumper": "17",
-          "dob": "1882-12-12",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Leach",
           "jumper": "—",
@@ -52,6 +36,30 @@
           "weight": "80kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Angus",
+          "jumper": "—",
+          "dob": "1875-04-15",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
+          "jumper": "17",
+          "dob": "1882-12-12",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Lee",
+          "jumper": "13",
+          "dob": "1889-03-19",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Gibb",
           "jumper": "5",
@@ -68,14 +76,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Lee",
-          "jumper": "13",
-          "dob": "1889-03-19",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Baxter",
           "jumper": "3",
@@ -84,20 +84,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Wilcher",
-          "jumper": "—",
-          "dob": "1883-08-10",
-          "height": "178cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Green",
           "jumper": "—",
           "dob": "1882-08-05",
           "height": "174cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Wilcher",
+          "jumper": "—",
+          "dob": "1883-08-10",
+          "height": "178cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Ernie",
@@ -132,20 +132,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Dave",
-          "lastname": "O'Donoghue",
-          "jumper": "—",
-          "dob": "1885-07-11",
-          "height": "179cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Diggle",
           "jumper": "—",
           "dob": "1889-03-13",
           "height": "180cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "O' Donoghue",
+          "jumper": "—",
+          "dob": "1885-07-11",
+          "height": "179cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Bob",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MonohanSnr",
+          "lastname": "Monohan Snr",
           "jumper": "—",
           "dob": "1873-08-21",
           "height": "184cm",

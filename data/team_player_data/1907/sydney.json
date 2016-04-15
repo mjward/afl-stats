@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "George",
-          "lastname": "Anderson",
-          "jumper": "—",
-          "dob": "1886-11-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Vic",
           "lastname": "Belcher",
           "jumper": "2",
@@ -24,6 +16,14 @@
           "lastname": "Dolphin",
           "jumper": "—",
           "dob": "1881-11-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Anderson",
+          "jumper": "—",
+          "dob": "1886-11-24",
           "height": "—",
           "weight": "—"
         },
@@ -68,6 +68,14 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Strang",
+          "jumper": "24",
+          "dob": "1883-10-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Cameron",
           "jumper": "—",
@@ -80,14 +88,6 @@
           "lastname": "Kerr",
           "jumper": "—",
           "dob": "1882-09-01",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Strang",
-          "jumper": "24",
-          "dob": "1883-10-07",
           "height": "—",
           "weight": "—"
         },
@@ -116,6 +116,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Charlie",
+          "lastname": "Ricketts",
+          "jumper": "1",
+          "dob": "1885-07-03",
+          "height": "173cm",
+          "weight": "68kg"
+        },
+        {
           "firstname": "Phonse",
           "lastname": "Wood",
           "jumper": "—",
@@ -130,14 +138,6 @@
           "dob": "1886-04-21",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Ricketts",
-          "jumper": "1",
-          "dob": "1885-07-03",
-          "height": "173cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Lindsay",
@@ -188,7 +188,7 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "25",
           "dob": "1886-11-10",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "—",
           "dob": "1877-06-15",
           "height": "—",
@@ -252,20 +252,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Roach",
-          "jumper": "—",
-          "dob": "1885-12-20",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Teddy",
           "lastname": "Buist",
           "jumper": "—",
           "dob": "1885-05-04",
           "height": "170cm",
           "weight": "63kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Roach",
+          "jumper": "—",
+          "dob": "1885-12-20",
+          "height": "—",
+          "weight": "—"
         }
       ]
     }

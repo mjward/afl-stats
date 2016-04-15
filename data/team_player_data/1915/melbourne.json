@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Bill",
-          "lastname": "Allen",
-          "jumper": "9",
-          "dob": "1889-07-07",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Huntington",
           "jumper": "28",
@@ -36,6 +28,22 @@
           "weight": "—"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Allen",
+          "jumper": "9",
+          "dob": "1889-07-07",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Lilley",
+          "jumper": "6",
+          "dob": "1892-07-03",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Harry",
           "lastname": "Brereton",
           "jumper": "7",
@@ -52,24 +60,16 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Jack'Dookie'",
-          "lastname": "McKenzie",
+          "firstname": "Jack' Dookie'",
+          "lastname": "Mc Kenzie",
           "jumper": "3",
           "dob": "1882-11-12",
           "height": "178cm",
           "weight": "76kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Lilley",
-          "jumper": "6",
-          "dob": "1892-07-03",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Bill",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "18",
           "dob": "1889-01-31",
           "height": "165cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Martin",
-          "lastname": "McQuade",
+          "lastname": "Mc Quade",
           "jumper": "30",
           "dob": "1894-10-19",
           "height": "170cm",

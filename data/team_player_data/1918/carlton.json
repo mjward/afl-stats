@@ -4,6 +4,14 @@
     "teams": {
       "Carlton": [
         {
+          "firstname": "Steve",
+          "lastname": "Leehane",
+          "jumper": "6",
+          "dob": "1891-10-20",
+          "height": "179cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Ernie",
           "lastname": "Cowley",
           "jumper": "17",
@@ -20,24 +28,8 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Steve",
-          "lastname": "Leehane",
-          "jumper": "6",
-          "dob": "1891-10-20",
-          "height": "179cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Percy",
-          "lastname": "Daykin",
-          "jumper": "2",
-          "dob": "1890-07-07",
-          "height": "174cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Paddy",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "10",
           "dob": "1893-04-16",
           "height": "183cm",
@@ -52,12 +44,12 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Fisher",
-          "jumper": "7",
-          "dob": "1892-11-17",
-          "height": "178cm",
-          "weight": "89kg"
+          "firstname": "Percy",
+          "lastname": "Daykin",
+          "jumper": "2",
+          "dob": "1890-07-07",
+          "height": "174cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Mick",
@@ -77,11 +69,19 @@
         },
         {
           "firstname": "Andy",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "3",
           "dob": "1885-12-27",
           "height": "165cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Fisher",
+          "jumper": "7",
+          "dob": "1892-11-17",
+          "height": "178cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Dave",
@@ -100,20 +100,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Martin",
-          "jumper": "25",
-          "dob": "1895-06-30",
-          "height": "174cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Woolley",
           "jumper": "32",
           "dob": "1886-01-15",
           "height": "182cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Martin",
+          "jumper": "25",
+          "dob": "1895-06-30",
+          "height": "174cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Bill",
@@ -124,20 +124,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Rod",
-          "lastname": "McGregor",
-          "jumper": "11",
-          "dob": "1882-10-19",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Viv",
           "lastname": "Valentine",
           "jumper": "4",
           "dob": "1887-12-03",
           "height": "168cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Mc Gregor",
+          "jumper": "11",
+          "dob": "1882-10-19",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Harry",
@@ -164,22 +164,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Stewart",
-          "jumper": "7",
-          "dob": "1892-02-23",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Lyle",
-          "lastname": "Downs",
-          "jumper": "28",
-          "dob": "1896-07-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Furnell",
           "jumper": "1",
@@ -196,6 +180,22 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Ray",
+          "lastname": "Stewart",
+          "jumper": "7",
+          "dob": "1892-02-23",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Lyle",
+          "lastname": "Downs",
+          "jumper": "28",
+          "dob": "1896-07-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Keily",
           "jumper": "8",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Phil",
-          "lastname": "McCumisky",
+          "lastname": "Mc Cumisky",
           "jumper": "31",
           "dob": "1897-05-28",
           "height": "—",

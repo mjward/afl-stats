@@ -12,6 +12,22 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Vin",
+          "lastname": "Coutie",
+          "jumper": "—",
+          "dob": "1881-10-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Fitzpatrick",
+          "jumper": "12",
+          "dob": "1886-07-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bobby",
           "lastname": "Monk",
           "jumper": "16",
@@ -28,18 +44,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Vin",
-          "lastname": "Coutie",
+          "firstname": "Henry",
+          "lastname": "Wright",
           "jumper": "—",
-          "dob": "1881-10-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Fitzpatrick",
-          "jumper": "12",
-          "dob": "1886-07-21",
+          "dob": "1882-02-24",
           "height": "—",
           "weight": "—"
         },
@@ -64,14 +72,6 @@
           "lastname": "Jones",
           "jumper": "—",
           "dob": "1885-05-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Henry",
-          "lastname": "Wright",
-          "jumper": "—",
-          "dob": "1882-02-24",
           "height": "—",
           "weight": "—"
         },
@@ -196,20 +196,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Cope",
-          "jumper": "20",
-          "dob": "1881-01-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Baquie",
           "jumper": "11",
           "dob": "1886-07-10",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Cope",
+          "jumper": "20",
+          "dob": "1881-01-28",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Bill",
@@ -244,20 +244,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Fowler",
-          "jumper": "—",
-          "dob": "1890-02-13",
-          "height": "177cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Bonelli",
           "jumper": "—",
           "dob": "1884-12-17",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Fowler",
+          "jumper": "—",
+          "dob": "1890-02-13",
+          "height": "177cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Jack",
@@ -276,18 +276,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Gillespie",
+          "firstname": "George",
+          "lastname": "Mc Cart",
           "jumper": "—",
-          "dob": "1887-05-14",
+          "dob": "1883-06-24",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "McCart",
+          "firstname": "Bill",
+          "lastname": "Gillespie",
           "jumper": "—",
-          "dob": "1883-06-24",
+          "dob": "1887-05-14",
           "height": "—",
           "weight": "—"
         },

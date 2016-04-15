@@ -20,14 +20,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Bert",
-          "lastname": "Mills",
-          "jumper": "12",
-          "dob": "1910-02-16",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Williams",
           "jumper": "3",
@@ -42,6 +34,14 @@
           "dob": "1913-07-11",
           "height": "183cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Mills",
+          "jumper": "12",
+          "dob": "1910-02-16",
+          "height": "180cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Jack",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "HirdSnr",
+          "lastname": "Hird Snr",
           "jumper": "34",
           "dob": "1918-08-11",
           "height": "188cm",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "VanDerBist",
+          "lastname": "Van Der Bist",
           "jumper": "32",
           "dob": "1915-06-15",
           "height": "166cm",
@@ -236,20 +236,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Neil",
-          "lastname": "Allison",
-          "jumper": "9",
-          "dob": "1912-10-11",
-          "height": "171cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Howard",
           "lastname": "Day",
           "jumper": "2",
           "dob": "1917-08-10",
           "height": "177cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Neil",
+          "lastname": "Allison",
+          "jumper": "9",
+          "dob": "1912-10-11",
+          "height": "171cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Andy",

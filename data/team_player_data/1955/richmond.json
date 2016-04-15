@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Jim",
+          "lastname": "Deane",
+          "jumper": "11",
+          "dob": "1928-01-02",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Allan",
           "lastname": "Cations",
           "jumper": "33",
@@ -18,22 +26,6 @@
           "dob": "1925-04-20",
           "height": "170cm",
           "weight": "68kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Deane",
-          "jumper": "11",
-          "dob": "1928-01-02",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "Wright",
-          "jumper": "2",
-          "dob": "1929-02-23",
-          "height": "188cm",
-          "weight": "103kg"
         },
         {
           "firstname": "Ron",
@@ -68,6 +60,14 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Roy",
+          "lastname": "Wright",
+          "jumper": "2",
+          "dob": "1929-02-23",
+          "height": "188cm",
+          "weight": "103kg"
+        },
+        {
           "firstname": "Ray",
           "lastname": "Poulter",
           "jumper": "24",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "14",
           "dob": "1933-08-12",
           "height": "189cm",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Ken",
-          "lastname": "McGown",
+          "lastname": "Mc Gown",
           "jumper": "12",
           "dob": "1936-03-22",
           "height": "180cm",
@@ -188,20 +188,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Laurie",
-          "lastname": "Sharp",
-          "jumper": "6",
-          "dob": "1935-08-25",
-          "height": "178cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Morris",
           "jumper": "38",
           "dob": "1933-07-26",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Laurie",
+          "lastname": "Sharp",
+          "jumper": "6",
+          "dob": "1935-08-25",
+          "height": "178cm",
+          "weight": "83kg"
         },
         {
           "firstname": "John",

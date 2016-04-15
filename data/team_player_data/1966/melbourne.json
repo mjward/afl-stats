@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Stan",
-          "lastname": "Alves",
-          "jumper": "15",
-          "dob": "1946-05-22",
-          "height": "178cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Bryan",
-          "lastname": "Kenneally",
-          "jumper": "22",
-          "dob": "1942-03-26",
-          "height": "180cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Don",
           "lastname": "Williams",
           "jumper": "35",
@@ -36,7 +20,7 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Bob'Tassie'",
+          "firstname": "Bob' Tassie'",
           "lastname": "Johnson",
           "jumper": "8",
           "dob": "1937-12-02",
@@ -44,12 +28,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Neville",
-          "lastname": "Stone",
-          "jumper": "18",
-          "dob": "1946-12-14",
-          "height": "182cm",
-          "weight": "80kg"
+          "firstname": "Stan",
+          "lastname": "Alves",
+          "jumper": "15",
+          "dob": "1946-05-22",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Bryan",
+          "lastname": "Kenneally",
+          "jumper": "22",
+          "dob": "1942-03-26",
+          "height": "180cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Ray",
@@ -76,6 +68,14 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Neville",
+          "lastname": "Stone",
+          "jumper": "18",
+          "dob": "1946-12-14",
+          "height": "182cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Bourke",
           "jumper": "14",
@@ -84,20 +84,20 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Harold'Hassa'",
-          "lastname": "Mann",
-          "jumper": "29",
-          "dob": "1940-10-10",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Emselle",
           "jumper": "10",
           "dob": "1944-06-17",
           "height": "174cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Harold' Hassa'",
+          "lastname": "Mann",
+          "jumper": "29",
+          "dob": "1940-10-10",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Adrian",
@@ -268,20 +268,20 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Osborne",
-          "jumper": "51",
-          "dob": "1948-09-26",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Langford",
           "jumper": "52",
           "dob": "1948-10-03",
           "height": "188cm",
           "weight": "97kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Osborne",
+          "jumper": "51",
+          "dob": "1948-09-26",
+          "height": "183cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Tony",

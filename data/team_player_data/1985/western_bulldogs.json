@@ -4,38 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Brad",
-          "lastname": "Hardie",
-          "jumper": "4",
-          "dob": "1962-10-10",
-          "height": "181cm",
-          "weight": "88kg"
-        },
-        {
-          "firstname": "Tony",
-          "lastname": "Buhagiar",
-          "jumper": "21",
-          "dob": "1955-10-03",
-          "height": "166cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Sewell",
-          "jumper": "2",
-          "dob": "1956-02-03",
-          "height": "188cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Stephen",
-          "lastname": "MacPherson",
-          "jumper": "27",
-          "dob": "1964-12-02",
-          "height": "178cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Cordy",
           "jumper": "49",
@@ -66,6 +34,38 @@
           "dob": "1961-12-12",
           "height": "175cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Brad",
+          "lastname": "Hardie",
+          "jumper": "4",
+          "dob": "1962-10-10",
+          "height": "181cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Buhagiar",
+          "jumper": "21",
+          "dob": "1955-10-03",
+          "height": "166cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Sewell",
+          "jumper": "2",
+          "dob": "1956-02-03",
+          "height": "188cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Mac Pherson",
+          "jumper": "27",
+          "dob": "1964-12-02",
+          "height": "178cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Les",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "51",
           "dob": "1965-03-03",
           "height": "180cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Rod",
-          "lastname": "MacPherson",
+          "lastname": "Mac Pherson",
           "jumper": "43",
           "dob": "1963-09-21",
           "height": "177cm",

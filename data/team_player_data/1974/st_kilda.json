@@ -36,14 +36,6 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Mynott",
-          "jumper": "2",
-          "dob": "1944-01-29",
-          "height": "193cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Stuart",
           "lastname": "Trott",
           "jumper": "7",
@@ -60,20 +52,12 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Wayne",
-          "lastname": "Judson",
-          "jumper": "42",
-          "dob": "1952-07-11",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Glenn",
-          "lastname": "Elliott",
-          "jumper": "8",
-          "dob": "1950-08-15",
-          "height": "183cm",
-          "weight": "78kg"
+          "firstname": "Brian",
+          "lastname": "Mynott",
+          "jumper": "2",
+          "dob": "1944-01-29",
+          "height": "193cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Jeff",
@@ -90,6 +74,22 @@
           "dob": "1949-02-03",
           "height": "185cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Judson",
+          "jumper": "42",
+          "dob": "1952-07-11",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Glenn",
+          "lastname": "Elliott",
+          "jumper": "8",
+          "dob": "1950-08-15",
+          "height": "183cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Paul",
@@ -116,20 +116,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Russell",
-          "lastname": "Reynolds",
-          "jumper": "21",
-          "dob": "1951-02-04",
-          "height": "182cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Stephen",
           "lastname": "Theodore",
           "jumper": "23",
           "dob": "1950-12-18",
           "height": "178cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Russell",
+          "lastname": "Reynolds",
+          "jumper": "21",
+          "dob": "1951-02-04",
+          "height": "182cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Travis",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",

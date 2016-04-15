@@ -4,38 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Syd",
-          "lastname": "CoventrySnr",
-          "jumper": "8",
-          "dob": "1899-06-13",
-          "height": "182cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Collier",
-          "jumper": "5",
-          "dob": "1907-10-01",
-          "height": "173cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Beveridge",
-          "jumper": "2",
-          "dob": "1907-05-08",
-          "height": "177cm",
-          "weight": "77kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Murphy",
-          "jumper": "20",
-          "dob": "1905-02-20",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Makeham",
           "jumper": "15",
@@ -74,6 +42,38 @@
           "dob": "1903-11-04",
           "height": "165cm",
           "weight": "63kg"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Coventry Snr",
+          "jumper": "8",
+          "dob": "1899-06-13",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Collier",
+          "jumper": "5",
+          "dob": "1907-10-01",
+          "height": "173cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Beveridge",
+          "jumper": "2",
+          "dob": "1907-05-08",
+          "height": "177cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Murphy",
+          "jumper": "20",
+          "dob": "1905-02-20",
+          "height": "180cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Charlie",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "MacLeod",
+          "lastname": "Mac Leod",
           "jumper": "16",
           "dob": "1904-10-08",
           "height": "170cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Les",
-          "lastname": "HughsonSnr",
+          "lastname": "Hughson Snr",
           "jumper": "29",
           "dob": "1907-09-12",
           "height": "188cm",

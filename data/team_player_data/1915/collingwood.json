@@ -4,22 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "George",
-          "lastname": "Anderson",
-          "jumper": "1",
-          "dob": "1885-06-03",
-          "height": "168cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Dan",
-          "lastname": "Minogue",
-          "jumper": "15",
-          "dob": "1891-09-04",
-          "height": "180cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Green",
           "jumper": "6",
@@ -36,28 +20,28 @@
           "weight": "76kg"
         },
         {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
           "jumper": "17",
           "dob": "1882-12-12",
           "height": "180cm",
           "weight": "78kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Hughes",
-          "jumper": "7",
-          "dob": "1884-04-18",
-          "height": "188cm",
-          "weight": "93kg"
+          "firstname": "George",
+          "lastname": "Anderson",
+          "jumper": "1",
+          "dob": "1885-06-03",
+          "height": "168cm",
+          "weight": "80kg"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Mutch",
-          "jumper": "14",
-          "dob": "1889-03-31",
-          "height": "179cm",
-          "weight": "74kg"
+          "firstname": "Dan",
+          "lastname": "Minogue",
+          "jumper": "15",
+          "dob": "1891-09-04",
+          "height": "180cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Charlie",
@@ -76,6 +60,30 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Hughes",
+          "jumper": "7",
+          "dob": "1884-04-18",
+          "height": "188cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Mutch",
+          "jumper": "14",
+          "dob": "1889-03-31",
+          "height": "179cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Mal",
+          "lastname": "Seddon",
+          "jumper": "24",
+          "dob": "1888-05-31",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Wilson",
           "jumper": "25",
@@ -92,16 +100,8 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Mal",
-          "lastname": "Seddon",
-          "jumper": "24",
-          "dob": "1888-05-31",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Con",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "18",
           "dob": "1893-02-10",
           "height": "180cm",

@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Jack",
-          "lastname": "Austin",
-          "jumper": "3",
-          "dob": "1910-12-09",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Clarke",
           "jumper": "6",
@@ -21,11 +13,19 @@
         },
         {
           "firstname": "Austin",
-          "lastname": "RobertsonSnr",
+          "lastname": "Robertson Snr",
           "jumper": "—",
           "dob": "1907-11-21",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Austin",
+          "jumper": "3",
+          "dob": "1910-12-09",
+          "height": "175cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Cecil",
@@ -37,9 +37,25 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McLaughlinSnr",
+          "lastname": "Mc Laughlin Snr",
           "jumper": "8",
           "dob": "1909-07-16",
+          "height": "179cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Bennett",
+          "jumper": "20",
+          "dob": "1906-09-05",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Thomas",
+          "jumper": "12",
+          "dob": "1908-07-20",
           "height": "179cm",
           "weight": "80kg"
         },
@@ -68,22 +84,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Bennett",
-          "jumper": "20",
-          "dob": "1906-09-05",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Len",
-          "lastname": "Thomas",
-          "jumper": "12",
-          "dob": "1908-07-20",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Terry",
           "lastname": "Brain",
           "jumper": "22",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Hec",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "2",
           "dob": "1904-12-15",
           "height": "180cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "19",
           "dob": "1907-08-25",
           "height": "—",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "29",
           "dob": "1907-12-29",
           "height": "180cm",
@@ -221,17 +221,9 @@
         },
         {
           "firstname": "Cyril",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "30",
           "dob": "1908-04-03",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Keith",
-          "lastname": "Simpson",
-          "jumper": "21",
-          "dob": "1907-07-17",
           "height": "—",
           "weight": "—"
         },
@@ -244,18 +236,18 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Max",
-          "lastname": "Scott",
-          "jumper": "17",
-          "dob": "1906-11-03",
+          "firstname": "Keith",
+          "lastname": "Simpson",
+          "jumper": "21",
+          "dob": "1907-07-17",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Reynolds",
-          "jumper": "34",
-          "dob": "1909-02-20",
+          "firstname": "Max",
+          "lastname": "Scott",
+          "jumper": "17",
+          "dob": "1906-11-03",
           "height": "—",
           "weight": "—"
         },
@@ -268,8 +260,16 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Ken",
+          "lastname": "Reynolds",
+          "jumper": "34",
+          "dob": "1909-02-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jock",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "5",
           "dob": "1911-10-31",
           "height": "178cm",

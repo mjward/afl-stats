@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Ron",
-          "lastname": "Savage",
-          "jumper": "24",
-          "dob": "1917-04-22",
-          "height": "187cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Gniel",
           "jumper": "12",
@@ -45,7 +37,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "31",
           "dob": "1916-08-21",
           "height": "174cm",
@@ -58,6 +50,14 @@
           "dob": "1917-10-22",
           "height": "169cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Savage",
+          "jumper": "24",
+          "dob": "1917-04-22",
+          "height": "187cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Vin",
@@ -84,20 +84,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Rae",
-          "jumper": "23",
-          "dob": "1917-07-30",
-          "height": "180cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Atkinson",
           "jumper": "9",
           "dob": "1913-10-29",
           "height": "173cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Rae",
+          "jumper": "23",
+          "dob": "1917-07-30",
+          "height": "180cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Mick",
@@ -108,20 +108,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Tuohill",
-          "jumper": "5",
-          "dob": "1916-01-19",
-          "height": "184cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Clark",
           "jumper": "26",
           "dob": "1925-03-24",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Tuohill",
+          "jumper": "5",
+          "dob": "1916-01-19",
+          "height": "184cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Frank",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "HowellJnr",
+          "lastname": "Howell Jnr",
           "jumper": "13",
           "dob": "1924-08-31",
           "height": "193cm",
@@ -180,14 +180,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Baird",
-          "jumper": "17",
-          "dob": "1920-11-09",
-          "height": "179cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Wilson",
           "jumper": "27",
@@ -196,8 +188,16 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Baird",
+          "jumper": "17",
+          "dob": "1920-11-09",
+          "height": "179cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Ken",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "14",
           "dob": "1922-12-21",
           "height": "177cm",
@@ -213,19 +213,19 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "Hines",
-          "jumper": "11",
-          "dob": "1923-07-11",
-          "height": "165cm",
-          "weight": "66kg"
-        },
-        {
-          "firstname": "Ron",
           "lastname": "Boys",
           "jumper": "22",
           "dob": "1924-09-10",
           "height": "188cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Hines",
+          "jumper": "11",
+          "dob": "1923-07-11",
+          "height": "165cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Alan",

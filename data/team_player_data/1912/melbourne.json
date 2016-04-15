@@ -4,6 +4,14 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Bobby",
+          "lastname": "Monk",
+          "jumper": "16",
+          "dob": "1886-01-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Bristow",
           "jumper": "18",
@@ -29,19 +37,11 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "6",
           "dob": "1889-01-31",
           "height": "165cm",
           "weight": "61kg"
-        },
-        {
-          "firstname": "Bobby",
-          "lastname": "Monk",
-          "jumper": "16",
-          "dob": "1886-01-21",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Bill",

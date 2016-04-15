@@ -12,6 +12,22 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Tony",
+          "lastname": "Buhagiar",
+          "jumper": "20",
+          "dob": "1955-10-03",
+          "height": "166cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Merv",
+          "lastname": "Neagle",
+          "jumper": "1",
+          "dob": "1958-03-07",
+          "height": "181cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Garry",
           "lastname": "Foulds",
           "jumper": "10",
@@ -34,22 +50,6 @@
           "dob": "1956-01-07",
           "height": "194cm",
           "weight": "89kg"
-        },
-        {
-          "firstname": "Tony",
-          "lastname": "Buhagiar",
-          "jumper": "20",
-          "dob": "1955-10-03",
-          "height": "166cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Merv",
-          "lastname": "Neagle",
-          "jumper": "1",
-          "dob": "1958-03-07",
-          "height": "181cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Terry",
@@ -108,6 +108,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Justin",
+          "lastname": "Madden",
+          "jumper": "44",
+          "dob": "1961-05-31",
+          "height": "206cm",
+          "weight": "107kg"
+        },
+        {
           "firstname": "Stephen",
           "lastname": "Carey",
           "jumper": "17",
@@ -124,14 +132,6 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Justin",
-          "lastname": "Madden",
-          "jumper": "44",
-          "dob": "1961-05-31",
-          "height": "206cm",
-          "weight": "107kg"
-        },
-        {
           "firstname": "Steven",
           "lastname": "Taubert",
           "jumper": "16",
@@ -140,20 +140,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "VanDerHaar",
-          "jumper": "18",
-          "dob": "1958-03-07",
-          "height": "192cm",
-          "weight": "93kg"
-        },
-        {
           "firstname": "Graeme",
           "lastname": "Schultz",
           "jumper": "12",
           "dob": "1953-05-17",
           "height": "180cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Van Der Haar",
+          "jumper": "18",
+          "dob": "1958-03-07",
+          "height": "192cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Peter",

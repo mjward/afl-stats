@@ -44,22 +44,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Fraser",
-          "jumper": "13",
-          "dob": "1897-06-18",
-          "height": "178cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "O'Brien",
-          "jumper": "7",
-          "dob": "1898-08-17",
-          "height": "184cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Clyde",
           "lastname": "Donaldson",
           "jumper": "2",
@@ -82,6 +66,22 @@
           "dob": "1886-02-24",
           "height": "170cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Fraser",
+          "jumper": "13",
+          "dob": "1897-06-18",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "O' Brien",
+          "jumper": "7",
+          "dob": "1898-08-17",
+          "height": "184cm",
+          "weight": "85kg"
         },
         {
           "firstname": "George",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "20",
           "dob": "1899-09-21",
           "height": "—",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "32",
           "dob": "1896-12-19",
           "height": "179cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Hector",
-          "lastname": "McFadyen",
+          "lastname": "Mc Fadyen",
           "jumper": "21",
           "dob": "1892-10-29",
           "height": "—",

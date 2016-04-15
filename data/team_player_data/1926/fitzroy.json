@@ -28,20 +28,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Bill'Bull'",
+          "firstname": "Bill' Bull'",
           "lastname": "Adams",
           "jumper": "18",
           "dob": "1900-12-11",
           "height": "180cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Tommy",
-          "lastname": "Corrigan",
-          "jumper": "27",
-          "dob": "1903-02-24",
-          "height": "178cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Gordon",
@@ -68,12 +60,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Dickens",
-          "jumper": "14",
-          "dob": "1903-06-19",
-          "height": "165cm",
-          "weight": "65kg"
+          "firstname": "Tommy",
+          "lastname": "Corrigan",
+          "jumper": "27",
+          "dob": "1903-02-24",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Arthur",
@@ -84,12 +76,12 @@
           "weight": "63kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Moriarty",
-          "jumper": "6",
-          "dob": "1901-04-30",
-          "height": "178cm",
-          "weight": "62kg"
+          "firstname": "Arthur",
+          "lastname": "Dickens",
+          "jumper": "14",
+          "dob": "1903-06-19",
+          "height": "165cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Ernie",
@@ -101,15 +93,23 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "15",
           "dob": "1899-01-15",
           "height": "175cm",
           "weight": "70kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Moriarty",
+          "jumper": "6",
+          "dob": "1901-04-30",
+          "height": "178cm",
+          "weight": "62kg"
+        },
+        {
           "firstname": "Gordon",
-          "lastname": "McCracken",
+          "lastname": "Mc Cracken",
           "jumper": "24",
           "dob": "1898-03-22",
           "height": "191cm",
@@ -228,20 +228,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Fitzgerald",
-          "jumper": "25",
-          "dob": "1901-06-25",
-          "height": "160cm",
-          "weight": "58kg"
-        },
-        {
           "firstname": "Ed",
           "lastname": "Ryan",
           "jumper": "30",
           "dob": "—",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Fitzgerald",
+          "jumper": "25",
+          "dob": "1901-06-25",
+          "height": "160cm",
+          "weight": "58kg"
         },
         {
           "firstname": "Bob",

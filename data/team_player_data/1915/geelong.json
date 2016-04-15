@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Rupe",
-          "lastname": "Brownlees",
-          "jumper": "3",
-          "dob": "1888-04-26",
-          "height": "178cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Rankin",
-          "jumper": "13",
-          "dob": "1893-02-17",
-          "height": "178cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Eason",
           "jumper": "5",
@@ -37,7 +21,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "BakerJnr",
+          "lastname": "Baker Jnr",
           "jumper": "2",
           "dob": "1891-12-09",
           "height": "180cm",
@@ -60,6 +44,22 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Rupe",
+          "lastname": "Brownlees",
+          "jumper": "3",
+          "dob": "1888-04-26",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Rankin",
+          "jumper": "13",
+          "dob": "1893-02-17",
+          "height": "178cm",
+          "weight": "77kg"
+        },
+        {
           "firstname": "Alec",
           "lastname": "Eason",
           "jumper": "6",
@@ -69,19 +69,11 @@
         },
         {
           "firstname": "Billy",
-          "lastname": "McCarter",
+          "lastname": "Mc Carter",
           "jumper": "12",
           "dob": "1888-10-23",
           "height": "170cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Vin",
-          "lastname": "Maguire",
-          "jumper": "12",
-          "dob": "1892-07-31",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Stan",
@@ -90,6 +82,14 @@
           "dob": "1892-05-09",
           "height": "180cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Maguire",
+          "jumper": "12",
+          "dob": "1892-07-31",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Percy",
@@ -172,20 +172,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Hodgins",
-          "jumper": "6",
-          "dob": "1888-04-05",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Cliff",
           "lastname": "Rankin",
           "jumper": "6",
           "dob": "1896-12-04",
           "height": "175cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Hodgins",
+          "jumper": "6",
+          "dob": "1888-04-05",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Ossy",
@@ -204,20 +204,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Jones",
-          "jumper": "24",
-          "dob": "1887-05-11",
-          "height": "188cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Allen",
           "jumper": "23",
           "dob": "1890-05-21",
           "height": "168cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Jones",
+          "jumper": "24",
+          "dob": "1887-05-11",
+          "height": "188cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Bill",
@@ -236,20 +236,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Basil",
-          "lastname": "Collins",
-          "jumper": "19",
-          "dob": "1891-06-11",
-          "height": "185cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Gray",
           "jumper": "7",
           "dob": "1885-08-17",
           "height": "175cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Basil",
+          "lastname": "Collins",
+          "jumper": "19",
+          "dob": "1891-06-11",
+          "height": "185cm",
+          "weight": "73kg"
         }
       ]
     }

@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Warwick",
-          "lastname": "Irwin",
-          "jumper": "7",
-          "dob": "1952-06-03",
-          "height": "182cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "David",
           "lastname": "Wall",
           "jumper": "33",
@@ -36,20 +28,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Russell",
-          "lastname": "Crow",
-          "jumper": "32",
-          "dob": "1941-09-17",
-          "height": "191cm",
-          "weight": "105kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Murphy",
-          "jumper": "5",
-          "dob": "1949-11-20",
-          "height": "183cm",
-          "weight": "83kg"
+          "firstname": "Warwick",
+          "lastname": "Irwin",
+          "jumper": "7",
+          "dob": "1952-06-03",
+          "height": "182cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Alex",
@@ -68,6 +52,22 @@
           "weight": "90kg"
         },
         {
+          "firstname": "Russell",
+          "lastname": "Crow",
+          "jumper": "32",
+          "dob": "1941-09-17",
+          "height": "191cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Murphy",
+          "jumper": "5",
+          "dob": "1949-11-20",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Shane",
           "lastname": "Molloy",
           "jumper": "22",
@@ -84,14 +84,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Doug",
-          "lastname": "Searl",
-          "jumper": "34",
-          "dob": "1947-03-22",
-          "height": "192cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Padley",
           "jumper": "14",
@@ -106,6 +98,14 @@
           "dob": "1952-02-14",
           "height": "189cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Searl",
+          "jumper": "34",
+          "dob": "1947-03-22",
+          "height": "192cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Alan",
@@ -148,20 +148,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Noel",
-          "lastname": "Zunneberg",
-          "jumper": "11",
-          "dob": "1946-08-13",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Sykes",
           "jumper": "24",
           "dob": "1948-10-03",
           "height": "183cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Noel",
+          "lastname": "Zunneberg",
+          "jumper": "11",
+          "dob": "1946-08-13",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Mike",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Treva",
-          "lastname": "McGregor",
+          "lastname": "Mc Gregor",
           "jumper": "9",
           "dob": "1947-06-01",
           "height": "185cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Barry",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "4",
           "dob": "1945-08-14",
           "height": "193cm",

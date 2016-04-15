@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Leon",
-          "lastname": "Harris",
-          "jumper": "38",
-          "dob": "1958-11-09",
-          "height": "173cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Scott",
           "lastname": "Clayton",
           "jumper": "40",
@@ -42,6 +34,14 @@
           "dob": "1955-09-28",
           "height": "180cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Leon",
+          "lastname": "Harris",
+          "jumper": "38",
+          "dob": "1958-11-09",
+          "height": "173cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Paul",
@@ -84,14 +84,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Grant",
-          "lastname": "Lawrie",
-          "jumper": "34",
-          "dob": "1958-11-29",
-          "height": "192cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Ross",
           "lastname": "Thornton",
           "jumper": "4",
@@ -106,6 +98,14 @@
           "dob": "1958-02-20",
           "height": "178cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Grant",
+          "lastname": "Lawrie",
+          "jumper": "34",
+          "dob": "1958-11-29",
+          "height": "192cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Bill",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Grant",
-          "lastname": "O'Riley",
+          "lastname": "O' Riley",
           "jumper": "6",
           "dob": "1960-01-21",
           "height": "193cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "25",
           "dob": "1956-06-10",
           "height": "189cm",

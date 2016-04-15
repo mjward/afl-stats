@@ -20,22 +20,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Ross",
-          "lastname": "Dillon",
-          "jumper": "24",
-          "dob": "1947-12-10",
-          "height": "187cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "Paul",
-          "lastname": "Rowlands",
-          "jumper": "20",
-          "dob": "1949-05-28",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Gary",
           "lastname": "Hardeman",
           "jumper": "33",
@@ -52,12 +36,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Parke",
-          "jumper": "26",
-          "dob": "1948-04-18",
+          "firstname": "Ross",
+          "lastname": "Dillon",
+          "jumper": "24",
+          "dob": "1947-12-10",
+          "height": "187cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Rowlands",
+          "jumper": "20",
+          "dob": "1949-05-28",
           "height": "185cm",
-          "weight": "85kg"
+          "weight": "86kg"
         },
         {
           "firstname": "Denis",
@@ -72,6 +64,14 @@
           "lastname": "Hone",
           "jumper": "21",
           "dob": "1946-06-30",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Parke",
+          "jumper": "26",
+          "dob": "1948-04-18",
           "height": "185cm",
           "weight": "85kg"
         },
@@ -92,14 +92,6 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Bob'Tassie'",
-          "lastname": "Johnson",
-          "jumper": "8",
-          "dob": "1937-12-02",
-          "height": "189cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Davis",
           "jumper": "6",
@@ -114,6 +106,14 @@
           "dob": "1943-09-14",
           "height": "179cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Bob' Tassie'",
+          "lastname": "Johnson",
+          "jumper": "8",
+          "dob": "1937-12-02",
+          "height": "189cm",
+          "weight": "89kg"
         },
         {
           "firstname": "George",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "McKenzieJnr",
+          "lastname": "Mc Kenzie Jnr",
           "jumper": "50",
           "dob": "1950-05-31",
           "height": "180cm",

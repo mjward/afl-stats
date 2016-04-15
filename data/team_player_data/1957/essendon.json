@@ -4,22 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Johnny",
-          "lastname": "Birt",
-          "jumper": "11",
-          "dob": "1937-01-29",
-          "height": "174cm",
-          "weight": "69kg"
-        },
-        {
-          "firstname": "Hugh",
-          "lastname": "Mitchell",
-          "jumper": "31",
-          "dob": "1934-11-22",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Shearman",
           "jumper": "35",
@@ -42,6 +26,22 @@
           "dob": "1932-02-18",
           "height": "194cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Johnny",
+          "lastname": "Birt",
+          "jumper": "11",
+          "dob": "1937-01-29",
+          "height": "174cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Hugh",
+          "lastname": "Mitchell",
+          "jumper": "31",
+          "dob": "1934-11-22",
+          "height": "183cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Jeff",
@@ -68,6 +68,22 @@
           "weight": "76kg"
         },
         {
+          "firstname": "John",
+          "lastname": "Gill",
+          "jumper": "3",
+          "dob": "1932-04-19",
+          "height": "193cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Fox",
+          "jumper": "24",
+          "dob": "1931-11-02",
+          "height": "189cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Reg",
           "lastname": "Burgess",
           "jumper": "18",
@@ -90,22 +106,6 @@
           "dob": "1932-02-02",
           "height": "183cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Gill",
-          "jumper": "3",
-          "dob": "1932-04-19",
-          "height": "193cm",
-          "weight": "95kg"
-        },
-        {
-          "firstname": "Robert",
-          "lastname": "Fox",
-          "jumper": "24",
-          "dob": "1931-11-02",
-          "height": "189cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Jack",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McColl",
+          "lastname": "Mc Coll",
           "jumper": "28",
           "dob": "1933-06-17",
           "height": "189cm",

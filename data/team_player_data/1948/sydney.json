@@ -20,6 +20,22 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Erwin",
+          "lastname": "Dornau",
+          "jumper": "17",
+          "dob": "1926-03-22",
+          "height": "183cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Hill",
+          "jumper": "15",
+          "dob": "1926-10-17",
+          "height": "175cm",
+          "weight": "68kg"
+        },
+        {
           "firstname": "Billy",
           "lastname": "Williams",
           "jumper": "4",
@@ -42,22 +58,6 @@
           "dob": "1920-08-17",
           "height": "178cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Erwin",
-          "lastname": "Dornau",
-          "jumper": "17",
-          "dob": "1926-03-22",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Vic",
-          "lastname": "Hill",
-          "jumper": "15",
-          "dob": "1926-10-17",
-          "height": "175cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Les",

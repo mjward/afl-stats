@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Noel",
-          "lastname": "Zunneberg",
-          "jumper": "11",
-          "dob": "1946-08-13",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Murphy",
           "jumper": "5",
@@ -26,6 +18,14 @@
           "dob": "1938-06-18",
           "height": "178cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Noel",
+          "lastname": "Zunneberg",
+          "jumper": "11",
+          "dob": "1946-08-13",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Russell",
@@ -52,6 +52,14 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Alex",
+          "lastname": "Ruscuklic",
+          "jumper": "13",
+          "dob": "1948-09-21",
+          "height": "191cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "David",
           "lastname": "Wall",
           "jumper": "33",
@@ -66,14 +74,6 @@
           "dob": "1947-01-07",
           "height": "185cm",
           "weight": "77kg"
-        },
-        {
-          "firstname": "Alex",
-          "lastname": "Ruscuklic",
-          "jumper": "13",
-          "dob": "1948-09-21",
-          "height": "191cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Darryl",
@@ -156,6 +156,14 @@
           "weight": "96kg"
         },
         {
+          "firstname": "Leigh",
+          "lastname": "Robertson",
+          "jumper": "18",
+          "dob": "1950-05-21",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Mike",
           "lastname": "Andrews",
           "jumper": "3",
@@ -165,19 +173,11 @@
         },
         {
           "firstname": "Barry",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "4",
           "dob": "1945-08-14",
           "height": "193cm",
           "weight": "99kg"
-        },
-        {
-          "firstname": "Leigh",
-          "lastname": "Robertson",
-          "jumper": "18",
-          "dob": "1950-05-21",
-          "height": "182cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Doug",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Treva",
-          "lastname": "McGregor",
+          "lastname": "Mc Gregor",
           "jumper": "9",
           "dob": "1947-06-01",
           "height": "185cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McCrae",
+          "lastname": "Mc Crae",
           "jumper": "7",
           "dob": "1943-10-31",
           "height": "175cm",

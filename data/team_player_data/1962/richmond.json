@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Ted",
+          "lastname": "Langridge",
+          "jumper": "28",
+          "dob": "1936-10-22",
+          "height": "171cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Dick",
           "lastname": "Grimmond",
           "jumper": "19",
@@ -36,12 +44,12 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Langridge",
-          "jumper": "28",
-          "dob": "1936-10-22",
-          "height": "171cm",
-          "weight": "76kg"
+          "firstname": "Paddy",
+          "lastname": "Guinane",
+          "jumper": "1",
+          "dob": "1939-01-31",
+          "height": "191cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Roger",
@@ -58,14 +66,6 @@
           "dob": "1933-06-10",
           "height": "170cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Paddy",
-          "lastname": "Guinane",
-          "jumper": "1",
-          "dob": "1939-01-31",
-          "height": "191cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Graeme",
@@ -92,22 +92,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "Williamson",
-          "jumper": "23",
-          "dob": "1941-09-25",
-          "height": "198cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Alan",
-          "lastname": "Richardson",
-          "jumper": "12",
-          "dob": "1940-11-19",
-          "height": "184cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Barrot",
           "jumper": "24",
@@ -122,6 +106,22 @@
           "dob": "1941-04-14",
           "height": "185cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Williamson",
+          "jumper": "23",
+          "dob": "1941-09-25",
+          "height": "198cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Richardson",
+          "jumper": "12",
+          "dob": "1940-11-19",
+          "height": "184cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Peter",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "17",
           "dob": "1941-01-16",
           "height": "178cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "SelleckJnr",
+          "lastname": "Selleck Jnr",
           "jumper": "51",
           "dob": "1944-02-22",
           "height": "183cm",
@@ -244,14 +244,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Dean",
-          "jumper": "50",
-          "dob": "1943-09-29",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Robertson",
           "jumper": "2",
@@ -266,6 +258,14 @@
           "dob": "1943-02-23",
           "height": "185cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Dean",
+          "jumper": "50",
+          "dob": "1943-09-29",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",

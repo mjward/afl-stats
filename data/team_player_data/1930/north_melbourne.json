@@ -5,6 +5,14 @@
       "North Melbourne": [
         {
           "firstname": "Johnny",
+          "lastname": "Gregory",
+          "jumper": "9",
+          "dob": "1905-02-16",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Johnny",
           "lastname": "Lewis",
           "jumper": "1",
           "dob": "1901-09-13",
@@ -20,12 +28,12 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Johnny",
-          "lastname": "Gregory",
-          "jumper": "9",
-          "dob": "1905-02-16",
-          "height": "175cm",
-          "weight": "76kg"
+          "firstname": "Charlie",
+          "lastname": "Cameron",
+          "jumper": "20",
+          "dob": "1907-11-22",
+          "height": "172cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Jimmy",
@@ -34,14 +42,6 @@
           "dob": "1905-08-01",
           "height": "178cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Cameron",
-          "jumper": "20",
-          "dob": "1907-11-22",
-          "height": "172cm",
-          "weight": "66kg"
         },
         {
           "firstname": "Bob",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "BarkerJnr",
+          "lastname": "Barker Jnr",
           "jumper": "5",
           "dob": "1911-10-15",
           "height": "—",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "McElholum",
+          "lastname": "Mc Elholum",
           "jumper": "34",
           "dob": "1910-04-06",
           "height": "179cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "3",
           "dob": "1908-01-31",
           "height": "185cm",
@@ -236,14 +236,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Rutley",
-          "jumper": "20",
-          "dob": "1902-07-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harold",
           "lastname": "Davidson",
           "jumper": "—",
@@ -253,7 +245,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "O'Shea",
+          "lastname": "O' Shea",
           "jumper": "10",
           "dob": "1909-01-31",
           "height": "185cm",
@@ -266,6 +258,14 @@
           "dob": "1910-04-30",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Rutley",
+          "jumper": "20",
+          "dob": "1902-07-10",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Wally",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Wal",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "35",
           "dob": "1910-06-09",
           "height": "—",
@@ -332,20 +332,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "Clarke",
-          "jumper": "24",
-          "dob": "1909-01-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Morley",
           "jumper": "—",
           "dob": "1908-01-17",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Clarke",
+          "jumper": "24",
+          "dob": "1909-01-23",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Neville",

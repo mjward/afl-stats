@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Ken",
-          "lastname": "Sier",
-          "jumper": "17",
-          "dob": "1922-01-27",
-          "height": "185cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Hughson",
           "jumper": "6",
@@ -33,6 +25,14 @@
           "jumper": "32",
           "dob": "1911-02-28",
           "height": "179cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Sier",
+          "jumper": "17",
+          "dob": "1922-01-27",
+          "height": "185cm",
           "weight": "79kg"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Arthur",
-          "lastname": "O'Bryan",
+          "lastname": "O' Bryan",
           "jumper": "24",
           "dob": "1923-05-20",
           "height": "183cm",
@@ -149,14 +149,6 @@
         },
         {
           "firstname": "Noel",
-          "lastname": "Jarvis",
-          "jumper": "27",
-          "dob": "1924-12-12",
-          "height": "170cm",
-          "weight": "66kg"
-        },
-        {
-          "firstname": "Noel",
           "lastname": "Price",
           "jumper": "22",
           "dob": "1917-12-27",
@@ -170,6 +162,14 @@
           "dob": "1912-05-11",
           "height": "185cm",
           "weight": "93kg"
+        },
+        {
+          "firstname": "Noel",
+          "lastname": "Jarvis",
+          "jumper": "27",
+          "dob": "1924-12-12",
+          "height": "170cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Allan",
@@ -332,20 +332,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Merv",
-          "lastname": "Brooks",
-          "jumper": "19",
-          "dob": "1919-01-19",
-          "height": "182cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Arch",
           "lastname": "Knott",
           "jumper": "14",
           "dob": "1916-02-02",
           "height": "180cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Merv",
+          "lastname": "Brooks",
+          "jumper": "19",
+          "dob": "1919-01-19",
+          "height": "182cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Billy",

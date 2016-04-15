@@ -20,22 +20,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Gosper",
-          "jumper": "6",
-          "dob": "1940-05-11",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Russell",
-          "lastname": "Blew",
-          "jumper": "14",
-          "dob": "1941-11-07",
-          "height": "178cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Fraser",
           "jumper": "23",
@@ -76,12 +60,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Clarke",
-          "jumper": "1",
-          "dob": "1933-07-14",
+          "firstname": "Geoff",
+          "lastname": "Gosper",
+          "jumper": "6",
+          "dob": "1940-05-11",
           "height": "175cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Russell",
+          "lastname": "Blew",
+          "jumper": "14",
+          "dob": "1941-11-07",
+          "height": "178cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Alec",
@@ -93,7 +85,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "24",
           "dob": "1939-03-23",
           "height": "188cm",
@@ -105,6 +97,14 @@
           "jumper": "17",
           "dob": "1944-01-25",
           "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Clarke",
+          "jumper": "1",
+          "dob": "1933-07-14",
+          "height": "175cm",
           "weight": "78kg"
         },
         {
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Lindsay",
-          "lastname": "McGie",
+          "lastname": "Mc Gie",
           "jumper": "4",
           "dob": "1945-03-30",
           "height": "188cm",

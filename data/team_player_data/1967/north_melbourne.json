@@ -4,6 +4,30 @@
     "teams": {
       "North Melbourne": [
         {
+          "firstname": "Garry",
+          "lastname": "Farrant",
+          "jumper": "33",
+          "dob": "1946-09-07",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Benton",
+          "jumper": "23",
+          "dob": "1942-07-13",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bernie",
+          "lastname": "Mc Carthy",
+          "jumper": "1",
+          "dob": "1943-08-21",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Dugdale",
           "jumper": "6",
@@ -36,38 +60,6 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Garry",
-          "lastname": "Farrant",
-          "jumper": "33",
-          "dob": "1946-09-07",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Terry",
-          "lastname": "Benton",
-          "jumper": "23",
-          "dob": "1942-07-13",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Bernie",
-          "lastname": "McCarthy",
-          "jumper": "1",
-          "dob": "1943-08-21",
-          "height": "191cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Daryl",
-          "lastname": "O'Brien",
-          "jumper": "12",
-          "dob": "1941-09-10",
-          "height": "179cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Steward",
           "jumper": "15",
@@ -82,6 +74,14 @@
           "dob": "1945-05-09",
           "height": "199cm",
           "weight": "99kg"
+        },
+        {
+          "firstname": "Daryl",
+          "lastname": "O' Brien",
+          "jumper": "12",
+          "dob": "1941-09-10",
+          "height": "179cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Barry",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Dennis",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "8",
           "dob": "1946-09-07",
           "height": "193cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Noel",
-          "lastname": "McKernan",
+          "lastname": "Mc Kernan",
           "jumper": "5",
           "dob": "1945-12-04",
           "height": "175cm",

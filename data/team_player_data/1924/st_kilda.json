@@ -20,22 +20,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Cubbins",
-          "jumper": "4",
-          "dob": "1899-05-04",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Colin",
-          "lastname": "Watson",
-          "jumper": "31",
-          "dob": "1900-10-12",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Cyril",
           "lastname": "Gambetta",
           "jumper": "7",
@@ -50,6 +34,22 @@
           "dob": "1895-07-25",
           "height": "178cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Cubbins",
+          "jumper": "4",
+          "dob": "1899-05-04",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Watson",
+          "jumper": "31",
+          "dob": "1900-10-12",
+          "height": "180cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bert",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Aubrey",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "3",
           "dob": "1894-10-23",
           "height": "—",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "LordSnr",
+          "lastname": "Lord Snr",
           "jumper": "17",
           "dob": "1899-09-16",
           "height": "191cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "14",
           "dob": "1899-01-15",
           "height": "175cm",
@@ -236,20 +236,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Thomson",
-          "jumper": "27",
-          "dob": "1899-09-01",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Eric",
           "lastname": "Peck",
           "jumper": "25",
           "dob": "1899-08-01",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Thomson",
+          "jumper": "27",
+          "dob": "1899-09-01",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "George",

@@ -28,14 +28,6 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Merv",
-          "lastname": "Keane",
-          "jumper": "18",
-          "dob": "1953-07-29",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Emmett",
           "lastname": "Dunne",
           "jumper": "5",
@@ -50,6 +42,14 @@
           "dob": "1947-03-06",
           "height": "177cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Merv",
+          "lastname": "Keane",
+          "jumper": "18",
+          "dob": "1953-07-29",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Mick",
@@ -76,14 +76,6 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Maurice",
-          "lastname": "Rioli",
-          "jumper": "17",
-          "dob": "1957-09-01",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Geoff",
           "lastname": "Raines",
           "jumper": "4",
@@ -98,6 +90,14 @@
           "dob": "1954-05-31",
           "height": "183cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Maurice",
+          "lastname": "Rioli",
+          "jumper": "17",
+          "dob": "1957-09-01",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Shane",
@@ -156,20 +156,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Mark",
-          "lastname": "Lee",
-          "jumper": "1",
-          "dob": "1959-03-29",
-          "height": "199cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Bryan",
           "lastname": "Wood",
           "jumper": "16",
           "dob": "1954-04-03",
           "height": "185cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Lee",
+          "jumper": "1",
+          "dob": "1959-03-29",
+          "height": "199cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Andy",

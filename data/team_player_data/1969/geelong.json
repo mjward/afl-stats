@@ -4,30 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Hugh",
-          "lastname": "Strahan",
-          "jumper": "28",
-          "dob": "1945-06-24",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Scarlett",
-          "jumper": "30",
-          "dob": "1947-05-29",
-          "height": "191cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Geoff",
-          "lastname": "Rosenow",
-          "jumper": "27",
-          "dob": "1942-02-01",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Nankervis",
           "jumper": "40",
@@ -60,6 +36,46 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Hugh",
+          "lastname": "Strahan",
+          "jumper": "28",
+          "dob": "1945-06-24",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Scarlett",
+          "jumper": "30",
+          "dob": "1947-05-29",
+          "height": "191cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Rosenow",
+          "jumper": "27",
+          "dob": "1942-02-01",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "John' Sam'",
+          "lastname": "Newman",
+          "jumper": "17",
+          "dob": "1945-12-22",
+          "height": "189cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Ryan",
+          "jumper": "26",
+          "dob": "1944-11-26",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Goggin",
           "jumper": "35",
@@ -82,22 +98,6 @@
           "dob": "1946-05-27",
           "height": "178cm",
           "weight": "79kg"
-        },
-        {
-          "firstname": "John'Sam'",
-          "lastname": "Newman",
-          "jumper": "17",
-          "dob": "1945-12-22",
-          "height": "189cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Ryan",
-          "jumper": "26",
-          "dob": "1944-11-26",
-          "height": "188cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Gareth",
@@ -180,20 +180,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Hynes",
-          "jumper": "12",
-          "dob": "1944-11-06",
-          "height": "177cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Pat",
           "lastname": "Patterson",
           "jumper": "39",
           "dob": "1946-11-13",
           "height": "179cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Hynes",
+          "jumper": "12",
+          "dob": "1944-11-06",
+          "height": "177cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Wayne",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Ray",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "14",
           "dob": "1948-01-11",
           "height": "182cm",

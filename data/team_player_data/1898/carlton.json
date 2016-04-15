@@ -4,6 +4,14 @@
     "teams": {
       "Carlton": [
         {
+          "firstname": "Len",
+          "lastname": "Morrison",
+          "jumper": "—",
+          "dob": "1872-12-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "George",
           "lastname": "Warde",
           "jumper": "—",
@@ -20,10 +28,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Len",
-          "lastname": "Morrison",
+          "firstname": "Charlie",
+          "lastname": "Curtis",
           "jumper": "—",
-          "dob": "1872-12-23",
+          "dob": "1878-12-17",
           "height": "—",
           "weight": "—"
         },
@@ -56,14 +64,6 @@
           "lastname": "Sharkey",
           "jumper": "—",
           "dob": "1873-09-20",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Curtis",
-          "jumper": "—",
-          "dob": "1878-12-17",
           "height": "—",
           "weight": "—"
         },
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Tommy",
-          "lastname": "O'Day",
+          "lastname": "O' Day",
           "jumper": "—",
           "dob": "1873-10-08",
           "height": "—",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Wally",
-          "lastname": "O'Cock",
+          "lastname": "O' Cock",
           "jumper": "—",
           "dob": "1875-06-17",
           "height": "175cm",
@@ -260,14 +260,6 @@
           "weight": "61kg"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Aitken",
-          "jumper": "—",
-          "dob": "1872-05-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Lyons",
           "jumper": "—",
@@ -276,10 +268,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Douglas",
+          "firstname": "Jimmy",
+          "lastname": "Aitken",
           "jumper": "—",
-          "dob": "1872-11-06",
+          "dob": "1872-05-15",
           "height": "—",
           "weight": "—"
         },
@@ -288,6 +280,14 @@
           "lastname": "Considine",
           "jumper": "—",
           "dob": "1875-09-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Douglas",
+          "jumper": "—",
+          "dob": "1872-11-06",
           "height": "—",
           "weight": "—"
         },

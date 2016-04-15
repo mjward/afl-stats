@@ -4,7 +4,39 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Graham'Polly'",
+          "firstname": "Bill",
+          "lastname": "Goggin",
+          "jumper": "35",
+          "dob": "1941-01-04",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Farman",
+          "jumper": "15",
+          "dob": "1946-01-04",
+          "height": "183cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Closter",
+          "jumper": "1",
+          "dob": "1945-02-26",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Mitchell",
+          "jumper": "8",
+          "dob": "1947-01-01",
+          "height": "193cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Graham' Polly'",
           "lastname": "Farmer",
           "jumper": "5",
           "dob": "1935-03-10",
@@ -52,54 +84,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Goggin",
-          "jumper": "35",
-          "dob": "1941-01-04",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Terry",
-          "lastname": "Farman",
-          "jumper": "15",
-          "dob": "1946-01-04",
-          "height": "183cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Wayne",
-          "lastname": "Closter",
-          "jumper": "1",
-          "dob": "1945-02-26",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Chris",
-          "lastname": "Mitchell",
-          "jumper": "8",
-          "dob": "1947-01-01",
-          "height": "193cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Doug",
-          "lastname": "Wade",
-          "jumper": "23",
-          "dob": "1941-10-16",
-          "height": "188cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Ken",
-          "lastname": "Newland",
-          "jumper": "3",
-          "dob": "1949-05-04",
-          "height": "187cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Denis",
           "lastname": "Marshall",
           "jumper": "2",
@@ -124,7 +108,23 @@
           "weight": "87kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "Doug",
+          "lastname": "Wade",
+          "jumper": "23",
+          "dob": "1941-10-16",
+          "height": "188cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Newland",
+          "jumper": "3",
+          "dob": "1949-05-04",
+          "height": "187cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",
@@ -164,20 +164,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Sharrock",
-          "jumper": "10",
-          "dob": "1944-02-16",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Ricky",
           "lastname": "Graham",
           "jumper": "21",
           "dob": "1946-06-21",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Sharrock",
+          "jumper": "10",
+          "dob": "1944-02-16",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Gordon",

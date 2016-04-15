@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Geoff",
-          "lastname": "Ainsworth",
-          "jumper": "25",
-          "dob": "1946-05-27",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Geoff",
-          "lastname": "Rosenow",
-          "jumper": "27",
-          "dob": "1942-02-01",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Hosking",
           "jumper": "11",
@@ -36,20 +20,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Goggin",
-          "jumper": "35",
-          "dob": "1941-01-04",
-          "height": "175cm",
-          "weight": "70kg"
+          "firstname": "Geoff",
+          "lastname": "Ainsworth",
+          "jumper": "25",
+          "dob": "1946-05-27",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
-          "firstname": "John'Sam'",
-          "lastname": "Newman",
-          "jumper": "17",
-          "dob": "1945-12-22",
-          "height": "189cm",
-          "weight": "94kg"
+          "firstname": "Geoff",
+          "lastname": "Rosenow",
+          "jumper": "27",
+          "dob": "1942-02-01",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Chris",
@@ -60,12 +44,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Walker",
-          "jumper": "34",
-          "dob": "1942-06-12",
-          "height": "183cm",
-          "weight": "76kg"
+          "firstname": "Bill",
+          "lastname": "Goggin",
+          "jumper": "35",
+          "dob": "1941-01-04",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "John' Sam'",
+          "lastname": "Newman",
+          "jumper": "17",
+          "dob": "1945-12-22",
+          "height": "189cm",
+          "weight": "94kg"
         },
         {
           "firstname": "Denis",
@@ -82,6 +74,14 @@
           "dob": "1941-10-16",
           "height": "188cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Walker",
+          "jumper": "34",
+          "dob": "1942-06-12",
+          "height": "183cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Bill",
@@ -116,14 +116,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Phil",
-          "lastname": "Stevens",
-          "jumper": "4",
-          "dob": "1950-09-14",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Gladman",
           "jumper": "18",
@@ -154,6 +146,14 @@
           "dob": "1943-02-18",
           "height": "170cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Stevens",
+          "jumper": "4",
+          "dob": "1950-09-14",
+          "height": "183cm",
+          "weight": "86kg"
         },
         {
           "firstname": "John",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Gerald",
-          "lastname": "O'Loughlin",
+          "lastname": "O' Loughlin",
           "jumper": "33",
           "dob": "1945-11-20",
           "height": "175cm",

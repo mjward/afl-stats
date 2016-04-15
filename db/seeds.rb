@@ -1,6 +1,7 @@
 require_relative "./seeds/afl_team_data"
 require_relative "./seeds/afl_venue_data"
 require_relative "./seeds/afl_match_data"
+require_relative "./seeds/afl_player_data"
 
 def update_afl_teams(afl_team_data)
   afl_team_data.each do |data|
@@ -14,6 +15,7 @@ def update_afl_teams(afl_team_data)
     )
   end
 end
+puts
 puts 'Seeding AFL teams…'
 update_afl_teams(afl_team_data)
 
@@ -108,3 +110,49 @@ def update_match_data(afl_venue_data)
 end
 puts 'Seeding AFL matches…'
 update_match_data(afl_match_data)
+
+def date_parse(date)
+  DateTime.parse(player["dob"])
+rescue
+end
+
+
+
+def update_player_data(afl_player_data)
+
+  teams = Team.all.inject({}) do |result,team|
+    result[team.name] = team
+    result
+  end
+
+  afl_player_data.each do |data|
+
+    year = data["team_player_data"]["year"]
+
+    team_name = data["team_player_data"]["teams"].keys.first
+    mapped_team_name = AFLTeamMapper.new(team_name).execute
+
+    team = teams[mapped_team_name]
+
+    print "#{year} #{team.name}"
+
+    data["team_player_data"]["teams"][team_name].each do |player|
+      print "."
+
+      player        = Player.where(first_name: player["firstname"], last_name: player["lastname"], dob: date_parse(player["dob"])).first_or_initialize
+      player.height = player["height"].try(:gsub, "cm", "")
+      player.weight = player["weight"].try(:gsub, "kg", "")
+      player.save!
+
+      team_player         = TeamPlayer.where(player: player, team: team, year: year).first_or_initialize
+      team_player.year    = year
+      team_player.jumper  = player["jumper"]
+      team_player.save!
+    end
+    puts
+  end
+end
+puts 'Seeding AFL players…'
+update_player_data(afl_player_data)
+
+

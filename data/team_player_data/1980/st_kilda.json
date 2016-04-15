@@ -4,20 +4,20 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Gary",
-          "lastname": "Colling",
-          "jumper": "12",
-          "dob": "1950-03-17",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Jeff",
           "lastname": "Dunne",
           "jumper": "8",
           "dob": "1956-05-14",
           "height": "176cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Colling",
+          "jumper": "12",
+          "dob": "1950-03-17",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Jeff",
@@ -36,20 +36,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Bruce",
-          "lastname": "Duperouzel",
-          "jumper": "3",
-          "dob": "1950-04-21",
-          "height": "174cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Michael",
           "lastname": "Roberts",
           "jumper": "10",
           "dob": "1959-07-27",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Duperouzel",
+          "jumper": "3",
+          "dob": "1950-04-21",
+          "height": "174cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Greg",
@@ -141,19 +141,11 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",
           "weight": "91kg"
-        },
-        {
-          "firstname": "Michael",
-          "lastname": "Nettlefold",
-          "jumper": "47",
-          "dob": "1959-07-28",
-          "height": "184cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Barry",
@@ -162,6 +154,14 @@
           "dob": "1948-01-07",
           "height": "191cm",
           "weight": "93kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Nettlefold",
+          "jumper": "47",
+          "dob": "1959-07-28",
+          "height": "184cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ian",
@@ -196,14 +196,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Alby",
-          "lastname": "Smedts",
-          "jumper": "23",
-          "dob": "1952-01-09",
-          "height": "184cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Eric",
           "lastname": "Clarke",
           "jumper": "44",
@@ -220,12 +212,12 @@
           "weight": "106kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Fidler",
-          "jumper": "36",
-          "dob": "1961-03-14",
-          "height": "180cm",
-          "weight": "74kg"
+          "firstname": "Alby",
+          "lastname": "Smedts",
+          "jumper": "23",
+          "dob": "1952-01-09",
+          "height": "184cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Matt",
@@ -234,6 +226,14 @@
           "dob": "1961-02-22",
           "height": "193cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Fidler",
+          "jumper": "36",
+          "dob": "1961-03-14",
+          "height": "180cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Robert",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Gary",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "7",
           "dob": "1953-03-03",
           "height": "178cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Neil",
-          "lastname": "MacLeod",
+          "lastname": "Mac Leod",
           "jumper": "28",
           "dob": "1960-01-15",
           "height": "175cm",

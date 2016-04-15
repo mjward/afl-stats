@@ -4,22 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Maurie",
-          "lastname": "Sheehy",
-          "jumper": "22",
-          "dob": "1893-06-12",
-          "height": "175cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Pen",
-          "lastname": "Reynolds",
-          "jumper": "21",
-          "dob": "1892-05-04",
-          "height": "173cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Hughes",
           "jumper": "9",
@@ -36,12 +20,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Wraith",
-          "jumper": "25",
-          "dob": "1890-03-20",
+          "firstname": "Maurie",
+          "lastname": "Sheehy",
+          "jumper": "22",
+          "dob": "1893-06-12",
           "height": "175cm",
-          "weight": "72kg"
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Pen",
+          "lastname": "Reynolds",
+          "jumper": "21",
+          "dob": "1892-05-04",
+          "height": "173cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ernie",
@@ -60,8 +52,16 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Tom",
+          "lastname": "Wraith",
+          "jumper": "25",
+          "dob": "1890-03-20",
+          "height": "175cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Con",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "17",
           "dob": "1893-02-10",
           "height": "180cm",
@@ -69,7 +69,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "PannamJnr",
+          "lastname": "Pannam Jnr",
           "jumper": "20",
           "dob": "1897-04-21",
           "height": "174cm",
@@ -100,20 +100,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Brown",
-          "jumper": "2",
-          "dob": "1896-04-30",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Colechin",
           "jumper": "4",
           "dob": "1887-06-19",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Brown",
+          "jumper": "2",
+          "dob": "1896-04-30",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Gus",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Stan",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "18",
           "dob": "1896-08-30",
           "height": "173cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeySnr",
+          "lastname": "Twomey Snr",
           "jumper": "29",
           "dob": "1899-05-14",
           "height": "174cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Sam",
-          "lastname": "MacKechnie",
+          "lastname": "Mac Kechnie",
           "jumper": "15",
           "dob": "1897-06-05",
           "height": "—",
@@ -205,15 +205,15 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "19",
           "dob": "1900-11-08",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
           "jumper": "16",
           "dob": "1882-12-12",
           "height": "180cm",

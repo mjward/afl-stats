@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Sergio",
-          "lastname": "Silvagni",
-          "jumper": "1",
-          "dob": "1938-06-28",
-          "height": "183cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Berkeley",
           "lastname": "Cox",
           "jumper": "9",
@@ -34,6 +26,14 @@
           "dob": "1934-01-18",
           "height": "175cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Sergio",
+          "lastname": "Silvagni",
+          "jumper": "1",
+          "dob": "1938-06-28",
+          "height": "183cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Bruce",
@@ -60,20 +60,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Buckley",
-          "jumper": "4",
-          "dob": "1935-08-03",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Wes",
           "lastname": "Lofts",
           "jumper": "20",
           "dob": "1942-11-15",
           "height": "188cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Buckley",
+          "jumper": "4",
+          "dob": "1935-08-03",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Maurice",
@@ -109,19 +109,19 @@
         },
         {
           "firstname": "John",
-          "lastname": "Comben",
-          "jumper": "25",
-          "dob": "1944-06-13",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "John",
           "lastname": "Gill",
           "jumper": "12",
           "dob": "1941-10-26",
           "height": "182cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Comben",
+          "jumper": "25",
+          "dob": "1944-06-13",
+          "height": "175cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Greg",
@@ -164,14 +164,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Trevor",
-          "lastname": "Best",
-          "jumper": "6",
-          "dob": "1942-04-02",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Cliff",
           "lastname": "Stewart",
           "jumper": "39",
@@ -180,8 +172,16 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Trevor",
+          "lastname": "Best",
+          "jumper": "6",
+          "dob": "1942-04-02",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Bruce",
-          "lastname": "McMaster-Smith",
+          "lastname": "Mc Master- Smith",
           "jumper": "40",
           "dob": "1939-11-19",
           "height": "169cm",

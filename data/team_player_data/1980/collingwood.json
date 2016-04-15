@@ -4,6 +4,14 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "Bill",
+          "lastname": "Picken",
+          "jumper": "25",
+          "dob": "1956-06-07",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Ray",
           "lastname": "Byrne",
           "jumper": "26",
@@ -18,14 +26,6 @@
           "dob": "1954-04-27",
           "height": "175cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Picken",
-          "jumper": "25",
-          "dob": "1956-06-07",
-          "height": "185cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Peter",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "6",
           "dob": "1956-08-01",
           "height": "188cm",
@@ -68,6 +68,14 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Daicos",
+          "jumper": "35",
+          "dob": "1961-09-20",
+          "height": "184cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Craig",
           "lastname": "Stewart",
           "jumper": "9",
@@ -82,14 +90,6 @@
           "dob": "1956-11-22",
           "height": "183cm",
           "weight": "91kg"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "Daicos",
-          "jumper": "35",
-          "dob": "1961-09-20",
-          "height": "184cm",
-          "weight": "84kg"
         },
         {
           "firstname": "Ross",
@@ -108,20 +108,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Andrew",
-          "lastname": "Ireland",
-          "jumper": "24",
-          "dob": "1953-03-07",
-          "height": "191cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Ronnie",
           "lastname": "Wearmouth",
           "jumper": "5",
           "dob": "1950-07-17",
           "height": "175cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Ireland",
+          "jumper": "24",
+          "dob": "1953-03-07",
+          "height": "191cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Tony",

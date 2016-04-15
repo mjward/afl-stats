@@ -12,6 +12,14 @@
           "weight": "78kg"
         },
         {
+          "firstname": "John",
+          "lastname": "Gill",
+          "jumper": "12",
+          "dob": "1941-10-26",
+          "height": "182cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Graeme",
           "lastname": "Anderson",
           "jumper": "26",
@@ -26,22 +34,6 @@
           "dob": "1939-08-13",
           "height": "189cm",
           "weight": "105kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Gill",
-          "jumper": "12",
-          "dob": "1941-10-26",
-          "height": "182cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Cliff",
-          "lastname": "Stewart",
-          "jumper": "39",
-          "dob": "1942-04-04",
-          "height": "178cm",
-          "weight": "72kg"
         },
         {
           "firstname": "John",
@@ -74,6 +66,14 @@
           "dob": "1946-12-26",
           "height": "184cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Cliff",
+          "lastname": "Stewart",
+          "jumper": "39",
+          "dob": "1942-04-04",
+          "height": "178cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Terry",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "BarassiJnr",
+          "lastname": "Barassi Jnr",
           "jumper": "31",
           "dob": "1936-02-27",
           "height": "179cm",
@@ -164,20 +164,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Stone",
-          "jumper": "44",
-          "dob": "1945-07-30",
-          "height": "187cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Gill",
           "jumper": "21",
           "dob": "1945-01-21",
           "height": "184cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Stone",
+          "jumper": "44",
+          "dob": "1945-07-30",
+          "height": "187cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Gordon",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Dennis",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "35",
           "dob": "1946-01-05",
           "height": "179cm",

@@ -5,27 +5,11 @@
       "Fitzroy": [
         {
           "firstname": "Graeme",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "29",
           "dob": "1935-03-08",
           "height": "175cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Graham",
-          "lastname": "Campbell",
-          "jumper": "20",
-          "dob": "1936-07-22",
-          "height": "177cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Henderson",
-          "jumper": "23",
-          "dob": "1934-01-27",
-          "height": "183cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Ron",
@@ -44,12 +28,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Owen",
-          "lastname": "Abrahams",
-          "jumper": "16",
-          "dob": "1933-07-25",
-          "height": "180cm",
-          "weight": "83kg"
+          "firstname": "Graham",
+          "lastname": "Campbell",
+          "jumper": "20",
+          "dob": "1936-07-22",
+          "height": "177cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Henderson",
+          "jumper": "23",
+          "dob": "1934-01-27",
+          "height": "183cm",
+          "weight": "80kg"
         },
         {
           "firstname": "John",
@@ -58,6 +50,14 @@
           "dob": "1937-03-11",
           "height": "184cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Owen",
+          "lastname": "Abrahams",
+          "jumper": "16",
+          "dob": "1933-07-25",
+          "height": "180cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Wally",
@@ -76,14 +76,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Rod",
-          "lastname": "Vernon",
-          "jumper": "9",
-          "dob": "1934-04-03",
-          "height": "191cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Allan",
           "lastname": "Lynch",
           "jumper": "11",
@@ -98,6 +90,14 @@
           "dob": "1936-01-28",
           "height": "182cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Vernon",
+          "jumper": "9",
+          "dob": "1934-04-03",
+          "height": "191cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Ian",
@@ -196,20 +196,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Barrie",
-          "lastname": "Pigot",
-          "jumper": "25",
-          "dob": "1938-08-03",
-          "height": "184cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Barclay",
           "jumper": "31",
           "dob": "1938-02-27",
           "height": "188cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Barrie",
+          "lastname": "Pigot",
+          "jumper": "25",
+          "dob": "1938-08-03",
+          "height": "184cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Graeme",
@@ -229,19 +229,11 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McCrae",
+          "lastname": "Mc Crae",
           "jumper": "52",
           "dob": "1943-10-31",
           "height": "175cm",
           "weight": "69kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Beers",
-          "jumper": "12",
-          "dob": "1939-01-31",
-          "height": "178cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Geoff",
@@ -252,8 +244,16 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Brian",
+          "lastname": "Beers",
+          "jumper": "12",
+          "dob": "1939-01-31",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Les",
-          "lastname": "HughsonJnr",
+          "lastname": "Hughson Jnr",
           "jumper": "8",
           "dob": "1938-12-01",
           "height": "178cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "O'Kane",
+          "lastname": "O' Kane",
           "jumper": "24",
           "dob": "1940-07-01",
           "height": "191cm",

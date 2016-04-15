@@ -37,7 +37,7 @@
         },
         {
           "firstname": "Con",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "1",
           "dob": "1893-02-10",
           "height": "180cm",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Tommy",
-          "lastname": "McHenry",
+          "lastname": "Mc Henry",
           "jumper": "24",
           "dob": "1903-06-02",
           "height": "168cm",
@@ -53,7 +53,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "30",
           "dob": "1897-07-29",
           "height": "180cm",
@@ -68,14 +68,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "McDonald",
-          "jumper": "7",
-          "dob": "1898-05-03",
-          "height": "168cm",
-          "weight": "63kg"
-        },
-        {
           "firstname": "Joshua",
           "lastname": "Croft",
           "jumper": "6",
@@ -85,7 +77,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "OutenSnr",
+          "lastname": "Outen Snr",
           "jumper": "4",
           "dob": "1902-12-06",
           "height": "178cm",
@@ -98,6 +90,14 @@
           "dob": "1895-07-10",
           "height": "165cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Mc Donald",
+          "jumper": "7",
+          "dob": "1898-05-03",
+          "height": "168cm",
+          "weight": "63kg"
         },
         {
           "firstname": "Jack",
@@ -124,14 +124,6 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Rowley",
-          "lastname": "Griffiths",
-          "jumper": "31",
-          "dob": "1895-03-13",
-          "height": "168cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Nunan",
           "jumper": "9",
@@ -140,8 +132,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Rowley",
+          "lastname": "Griffiths",
+          "jumper": "31",
+          "dob": "1895-03-13",
+          "height": "168cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Paddy",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "10",
           "dob": "1893-04-16",
           "height": "183cm",
@@ -196,20 +196,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "AkedSnr",
-          "jumper": "33",
-          "dob": "1902-11-25",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Alex",
           "lastname": "Gardiner",
           "jumper": "23",
           "dob": "1900-06-28",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Aked Snr",
+          "jumper": "33",
+          "dob": "1902-11-25",
+          "height": "183cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Frank",

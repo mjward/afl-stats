@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Colin",
-          "lastname": "Youren",
-          "jumper": "30",
-          "dob": "1939-06-03",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Nalder",
           "jumper": "33",
@@ -28,20 +20,12 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Brendan",
-          "lastname": "Edwards",
-          "jumper": "9",
-          "dob": "1936-03-18",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "Simmonds",
-          "jumper": "27",
-          "dob": "1928-12-29",
-          "height": "175cm",
-          "weight": "80kg"
+          "firstname": "Colin",
+          "lastname": "Youren",
+          "jumper": "30",
+          "dob": "1939-06-03",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Noel",
@@ -60,6 +44,30 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Brendan",
+          "lastname": "Edwards",
+          "jumper": "9",
+          "dob": "1936-03-18",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Simmonds",
+          "jumper": "27",
+          "dob": "1928-12-29",
+          "height": "175cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Kaine",
+          "jumper": "1",
+          "dob": "1936-08-08",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Geoff",
           "lastname": "Wilson",
           "jumper": "18",
@@ -74,14 +82,6 @@
           "dob": "1936-06-09",
           "height": "180cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Kaine",
-          "jumper": "1",
-          "dob": "1936-08-08",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "John",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "KennedySnr",
+          "lastname": "Kennedy Snr",
           "jumper": "10",
           "dob": "1928-12-20",
           "height": "188cm",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Ray",
-          "lastname": "McVilly",
+          "lastname": "Mc Villy",
           "jumper": "14",
           "dob": "1938-01-14",
           "height": "179cm",
@@ -172,14 +172,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Northcote",
-          "jumper": "19",
-          "dob": "1938-07-27",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Cabble",
           "jumper": "6",
@@ -188,8 +180,16 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Kevin",
+          "lastname": "Northcote",
+          "jumper": "19",
+          "dob": "1938-07-27",
+          "height": "175cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "John",
-          "lastname": "O'Mahoney",
+          "lastname": "O' Mahoney",
           "jumper": "3",
           "dob": "1931-12-07",
           "height": "179cm",
@@ -260,20 +260,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Cam",
+          "lastname": "Mc Pherson",
+          "jumper": "45",
+          "dob": "1940-05-24",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Paul",
           "lastname": "Sullivan",
           "jumper": "13",
           "dob": "1937-10-01",
           "height": "187cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Cam",
-          "lastname": "McPherson",
-          "jumper": "45",
-          "dob": "1940-05-24",
-          "height": "180cm",
-          "weight": "80kg"
         },
         {
           "firstname": "John",

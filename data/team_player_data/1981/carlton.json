@@ -20,6 +20,14 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Rod",
+          "lastname": "Ashman",
+          "jumper": "14",
+          "dob": "1954-12-03",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Bosustow",
           "jumper": "4",
@@ -29,7 +37,7 @@
         },
         {
           "firstname": "Mark",
-          "lastname": "MacLure",
+          "lastname": "Mac Lure",
           "jumper": "36",
           "dob": "1955-07-14",
           "height": "188cm",
@@ -41,14 +49,6 @@
           "jumper": "9",
           "dob": "1957-04-28",
           "height": "183cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "Ashman",
-          "jumper": "14",
-          "dob": "1954-12-03",
-          "height": "175cm",
           "weight": "76kg"
         },
         {
@@ -68,20 +68,20 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Mc Conville",
+          "jumper": "33",
+          "dob": "1958-08-17",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Des",
           "lastname": "English",
           "jumper": "27",
           "dob": "1957-10-09",
           "height": "178cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "McConville",
-          "jumper": "33",
-          "dob": "1958-08-17",
-          "height": "185cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Alex",
@@ -101,6 +101,14 @@
         },
         {
           "firstname": "David",
+          "lastname": "Mc Kay",
+          "jumper": "43",
+          "dob": "1949-11-05",
+          "height": "191cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "David",
           "lastname": "Glascott",
           "jumper": "32",
           "dob": "1961-04-27",
@@ -116,14 +124,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "David",
-          "lastname": "McKay",
-          "jumper": "43",
-          "dob": "1949-11-05",
-          "height": "191cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Scott",
           "lastname": "Howell",
           "jumper": "40",
@@ -132,20 +132,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Buckley",
-          "jumper": "16",
-          "dob": "1959-11-27",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Sheldon",
           "jumper": "5",
           "dob": "1959-12-31",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Buckley",
+          "jumper": "16",
+          "dob": "1959-11-27",
+          "height": "175cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Wayne",

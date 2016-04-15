@@ -13,19 +13,11 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McCrae",
+          "lastname": "Mc Crae",
           "jumper": "7",
           "dob": "1943-10-31",
           "height": "175cm",
           "weight": "69kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Newnham",
-          "jumper": "20",
-          "dob": "1942-10-25",
-          "height": "170cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Allan",
@@ -36,12 +28,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Brown",
-          "jumper": "23",
-          "dob": "1943-08-06",
-          "height": "191cm",
-          "weight": "94kg"
+          "firstname": "John",
+          "lastname": "Newnham",
+          "jumper": "20",
+          "dob": "1942-10-25",
+          "height": "170cm",
+          "weight": "70kg"
         },
         {
           "firstname": "John",
@@ -66,6 +58,14 @@
           "dob": "1937-05-03",
           "height": "187cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Brown",
+          "jumper": "23",
+          "dob": "1943-08-06",
+          "height": "191cm",
+          "weight": "94kg"
         },
         {
           "firstname": "Wayne",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Mara",
+          "lastname": "O' Mara",
           "jumper": "4",
           "dob": "1941-02-24",
           "height": "185cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Colin",
-          "lastname": "McRae",
+          "lastname": "Mc Rae",
           "jumper": "33",
           "dob": "1945-04-20",
           "height": "191cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Keeffe",
+          "lastname": "O' Keeffe",
           "jumper": "49",
           "dob": "1943-11-24",
           "height": "178cm",

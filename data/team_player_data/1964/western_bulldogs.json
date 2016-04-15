@@ -5,14 +5,6 @@
       "Western Bulldogs": [
         {
           "firstname": "John",
-          "lastname": "Jillard",
-          "jumper": "25",
-          "dob": "1941-03-28",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "John",
           "lastname": "Hoiles",
           "jumper": "23",
           "dob": "1938-08-11",
@@ -37,11 +29,11 @@
         },
         {
           "firstname": "John",
-          "lastname": "Schultz",
-          "jumper": "14",
-          "dob": "1938-09-28",
-          "height": "191cm",
-          "weight": "89kg"
+          "lastname": "Jillard",
+          "jumper": "25",
+          "dob": "1941-03-28",
+          "height": "183cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Ken",
@@ -60,12 +52,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Murray",
-          "lastname": "Zeuschner",
-          "jumper": "1",
-          "dob": "1938-11-25",
+          "firstname": "John",
+          "lastname": "Schultz",
+          "jumper": "14",
+          "dob": "1938-09-28",
           "height": "191cm",
-          "weight": "84kg"
+          "weight": "89kg"
         },
         {
           "firstname": "George",
@@ -76,8 +68,16 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Murray",
+          "lastname": "Zeuschner",
+          "jumper": "1",
+          "dob": "1938-11-25",
+          "height": "191cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Ted",
-          "lastname": "WhittenSnr",
+          "lastname": "Whitten Snr",
           "jumper": "3",
           "dob": "1933-07-27",
           "height": "184cm",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "30",
           "dob": "1942-07-22",
           "height": "180cm",
@@ -98,14 +98,6 @@
           "dob": "1944-06-10",
           "height": "185cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Bradley",
-          "jumper": "20",
-          "dob": "1943-05-10",
-          "height": "184cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Ivan",
@@ -122,6 +114,14 @@
           "dob": "1942-06-16",
           "height": "175cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Bradley",
+          "jumper": "20",
+          "dob": "1943-05-10",
+          "height": "184cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Jack",
@@ -220,20 +220,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Barr",
-          "jumper": "35",
-          "dob": "1945-07-09",
-          "height": "179cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Garry",
           "lastname": "Peters",
           "jumper": "40",
           "dob": "1945-04-13",
           "height": "188cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Barr",
+          "jumper": "35",
+          "dob": "1945-07-09",
+          "height": "179cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Sam",
@@ -276,20 +276,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Eddie",
+          "lastname": "O' Halloran",
+          "jumper": "22",
+          "dob": "1943-03-11",
+          "height": "180cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Barrie",
           "lastname": "Beattie",
           "jumper": "9",
           "dob": "1944-12-06",
           "height": "188cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Eddie",
-          "lastname": "O'Halloran",
-          "jumper": "22",
-          "dob": "1943-03-11",
-          "height": "180cm",
-          "weight": "89kg"
         }
       ]
     }

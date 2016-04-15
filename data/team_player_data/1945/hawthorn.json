@@ -4,22 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Don",
-          "lastname": "Wilks",
-          "jumper": "21",
-          "dob": "1917-08-09",
-          "height": "173cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "McLeod",
-          "jumper": "31",
-          "dob": "1926-02-10",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Blackman",
           "jumper": "17",
@@ -36,12 +20,20 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Barwick",
-          "jumper": "14",
-          "dob": "1919-09-29",
-          "height": "187cm",
-          "weight": "89kg"
+          "firstname": "Don",
+          "lastname": "Wilks",
+          "jumper": "21",
+          "dob": "1917-08-09",
+          "height": "173cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Mc Leod",
+          "jumper": "31",
+          "dob": "1926-02-10",
+          "height": "178cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Ken",
@@ -60,12 +52,12 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Albiston",
-          "jumper": "4",
-          "dob": "1917-11-16",
-          "height": "175cm",
-          "weight": "73kg"
+          "firstname": "Geoff",
+          "lastname": "Barwick",
+          "jumper": "14",
+          "dob": "1919-09-29",
+          "height": "187cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Jack",
@@ -74,6 +66,14 @@
           "dob": "1919-04-09",
           "height": "174cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Albiston",
+          "jumper": "4",
+          "dob": "1917-11-16",
+          "height": "175cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Roy",
@@ -108,7 +108,7 @@
           "weight": "55kg"
         },
         {
-          "firstname": "Albert'Butch'",
+          "firstname": "Albert' Butch'",
           "lastname": "Prior",
           "jumper": "24",
           "dob": "1921-01-15",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McVilly",
+          "lastname": "Mc Villy",
           "jumper": "29",
           "dob": "1920-08-07",
           "height": "174cm",
@@ -204,14 +204,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Phil",
-          "lastname": "O'Donohue",
-          "jumper": "19",
-          "dob": "1926-08-08",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Spear",
           "jumper": "10",
@@ -228,8 +220,16 @@
           "weight": "87kg"
         },
         {
+          "firstname": "Phil",
+          "lastname": "O' Donohue",
+          "jumper": "19",
+          "dob": "1926-08-08",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Jack",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "8",
           "dob": "1915-09-29",
           "height": "193cm",
@@ -284,7 +284,7 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Ray'Rusty'",
+          "firstname": "Ray' Rusty'",
           "lastname": "Whelan",
           "jumper": "16",
           "dob": "1921-11-04",

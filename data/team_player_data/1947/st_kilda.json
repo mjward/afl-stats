@@ -5,7 +5,7 @@
       "St Kilda": [
         {
           "firstname": "Allan",
-          "lastname": "HirdSnr",
+          "lastname": "Hird Snr",
           "jumper": "6",
           "dob": "1918-08-11",
           "height": "188cm",
@@ -21,7 +21,7 @@
         },
         {
           "firstname": "Mal",
-          "lastname": "McBean",
+          "lastname": "Mc Bean",
           "jumper": "5",
           "dob": "1921-10-04",
           "height": "180cm",
@@ -29,19 +29,11 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "28",
           "dob": "1921-04-19",
           "height": "185cm",
           "weight": "89kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Ross",
-          "jumper": "20",
-          "dob": "1927-10-18",
-          "height": "185cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Keith",
@@ -68,6 +60,14 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Ross",
+          "jumper": "20",
+          "dob": "1927-10-18",
+          "height": "185cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Harold",
           "lastname": "Bray",
           "jumper": "12",
@@ -84,20 +84,20 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Ron",
+          "lastname": "Mc Leod",
+          "jumper": "18",
+          "dob": "1919-01-04",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Max",
           "lastname": "Rippon",
           "jumper": "8",
           "dob": "1920-10-11",
           "height": "165cm",
           "weight": "61kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "McLeod",
-          "jumper": "18",
-          "dob": "1919-01-04",
-          "height": "178cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Fred",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "7",
           "dob": "1924-07-12",
           "height": "183cm",
@@ -180,20 +180,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Olle",
-          "jumper": "16",
-          "dob": "1924-07-23",
-          "height": "174cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Des",
           "lastname": "Pickett",
           "jumper": "3",
           "dob": "1925-06-04",
           "height": "179cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Olle",
+          "jumper": "16",
+          "dob": "1924-07-23",
+          "height": "174cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Len",
@@ -228,20 +228,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Tony",
-          "lastname": "Richardson",
-          "jumper": "14",
-          "dob": "1925-06-28",
-          "height": "169cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Mark",
           "lastname": "Langdon",
           "jumper": "19",
           "dob": "1927-09-25",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Richardson",
+          "jumper": "14",
+          "dob": "1925-06-28",
+          "height": "169cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Jack",
@@ -252,14 +252,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Fountain",
-          "jumper": "30",
-          "dob": "1915-02-16",
-          "height": "188cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Phillips",
           "jumper": "14",
@@ -268,8 +260,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Roy",
+          "lastname": "Fountain",
+          "jumper": "30",
+          "dob": "1915-02-16",
+          "height": "188cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Stan",
-          "lastname": "LeLievre",
+          "lastname": "Le Lievre",
           "jumper": "13",
           "dob": "1920-07-31",
           "height": "183cm",

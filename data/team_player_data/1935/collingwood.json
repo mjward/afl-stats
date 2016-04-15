@@ -36,22 +36,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Carmody",
-          "jumper": "5",
-          "dob": "1911-06-07",
-          "height": "173cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Lou",
-          "lastname": "Riley",
-          "jumper": "23",
-          "dob": "1909-09-07",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Bowyer",
           "jumper": "4",
@@ -68,12 +52,36 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Carmody",
+          "jumper": "5",
+          "dob": "1911-06-07",
+          "height": "173cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Lou",
+          "lastname": "Riley",
+          "jumper": "23",
+          "dob": "1909-09-07",
+          "height": "175cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Len",
           "lastname": "Murphy",
           "jumper": "19",
           "dob": "1909-11-23",
           "height": "189cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Regan",
+          "jumper": "25",
+          "dob": "1912-09-12",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Albert",
@@ -92,14 +100,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Regan",
-          "jumper": "25",
-          "dob": "1912-09-12",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Keith",
           "lastname": "Fraser",
           "jumper": "14",
@@ -116,22 +116,6 @@
           "weight": "63kg"
         },
         {
-          "firstname": "Harold",
-          "lastname": "Rumney",
-          "jumper": "22",
-          "dob": "1907-05-16",
-          "height": "171cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Marcus",
-          "lastname": "Whelan",
-          "jumper": "28",
-          "dob": "1914-06-27",
-          "height": "175cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Morgan",
           "jumper": "18",
@@ -146,6 +130,22 @@
           "dob": "1911-09-09",
           "height": "173cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Rumney",
+          "jumper": "22",
+          "dob": "1907-05-16",
+          "height": "171cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Marcus",
+          "lastname": "Whelan",
+          "jumper": "28",
+          "dob": "1914-06-27",
+          "height": "175cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Alby",

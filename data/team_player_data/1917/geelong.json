@@ -4,6 +4,30 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Jim",
+          "lastname": "Kearney",
+          "jumper": "16",
+          "dob": "1893-07-04",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Rankin",
+          "jumper": "13",
+          "dob": "1893-02-17",
+          "height": "178cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Marsham",
+          "jumper": "10",
+          "dob": "1890-07-19",
+          "height": "185cm",
+          "weight": "90kg"
+        },
+        {
           "firstname": "Harold",
           "lastname": "Craven",
           "jumper": "4",
@@ -28,28 +52,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Kearney",
-          "jumper": "16",
-          "dob": "1893-07-04",
-          "height": "183cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Rankin",
-          "jumper": "13",
-          "dob": "1893-02-17",
-          "height": "178cm",
-          "weight": "77kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Marsham",
-          "jumper": "10",
-          "dob": "1890-07-19",
+          "firstname": "Basil",
+          "lastname": "Collins",
+          "jumper": "5",
+          "dob": "1891-06-11",
           "height": "185cm",
-          "weight": "90kg"
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Mac Kay",
+          "jumper": "20",
+          "dob": "1890-11-15",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Bert",
@@ -84,24 +100,8 @@
           "weight": "—"
         },
         {
-          "firstname": "Basil",
-          "lastname": "Collins",
-          "jumper": "5",
-          "dob": "1891-06-11",
-          "height": "185cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Norm",
-          "lastname": "MacKay",
-          "jumper": "20",
-          "dob": "1890-11-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
-          "lastname": "BakerJnr",
+          "lastname": "Baker Jnr",
           "jumper": "2",
           "dob": "1891-12-09",
           "height": "180cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Gus",
-          "lastname": "McLennan",
+          "lastname": "Mc Lennan",
           "jumper": "17",
           "dob": "1897-08-29",
           "height": "—",

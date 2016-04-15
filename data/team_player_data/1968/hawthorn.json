@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Michael",
-          "lastname": "Blood",
-          "jumper": "15",
-          "dob": "1945-07-05",
-          "height": "193cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Des",
           "lastname": "Meagher",
           "jumper": "30",
@@ -28,11 +20,11 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Rod",
-          "lastname": "Olsson",
-          "jumper": "25",
-          "dob": "1942-04-23",
-          "height": "187cm",
+          "firstname": "Michael",
+          "lastname": "Blood",
+          "jumper": "15",
+          "dob": "1945-07-05",
+          "height": "193cm",
           "weight": "89kg"
         },
         {
@@ -50,6 +42,14 @@
           "dob": "1946-05-10",
           "height": "183cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Olsson",
+          "jumper": "25",
+          "dob": "1942-04-23",
+          "height": "187cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Don",
@@ -76,20 +76,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Wilson",
-          "jumper": "10",
-          "dob": "1945-01-21",
-          "height": "180cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Terry",
           "lastname": "Gay",
           "jumper": "28",
           "dob": "1947-01-18",
           "height": "188cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Wilson",
+          "jumper": "10",
+          "dob": "1945-01-21",
+          "height": "180cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Geoff",
@@ -116,14 +116,6 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Arthur",
-          "jumper": "2",
-          "dob": "1936-06-09",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Neil",
           "lastname": "Ferguson",
           "jumper": "17",
@@ -138,6 +130,14 @@
           "dob": "1940-08-04",
           "height": "198cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Arthur",
+          "jumper": "2",
+          "dob": "1936-06-09",
+          "height": "180cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Peter",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Rochford",
-          "lastname": "Devenish-Meares",
+          "lastname": "Devenish- Meares",
           "jumper": "24",
           "dob": "1948-03-23",
           "height": "187cm",

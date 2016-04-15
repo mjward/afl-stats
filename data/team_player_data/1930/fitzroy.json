@@ -4,6 +4,30 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Percy",
+          "lastname": "Ellis",
+          "jumper": "23",
+          "dob": "1906-05-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charles",
+          "lastname": "Chapman",
+          "jumper": "13",
+          "dob": "1905-01-11",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Gerald",
+          "lastname": "Mc Kenzie",
+          "jumper": "12",
+          "dob": "1904-01-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Fred",
           "lastname": "Davies",
           "jumper": "10",
@@ -28,28 +52,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Percy",
-          "lastname": "Ellis",
-          "jumper": "23",
-          "dob": "1906-05-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Charles",
-          "lastname": "Chapman",
-          "jumper": "13",
-          "dob": "1905-01-11",
+          "firstname": "Frank",
+          "lastname": "Gibson",
+          "jumper": "5",
+          "dob": "1904-03-17",
           "height": "180cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Gerald",
-          "lastname": "McKenzie",
-          "jumper": "12",
-          "dob": "1904-01-13",
-          "height": "—",
-          "weight": "—"
+          "weight": "87kg"
         },
         {
           "firstname": "Jack",
@@ -66,14 +74,6 @@
           "dob": "1903-10-04",
           "height": "180cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Gibson",
-          "jumper": "5",
-          "dob": "1904-03-17",
-          "height": "180cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Frank",
@@ -116,7 +116,7 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Wilfred'Chicken'",
+          "firstname": "Wilfred' Chicken'",
           "lastname": "Smallhorn",
           "jumper": "21",
           "dob": "1911-02-25",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "33",
           "dob": "1907-07-02",
           "height": "—",

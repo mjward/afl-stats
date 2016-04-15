@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Bert",
-          "lastname": "Hyde",
-          "jumper": "20",
-          "dob": "1907-06-03",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Roly",
           "lastname": "Tasker",
           "jumper": "29",
@@ -26,6 +18,14 @@
           "dob": "1905-02-23",
           "height": "182cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Hyde",
+          "jumper": "20",
+          "dob": "1907-06-03",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Jack",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Bert",
-          "lastname": "McComb",
+          "lastname": "Mc Comb",
           "jumper": "34",
           "dob": "1906-09-27",
           "height": "180cm",
@@ -124,20 +124,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Lathlain",
-          "jumper": "26",
-          "dob": "1905-12-02",
-          "height": "169cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Pickford",
           "jumper": "15",
           "dob": "1904-04-18",
           "height": "174cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Lathlain",
+          "jumper": "26",
+          "dob": "1905-12-02",
+          "height": "169cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Dick",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Dermot",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "30",
           "dob": "1906-04-28",
           "height": "—",
@@ -196,20 +196,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Hughson Snr",
+          "jumper": "24",
+          "dob": "1907-09-12",
+          "height": "188cm",
+          "weight": "90kg"
+        },
+        {
           "firstname": "Archie",
           "lastname": "Leitch",
           "jumper": "2",
           "dob": "1906-03-12",
           "height": "177cm",
           "weight": "67kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "HughsonSnr",
-          "jumper": "24",
-          "dob": "1907-09-12",
-          "height": "188cm",
-          "weight": "90kg"
         },
         {
           "firstname": "Rob",
@@ -220,20 +220,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "Utting",
-          "jumper": "2",
-          "dob": "1897-10-31",
-          "height": "166cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Murphy",
           "jumper": "32",
           "dob": "1900-03-14",
           "height": "185cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Utting",
+          "jumper": "2",
+          "dob": "1897-10-31",
+          "height": "166cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Dave",
@@ -244,20 +244,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Mort",
-          "jumper": "31",
-          "dob": "1906-03-24",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Stan",
           "lastname": "Petrie",
           "jumper": "28",
           "dob": "1906-09-15",
           "height": "183cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Mort",
+          "jumper": "31",
+          "dob": "1906-03-24",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Merv",
@@ -316,20 +316,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Lester",
-          "jumper": "33",
-          "dob": "1902-02-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Pat",
           "lastname": "Murphy",
           "jumper": "32",
           "dob": "1906-08-31",
           "height": "178cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Lester",
+          "jumper": "33",
+          "dob": "1902-02-26",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Frank",

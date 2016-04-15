@@ -4,20 +4,20 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Kevin",
-          "lastname": "Rose",
-          "jumper": "29",
-          "dob": "1939-06-04",
-          "height": "184cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Des",
           "lastname": "Tuddenham",
           "jumper": "1",
           "dob": "1943-01-29",
           "height": "180cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Rose",
+          "jumper": "29",
+          "dob": "1939-06-04",
+          "height": "184cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Laurie",
@@ -76,22 +76,6 @@
           "weight": "109kg"
         },
         {
-          "firstname": "Colin",
-          "lastname": "Tully",
-          "jumper": "9",
-          "dob": "1945-05-20",
-          "height": "179cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Max",
-          "lastname": "Pitt",
-          "jumper": "21",
-          "dob": "1946-01-04",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Wayne",
           "lastname": "Richardson",
           "jumper": "18",
@@ -116,12 +100,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Waters",
-          "jumper": "5",
-          "dob": "1943-12-14",
-          "height": "188cm",
-          "weight": "85kg"
+          "firstname": "Colin",
+          "lastname": "Tully",
+          "jumper": "9",
+          "dob": "1945-05-20",
+          "height": "179cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Pitt",
+          "jumper": "21",
+          "dob": "1946-01-04",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Ted",
@@ -138,6 +130,14 @@
           "dob": "1944-05-28",
           "height": "185cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Waters",
+          "jumper": "5",
+          "dob": "1943-12-14",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Lee",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "6",
           "dob": "1946-08-27",
           "height": "191cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "37",
           "dob": "1947-03-31",
           "height": "183cm",

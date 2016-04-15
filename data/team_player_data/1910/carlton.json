@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Andy",
-          "lastname": "McDonald",
-          "jumper": "3",
-          "dob": "1885-12-27",
-          "height": "165cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Elliott",
           "jumper": "1",
@@ -36,20 +28,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Andy",
+          "lastname": "Mc Donald",
+          "jumper": "3",
+          "dob": "1885-12-27",
+          "height": "165cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Rod",
-          "lastname": "McGregor",
+          "lastname": "Mc Gregor",
           "jumper": "11",
           "dob": "1882-10-19",
           "height": "178cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Baquie",
-          "jumper": "11",
-          "dob": "1886-07-10",
-          "height": "178cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Martin",
@@ -68,12 +60,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Clark",
-          "jumper": "3",
-          "dob": "1878-11-12",
-          "height": "170cm",
-          "weight": "86kg"
+          "firstname": "Jack",
+          "lastname": "Baquie",
+          "jumper": "11",
+          "dob": "1886-07-10",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Vin",
@@ -82,6 +74,14 @@
           "dob": "1885-10-23",
           "height": "167cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Clark",
+          "jumper": "3",
+          "dob": "1878-11-12",
+          "height": "170cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Dick",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McCluskey",
+          "lastname": "Mc Cluskey",
           "jumper": "—",
           "dob": "1890-08-31",
           "height": "—",
@@ -205,17 +205,17 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "Massey",
+          "lastname": "Bristow",
           "jumper": "—",
-          "dob": "1887-05-01",
+          "dob": "1886-09-30",
           "height": "—",
           "weight": "—"
         },
         {
           "firstname": "Jack",
-          "lastname": "Bristow",
+          "lastname": "Massey",
           "jumper": "—",
-          "dob": "1886-09-30",
+          "dob": "1887-05-01",
           "height": "—",
           "weight": "—"
         },
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Andy",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "21",
           "dob": "1885-07-05",
           "height": "—",

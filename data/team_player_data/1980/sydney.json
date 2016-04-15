@@ -4,6 +4,22 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Paul",
+          "lastname": "Morwood",
+          "jumper": "32",
+          "dob": "1959-03-02",
+          "height": "182cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Francis",
+          "lastname": "Jackson",
+          "jumper": "31",
+          "dob": "1954-08-24",
+          "height": "184cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Stephen",
           "lastname": "Wright",
           "jumper": "26",
@@ -36,20 +52,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "Morwood",
-          "jumper": "32",
-          "dob": "1959-03-02",
-          "height": "182cm",
-          "weight": "71kg"
-        },
-        {
-          "firstname": "Francis",
-          "lastname": "Jackson",
-          "jumper": "31",
-          "dob": "1954-08-24",
-          "height": "184cm",
-          "weight": "83kg"
+          "firstname": "Barry",
+          "lastname": "Round",
+          "jumper": "25",
+          "dob": "1950-01-26",
+          "height": "193cm",
+          "weight": "105kg"
         },
         {
           "firstname": "Tony",
@@ -58,14 +66,6 @@
           "dob": "1960-05-17",
           "height": "185cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Barry",
-          "lastname": "Round",
-          "jumper": "25",
-          "dob": "1950-01-26",
-          "height": "193cm",
-          "weight": "105kg"
         },
         {
           "firstname": "Mark",
@@ -92,6 +92,14 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Greg",
+          "lastname": "Smith",
+          "jumper": "46",
+          "dob": "1957-03-25",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Bernie",
           "lastname": "Evans",
           "jumper": "15",
@@ -108,16 +116,8 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Smith",
-          "jumper": "46",
-          "dob": "1957-03-25",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Robert",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "4",
           "dob": "1951-08-18",
           "height": "192cm",
@@ -164,20 +164,20 @@
           "weight": "88kg"
         },
         {
+          "firstname": "David",
+          "lastname": "Mc Leish",
+          "jumper": "29",
+          "dob": "1950-02-21",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Wayne",
           "lastname": "Carroll",
           "jumper": "38",
           "dob": "1958-03-22",
           "height": "183cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "David",
-          "lastname": "McLeish",
-          "jumper": "29",
-          "dob": "1950-02-21",
-          "height": "180cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Shane",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "Rhys-Jones",
+          "lastname": "Rhys- Jones",
           "jumper": "40",
           "dob": "1962-06-16",
           "height": "187cm",
@@ -284,20 +284,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Victor",
-          "lastname": "Hugo",
-          "jumper": "39",
-          "dob": "1953-11-05",
-          "height": "191cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Robert",
           "lastname": "Dean",
           "jumper": "18",
           "dob": "1950-10-20",
           "height": "189cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Victor",
+          "lastname": "Hugo",
+          "jumper": "39",
+          "dob": "1953-11-05",
+          "height": "191cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Michael",
@@ -317,7 +317,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "19",
           "dob": "1956-06-10",
           "height": "189cm",

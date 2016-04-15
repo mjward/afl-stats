@@ -4,22 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Syd",
-          "lastname": "CoventrySnr",
-          "jumper": "6",
-          "dob": "1899-06-13",
-          "height": "182cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Beveridge",
-          "jumper": "3",
-          "dob": "1907-05-08",
-          "height": "177cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Dibbs",
           "jumper": "9",
@@ -36,12 +20,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Syd",
+          "lastname": "Coventry Snr",
+          "jumper": "6",
+          "dob": "1899-06-13",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Jack",
-          "lastname": "Regan",
-          "jumper": "32",
-          "dob": "1912-09-12",
-          "height": "185cm",
-          "weight": "83kg"
+          "lastname": "Beveridge",
+          "jumper": "3",
+          "dob": "1907-05-08",
+          "height": "177cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Gordon",
@@ -60,6 +52,22 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Regan",
+          "jumper": "32",
+          "dob": "1912-09-12",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Libbis",
+          "jumper": "13",
+          "dob": "1903-07-02",
+          "height": "175cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Harry",
           "lastname": "Collier",
           "jumper": "5",
@@ -76,12 +84,20 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Libbis",
-          "jumper": "13",
-          "dob": "1903-07-02",
+          "firstname": "Don",
+          "lastname": "Harris",
+          "jumper": "12",
+          "dob": "1905-06-27",
+          "height": "174cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Muir",
+          "jumper": "17",
+          "dob": "1907-04-06",
           "height": "175cm",
-          "weight": "80kg"
+          "weight": "79kg"
         },
         {
           "firstname": "Horrie",
@@ -98,22 +114,6 @@
           "dob": "1907-05-16",
           "height": "171cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "Harris",
-          "jumper": "12",
-          "dob": "1905-06-27",
-          "height": "174cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Muir",
-          "jumper": "17",
-          "dob": "1907-04-06",
-          "height": "175cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Frank",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "MacLeod",
+          "lastname": "Mac Leod",
           "jumper": "18",
           "dob": "1904-10-08",
           "height": "170cm",

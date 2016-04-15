@@ -4,22 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Albert",
-          "lastname": "Collier",
-          "jumper": "7",
-          "dob": "1909-07-09",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Beveridge",
-          "jumper": "4",
-          "dob": "1907-05-08",
-          "height": "177cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Coventry",
           "jumper": "10",
@@ -44,6 +28,30 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Albert",
+          "lastname": "Collier",
+          "jumper": "7",
+          "dob": "1909-07-09",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Beveridge",
+          "jumper": "4",
+          "dob": "1907-05-08",
+          "height": "177cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Makeham",
+          "jumper": "15",
+          "dob": "1901-11-06",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Joe",
           "lastname": "Poulter",
           "jumper": "18",
@@ -60,14 +68,6 @@
           "weight": "60kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Makeham",
-          "jumper": "15",
-          "dob": "1901-11-06",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Collier",
           "jumper": "8",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "CoventrySnr",
+          "lastname": "Coventry Snr",
           "jumper": "9",
           "dob": "1899-06-13",
           "height": "182cm",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "TysonJnr",
+          "lastname": "Tyson Jnr",
           "jumper": "22",
           "dob": "1897-11-14",
           "height": "183cm",

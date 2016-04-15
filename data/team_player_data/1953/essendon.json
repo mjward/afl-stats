@@ -4,8 +4,24 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Greg",
+          "lastname": "Sewell",
+          "jumper": "9",
+          "dob": "1933-06-30",
+          "height": "179cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Mc Connell",
+          "jumper": "25",
+          "dob": "1927-08-21",
+          "height": "188cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Peter",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "16",
           "dob": "1932-05-22",
           "height": "180cm",
@@ -21,35 +37,11 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "4",
           "dob": "1925-12-10",
           "height": "180cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Greg",
-          "lastname": "Sewell",
-          "jumper": "9",
-          "dob": "1933-06-30",
-          "height": "179cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "McConnell",
-          "jumper": "25",
-          "dob": "1927-08-21",
-          "height": "188cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Coleman",
-          "jumper": "10",
-          "dob": "1928-11-23",
-          "height": "185cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Bill",
@@ -66,6 +58,14 @@
           "dob": "1932-02-18",
           "height": "194cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Coleman",
+          "jumper": "10",
+          "dob": "1928-11-23",
+          "height": "185cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Jack",
@@ -92,20 +92,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Syme",
-          "jumper": "26",
-          "dob": "1924-11-30",
-          "height": "188cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Jones",
           "jumper": "24",
           "dob": "1924-11-07",
           "height": "185cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Syme",
+          "jumper": "26",
+          "dob": "1924-11-30",
+          "height": "188cm",
+          "weight": "86kg"
         },
         {
           "firstname": "John",
@@ -124,20 +124,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Gardiner",
-          "jumper": "18",
-          "dob": "1923-01-25",
-          "height": "173cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Thaw",
           "jumper": "8",
           "dob": "1926-01-17",
           "height": "170cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Gardiner",
+          "jumper": "18",
+          "dob": "1923-01-25",
+          "height": "173cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Ian",
@@ -236,20 +236,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Alby",
-          "lastname": "Law",
-          "jumper": "2",
-          "dob": "1929-12-24",
-          "height": "175cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Payne",
           "jumper": "35",
           "dob": "1927-02-04",
           "height": "182cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Alby",
+          "lastname": "Law",
+          "jumper": "2",
+          "dob": "1929-12-24",
+          "height": "175cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Jim",

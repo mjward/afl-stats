@@ -4,22 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Len",
-          "lastname": "Mortimer",
-          "jumper": "16",
-          "dob": "1886-04-24",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Alex",
-          "lastname": "Kerr",
-          "jumper": "—",
-          "dob": "1880-11-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Grimshaw",
           "jumper": "10",
@@ -36,7 +20,7 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "25",
           "dob": "1886-11-10",
@@ -50,6 +34,22 @@
           "dob": "1880-03-11",
           "height": "180cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Mortimer",
+          "jumper": "16",
+          "dob": "1886-04-24",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Alex",
+          "lastname": "Kerr",
+          "jumper": "—",
+          "dob": "1880-11-13",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Charlie",
@@ -76,6 +76,14 @@
           "weight": "58kg"
         },
         {
+          "firstname": "Arthur",
+          "lastname": "Hiskins",
+          "jumper": "8",
+          "dob": "1886-09-09",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "George",
           "lastname": "Bower",
           "jumper": "3",
@@ -90,14 +98,6 @@
           "dob": "1891-09-22",
           "height": "178cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Hiskins",
-          "jumper": "8",
-          "dob": "1886-09-09",
-          "height": "178cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Jim",

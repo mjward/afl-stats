@@ -4,6 +4,14 @@
     "teams": {
       "Carlton": [
         {
+          "firstname": "Frank",
+          "lastname": "Gill",
+          "jumper": "21",
+          "dob": "1908-12-10",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Mickey",
           "lastname": "Crisp",
           "jumper": "12",
@@ -18,30 +26,6 @@
           "dob": "1907-08-12",
           "height": "173cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Gill",
-          "jumper": "21",
-          "dob": "1908-12-10",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Vallence",
-          "jumper": "22",
-          "dob": "1905-06-04",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Eric",
-          "lastname": "Huxtable",
-          "jumper": "9",
-          "dob": "1908-10-27",
-          "height": "182cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Jim",
@@ -76,12 +60,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Kelly",
-          "jumper": "7",
-          "dob": "1907-06-07",
-          "height": "175cm",
-          "weight": "74kg"
+          "firstname": "Harry",
+          "lastname": "Vallence",
+          "jumper": "22",
+          "dob": "1905-06-04",
+          "height": "183cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Eric",
+          "lastname": "Huxtable",
+          "jumper": "9",
+          "dob": "1908-10-27",
+          "height": "182cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Jack",
@@ -98,6 +90,14 @@
           "dob": "1907-11-06",
           "height": "175cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Kelly",
+          "jumper": "7",
+          "dob": "1907-06-07",
+          "height": "175cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Alf",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "32",
           "dob": "1906-01-21",
           "height": "179cm",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Bernie",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "25",
           "dob": "1909-05-14",
           "height": "169cm",
@@ -164,20 +164,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "George",
-          "lastname": "MorrisseyJnr",
-          "jumper": "8",
-          "dob": "1908-03-10",
-          "height": "174cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Maurie",
           "lastname": "Johnson",
           "jumper": "15",
           "dob": "1907-01-15",
           "height": "177cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Morrissey Jnr",
+          "jumper": "8",
+          "dob": "1908-03-10",
+          "height": "174cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Horrie",
@@ -252,14 +252,6 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Ern",
-          "lastname": "O'Regan",
-          "jumper": "18",
-          "dob": "1907-01-23",
-          "height": "183cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Clarke",
           "jumper": "24",
@@ -274,6 +266,14 @@
           "dob": "1910-08-09",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Ern",
+          "lastname": "O' Regan",
+          "jumper": "18",
+          "dob": "1907-01-23",
+          "height": "183cm",
+          "weight": "71kg"
         }
       ]
     }

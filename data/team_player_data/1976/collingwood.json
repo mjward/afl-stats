@@ -20,6 +20,14 @@
           "weight": "97kg"
         },
         {
+          "firstname": "Graeme",
+          "lastname": "Anderson",
+          "jumper": "21",
+          "dob": "1953-01-05",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Len",
           "lastname": "Thompson",
           "jumper": "2",
@@ -34,14 +42,6 @@
           "dob": "1948-02-25",
           "height": "193cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Graeme",
-          "lastname": "Anderson",
-          "jumper": "21",
-          "dob": "1953-01-05",
-          "height": "185cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Bill",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "6",
           "dob": "1956-08-01",
           "height": "188cm",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Lachie",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "41",
           "dob": "1956-11-03",
           "height": "188cm",

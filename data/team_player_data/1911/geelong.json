@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Les",
-          "lastname": "Armstrong",
-          "jumper": "1",
-          "dob": "1887-06-16",
-          "height": "180cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Len",
-          "lastname": "Martin",
-          "jumper": "19",
-          "dob": "1887-04-19",
-          "height": "179cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Grigg",
           "jumper": "8",
@@ -60,6 +44,22 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Armstrong",
+          "jumper": "1",
+          "dob": "1887-06-16",
+          "height": "180cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Martin",
+          "jumper": "19",
+          "dob": "1887-04-19",
+          "height": "179cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Billy",
           "lastname": "Orchard",
           "jumper": "11",
@@ -76,14 +76,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Eason",
-          "jumper": "15",
-          "dob": "1881-12-15",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Marsham",
           "jumper": "27",
@@ -98,6 +90,14 @@
           "dob": "1883-07-13",
           "height": "178cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Eason",
+          "jumper": "15",
+          "dob": "1881-12-15",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Les",

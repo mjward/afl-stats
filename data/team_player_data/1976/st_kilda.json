@@ -4,14 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Gary",
-          "lastname": "Colling",
-          "jumper": "12",
-          "dob": "1950-03-17",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Rex",
           "lastname": "Hunt",
           "jumper": "2",
@@ -20,12 +12,12 @@
           "weight": "97kg"
         },
         {
-          "firstname": "Jeff",
-          "lastname": "Sarau",
-          "jumper": "31",
-          "dob": "1954-01-25",
-          "height": "191cm",
-          "weight": "96kg"
+          "firstname": "Gary",
+          "lastname": "Colling",
+          "jumper": "12",
+          "dob": "1950-03-17",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Kevin",
@@ -42,6 +34,14 @@
           "dob": "1953-04-10",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Jeff",
+          "lastname": "Sarau",
+          "jumper": "31",
+          "dob": "1954-01-25",
+          "height": "191cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Robert",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",

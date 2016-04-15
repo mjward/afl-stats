@@ -4,14 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Ray",
-          "lastname": "Walker",
-          "jumper": "26",
-          "dob": "1941-12-18",
-          "height": "175cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Hoiles",
           "jumper": "23",
@@ -20,12 +12,12 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Bernie",
-          "lastname": "Lee",
-          "jumper": "29",
-          "dob": "1937-03-20",
-          "height": "182cm",
-          "weight": "75kg"
+          "firstname": "Ray",
+          "lastname": "Walker",
+          "jumper": "26",
+          "dob": "1941-12-18",
+          "height": "175cm",
+          "weight": "79kg"
         },
         {
           "firstname": "John",
@@ -36,20 +28,20 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Bernie",
+          "lastname": "Lee",
+          "jumper": "29",
+          "dob": "1937-03-20",
+          "height": "182cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Gallagher",
           "jumper": "24",
           "dob": "1931-03-16",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "WhittenSnr",
-          "jumper": "3",
-          "dob": "1933-07-27",
-          "height": "184cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Graham",
@@ -74,6 +66,14 @@
           "dob": "1939-10-17",
           "height": "175cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Whitten Snr",
+          "jumper": "3",
+          "dob": "1933-07-27",
+          "height": "184cm",
+          "weight": "89kg"
         },
         {
           "firstname": "John",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Cameron",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "8",
           "dob": "1940-06-24",
           "height": "183cm",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Barney",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "30",
           "dob": "1940-02-01",
           "height": "178cm",

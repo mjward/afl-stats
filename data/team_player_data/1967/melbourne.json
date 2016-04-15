@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Brian",
-          "lastname": "Dixon",
-          "jumper": "9",
-          "dob": "1936-05-20",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Groom",
           "jumper": "31",
@@ -36,6 +28,38 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Brian",
+          "lastname": "Dixon",
+          "jumper": "9",
+          "dob": "1936-05-20",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Davis",
+          "jumper": "6",
+          "dob": "1944-08-25",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Harold' Hassa'",
+          "lastname": "Mann",
+          "jumper": "29",
+          "dob": "1940-10-10",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bob' Tassie'",
+          "lastname": "Johnson",
+          "jumper": "8",
+          "dob": "1937-12-02",
+          "height": "189cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Don",
           "lastname": "Williams",
           "jumper": "35",
@@ -52,44 +76,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Davis",
-          "jumper": "6",
-          "dob": "1944-08-25",
-          "height": "178cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Harold'Hassa'",
-          "lastname": "Mann",
-          "jumper": "29",
-          "dob": "1940-10-10",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Bob'Tassie'",
-          "lastname": "Johnson",
-          "jumper": "8",
-          "dob": "1937-12-02",
-          "height": "189cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Smith",
           "jumper": "4",
           "dob": "1947-09-22",
           "height": "183cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Tony",
-          "lastname": "Anderson",
-          "jumper": "11",
-          "dob": "1942-01-31",
-          "height": "183cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Barrie",
@@ -100,19 +92,19 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Tony",
+          "lastname": "Anderson",
+          "jumper": "11",
+          "dob": "1942-01-31",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Rob",
           "lastname": "Foster",
           "jumper": "1",
           "dob": "1947-03-25",
           "height": "189cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "Ross",
-          "lastname": "Dillon",
-          "jumper": "24",
-          "dob": "1947-12-10",
-          "height": "187cm",
           "weight": "84kg"
         },
         {
@@ -122,6 +114,14 @@
           "dob": "1947-06-30",
           "height": "187cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Ross",
+          "lastname": "Dillon",
+          "jumper": "24",
+          "dob": "1947-12-10",
+          "height": "187cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Neville",
@@ -276,20 +276,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Lees",
-          "jumper": "21",
-          "dob": "1948-03-30",
-          "height": "194cm",
-          "weight": "99kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Murnane",
           "jumper": "49",
           "dob": "1948-02-11",
           "height": "180cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Lees",
+          "jumper": "21",
+          "dob": "1948-03-30",
+          "height": "194cm",
+          "weight": "99kg"
         },
         {
           "firstname": "Brent",

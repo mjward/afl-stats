@@ -4,16 +4,8 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Peter",
-          "lastname": "Pianto",
-          "jumper": "6",
-          "dob": "1929-11-25",
-          "height": "170cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Bill",
-          "lastname": "McMaster",
+          "lastname": "Mc Master",
           "jumper": "7",
           "dob": "1930-01-30",
           "height": "192cm",
@@ -36,6 +28,14 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Pianto",
+          "jumper": "6",
+          "dob": "1929-11-25",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Geoff",
           "lastname": "Williams",
           "jumper": "21",
@@ -50,22 +50,6 @@
           "dob": "1931-02-08",
           "height": "170cm",
           "weight": "72kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Hyde",
-          "jumper": "16",
-          "dob": "1930-04-11",
-          "height": "184cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Flanagan",
-          "jumper": "10",
-          "dob": "1924-03-28",
-          "height": "187cm",
-          "weight": "92kg"
         },
         {
           "firstname": "Bruce",
@@ -90,6 +74,22 @@
           "dob": "1929-07-06",
           "height": "182cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Hyde",
+          "jumper": "16",
+          "dob": "1930-04-11",
+          "height": "184cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Flanagan",
+          "jumper": "10",
+          "dob": "1924-03-28",
+          "height": "187cm",
+          "weight": "92kg"
         },
         {
           "firstname": "George",
@@ -212,16 +212,8 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Stevens",
-          "jumper": "19",
-          "dob": "1929-07-24",
-          "height": "177cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Leo",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "20",
           "dob": "1925-06-11",
           "height": "189cm",
@@ -234,6 +226,14 @@
           "dob": "1927-07-23",
           "height": "185cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Stevens",
+          "jumper": "19",
+          "dob": "1929-07-24",
+          "height": "177cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Tony",

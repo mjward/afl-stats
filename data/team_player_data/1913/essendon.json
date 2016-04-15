@@ -116,20 +116,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Rupe",
-          "lastname": "Lowell",
-          "jumper": "6",
-          "dob": "1893-08-30",
-          "height": "169cm",
-          "weight": "66kg"
-        },
-        {
           "firstname": "Johnny",
           "lastname": "Allan",
           "jumper": "23",
           "dob": "1888-08-02",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Rupe",
+          "lastname": "Lowell",
+          "jumper": "6",
+          "dob": "1893-08-30",
+          "height": "169cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Clyde",
@@ -156,18 +156,18 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Parkinson",
-          "jumper": "21",
-          "dob": "1893-12-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Walker",
           "jumper": "24",
           "dob": "1891-07-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Parkinson",
+          "jumper": "21",
+          "dob": "1893-12-10",
           "height": "—",
           "weight": "—"
         },
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Vic",
-          "lastname": "McNeil",
+          "lastname": "Mc Neil",
           "jumper": "28",
           "dob": "1890-07-10",
           "height": "—",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "14",
           "dob": "1879-08-22",
           "height": "173cm",
@@ -221,19 +221,11 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "25",
           "dob": "1887-09-25",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Cyril",
-          "lastname": "Gove",
-          "jumper": "28",
-          "dob": "1890-01-10",
-          "height": "168cm",
-          "weight": "55kg"
         },
         {
           "firstname": "Roy",
@@ -242,6 +234,14 @@
           "dob": "1893-04-04",
           "height": "170cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Cyril",
+          "lastname": "Gove",
+          "jumper": "28",
+          "dob": "1890-01-10",
+          "height": "168cm",
+          "weight": "55kg"
         },
         {
           "firstname": "Jimmy",
@@ -300,20 +300,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Moore",
-          "jumper": "21",
-          "dob": "1891-06-03",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Edwards",
           "jumper": "26",
           "dob": "1891-10-09",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Moore",
+          "jumper": "21",
+          "dob": "1891-06-03",
+          "height": "—",
+          "weight": "—"
         }
       ]
     }

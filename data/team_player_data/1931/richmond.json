@@ -4,30 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Bert",
-          "lastname": "Foster",
-          "jumper": "11",
-          "dob": "1906-08-19",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Martin",
-          "lastname": "Bolger",
-          "jumper": "9",
-          "dob": "1906-08-19",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Gordon",
-          "lastname": "Strang",
-          "jumper": "23",
-          "dob": "1908-02-10",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Titus",
           "jumper": "12",
@@ -52,8 +28,32 @@
           "weight": "61kg"
         },
         {
+          "firstname": "Bert",
+          "lastname": "Foster",
+          "jumper": "11",
+          "dob": "1906-08-19",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Bolger",
+          "jumper": "9",
+          "dob": "1906-08-19",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Strang",
+          "jumper": "23",
+          "dob": "1908-02-10",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Basil",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "9",
           "dob": "1904-08-03",
           "height": "180cm",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "16",
           "dob": "1908-03-20",
           "height": "175cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "18",
           "dob": "1904-12-24",
           "height": "185cm",

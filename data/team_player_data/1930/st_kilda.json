@@ -4,22 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Alan",
-          "lastname": "Scott",
-          "jumper": "1",
-          "dob": "1900-08-25",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Matthews",
-          "jumper": "11",
-          "dob": "1902-12-07",
-          "height": "179cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Cubbins",
           "jumper": "8",
@@ -44,6 +28,38 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Alan",
+          "lastname": "Scott",
+          "jumper": "1",
+          "dob": "1900-08-25",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Matthews",
+          "jumper": "11",
+          "dob": "1902-12-07",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Phillips",
+          "jumper": "3",
+          "dob": "1905-05-27",
+          "height": "183cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Horrie",
+          "lastname": "Mason",
+          "jumper": "18",
+          "dob": "1903-04-30",
+          "height": "177cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Davis",
           "jumper": "26",
@@ -66,22 +82,6 @@
           "dob": "1908-12-04",
           "height": "178cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Phillips",
-          "jumper": "3",
-          "dob": "1905-05-27",
-          "height": "183cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Horrie",
-          "lastname": "Mason",
-          "jumper": "18",
-          "dob": "1903-04-30",
-          "height": "177cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Roy",
@@ -228,20 +228,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Percy",
-          "lastname": "Outram",
-          "jumper": "27",
-          "dob": "1903-05-21",
-          "height": "174cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Smith",
           "jumper": "30",
           "dob": "1909-08-29",
           "height": "180cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Outram",
+          "jumper": "27",
+          "dob": "1903-05-21",
+          "height": "174cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Jack",

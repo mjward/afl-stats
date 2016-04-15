@@ -12,14 +12,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Robert",
-          "lastname": "Flower",
-          "jumper": "2",
-          "dob": "1955-08-05",
-          "height": "183cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Gerard",
           "lastname": "Healy",
           "jumper": "39",
@@ -36,20 +28,20 @@
           "weight": "75kg"
         },
         {
+          "firstname": "Robert",
+          "lastname": "Flower",
+          "jumper": "2",
+          "dob": "1955-08-05",
+          "height": "183cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Graham",
           "lastname": "Gaunt",
           "jumper": "20",
           "dob": "1953-08-02",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Tony",
-          "lastname": "Martyn",
-          "jumper": "24",
-          "dob": "1957-03-09",
-          "height": "182cm",
-          "weight": "77kg"
         },
         {
           "firstname": "Robert",
@@ -76,12 +68,12 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Garry",
-          "lastname": "Baker",
-          "jumper": "1",
-          "dob": "1953-03-24",
-          "height": "193cm",
-          "weight": "95kg"
+          "firstname": "Tony",
+          "lastname": "Martyn",
+          "jumper": "24",
+          "dob": "1957-03-09",
+          "height": "182cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Steven",
@@ -90,6 +82,14 @@
           "dob": "1956-05-22",
           "height": "193cm",
           "weight": "91kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Baker",
+          "jumper": "1",
+          "dob": "1953-03-24",
+          "height": "193cm",
+          "weight": "95kg"
         },
         {
           "firstname": "Glenn",
@@ -132,14 +132,6 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Durnan",
-          "jumper": "21",
-          "dob": "1960-04-18",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Giles",
           "jumper": "45",
@@ -148,8 +140,16 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Durnan",
+          "jumper": "21",
+          "dob": "1960-04-18",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Kelly",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "23",
           "dob": "1960-11-16",
           "height": "173cm",
@@ -260,20 +260,20 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Anthony",
-          "lastname": "Dullard",
-          "jumper": "28",
-          "dob": "1955-07-13",
-          "height": "192cm",
-          "weight": "102kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Denny",
           "jumper": "7",
           "dob": "1953-05-10",
           "height": "184cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Anthony",
+          "lastname": "Dullard",
+          "jumper": "28",
+          "dob": "1955-07-13",
+          "height": "192cm",
+          "weight": "102kg"
         },
         {
           "firstname": "Henry",
@@ -357,7 +357,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "38",
           "dob": "1956-03-24",
           "height": "181cm",

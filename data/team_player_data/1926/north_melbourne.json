@@ -4,22 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Leo",
-          "lastname": "Dwyer",
-          "jumper": "19",
-          "dob": "1907-05-09",
-          "height": "172cm",
-          "weight": "67kg"
-        },
-        {
-          "firstname": "Dave",
-          "lastname": "Walsh",
-          "jumper": "17",
-          "dob": "1898-09-29",
-          "height": "177cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Lambe",
           "jumper": "22",
@@ -44,8 +28,24 @@
           "weight": "62kg"
         },
         {
+          "firstname": "Leo",
+          "lastname": "Dwyer",
+          "jumper": "19",
+          "dob": "1907-05-09",
+          "height": "172cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Walsh",
+          "jumper": "17",
+          "dob": "1898-09-29",
+          "height": "177cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Curly",
-          "lastname": "LintonSnr",
+          "lastname": "Linton Snr",
           "jumper": "11",
           "dob": "1895-09-05",
           "height": "179cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "4",
           "dob": "1906-06-11",
           "height": "—",

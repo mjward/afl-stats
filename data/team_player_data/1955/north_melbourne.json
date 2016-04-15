@@ -4,22 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Len",
-          "lastname": "Templar",
-          "jumper": "24",
-          "dob": "1931-12-18",
-          "height": "168cm",
-          "weight": "64kg"
-        },
-        {
-          "firstname": "Allen",
-          "lastname": "Aylett",
-          "jumper": "17",
-          "dob": "1934-04-24",
-          "height": "174cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Johnson",
           "jumper": "10",
@@ -36,20 +20,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "McMahon",
-          "jumper": "21",
-          "dob": "1930-05-17",
-          "height": "170cm",
-          "weight": "71kg"
+          "firstname": "Len",
+          "lastname": "Templar",
+          "jumper": "24",
+          "dob": "1931-12-18",
+          "height": "168cm",
+          "weight": "64kg"
         },
         {
-          "firstname": "Albert",
-          "lastname": "Mantello",
-          "jumper": "32",
-          "dob": "1934-04-30",
-          "height": "180cm",
-          "weight": "91kg"
+          "firstname": "Allen",
+          "lastname": "Aylett",
+          "jumper": "17",
+          "dob": "1934-04-24",
+          "height": "174cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Mick",
@@ -68,8 +52,24 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Kevin",
+          "lastname": "Mc Mahon",
+          "jumper": "21",
+          "dob": "1930-05-17",
+          "height": "170cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Albert",
+          "lastname": "Mantello",
+          "jumper": "32",
+          "dob": "1934-04-30",
+          "height": "180cm",
+          "weight": "91kg"
+        },
+        {
           "firstname": "Jack",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "5",
           "dob": "1929-07-09",
           "height": "174cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "16",
           "dob": "1931-11-30",
           "height": "191cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "23",
           "dob": "1937-10-29",
           "height": "188cm",
@@ -284,22 +284,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Curtis",
-          "jumper": "—",
-          "dob": "1933-01-13",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "Smith",
-          "jumper": "8",
-          "dob": "1932-08-10",
-          "height": "169cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Reeves",
           "jumper": "6",
@@ -314,6 +298,22 @@
           "dob": "1932-12-16",
           "height": "178cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Curtis",
+          "jumper": "—",
+          "dob": "1933-01-13",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Smith",
+          "jumper": "8",
+          "dob": "1932-08-10",
+          "height": "169cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Peter",
@@ -348,20 +348,20 @@
           "weight": "97kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Goullet",
-          "jumper": "2",
-          "dob": "1932-09-22",
-          "height": "169cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Pat",
           "lastname": "Kelly",
           "jumper": "22",
           "dob": "1923-05-10",
           "height": "178cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Goullet",
+          "jumper": "2",
+          "dob": "1932-09-22",
+          "height": "169cm",
+          "weight": "73kg"
         }
       ]
     }

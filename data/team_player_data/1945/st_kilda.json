@@ -4,20 +4,20 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Col",
-          "lastname": "Williamson",
-          "jumper": "4",
-          "dob": "1913-12-31",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Butler",
           "jumper": "2",
           "dob": "1920-07-31",
           "height": "180cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Col",
+          "lastname": "Williamson",
+          "jumper": "4",
+          "dob": "1913-12-31",
+          "height": "185cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Sam",
@@ -37,7 +37,7 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "28",
           "dob": "1921-04-19",
           "height": "185cm",
@@ -68,6 +68,14 @@
           "weight": "61kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Hall",
+          "jumper": "26",
+          "dob": "1919-03-10",
+          "height": "168cm",
+          "weight": "65kg"
+        },
+        {
           "firstname": "Clarrie",
           "lastname": "Vontom",
           "jumper": "7",
@@ -84,28 +92,12 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Hall",
-          "jumper": "26",
-          "dob": "1919-03-10",
-          "height": "168cm",
-          "weight": "65kg"
-        },
-        {
           "firstname": "Eric",
           "lastname": "Comerford",
           "jumper": "1",
           "dob": "1912-07-03",
           "height": "178cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Wal",
-          "lastname": "Armour",
-          "jumper": "6",
-          "dob": "1921-04-28",
-          "height": "183cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Gordon",
@@ -132,8 +124,16 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Wal",
+          "lastname": "Armour",
+          "jumper": "6",
+          "dob": "1921-04-28",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Stan",
-          "lastname": "LeLievre",
+          "lastname": "Le Lievre",
           "jumper": "27",
           "dob": "1920-07-31",
           "height": "183cm",
@@ -260,20 +260,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Murray",
-          "lastname": "Johnstone",
-          "jumper": "17",
-          "dob": "1925-05-19",
-          "height": "187cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Harold",
           "lastname": "Daly",
           "jumper": "32",
           "dob": "1915-10-18",
           "height": "173cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Murray",
+          "lastname": "Johnstone",
+          "jumper": "17",
+          "dob": "1925-05-19",
+          "height": "187cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Geoff",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "29",
           "dob": "1921-10-17",
           "height": "183cm",
@@ -314,14 +314,6 @@
           "dob": "1916-05-10",
           "height": "178cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Rowell",
-          "jumper": "24",
-          "dob": "1921-10-22",
-          "height": "173cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Les",
@@ -340,20 +332,20 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Rowell",
+          "jumper": "24",
+          "dob": "1921-10-22",
+          "height": "173cm",
+          "weight": "68kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Sharp",
           "jumper": "34",
           "dob": "1915-08-27",
           "height": "175cm",
           "weight": "65kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Lowry",
-          "jumper": "9",
-          "dob": "1916-11-25",
-          "height": "180cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Sam",
@@ -364,8 +356,16 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Lowry",
+          "jumper": "9",
+          "dob": "1916-11-25",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Brendon",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "13",
           "dob": "1917-04-12",
           "height": "191cm",

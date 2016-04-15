@@ -4,24 +4,8 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "George",
-          "lastname": "Angus",
-          "jumper": "—",
-          "dob": "1875-04-15",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Dave",
-          "lastname": "O'Donoghue",
-          "jumper": "—",
-          "dob": "1885-07-11",
-          "height": "179cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
           "jumper": "17",
           "dob": "1882-12-12",
           "height": "180cm",
@@ -50,6 +34,22 @@
           "dob": "1877-08-03",
           "height": "179cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Angus",
+          "jumper": "—",
+          "dob": "1875-04-15",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "O' Donoghue",
+          "jumper": "—",
+          "dob": "1885-07-11",
+          "height": "179cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Bill",
@@ -108,7 +108,7 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Dick'Bendigo'",
+          "firstname": "Dick' Bendigo'",
           "lastname": "Vernon",
           "jumper": "21",
           "dob": "1878-12-28",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Duncan",
-          "lastname": "McIvor",
+          "lastname": "Mc Ivor",
           "jumper": "30",
           "dob": "1884-11-11",
           "height": "—",
@@ -212,14 +212,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Lindsay",
-          "lastname": "Bristow",
-          "jumper": "—",
-          "dob": "1888-03-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Albert",
           "lastname": "Pannam",
           "jumper": "30",
@@ -236,8 +228,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Lindsay",
+          "lastname": "Bristow",
+          "jumper": "—",
+          "dob": "1888-03-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bert",
-          "lastname": "McKnight",
+          "lastname": "Mc Knight",
           "jumper": "—",
           "dob": "1883-12-01",
           "height": "—",

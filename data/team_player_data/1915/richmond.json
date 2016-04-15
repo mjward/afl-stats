@@ -4,20 +4,12 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "4",
           "dob": "1886-11-10",
           "height": "178cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Clarrie",
-          "lastname": "Hall",
-          "jumper": "22",
-          "dob": "1890-01-18",
-          "height": "160cm",
-          "weight": "64kg"
         },
         {
           "firstname": "Hughie",
@@ -44,12 +36,12 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Vic",
-          "lastname": "Thorp",
-          "jumper": "5",
-          "dob": "1890-10-25",
-          "height": "178cm",
-          "weight": "83kg"
+          "firstname": "Clarrie",
+          "lastname": "Hall",
+          "jumper": "22",
+          "dob": "1890-01-18",
+          "height": "160cm",
+          "weight": "64kg"
         },
         {
           "firstname": "Barney",
@@ -60,8 +52,16 @@
           "weight": "96kg"
         },
         {
+          "firstname": "Vic",
+          "lastname": "Thorp",
+          "jumper": "5",
+          "dob": "1890-10-25",
+          "height": "178cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Frank",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "19",
           "dob": "1890-08-09",
           "height": "174cm",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "26",
           "dob": "1887-06-19",
           "height": "—",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "HughesSnr",
+          "lastname": "Hughes Snr",
           "jumper": "8",
           "dob": "1894-02-26",
           "height": "175cm",
@@ -180,20 +180,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Alessio",
-          "jumper": "24",
-          "dob": "1895-12-22",
-          "height": "175cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Burke",
           "jumper": "10",
           "dob": "1891-09-10",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Alessio",
+          "jumper": "24",
+          "dob": "1895-12-22",
+          "height": "175cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Bill",
@@ -252,18 +252,18 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Ned",
-          "lastname": "Richardson",
-          "jumper": "20",
-          "dob": "1886-05-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Martyn",
           "jumper": "29",
           "dob": "1891-05-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ned",
+          "lastname": "Richardson",
+          "jumper": "20",
+          "dob": "1886-05-26",
           "height": "—",
           "weight": "—"
         },

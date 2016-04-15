@@ -4,20 +4,20 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "John",
-          "lastname": "Peck",
-          "jumper": "23",
-          "dob": "1937-08-07",
-          "height": "188cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Don",
           "lastname": "Roach",
           "jumper": "16",
           "dob": "1940-07-31",
           "height": "187cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Peck",
+          "jumper": "23",
+          "dob": "1937-08-07",
+          "height": "188cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Alan",
@@ -132,14 +132,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Mike",
-          "lastname": "Demaine",
-          "jumper": "18",
-          "dob": "1948-03-01",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Wes",
           "lastname": "Smith",
           "jumper": "35",
@@ -148,8 +140,16 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Mike",
+          "lastname": "Demaine",
+          "jumper": "18",
+          "dob": "1948-03-01",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Cam",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "26",
           "dob": "1940-05-24",
           "height": "180cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Shea",
+          "lastname": "O' Shea",
           "jumper": "37",
           "dob": "1945-10-05",
           "height": "170cm",
@@ -236,20 +236,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Daryl",
-          "lastname": "Mares",
-          "jumper": "21",
-          "dob": "1946-10-03",
-          "height": "174cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Willis",
           "jumper": "40",
           "dob": "1942-10-24",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Daryl",
+          "lastname": "Mares",
+          "jumper": "21",
+          "dob": "1946-10-03",
+          "height": "174cm",
+          "weight": "75kg"
         },
         {
           "firstname": "John",

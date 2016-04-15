@@ -21,7 +21,7 @@
         },
         {
           "firstname": "Stephen",
-          "lastname": "McCann",
+          "lastname": "Mc Cann",
           "jumper": "16",
           "dob": "1958-05-31",
           "height": "192cm",
@@ -156,20 +156,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "David",
-          "lastname": "Dench",
-          "jumper": "23",
-          "dob": "1951-08-23",
-          "height": "191cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Xavier",
           "lastname": "Tanner",
           "jumper": "25",
           "dob": "1956-05-02",
           "height": "183cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Dench",
+          "jumper": "23",
+          "dob": "1951-08-23",
+          "height": "191cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Arnold",

@@ -4,6 +4,22 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Herbert' Boxer'",
+          "lastname": "Milne",
+          "jumper": "13",
+          "dob": "1884-02-08",
+          "height": "183cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bill' Sonna'",
+          "lastname": "Thomas",
+          "jumper": "20",
+          "dob": "1886-11-10",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Caldwell",
           "jumper": "4",
@@ -18,30 +34,6 @@
           "dob": "1888-08-24",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Herbert'Boxer'",
-          "lastname": "Milne",
-          "jumper": "13",
-          "dob": "1884-02-08",
-          "height": "183cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Bill'Sonna'",
-          "lastname": "Thomas",
-          "jumper": "20",
-          "dob": "1886-11-10",
-          "height": "178cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Rusich",
-          "jumper": "18",
-          "dob": "1889-05-09",
-          "height": "175cm",
-          "weight": "69kg"
         },
         {
           "firstname": "Jack",
@@ -61,19 +53,11 @@
         },
         {
           "firstname": "Les",
-          "lastname": "Charge",
-          "jumper": "5",
-          "dob": "1891-07-27",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Bruce",
-          "lastname": "Sloss",
+          "lastname": "Rusich",
           "jumper": "18",
-          "dob": "1889-01-21",
-          "height": "180cm",
-          "weight": "76kg"
+          "dob": "1889-05-09",
+          "height": "175cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Fred",
@@ -92,6 +76,22 @@
           "weight": "92kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Charge",
+          "jumper": "5",
+          "dob": "1891-07-27",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Sloss",
+          "jumper": "18",
+          "dob": "1889-01-21",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Arthur",
           "lastname": "Hiskins",
           "jumper": "11",
@@ -108,20 +108,20 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Ricketts",
-          "jumper": "1",
-          "dob": "1885-07-03",
-          "height": "173cm",
-          "weight": "68kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Saltau",
           "jumper": "24",
           "dob": "1891-09-17",
           "height": "180cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Ricketts",
+          "jumper": "1",
+          "dob": "1885-07-03",
+          "height": "173cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Dick",

@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Tod",
-          "lastname": "Collins",
-          "jumper": "—",
-          "dob": "1876-01-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "George",
           "lastname": "Hastings",
           "jumper": "—",
@@ -24,6 +16,14 @@
           "lastname": "Groves",
           "jumper": "—",
           "dob": "1874-05-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Tod",
+          "lastname": "Collins",
+          "jumper": "—",
+          "dob": "1876-01-30",
           "height": "—",
           "weight": "—"
         },
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "O'Loughlin",
+          "lastname": "O' Loughlin",
           "jumper": "—",
           "dob": "1873-10-29",
           "height": "—",
@@ -140,7 +140,7 @@
           "weight": "74kg"
         },
         {
-          "firstname": "CharlesTracker",
+          "firstname": "Charles Tracker",
           "lastname": "Forbes",
           "jumper": "—",
           "dob": "1865-05-08",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Mick",
-          "lastname": "O'Loughlin",
+          "lastname": "O' Loughlin",
           "jumper": "—",
           "dob": "1876-02-12",
           "height": "—",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McCartney",
+          "lastname": "Mc Cartney",
           "jumper": "—",
           "dob": "—",
           "height": "—",

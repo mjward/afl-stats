@@ -53,7 +53,7 @@
         },
         {
           "firstname": "Harvey",
-          "lastname": "DunnSnr",
+          "lastname": "Dunn Snr",
           "jumper": "16",
           "dob": "1899-08-06",
           "height": "164cm",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Chas",
-          "lastname": "McSwain",
+          "lastname": "Mc Swain",
           "jumper": "3",
           "dob": "1901-10-12",
           "height": "182cm",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Paddy",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "10",
           "dob": "1893-04-16",
           "height": "183cm",
@@ -252,14 +252,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Pat",
-          "lastname": "Kennedy",
-          "jumper": "12",
-          "dob": "1904-05-12",
-          "height": "168cm",
-          "weight": "62kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Vale",
           "jumper": "35",
@@ -268,8 +260,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Pat",
+          "lastname": "Kennedy",
+          "jumper": "12",
+          "dob": "1904-05-12",
+          "height": "168cm",
+          "weight": "62kg"
+        },
+        {
           "firstname": "Harry",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "10",
           "dob": "1902-10-18",
           "height": "—",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Gerald",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "19",
           "dob": "1902-05-13",
           "height": "—",
@@ -300,20 +300,20 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Garney",
-          "lastname": "Goodrick",
-          "jumper": "29",
-          "dob": "1895-02-19",
-          "height": "188cm",
-          "weight": "—"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Stone",
           "jumper": "31",
           "dob": "1901-05-06",
           "height": "173cm",
           "weight": "65kg"
+        },
+        {
+          "firstname": "Garney",
+          "lastname": "Goodrick",
+          "jumper": "29",
+          "dob": "1895-02-19",
+          "height": "188cm",
+          "weight": "—"
         }
       ]
     }

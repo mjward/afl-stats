@@ -20,20 +20,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Pool",
-          "jumper": "19",
-          "dob": "1906-11-09",
-          "height": "165cm",
-          "weight": "65kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Francis",
           "jumper": "10",
           "dob": "1910-12-12",
           "height": "184cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Pool",
+          "jumper": "19",
+          "dob": "1906-11-09",
+          "height": "165cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Allan",
@@ -58,14 +58,6 @@
           "dob": "1910-02-16",
           "height": "180cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Stan",
-          "lastname": "Spinks",
-          "jumper": "29",
-          "dob": "1912-10-16",
-          "height": "171cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Jack",
@@ -108,11 +100,27 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Stan",
+          "lastname": "Spinks",
+          "jumper": "29",
+          "dob": "1912-10-16",
+          "height": "171cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Clarrie",
           "lastname": "Lonsdale",
           "jumper": "4",
           "dob": "1906-09-13",
           "height": "180cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Bennett",
+          "jumper": "24",
+          "dob": "1911-09-22",
+          "height": "184cm",
           "weight": "78kg"
         },
         {
@@ -130,14 +138,6 @@
           "dob": "1907-04-26",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Bennett",
-          "jumper": "24",
-          "dob": "1911-09-22",
-          "height": "184cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Hilton",

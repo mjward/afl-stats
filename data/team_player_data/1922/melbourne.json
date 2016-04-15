@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Percy",
-          "lastname": "Wilson",
-          "jumper": "25",
-          "dob": "1889-03-31",
-          "height": "168cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Heinz",
           "jumper": "15",
@@ -58,6 +50,14 @@
           "dob": "1887-12-22",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Wilson",
+          "jumper": "25",
+          "dob": "1889-03-31",
+          "height": "168cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Joe",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "LordSnr",
+          "lastname": "Lord Snr",
           "jumper": "26",
           "dob": "1899-09-16",
           "height": "191cm",

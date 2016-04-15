@@ -4,6 +4,22 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Dinny",
+          "lastname": "Mc Kay",
+          "jumper": "—",
+          "dob": "1867-11-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Howson",
+          "jumper": "—",
+          "dob": "1872-08-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Mick",
           "lastname": "Pleass",
           "jumper": "—",
@@ -29,25 +45,17 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1874-09-19",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Dinny",
-          "lastname": "McKay",
+          "firstname": "Dick",
+          "lastname": "Gibson",
           "jumper": "—",
-          "dob": "1867-11-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Howson",
-          "jumper": "—",
-          "dob": "1872-08-11",
+          "dob": "1866-07-13",
           "height": "—",
           "weight": "—"
         },
@@ -77,7 +85,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McCartney",
+          "lastname": "Mc Cartney",
           "jumper": "—",
           "dob": "—",
           "height": "—",
@@ -85,7 +93,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1872-08-11",
           "height": "—",
@@ -109,23 +117,15 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "PurdySnr",
+          "lastname": "Purdy Snr",
           "jumper": "—",
           "dob": "1867-08-28",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Gibson",
-          "jumper": "—",
-          "dob": "1866-07-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Michael",
-          "lastname": "O'Gorman",
+          "lastname": "O' Gorman",
           "jumper": "—",
           "dob": "1874-11-08",
           "height": "—",

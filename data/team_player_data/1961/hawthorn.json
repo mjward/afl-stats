@@ -4,40 +4,8 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Brendan",
-          "lastname": "Edwards",
-          "jumper": "9",
-          "dob": "1936-03-18",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Graham",
-          "lastname": "Arthur",
-          "jumper": "2",
-          "dob": "1936-06-09",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Cam",
-          "lastname": "McPherson",
-          "jumper": "26",
-          "dob": "1940-05-24",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Law",
-          "jumper": "7",
-          "dob": "1938-09-27",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "John",
-          "lastname": "McArthur",
+          "lastname": "Mc Arthur",
           "jumper": "28",
           "dob": "1938-09-10",
           "height": "183cm",
@@ -60,12 +28,36 @@
           "weight": "86kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Winneke",
-          "jumper": "12",
-          "dob": "1938-03-19",
-          "height": "191cm",
+          "firstname": "Brendan",
+          "lastname": "Edwards",
+          "jumper": "9",
+          "dob": "1936-03-18",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Arthur",
+          "jumper": "2",
+          "dob": "1936-06-09",
+          "height": "180cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Cam",
+          "lastname": "Mc Pherson",
+          "jumper": "26",
+          "dob": "1940-05-24",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Law",
+          "jumper": "7",
+          "dob": "1938-09-27",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Garry",
@@ -74,6 +66,14 @@
           "dob": "1939-07-10",
           "height": "183cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Winneke",
+          "jumper": "12",
+          "dob": "1938-03-19",
+          "height": "191cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Phil",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Max",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "24",
           "dob": "1942-03-20",
           "height": "183cm",

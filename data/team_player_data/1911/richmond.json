@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Barney",
+          "lastname": "Herbert",
+          "jumper": "1",
+          "dob": "1889-02-20",
+          "height": "188cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Vic",
           "lastname": "Thorp",
           "jumper": "5",
@@ -28,14 +36,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Barney",
-          "lastname": "Herbert",
-          "jumper": "1",
-          "dob": "1889-02-20",
-          "height": "188cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Heaney",
           "jumper": "6",
@@ -50,22 +50,6 @@
           "dob": "1885-06-09",
           "height": "178cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Love",
-          "jumper": "4",
-          "dob": "1888-02-22",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Bowden",
-          "jumper": "23",
-          "dob": "1887-03-29",
-          "height": "168cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Mick",
@@ -101,11 +85,19 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McCashney",
-          "jumper": "19",
-          "dob": "1890-08-09",
-          "height": "174cm",
-          "weight": "72kg"
+          "lastname": "Love",
+          "jumper": "4",
+          "dob": "1888-02-22",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Bowden",
+          "jumper": "23",
+          "dob": "1887-03-29",
+          "height": "168cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Bill",
@@ -114,6 +106,14 @@
           "dob": "1885-01-01",
           "height": "170cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Mc Cashney",
+          "jumper": "19",
+          "dob": "1890-08-09",
+          "height": "174cm",
+          "weight": "72kg"
         },
         {
           "firstname": "George",
@@ -173,17 +173,9 @@
         },
         {
           "firstname": "Johnny",
-          "lastname": "MacGregor",
+          "lastname": "Mac Gregor",
           "jumper": "—",
           "dob": "1889-12-03",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Norm",
-          "lastname": "Brooker",
-          "jumper": "—",
-          "dob": "1889-09-28",
           "height": "—",
           "weight": "—"
         },
@@ -192,6 +184,14 @@
           "lastname": "Wollacott",
           "jumper": "—",
           "dob": "1890-04-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Brooker",
+          "jumper": "—",
+          "dob": "1889-09-28",
           "height": "—",
           "weight": "—"
         },
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "—",
           "dob": "1892-03-28",
           "height": "—",

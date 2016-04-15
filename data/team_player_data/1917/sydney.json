@@ -4,6 +4,22 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Bill",
+          "lastname": "Daly",
+          "jumper": "9",
+          "dob": "1892-11-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Rademacher",
+          "jumper": "9",
+          "dob": "1889-11-27",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Bob",
           "lastname": "Deas",
           "jumper": "8",
@@ -28,36 +44,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Daly",
-          "jumper": "9",
-          "dob": "1892-11-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Rademacher",
-          "jumper": "9",
-          "dob": "1889-11-27",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "HowellSnr",
-          "jumper": "14",
-          "dob": "1895-03-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Morgan",
           "jumper": "18",
           "dob": "1889-03-24",
           "height": "180cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Howell Snr",
+          "jumper": "14",
+          "dob": "1895-03-16",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Mark",
@@ -92,20 +92,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Hutchinson",
-          "jumper": "4",
-          "dob": "1890-02-17",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ben",
           "lastname": "Hair",
           "jumper": "25",
           "dob": "1892-09-29",
           "height": "178cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Hutchinson",
+          "jumper": "4",
+          "dob": "1890-02-17",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Jock",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "PurdyJnr",
+          "lastname": "Purdy Jnr",
           "jumper": "21",
           "dob": "1898-03-18",
           "height": "168cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "O'Donoghue",
+          "lastname": "O' Donoghue",
           "jumper": "13",
           "dob": "1891-06-03",
           "height": "183cm",

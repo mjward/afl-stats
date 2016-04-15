@@ -4,22 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Garry",
-          "lastname": "Wilson",
-          "jumper": "29",
-          "dob": "1953-07-17",
-          "height": "178cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Gary",
-          "lastname": "Pert",
-          "jumper": "3",
-          "dob": "1965-05-28",
-          "height": "188cm",
-          "weight": "94kg"
-        },
-        {
           "firstname": "Bernie",
           "lastname": "Quinlan",
           "jumper": "5",
@@ -34,6 +18,22 @@
           "dob": "1964-06-16",
           "height": "182cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Wilson",
+          "jumper": "29",
+          "dob": "1953-07-17",
+          "height": "178cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Pert",
+          "jumper": "3",
+          "dob": "1965-05-28",
+          "height": "188cm",
+          "weight": "94kg"
         },
         {
           "firstname": "Ross",
@@ -172,20 +172,20 @@
           "weight": "88kg"
         },
         {
-          "firstname": "Matthew",
-          "lastname": "Rendell",
-          "jumper": "9",
-          "dob": "1959-04-18",
-          "height": "200cm",
-          "weight": "103kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Burke",
           "jumper": "26",
           "dob": "1964-05-24",
           "height": "187cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Rendell",
+          "jumper": "9",
+          "dob": "1959-04-18",
+          "height": "200cm",
+          "weight": "103kg"
         },
         {
           "firstname": "Michael",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Craig",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "35",
           "dob": "1963-10-09",
           "height": "190cm",

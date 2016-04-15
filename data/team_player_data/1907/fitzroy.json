@@ -4,6 +4,14 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Barclay",
+          "lastname": "Bailes",
+          "jumper": "—",
+          "dob": "1883-08-09",
+          "height": "157cm",
+          "weight": "65kg"
+        },
+        {
           "firstname": "Les",
           "lastname": "Millis",
           "jumper": "—",
@@ -28,20 +36,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Herbert'Boxer'",
+          "firstname": "Herbert' Boxer'",
           "lastname": "Milne",
           "jumper": "—",
           "dob": "1884-02-08",
           "height": "183cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Barclay",
-          "lastname": "Bailes",
-          "jumper": "—",
-          "dob": "1883-08-09",
-          "height": "157cm",
-          "weight": "65kg"
         },
         {
           "firstname": "Tammy",
@@ -84,20 +84,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Abbott",
-          "jumper": "6",
-          "dob": "1885-07-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Gerald",
           "lastname": "Brosnan",
           "jumper": "—",
           "dob": "1877-08-14",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Abbott",
+          "jumper": "6",
+          "dob": "1885-07-06",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Syd",
@@ -164,18 +164,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Norm",
-          "lastname": "McLennan",
-          "jumper": "—",
-          "dob": "1887-02-17",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Blacklock",
           "jumper": "—",
           "dob": "1883-07-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Mc Lennan",
+          "jumper": "—",
+          "dob": "1887-02-17",
           "height": "—",
           "weight": "—"
         },
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McWilliam",
+          "lastname": "Mc William",
           "jumper": "—",
           "dob": "1878-02-03",
           "height": "—",
@@ -229,25 +229,25 @@
         },
         {
           "firstname": "Harold",
-          "lastname": "McLennan",
+          "lastname": "Mc Lennan",
           "jumper": "19",
           "dob": "1888-07-26",
           "height": "178cm",
           "weight": "74kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Taylor",
-          "jumper": "—",
-          "dob": "1884-10-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Treloar",
           "jumper": "—",
           "dob": "1884-09-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Taylor",
+          "jumper": "—",
+          "dob": "1884-10-06",
           "height": "—",
           "weight": "—"
         },

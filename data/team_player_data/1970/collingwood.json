@@ -4,6 +4,22 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "John",
+          "lastname": "Greening",
+          "jumper": "22",
+          "dob": "1950-12-20",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Denis",
+          "lastname": "O' Callaghan",
+          "jumper": "29",
+          "dob": "1949-02-07",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Ross",
           "lastname": "Dunne",
           "jumper": "12",
@@ -28,20 +44,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Greening",
-          "jumper": "22",
-          "dob": "1950-12-20",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Denis",
-          "lastname": "O'Callaghan",
-          "jumper": "29",
-          "dob": "1949-02-07",
-          "height": "178cm",
-          "weight": "80kg"
+          "firstname": "Wayne",
+          "lastname": "Richardson",
+          "jumper": "2",
+          "dob": "1946-12-08",
+          "height": "179cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Jeff",
@@ -50,14 +58,6 @@
           "dob": "1949-02-21",
           "height": "193cm",
           "weight": "84kg"
-        },
-        {
-          "firstname": "Wayne",
-          "lastname": "Richardson",
-          "jumper": "2",
-          "dob": "1946-12-08",
-          "height": "179cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Robert",
@@ -77,11 +77,19 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "6",
           "dob": "1946-08-27",
           "height": "191cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Jenkin",
+          "jumper": "14",
+          "dob": "1945-09-05",
+          "height": "193cm",
+          "weight": "104kg"
         },
         {
           "firstname": "Ricky",
@@ -98,14 +106,6 @@
           "dob": "1944-11-11",
           "height": "187cm",
           "weight": "79kg"
-        },
-        {
-          "firstname": "Graeme",
-          "lastname": "Jenkin",
-          "jumper": "14",
-          "dob": "1945-09-05",
-          "height": "193cm",
-          "weight": "104kg"
         },
         {
           "firstname": "Con",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "31",
           "dob": "1947-03-31",
           "height": "183cm",
@@ -156,20 +156,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Lee",
-          "lastname": "Adamson",
-          "jumper": "33",
-          "dob": "1946-06-27",
-          "height": "185cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Heard",
           "jumper": "15",
           "dob": "1949-02-09",
           "height": "202cm",
           "weight": "97kg"
+        },
+        {
+          "firstname": "Lee",
+          "lastname": "Adamson",
+          "jumper": "33",
+          "dob": "1946-06-27",
+          "height": "185cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Danny",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "RoseJnr",
+          "lastname": "Rose Jnr",
           "jumper": "37",
           "dob": "1952-02-06",
           "height": "180cm",

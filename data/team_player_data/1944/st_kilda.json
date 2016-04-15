@@ -4,6 +4,22 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Col",
+          "lastname": "Williamson",
+          "jumper": "4",
+          "dob": "1913-12-31",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Butler",
+          "jumper": "2",
+          "dob": "1920-07-31",
+          "height": "180cm",
+          "weight": "77kg"
+        },
+        {
           "firstname": "Ken",
           "lastname": "Walker",
           "jumper": "21",
@@ -26,22 +42,6 @@
           "dob": "1921-03-29",
           "height": "182cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Col",
-          "lastname": "Williamson",
-          "jumper": "4",
-          "dob": "1913-12-31",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Butler",
-          "jumper": "2",
-          "dob": "1920-07-31",
-          "height": "180cm",
-          "weight": "77kg"
         },
         {
           "firstname": "Jim",
@@ -84,14 +84,6 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "McIntyre",
-          "jumper": "28",
-          "dob": "1921-04-19",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Bibby",
           "jumper": "18",
@@ -100,8 +92,16 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Ernie",
+          "lastname": "Mc Intyre",
+          "jumper": "28",
+          "dob": "1921-04-19",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Jim",
-          "lastname": "MacBeth",
+          "lastname": "Mac Beth",
           "jumper": "27",
           "dob": "1914-04-07",
           "height": "170cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "33",
           "dob": "1919-01-04",
           "height": "178cm",
@@ -285,19 +285,19 @@
         },
         {
           "firstname": "George",
-          "lastname": "Wilson",
-          "jumper": "8",
-          "dob": "1920-05-28",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "George",
           "lastname": "Grainger",
           "jumper": "32",
           "dob": "1921-07-02",
           "height": "185cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Wilson",
+          "jumper": "8",
+          "dob": "1920-05-28",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Frank",
@@ -316,20 +316,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Arch",
-          "lastname": "Knott",
-          "jumper": "14",
-          "dob": "1916-02-02",
-          "height": "180cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Hazelwood",
           "jumper": "15",
           "dob": "1920-09-09",
           "height": "170cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Arch",
+          "lastname": "Knott",
+          "jumper": "14",
+          "dob": "1916-02-02",
+          "height": "180cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Jack",

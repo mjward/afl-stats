@@ -28,14 +28,6 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Gerard",
-          "lastname": "Healy",
-          "jumper": "3",
-          "dob": "1961-03-01",
-          "height": "184cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Jarrott",
           "jumper": "47",
@@ -44,8 +36,16 @@
           "weight": "90kg"
         },
         {
+          "firstname": "Gerard",
+          "lastname": "Healy",
+          "jumper": "3",
+          "dob": "1961-03-01",
+          "height": "184cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Michael",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "6",
           "dob": "1962-04-05",
           "height": "185cm",
@@ -148,20 +148,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Rod",
-          "lastname": "Grinter",
-          "jumper": "14",
-          "dob": "1965-05-26",
-          "height": "182cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Darren",
           "lastname": "Louttit",
           "jumper": "46",
           "dob": "1965-03-26",
           "height": "193cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Grinter",
+          "jumper": "14",
+          "dob": "1965-05-26",
+          "height": "182cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Graeme",
@@ -220,6 +220,14 @@
           "weight": "90kg"
         },
         {
+          "firstname": "Greg",
+          "lastname": "Healy",
+          "jumper": "33",
+          "dob": "1965-09-16",
+          "height": "176cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Paul",
           "lastname": "Payne",
           "jumper": "43",
@@ -234,14 +242,6 @@
           "dob": "1955-09-28",
           "height": "180cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Greg",
-          "lastname": "Healy",
-          "jumper": "33",
-          "dob": "1965-09-16",
-          "height": "176cm",
-          "weight": "75kg"
         },
         {
           "firstname": "Kelvin",

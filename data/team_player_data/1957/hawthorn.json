@@ -4,6 +4,38 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Allan",
+          "lastname": "Woodley",
+          "jumper": "24",
+          "dob": "1935-08-22",
+          "height": "191cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "O' Brien",
+          "jumper": "15",
+          "dob": "1930-12-31",
+          "height": "175cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Kennedy Snr",
+          "jumper": "10",
+          "dob": "1928-12-20",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Falconer",
+          "jumper": "36",
+          "dob": "1933-06-02",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Len",
           "lastname": "Crane",
           "jumper": "14",
@@ -26,38 +58,6 @@
           "dob": "1928-12-29",
           "height": "175cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Allan",
-          "lastname": "Woodley",
-          "jumper": "24",
-          "dob": "1935-08-22",
-          "height": "191cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Phil",
-          "lastname": "O'Brien",
-          "jumper": "15",
-          "dob": "1930-12-31",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "KennedySnr",
-          "jumper": "10",
-          "dob": "1928-12-20",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Falconer",
-          "jumper": "36",
-          "dob": "1933-06-02",
-          "height": "175cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Don",
@@ -108,20 +108,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Arthur",
-          "jumper": "2",
-          "dob": "1936-06-09",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Maginness",
           "jumper": "35",
           "dob": "1933-04-29",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Arthur",
+          "jumper": "2",
+          "dob": "1936-06-09",
+          "height": "180cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Les",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Mahoney",
+          "lastname": "O' Mahoney",
           "jumper": "3",
           "dob": "1931-12-07",
           "height": "179cm",
@@ -276,20 +276,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Barry",
-          "lastname": "Metcalfe",
-          "jumper": "18",
-          "dob": "1935-09-28",
-          "height": "175cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Carter",
           "jumper": "34",
           "dob": "1934-12-07",
           "height": "185cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Metcalfe",
+          "jumper": "18",
+          "dob": "1935-09-28",
+          "height": "175cm",
+          "weight": "72kg"
         }
       ]
     }

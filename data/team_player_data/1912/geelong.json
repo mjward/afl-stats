@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Bill",
-          "lastname": "Eason",
-          "jumper": "1",
-          "dob": "1881-12-15",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Marsham",
-          "jumper": "14",
-          "dob": "1890-07-19",
-          "height": "185cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Armstrong",
           "jumper": "1",
@@ -44,12 +28,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Watt",
-          "jumper": "19",
-          "dob": "1889-11-02",
-          "height": "180cm",
-          "weight": "80kg"
+          "firstname": "Bill",
+          "lastname": "Eason",
+          "jumper": "1",
+          "dob": "1881-12-15",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Marsham",
+          "jumper": "14",
+          "dob": "1890-07-19",
+          "height": "185cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Alec",
@@ -60,12 +52,12 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Orchard",
-          "jumper": "2",
-          "dob": "1888-08-09",
+          "firstname": "Jack",
+          "lastname": "Watt",
+          "jumper": "19",
+          "dob": "1889-11-02",
           "height": "180cm",
-          "weight": "76kg"
+          "weight": "80kg"
         },
         {
           "firstname": "Len",
@@ -84,6 +76,22 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Billy",
+          "lastname": "Orchard",
+          "jumper": "2",
+          "dob": "1888-08-09",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Neil",
+          "lastname": "Freeman",
+          "jumper": "8",
+          "dob": "1890-04-21",
+          "height": "183cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Rupe",
           "lastname": "Brownlees",
           "jumper": "3",
@@ -100,12 +108,12 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Neil",
-          "lastname": "Freeman",
-          "jumper": "8",
-          "dob": "1890-04-21",
+          "firstname": "Percy",
+          "lastname": "Martini",
+          "jumper": "12",
+          "dob": "1888-06-04",
           "height": "183cm",
-          "weight": "78kg"
+          "weight": "85kg"
         },
         {
           "firstname": "Charlie",
@@ -114,14 +122,6 @@
           "dob": "1883-03-10",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Percy",
-          "lastname": "Martini",
-          "jumper": "12",
-          "dob": "1888-06-04",
-          "height": "183cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Laurie",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Ted",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "27",
           "dob": "1893-10-12",
           "height": "173cm",

@@ -13,27 +13,11 @@
         },
         {
           "firstname": "Arthur",
-          "lastname": "O'Bryan",
+          "lastname": "O' Bryan",
           "jumper": "24",
           "dob": "1923-05-20",
           "height": "183cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Clay",
-          "jumper": "31",
-          "dob": "1915-05-07",
-          "height": "193cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Symons",
-          "jumper": "29",
-          "dob": "1912-05-11",
-          "height": "185cm",
-          "weight": "93kg"
         },
         {
           "firstname": "Noel",
@@ -66,6 +50,22 @@
           "dob": "1914-05-22",
           "height": "183cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Clay",
+          "jumper": "31",
+          "dob": "1915-05-07",
+          "height": "193cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Symons",
+          "jumper": "29",
+          "dob": "1912-05-11",
+          "height": "185cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Clen",
@@ -140,20 +140,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Leon",
-          "lastname": "Gemmell",
-          "jumper": "33",
-          "dob": "1921-03-12",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Sier",
           "jumper": "17",
           "dob": "1922-01-27",
           "height": "185cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Leon",
+          "lastname": "Gemmell",
+          "jumper": "33",
+          "dob": "1921-03-12",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Jack",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Audley",
-          "lastname": "Gillespie-Jones",
+          "lastname": "Gillespie- Jones",
           "jumper": "15",
           "dob": "1914-07-01",
           "height": "178cm",

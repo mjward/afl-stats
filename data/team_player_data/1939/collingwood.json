@@ -12,14 +12,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Balfour",
-          "jumper": "3",
-          "dob": "1918-11-11",
-          "height": "175cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Marcus",
           "lastname": "Whelan",
           "jumper": "28",
@@ -28,28 +20,20 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Don",
+          "lastname": "Balfour",
+          "jumper": "3",
+          "dob": "1918-11-11",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Harold",
           "lastname": "Powell",
           "jumper": "17",
           "dob": "1915-09-14",
           "height": "178cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Collier",
-          "jumper": "1",
-          "dob": "1907-10-01",
-          "height": "173cm",
-          "weight": "72kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Regan",
-          "jumper": "18",
-          "dob": "1912-09-12",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Bervyn",
@@ -76,6 +60,22 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Harry",
+          "lastname": "Collier",
+          "jumper": "1",
+          "dob": "1907-10-01",
+          "height": "173cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Regan",
+          "jumper": "18",
+          "dob": "1912-09-12",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Des",
           "lastname": "Fothergill",
           "jumper": "8",
@@ -92,14 +92,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Green",
-          "jumper": "27",
-          "dob": "1919-08-26",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Hocking",
           "jumper": "10",
@@ -108,12 +100,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Williams",
-          "jumper": "24",
-          "dob": "1917-12-17",
-          "height": "188cm",
-          "weight": "84kg"
+          "firstname": "Jack",
+          "lastname": "Green",
+          "jumper": "27",
+          "dob": "1919-08-26",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Jack",
@@ -130,6 +122,14 @@
           "dob": "1909-07-09",
           "height": "180cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Williams",
+          "jumper": "24",
+          "dob": "1917-12-17",
+          "height": "188cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Norm",
@@ -188,20 +188,20 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Hill",
-          "jumper": "11",
-          "dob": "1916-04-19",
-          "height": "175cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Jock",
           "lastname": "Morison",
           "jumper": "30",
           "dob": "1915-12-05",
           "height": "178cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Hill",
+          "jumper": "11",
+          "dob": "1916-04-19",
+          "height": "175cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Pat",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Cliff",
-          "lastname": "McCrae",
+          "lastname": "Mc Crae",
           "jumper": "14",
           "dob": "1913-11-30",
           "height": "180cm",
@@ -236,20 +236,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Stackpole",
-          "jumper": "26",
-          "dob": "1916-07-31",
-          "height": "165cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Stan",
           "lastname": "Dawson",
           "jumper": "5",
           "dob": "1917-08-12",
           "height": "179cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Stackpole",
+          "jumper": "26",
+          "dob": "1916-07-31",
+          "height": "165cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Ted",

@@ -29,7 +29,7 @@
         },
         {
           "firstname": "Billy",
-          "lastname": "McCarter",
+          "lastname": "Mc Carter",
           "jumper": "24",
           "dob": "1888-10-23",
           "height": "170cm",
@@ -196,14 +196,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Rayson",
-          "jumper": "28",
-          "dob": "1898-12-01",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Harold",
           "lastname": "Craven",
           "jumper": "26",
@@ -218,6 +210,14 @@
           "dob": "1902-09-15",
           "height": "169cm",
           "weight": "60kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Rayson",
+          "jumper": "28",
+          "dob": "1898-12-01",
+          "height": "170cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Harry",

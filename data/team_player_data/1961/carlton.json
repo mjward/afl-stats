@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Ian",
-          "lastname": "Collins",
-          "jumper": "19",
-          "dob": "1942-10-24",
-          "height": "175cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Martin",
           "lastname": "Cross",
           "jumper": "23",
@@ -36,12 +28,12 @@
           "weight": "92kg"
         },
         {
-          "firstname": "John",
-          "lastname": "James",
-          "jumper": "10",
-          "dob": "1934-01-18",
+          "firstname": "Ian",
+          "lastname": "Collins",
+          "jumper": "19",
+          "dob": "1942-10-24",
           "height": "175cm",
-          "weight": "81kg"
+          "weight": "74kg"
         },
         {
           "firstname": "Gordon",
@@ -61,11 +53,11 @@
         },
         {
           "firstname": "John",
-          "lastname": "Nicholls",
-          "jumper": "2",
-          "dob": "1939-08-13",
-          "height": "189cm",
-          "weight": "105kg"
+          "lastname": "James",
+          "jumper": "10",
+          "dob": "1934-01-18",
+          "height": "175cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Vasil",
@@ -82,6 +74,14 @@
           "dob": "1934-01-23",
           "height": "170cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Nicholls",
+          "jumper": "2",
+          "dob": "1939-08-13",
+          "height": "189cm",
+          "weight": "105kg"
         },
         {
           "firstname": "Peter",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Dave",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "3",
           "dob": "1937-10-12",
           "height": "188cm",

@@ -4,14 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Wally",
-          "lastname": "Cameron",
-          "jumper": "30",
-          "dob": "1896-11-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Roy",
           "lastname": "Cazaly",
           "jumper": "14",
@@ -26,6 +18,14 @@
           "dob": "1891-07-19",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Wally",
+          "lastname": "Cameron",
+          "jumper": "30",
+          "dob": "1896-11-13",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Jack",
@@ -236,18 +236,18 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "Vernon",
-          "jumper": "—",
-          "dob": "1895-09-03",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Walsh",
           "jumper": "8",
           "dob": "1900-03-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Vernon",
+          "jumper": "—",
+          "dob": "1895-09-03",
           "height": "—",
           "weight": "—"
         },
@@ -340,14 +340,6 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "O'Rourke",
-          "jumper": "14",
-          "dob": "1899-01-15",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Quinn",
           "jumper": "—",
@@ -364,6 +356,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Jack",
+          "lastname": "O' Rourke",
+          "jumper": "14",
+          "dob": "1899-01-15",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Steve",
           "lastname": "Stevens",
           "jumper": "21",
@@ -373,25 +373,25 @@
         },
         {
           "firstname": "Maurie",
-          "lastname": "McLeish",
+          "lastname": "Mc Leish",
           "jumper": "—",
           "dob": "1899-06-05",
           "height": "178cm",
           "weight": "74kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Gleeson",
-          "jumper": "—",
-          "dob": "1897-09-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Thomson",
           "jumper": "28",
           "dob": "1896-12-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Gleeson",
+          "jumper": "—",
+          "dob": "1897-09-25",
           "height": "—",
           "weight": "—"
         },

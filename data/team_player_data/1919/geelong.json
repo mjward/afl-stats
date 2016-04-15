@@ -52,14 +52,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Eric",
-          "lastname": "Peck",
-          "jumper": "19",
-          "dob": "1899-08-01",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Rupe",
           "lastname": "Brownlees",
           "jumper": "22",
@@ -74,6 +66,14 @@
           "dob": "1887-06-16",
           "height": "180cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Eric",
+          "lastname": "Peck",
+          "jumper": "19",
+          "dob": "1899-08-01",
+          "height": "175cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Basil",
@@ -100,20 +100,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Thomas",
-          "jumper": "21",
-          "dob": "1892-05-09",
-          "height": "180cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Kroger",
           "jumper": "26",
           "dob": "1899-03-14",
           "height": "183cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Thomas",
+          "jumper": "21",
+          "dob": "1892-05-09",
+          "height": "180cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Reg",
@@ -148,22 +148,6 @@
           "weight": "64kg"
         },
         {
-          "firstname": "Cliff",
-          "lastname": "Rankin",
-          "jumper": "6",
-          "dob": "1896-12-04",
-          "height": "175cm",
-          "weight": "69kg"
-        },
-        {
-          "firstname": "Vin",
-          "lastname": "Maguire",
-          "jumper": "12",
-          "dob": "1892-07-31",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alec",
           "lastname": "Eason",
           "jumper": "2",
@@ -178,6 +162,22 @@
           "dob": "1890-10-20",
           "height": "170cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Cliff",
+          "lastname": "Rankin",
+          "jumper": "6",
+          "dob": "1896-12-04",
+          "height": "175cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Vin",
+          "lastname": "Maguire",
+          "jumper": "12",
+          "dob": "1892-07-31",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Herbie",

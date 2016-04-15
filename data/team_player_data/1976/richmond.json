@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Bob",
-          "lastname": "Heard",
-          "jumper": "15",
-          "dob": "1949-02-09",
-          "height": "202cm",
-          "weight": "97kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Bartlett",
           "jumper": "29",
@@ -26,6 +18,14 @@
           "dob": "1947-12-24",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Heard",
+          "jumper": "15",
+          "dob": "1949-02-09",
+          "height": "202cm",
+          "weight": "97kg"
         },
         {
           "firstname": "Francis",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "12",
           "dob": "1951-08-18",
           "height": "192cm",
@@ -124,20 +124,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Morris",
-          "jumper": "38",
-          "dob": "1950-08-20",
-          "height": "180cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Royce",
           "lastname": "Hart",
           "jumper": "4",
           "dob": "1948-02-10",
           "height": "187cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Morris",
+          "jumper": "38",
+          "dob": "1950-08-20",
+          "height": "180cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Noel",
@@ -180,18 +180,18 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Stonehouse",
-          "jumper": "27",
-          "dob": "1956-04-23",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Mick",
           "lastname": "Malthouse",
           "jumper": "22",
           "dob": "1953-08-17",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Stonehouse",
+          "jumper": "27",
+          "dob": "1956-04-23",
           "height": "180cm",
           "weight": "76kg"
         },
@@ -220,20 +220,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Scrimshaw",
-          "jumper": "36",
-          "dob": "1954-12-24",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Eric",
           "lastname": "Leech",
           "jumper": "25",
           "dob": "1951-05-21",
           "height": "189cm",
           "weight": "91kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Scrimshaw",
+          "jumper": "36",
+          "dob": "1954-12-24",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Don",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Ricky",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "31",
           "dob": "1947-11-08",
           "height": "185cm",

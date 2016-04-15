@@ -4,6 +4,14 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Len",
+          "lastname": "Bowe",
+          "jumper": "3",
+          "dob": "1885-10-27",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Ogden",
           "jumper": "11",
@@ -28,12 +36,12 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Bowe",
-          "jumper": "3",
-          "dob": "1885-10-27",
-          "height": "175cm",
-          "weight": "76kg"
+          "firstname": "Wally",
+          "lastname": "Chalmers",
+          "jumper": "7",
+          "dob": "1890-09-16",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Ernie",
@@ -44,28 +52,20 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Chalmers",
-          "jumper": "7",
-          "dob": "1890-09-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "George",
-          "lastname": "McLeod",
-          "jumper": "18",
-          "dob": "1879-08-22",
-          "height": "173cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Baring",
           "jumper": "5",
           "dob": "1890-12-15",
           "height": "185cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Mc Leod",
+          "jumper": "18",
+          "dob": "1879-08-22",
+          "height": "173cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Paddy",
@@ -84,20 +84,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Fred",
+          "lastname": "O' Shea",
+          "jumper": "12",
+          "dob": "1886-10-05",
+          "height": "170cm",
+          "weight": "68kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Walker",
           "jumper": "16",
           "dob": "1886-08-29",
           "height": "183cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "O'Shea",
-          "jumper": "12",
-          "dob": "1886-10-05",
-          "height": "170cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Billy",
@@ -124,6 +124,14 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Dan",
+          "lastname": "Hanley",
+          "jumper": "9",
+          "dob": "1883-05-17",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Vernon",
           "lastname": "Hazel",
           "jumper": "28",
@@ -138,14 +146,6 @@
           "dob": "1887-07-20",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Dan",
-          "lastname": "Hanley",
-          "jumper": "9",
-          "dob": "1883-05-17",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Ramsay",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "—",
           "dob": "1890-04-11",
           "height": "—",

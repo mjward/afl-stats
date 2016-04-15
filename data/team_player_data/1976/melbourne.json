@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Ray",
-          "lastname": "Biffin",
-          "jumper": "19",
-          "dob": "1949-05-06",
-          "height": "182cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Henry",
-          "lastname": "Coles",
-          "jumper": "13",
-          "dob": "1951-03-11",
-          "height": "171cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Greg",
           "lastname": "Wells",
           "jumper": "11",
@@ -34,6 +18,22 @@
           "dob": "1951-12-29",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Biffin",
+          "jumper": "19",
+          "dob": "1949-05-06",
+          "height": "182cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Coles",
+          "jumper": "13",
+          "dob": "1951-03-11",
+          "height": "171cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Allan",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Craig",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "10",
           "dob": "1949-12-08",
           "height": "196cm",
@@ -108,20 +108,20 @@
           "weight": "95kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Osborne",
-          "jumper": "24",
-          "dob": "1947-06-30",
-          "height": "187cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Tony",
           "lastname": "Sullivan",
           "jumper": "4",
           "dob": "1949-01-18",
           "height": "180cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Osborne",
+          "jumper": "24",
+          "dob": "1947-06-30",
+          "height": "187cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Anthony",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Keefe",
+          "lastname": "O' Keefe",
           "jumper": "38",
           "dob": "1956-03-24",
           "height": "181cm",

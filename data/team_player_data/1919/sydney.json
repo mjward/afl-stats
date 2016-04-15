@@ -4,22 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Jim",
-          "lastname": "Caldwell",
-          "jumper": "6",
-          "dob": "1888-08-11",
-          "height": "173cm",
-          "weight": "66kg"
-        },
-        {
-          "firstname": "Mark",
-          "lastname": "Tandy",
-          "jumper": "27",
-          "dob": "1892-09-03",
-          "height": "173cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Lugg",
           "jumper": "18",
@@ -44,6 +28,30 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Caldwell",
+          "jumper": "6",
+          "dob": "1888-08-11",
+          "height": "173cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Tandy",
+          "jumper": "27",
+          "dob": "1892-09-03",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Tammy",
+          "lastname": "Hynes",
+          "jumper": "16",
+          "dob": "1897-08-11",
+          "height": "175cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Stan",
           "lastname": "Hiskins",
           "jumper": "15",
@@ -61,19 +69,11 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "20",
           "dob": "1892-03-09",
           "height": "180cm",
           "weight": "72kg"
-        },
-        {
-          "firstname": "Tammy",
-          "lastname": "Hynes",
-          "jumper": "16",
-          "dob": "1897-08-11",
-          "height": "175cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Harold",
@@ -140,20 +140,20 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "Barber",
-          "jumper": "3",
-          "dob": "1895-05-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Brereton",
           "jumper": "7",
           "dob": "1887-06-13",
           "height": "180cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Barber",
+          "jumper": "3",
+          "dob": "1895-05-30",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Gladstone",
@@ -188,20 +188,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Fleiter",
-          "jumper": "14",
-          "dob": "1897-05-03",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Hiskins",
           "jumper": "24",
           "dob": "1886-09-09",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Fleiter",
+          "jumper": "14",
+          "dob": "1897-05-03",
+          "height": "183cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Jim",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "PurdyJnr",
+          "lastname": "Purdy Jnr",
           "jumper": "21",
           "dob": "1898-03-18",
           "height": "168cm",

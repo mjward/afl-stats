@@ -4,14 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Jack",
-          "lastname": "Burns",
-          "jumper": "5",
-          "dob": "1918-10-06",
-          "height": "170cm",
-          "weight": "66kg"
-        },
-        {
           "firstname": "Alby",
           "lastname": "Pannam",
           "jumper": "2",
@@ -28,6 +20,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Burns",
+          "jumper": "5",
+          "dob": "1918-10-06",
+          "height": "170cm",
+          "weight": "66kg"
+        },
+        {
           "firstname": "Don",
           "lastname": "Balfour",
           "jumper": "4",
@@ -37,19 +37,11 @@
         },
         {
           "firstname": "John",
-          "lastname": "McHale",
+          "lastname": "Mc Hale",
           "jumper": "15",
           "dob": "1915-01-13",
           "height": "185cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Regan",
-          "jumper": "1",
-          "dob": "1912-09-12",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Lou",
@@ -58,6 +50,14 @@
           "dob": "1923-03-15",
           "height": "170cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Regan",
+          "jumper": "1",
+          "dob": "1912-09-12",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Jack",
@@ -76,20 +76,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Williams",
-          "jumper": "28",
-          "dob": "1917-12-17",
-          "height": "188cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Wallis",
           "jumper": "25",
           "dob": "1920-07-04",
           "height": "175cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Williams",
+          "jumper": "28",
+          "dob": "1917-12-17",
+          "height": "188cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Ron",
@@ -132,14 +132,6 @@
           "weight": "53kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Negri",
-          "jumper": "21",
-          "dob": "1917-11-01",
-          "height": "175cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Crewther",
           "jumper": "30",
@@ -148,8 +140,16 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Frank",
+          "lastname": "Negri",
+          "jumper": "21",
+          "dob": "1917-11-01",
+          "height": "175cm",
+          "weight": "77kg"
+        },
+        {
           "firstname": "Neil",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "13",
           "dob": "1920-10-15",
           "height": "183cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "McPartland",
+          "lastname": "Mc Partland",
           "jumper": "32",
           "dob": "1920-06-26",
           "height": "170cm",
@@ -212,20 +212,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Utting",
-          "jumper": "32",
-          "dob": "1923-03-12",
-          "height": "170cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Kirwin",
           "jumper": "33",
           "dob": "1921-10-20",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Utting",
+          "jumper": "32",
+          "dob": "1923-03-12",
+          "height": "170cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Mac",
@@ -300,20 +300,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Dan",
-          "lastname": "Knott",
-          "jumper": "14",
-          "dob": "1918-06-20",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Clive",
           "lastname": "Reid",
           "jumper": "22",
           "dob": "1922-04-20",
           "height": "180cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "Dan",
+          "lastname": "Knott",
+          "jumper": "14",
+          "dob": "1918-06-20",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Harry",
@@ -324,19 +324,19 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Doug",
-          "lastname": "Smith",
-          "jumper": "21",
-          "dob": "1922-03-19",
-          "height": "187cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Main",
           "jumper": "35",
           "dob": "1915-11-26",
           "height": "178cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Smith",
+          "jumper": "21",
+          "dob": "1922-03-19",
+          "height": "187cm",
           "weight": "81kg"
         },
         {

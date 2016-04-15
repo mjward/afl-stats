@@ -20,6 +20,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Ross",
+          "jumper": "20",
+          "dob": "1927-10-18",
+          "height": "185cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Brian",
           "lastname": "Woinarski",
           "jumper": "8",
@@ -34,14 +42,6 @@
           "dob": "1924-07-18",
           "height": "173cm",
           "weight": "67kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Ross",
-          "jumper": "20",
-          "dob": "1927-10-18",
-          "height": "185cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Jack",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "2",
           "dob": "1930-01-28",
           "height": "180cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McNeil",
+          "lastname": "Mc Neil",
           "jumper": "5",
           "dob": "1929-06-09",
           "height": "178cm",

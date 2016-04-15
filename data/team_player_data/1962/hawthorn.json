@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "John",
-          "lastname": "Peck",
-          "jumper": "23",
-          "dob": "1937-08-07",
-          "height": "188cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Sted",
           "lastname": "Hay",
           "jumper": "20",
@@ -28,20 +20,12 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Nalder",
-          "jumper": "3",
-          "dob": "1939-09-08",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Law",
-          "jumper": "7",
-          "dob": "1938-09-27",
-          "height": "175cm",
-          "weight": "75kg"
+          "firstname": "John",
+          "lastname": "Peck",
+          "jumper": "23",
+          "dob": "1937-08-07",
+          "height": "188cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Graham",
@@ -60,20 +44,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Morton",
-          "lastname": "Browne",
-          "jumper": "4",
-          "dob": "1939-09-11",
-          "height": "182cm",
-          "weight": "79kg"
+          "firstname": "Ron",
+          "lastname": "Nalder",
+          "jumper": "3",
+          "dob": "1939-09-08",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
-          "firstname": "Cam",
-          "lastname": "McPherson",
-          "jumper": "26",
-          "dob": "1940-05-24",
-          "height": "180cm",
-          "weight": "80kg"
+          "firstname": "Ian",
+          "lastname": "Law",
+          "jumper": "7",
+          "dob": "1938-09-27",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "John",
@@ -98,6 +82,22 @@
           "dob": "1941-01-10",
           "height": "187cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Morton",
+          "lastname": "Browne",
+          "jumper": "4",
+          "dob": "1939-09-11",
+          "height": "182cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Cam",
+          "lastname": "Mc Pherson",
+          "jumper": "26",
+          "dob": "1940-05-24",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Garry",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McArthur",
+          "lastname": "Mc Arthur",
           "jumper": "28",
           "dob": "1938-09-10",
           "height": "183cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Max",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "24",
           "dob": "1942-03-20",
           "height": "183cm",

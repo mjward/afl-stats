@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Charlie",
-          "lastname": "Canet",
-          "jumper": "12",
-          "dob": "1895-09-08",
-          "height": "170cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Rupe",
           "lastname": "Hiskins",
           "jumper": "5",
@@ -28,6 +20,14 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Charlie",
+          "lastname": "Canet",
+          "jumper": "12",
+          "dob": "1895-09-08",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Daykin",
           "jumper": "2",
@@ -37,7 +37,7 @@
         },
         {
           "firstname": "Paddy",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "10",
           "dob": "1893-04-16",
           "height": "183cm",
@@ -116,20 +116,20 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Stewart",
+          "lastname": "Mc Latchie",
+          "jumper": "21",
+          "dob": "1896-08-19",
+          "height": "170cm",
+          "weight": "69kg"
+        },
+        {
           "firstname": "Edric",
           "lastname": "Bickford",
           "jumper": "31",
           "dob": "1894-03-30",
           "height": "180cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Stewart",
-          "lastname": "McLatchie",
-          "jumper": "21",
-          "dob": "1896-08-19",
-          "height": "170cm",
-          "weight": "69kg"
         },
         {
           "firstname": "Jack",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Croft",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "15",
           "dob": "1894-02-17",
           "height": "178cm",
@@ -284,20 +284,20 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Rod",
-          "lastname": "McGregor",
-          "jumper": "11",
-          "dob": "1882-10-19",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Vic",
           "lastname": "Truman",
           "jumper": "23",
           "dob": "1899-12-21",
           "height": "173cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Mc Gregor",
+          "jumper": "11",
+          "dob": "1882-10-19",
+          "height": "178cm",
+          "weight": "75kg"
         }
       ]
     }

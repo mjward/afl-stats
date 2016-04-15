@@ -4,6 +4,22 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Frank",
+          "lastname": "Harris",
+          "jumper": "—",
+          "dob": "1883-06-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Gerry",
+          "lastname": "Balme",
+          "jumper": "3",
+          "dob": "1885-04-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Dan",
           "lastname": "Feehan",
           "jumper": "—",
@@ -20,18 +36,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Harris",
+          "firstname": "Jim",
+          "lastname": "Cowell",
           "jumper": "—",
-          "dob": "1883-06-01",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Gerry",
-          "lastname": "Balme",
-          "jumper": "3",
-          "dob": "1885-04-27",
+          "dob": "1885-05-28",
           "height": "—",
           "weight": "—"
         },
@@ -52,26 +60,10 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Cowell",
-          "jumper": "—",
-          "dob": "1885-05-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Wyn",
           "lastname": "Outen",
           "jumper": "—",
           "dob": "1880-05-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Joe",
-          "lastname": "Hogan",
-          "jumper": "—",
-          "dob": "1875-11-27",
           "height": "—",
           "weight": "—"
         },
@@ -82,6 +74,14 @@
           "dob": "1885-01-01",
           "height": "170cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Hogan",
+          "jumper": "—",
+          "dob": "1875-11-27",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Fred",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "—",
           "dob": "1874-06-03",
           "height": "—",
@@ -228,22 +228,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Marchant",
-          "jumper": "—",
-          "dob": "—",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Lewis",
-          "lastname": "Jones",
-          "jumper": "—",
-          "dob": "1886-10-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jimmy",
           "lastname": "Sheehan",
           "jumper": "—",
@@ -264,6 +248,22 @@
           "lastname": "Downes",
           "jumper": "—",
           "dob": "1878-06-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Marchant",
+          "jumper": "—",
+          "dob": "—",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Lewis",
+          "lastname": "Jones",
+          "jumper": "—",
+          "dob": "1886-10-28",
           "height": "—",
           "weight": "—"
         },

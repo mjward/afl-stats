@@ -5,19 +5,11 @@
       "Western Bulldogs": [
         {
           "firstname": "Bruce",
-          "lastname": "ReidJnr",
+          "lastname": "Reid Jnr",
           "jumper": "5",
           "dob": "1955-12-23",
           "height": "191cm",
           "weight": "90kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Hampshire",
-          "jumper": "1",
-          "dob": "1948-05-09",
-          "height": "196cm",
-          "weight": "104kg"
         },
         {
           "firstname": "Doug",
@@ -28,8 +20,16 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Hampshire",
+          "jumper": "1",
+          "dob": "1948-05-09",
+          "height": "196cm",
+          "weight": "104kg"
+        },
+        {
           "firstname": "Ted",
-          "lastname": "WhittenJnr",
+          "lastname": "Whitten Jnr",
           "jumper": "22",
           "dob": "1957-03-15",
           "height": "178cm",
@@ -60,14 +60,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Dunstan",
-          "jumper": "32",
-          "dob": "1955-02-28",
-          "height": "185cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Edmond",
           "jumper": "20",
@@ -76,8 +68,16 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Dunstan",
+          "jumper": "32",
+          "dob": "1955-02-28",
+          "height": "185cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Alan",
-          "lastname": "McConnell",
+          "lastname": "Mc Connell",
           "jumper": "28",
           "dob": "1957-03-30",
           "height": "178cm",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "DeKonning",
+          "lastname": "De Konning",
           "jumper": "11",
           "dob": "1961-05-10",
           "height": "196cm",
@@ -140,6 +140,14 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Mc Allester",
+          "jumper": "36",
+          "dob": "1959-04-16",
+          "height": "190cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Reid",
           "jumper": "33",
@@ -148,16 +156,8 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "McAllester",
-          "jumper": "36",
-          "dob": "1959-04-16",
-          "height": "190cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Michael",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "34",
           "dob": "1961-04-04",
           "height": "171cm",
@@ -284,20 +284,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Polson",
-          "jumper": "19",
-          "dob": "1959-03-27",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Warren",
           "lastname": "Stanlake",
           "jumper": "26",
           "dob": "1958-09-03",
           "height": "189cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Polson",
+          "jumper": "19",
+          "dob": "1959-03-27",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ross",

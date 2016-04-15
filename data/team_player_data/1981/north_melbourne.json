@@ -29,7 +29,7 @@
         },
         {
           "firstname": "Stephen",
-          "lastname": "McCann",
+          "lastname": "Mc Cann",
           "jumper": "16",
           "dob": "1958-05-31",
           "height": "192cm",
@@ -164,20 +164,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Byrne",
-          "jumper": "21",
-          "dob": "1956-02-24",
-          "height": "183cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Glenn",
           "lastname": "Dugdale",
           "jumper": "46",
           "dob": "1961-06-02",
           "height": "193cm",
           "weight": "94kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Byrne",
+          "jumper": "21",
+          "dob": "1956-02-24",
+          "height": "183cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Darryl",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "McGuire",
+          "lastname": "Mc Guire",
           "jumper": "31",
           "dob": "1961-06-10",
           "height": "185cm",

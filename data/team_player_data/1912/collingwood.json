@@ -4,6 +4,14 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
+          "jumper": "16",
+          "dob": "1882-12-12",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Jackson",
           "jumper": "8",
@@ -28,22 +36,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
-          "jumper": "16",
-          "dob": "1882-12-12",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Percy",
-          "lastname": "Gibb",
-          "jumper": "5",
-          "dob": "1881-12-06",
-          "height": "178cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Hughes",
           "jumper": "7",
@@ -58,6 +50,22 @@
           "dob": "1889-05-28",
           "height": "179cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Gibb",
+          "jumper": "5",
+          "dob": "1881-12-06",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Mutch",
+          "jumper": "14",
+          "dob": "1889-03-31",
+          "height": "179cm",
+          "weight": "74kg"
         },
         {
           "firstname": "George",
@@ -76,12 +84,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Mutch",
-          "jumper": "14",
-          "dob": "1889-03-31",
-          "height": "179cm",
-          "weight": "74kg"
+          "firstname": "Charlie",
+          "lastname": "Laxton",
+          "jumper": "13",
+          "dob": "1890-04-09",
+          "height": "170cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Ted",
@@ -90,14 +98,6 @@
           "dob": "1876-06-15",
           "height": "178cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Laxton",
-          "jumper": "13",
-          "dob": "1890-04-09",
-          "height": "170cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Jack",

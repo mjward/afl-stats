@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Arthur",
-          "lastname": "Rademacher",
-          "jumper": "28",
-          "dob": "1889-11-27",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Harvey",
           "lastname": "Kelly",
           "jumper": "14",
@@ -28,7 +20,15 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Bill'Sonna'",
+          "firstname": "Arthur",
+          "lastname": "Rademacher",
+          "jumper": "28",
+          "dob": "1889-11-27",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bill' Sonna'",
           "lastname": "Thomas",
           "jumper": "25",
           "dob": "1886-11-10",
@@ -42,6 +42,22 @@
           "dob": "1885-09-30",
           "height": "164cm",
           "weight": "62kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Tandy",
+          "jumper": "27",
+          "dob": "1892-09-03",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Hiskins",
+          "jumper": "15",
+          "dob": "1886-09-09",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Les",
@@ -73,22 +89,6 @@
           "jumper": "21",
           "dob": "1889-01-21",
           "height": "180cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Mark",
-          "lastname": "Tandy",
-          "jumper": "27",
-          "dob": "1892-09-03",
-          "height": "173cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Hiskins",
-          "jumper": "15",
-          "dob": "1886-09-09",
-          "height": "178cm",
           "weight": "76kg"
         },
         {

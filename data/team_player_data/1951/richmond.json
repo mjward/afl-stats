@@ -4,30 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Roy",
-          "lastname": "Wright",
-          "jumper": "2",
-          "dob": "1929-02-23",
-          "height": "188cm",
-          "weight": "103kg"
-        },
-        {
-          "firstname": "Col",
-          "lastname": "Austen",
-          "jumper": "16",
-          "dob": "1920-12-02",
-          "height": "175cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Stokes",
-          "jumper": "27",
-          "dob": "1924-05-21",
-          "height": "180cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Wilson",
           "jumper": "32",
@@ -52,7 +28,31 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Don'Mopsy'",
+          "firstname": "Roy",
+          "lastname": "Wright",
+          "jumper": "2",
+          "dob": "1929-02-23",
+          "height": "188cm",
+          "weight": "103kg"
+        },
+        {
+          "firstname": "Col",
+          "lastname": "Austen",
+          "jumper": "16",
+          "dob": "1920-12-02",
+          "height": "175cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Stokes",
+          "jumper": "27",
+          "dob": "1924-05-21",
+          "height": "180cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Don' Mopsy'",
           "lastname": "Fraser",
           "jumper": "21",
           "dob": "1922-10-24",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "4",
           "dob": "1928-07-13",
           "height": "178cm",
@@ -180,20 +180,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Dillon",
-          "jumper": "31",
-          "dob": "1924-12-23",
-          "height": "175cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Schofield",
           "jumper": "11",
           "dob": "1932-02-12",
           "height": "183cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Dillon",
+          "jumper": "31",
+          "dob": "1924-12-23",
+          "height": "175cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Ron",
@@ -221,19 +221,11 @@
         },
         {
           "firstname": "Basil",
-          "lastname": "O'Rourke",
+          "lastname": "O' Rourke",
           "jumper": "25",
           "dob": "1930-01-27",
           "height": "173cm",
           "weight": "64kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "Reiffel",
-          "jumper": "6",
-          "dob": "1932-03-15",
-          "height": "175cm",
-          "weight": "73kg"
         },
         {
           "firstname": "John",
@@ -242,6 +234,14 @@
           "dob": "1932-01-04",
           "height": "178cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Reiffel",
+          "jumper": "6",
+          "dob": "1932-03-15",
+          "height": "175cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Fred",

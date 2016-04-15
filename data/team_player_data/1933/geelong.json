@@ -4,6 +4,22 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Peter",
+          "lastname": "Hardiman",
+          "jumper": "27",
+          "dob": "1905-02-20",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Todd",
+          "jumper": "19",
+          "dob": "1903-01-10",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Fred",
           "lastname": "Hawking",
           "jumper": "17",
@@ -28,22 +44,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Hardiman",
-          "jumper": "27",
-          "dob": "1905-02-20",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Todd",
-          "jumper": "19",
-          "dob": "1903-01-10",
-          "height": "185cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Williams",
           "jumper": "24",
@@ -60,6 +60,22 @@
           "weight": "92kg"
         },
         {
+          "firstname": "Rupe",
+          "lastname": "Mc Donald",
+          "jumper": "6",
+          "dob": "1910-03-17",
+          "height": "184cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Kuhlken",
+          "jumper": "1",
+          "dob": "1910-04-17",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Clive",
           "lastname": "Coles",
           "jumper": "13",
@@ -74,22 +90,6 @@
           "dob": "1910-08-28",
           "height": "180cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Rupe",
-          "lastname": "McDonald",
-          "jumper": "6",
-          "dob": "1910-03-17",
-          "height": "184cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Kuhlken",
-          "jumper": "1",
-          "dob": "1910-04-17",
-          "height": "185cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Bob",
@@ -172,20 +172,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Angie",
-          "lastname": "Muller",
-          "jumper": "28",
-          "dob": "1912-11-13",
-          "height": "175cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Carney",
           "jumper": "12",
           "dob": "1909-01-22",
           "height": "160cm",
           "weight": "62kg"
+        },
+        {
+          "firstname": "Angie",
+          "lastname": "Muller",
+          "jumper": "28",
+          "dob": "1912-11-13",
+          "height": "175cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Alan",
@@ -220,20 +220,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Tucker",
-          "jumper": "26",
-          "dob": "1913-01-15",
-          "height": "168cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Arklay",
           "jumper": "30",
           "dob": "1914-03-26",
           "height": "179cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Tucker",
+          "jumper": "26",
+          "dob": "1913-01-15",
+          "height": "168cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Jim",

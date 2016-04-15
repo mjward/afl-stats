@@ -4,6 +4,14 @@
     "teams": {
       "Carlton": [
         {
+          "firstname": "Bruce",
+          "lastname": "Comben",
+          "jumper": "15",
+          "dob": "1930-10-23",
+          "height": "173cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Kevin",
           "lastname": "Clarke",
           "jumper": "16",
@@ -36,22 +44,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Bruce",
-          "lastname": "Comben",
-          "jumper": "15",
-          "dob": "1930-10-23",
-          "height": "173cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Doug",
-          "lastname": "Beasy",
-          "jumper": "17",
-          "dob": "1930-04-16",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Gilchrist",
           "jumper": "28",
@@ -76,12 +68,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Gerald",
-          "lastname": "Burke",
-          "jumper": "5",
-          "dob": "1930-12-02",
-          "height": "187cm",
-          "weight": "82kg"
+          "firstname": "Doug",
+          "lastname": "Beasy",
+          "jumper": "17",
+          "dob": "1930-04-16",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Jack",
@@ -106,6 +98,14 @@
           "dob": "1934-01-18",
           "height": "175cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Gerald",
+          "lastname": "Burke",
+          "jumper": "5",
+          "dob": "1930-12-02",
+          "height": "187cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Ken",
@@ -148,20 +148,20 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Ron",
+          "lastname": "O' Dwyer",
+          "jumper": "7",
+          "dob": "1938-02-05",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Laurie",
           "lastname": "Kerr",
           "jumper": "11",
           "dob": "1928-06-25",
           "height": "178cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "O'Dwyer",
-          "jumper": "7",
-          "dob": "1938-02-05",
-          "height": "170cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Jack",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "37",
           "dob": "1932-04-10",
           "height": "188cm",

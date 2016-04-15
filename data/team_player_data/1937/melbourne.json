@@ -4,6 +4,14 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Les",
+          "lastname": "Jones",
+          "jumper": "13",
+          "dob": "1910-02-22",
+          "height": "175cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Beames",
           "jumper": "24",
@@ -18,14 +26,6 @@
           "dob": "1914-11-21",
           "height": "183cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Jones",
-          "jumper": "13",
-          "dob": "1910-02-22",
-          "height": "175cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Jack",
@@ -44,16 +44,8 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Ogden",
-          "jumper": "32",
-          "dob": "1909-02-14",
-          "height": "177cm",
-          "weight": "69kg"
-        },
-        {
           "firstname": "Allan",
-          "lastname": "LaFontaine",
+          "lastname": "La Fontaine",
           "jumper": "17",
           "dob": "1910-12-15",
           "height": "175cm",
@@ -69,7 +61,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "28",
           "dob": "1912-01-10",
           "height": "180cm",
@@ -82,6 +74,14 @@
           "dob": "1901-09-13",
           "height": "191cm",
           "weight": "99kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Ogden",
+          "jumper": "32",
+          "dob": "1909-02-14",
+          "height": "177cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Hugh",
@@ -100,14 +100,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Jones",
-          "jumper": "1",
-          "dob": "1913-11-01",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Roberts",
           "jumper": "19",
@@ -116,8 +108,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Gordon",
+          "lastname": "Jones",
+          "jumper": "1",
+          "dob": "1913-11-01",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Ron",
-          "lastname": "BarassiSnr",
+          "lastname": "Barassi Snr",
           "jumper": "31",
           "dob": "1913-10-24",
           "height": "173cm",
@@ -196,7 +196,7 @@
           "weight": "60kg"
         },
         {
-          "firstname": "Eric'Tarzan'",
+          "firstname": "Eric' Tarzan'",
           "lastname": "Glass",
           "jumper": "16",
           "dob": "1910-02-22",

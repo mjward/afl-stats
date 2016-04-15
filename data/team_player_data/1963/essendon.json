@@ -4,6 +4,30 @@
     "teams": {
       "Essendon": [
         {
+          "firstname": "Jack",
+          "lastname": "Clarke",
+          "jumper": "1",
+          "dob": "1933-07-14",
+          "height": "175cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Shaw",
+          "jumper": "5",
+          "dob": "1938-10-29",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Johnston",
+          "jumper": "16",
+          "dob": "1942-05-20",
+          "height": "178cm",
+          "weight": "71kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Davis",
           "jumper": "32",
@@ -37,51 +61,11 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "24",
           "dob": "1939-03-23",
           "height": "188cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Clarke",
-          "jumper": "1",
-          "dob": "1933-07-14",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "David",
-          "lastname": "Shaw",
-          "jumper": "5",
-          "dob": "1938-10-29",
-          "height": "183cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Graeme",
-          "lastname": "Johnston",
-          "jumper": "16",
-          "dob": "1942-05-20",
-          "height": "178cm",
-          "weight": "71kg"
-        },
-        {
-          "firstname": "Alec",
-          "lastname": "Epis",
-          "jumper": "28",
-          "dob": "1937-08-27",
-          "height": "182cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Ken",
-          "lastname": "Timms",
-          "jumper": "25",
-          "dob": "1938-07-23",
-          "height": "188cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Ken",
@@ -100,12 +84,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Shelton",
-          "jumper": "10",
-          "dob": "1940-02-24",
-          "height": "185cm",
-          "weight": "87kg"
+          "firstname": "Alec",
+          "lastname": "Epis",
+          "jumper": "28",
+          "dob": "1937-08-27",
+          "height": "182cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Timms",
+          "jumper": "25",
+          "dob": "1938-07-23",
+          "height": "188cm",
+          "weight": "79kg"
         },
         {
           "firstname": "John",
@@ -122,6 +114,14 @@
           "dob": "1941-11-07",
           "height": "178cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Shelton",
+          "jumper": "10",
+          "dob": "1940-02-24",
+          "height": "185cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Ted",

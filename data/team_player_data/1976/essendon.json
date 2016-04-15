@@ -68,20 +68,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Andy",
-          "lastname": "Wilson",
-          "jumper": "33",
-          "dob": "1951-09-25",
-          "height": "179cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Robin",
           "lastname": "Close",
           "jumper": "19",
           "dob": "1949-11-03",
           "height": "187cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Wilson",
+          "jumper": "33",
+          "dob": "1951-09-25",
+          "height": "179cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Neville",
@@ -156,20 +156,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Dean",
-          "lastname": "Hartigan",
-          "jumper": "41",
-          "dob": "1954-08-23",
-          "height": "180cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Pat",
           "lastname": "Wellington",
           "jumper": "39",
           "dob": "1953-07-29",
           "height": "185cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Dean",
+          "lastname": "Hartigan",
+          "jumper": "41",
+          "dob": "1954-08-23",
+          "height": "180cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Terry",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "43",
           "dob": "1956-04-27",
           "height": "185cm",

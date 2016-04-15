@@ -36,6 +36,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Robert",
+          "lastname": "Dipierdomenico",
+          "jumper": "9",
+          "dob": "1958-05-05",
+          "height": "185cm",
+          "weight": "93kg"
+        },
+        {
           "firstname": "Leigh",
           "lastname": "Matthews",
           "jumper": "3",
@@ -50,22 +58,6 @@
           "dob": "1958-01-15",
           "height": "183cm",
           "weight": "82kg"
-        },
-        {
-          "firstname": "Robert",
-          "lastname": "Dipierdomenico",
-          "jumper": "9",
-          "dob": "1958-05-05",
-          "height": "185cm",
-          "weight": "93kg"
-        },
-        {
-          "firstname": "Chris",
-          "lastname": "Mew",
-          "jumper": "2",
-          "dob": "1961-05-07",
-          "height": "189cm",
-          "weight": "90kg"
         },
         {
           "firstname": "Peter",
@@ -85,11 +77,19 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "20",
           "dob": "1957-10-10",
           "height": "193cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Mew",
+          "jumper": "2",
+          "dob": "1961-05-07",
+          "height": "189cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Rodney",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "KennedyJnr",
+          "lastname": "Kennedy Jnr",
           "jumper": "34",
           "dob": "1959-11-22",
           "height": "190cm",
@@ -141,11 +141,19 @@
         },
         {
           "firstname": "David",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "8",
           "dob": "1955-09-08",
           "height": "185cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Lester- Smith",
+          "jumper": "6",
+          "dob": "1959-07-18",
+          "height": "188cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Peter",
@@ -154,14 +162,6 @@
           "dob": "1959-10-29",
           "height": "177cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "Lester-Smith",
-          "jumper": "6",
-          "dob": "1959-07-18",
-          "height": "188cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Richard",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Shane",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "52",
           "dob": "1964-03-04",
           "height": "191cm",

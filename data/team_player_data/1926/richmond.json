@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "George",
-          "lastname": "Robinson",
-          "jumper": "3",
-          "dob": "1901-05-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Geddes",
           "jumper": "8",
@@ -21,11 +13,19 @@
         },
         {
           "firstname": "Basil",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "9",
           "dob": "1904-08-03",
           "height": "180cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Robinson",
+          "jumper": "3",
+          "dob": "1901-05-25",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Dooley",
@@ -68,14 +68,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Donald",
-          "lastname": "Don",
-          "jumper": "17",
-          "dob": "1900-08-17",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Hayes",
           "jumper": "20",
@@ -84,8 +76,16 @@
           "weight": "60kg"
         },
         {
+          "firstname": "Donald",
+          "lastname": "Don",
+          "jumper": "17",
+          "dob": "1900-08-17",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Tom",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "18",
           "dob": "1904-12-24",
           "height": "185cm",
@@ -98,14 +98,6 @@
           "dob": "1892-05-10",
           "height": "184cm",
           "weight": "91kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Gallagher",
-          "jumper": "23",
-          "dob": "1904-07-10",
-          "height": "179cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Bennie",
@@ -122,6 +114,14 @@
           "dob": "1901-04-29",
           "height": "185cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Gallagher",
+          "jumper": "23",
+          "dob": "1904-07-10",
+          "height": "179cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Harry",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Angus",
-          "lastname": "MacIsaac",
+          "lastname": "Mac Isaac",
           "jumper": "25",
           "dob": "1900-04-15",
           "height": "187cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "25",
           "dob": "1900-05-02",
           "height": "173cm",

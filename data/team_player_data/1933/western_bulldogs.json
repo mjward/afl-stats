@@ -5,7 +5,7 @@
       "Western Bulldogs": [
         {
           "firstname": "Roy",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "15",
           "dob": "1909-03-25",
           "height": "185cm",
@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "22",
           "dob": "1907-07-19",
           "height": "182cm",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Milton",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "27",
           "dob": "1909-10-23",
           "height": "—",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Bernie",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "13",
           "dob": "1909-05-14",
           "height": "169cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Wally",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "12",
           "dob": "1907-01-02",
           "height": "—",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "O'Leary",
+          "lastname": "O' Leary",
           "jumper": "2",
           "dob": "1911-03-23",
           "height": "179cm",

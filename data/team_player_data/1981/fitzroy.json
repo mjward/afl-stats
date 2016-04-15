@@ -4,6 +4,14 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Bernie",
+          "lastname": "Quinlan",
+          "jumper": "5",
+          "dob": "1951-07-21",
+          "height": "193cm",
+          "weight": "97kg"
+        },
+        {
           "firstname": "Mick",
           "lastname": "Conlan",
           "jumper": "12",
@@ -21,19 +29,11 @@
         },
         {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Bernie",
-          "lastname": "Quinlan",
-          "jumper": "5",
-          "dob": "1951-07-21",
-          "height": "193cm",
-          "weight": "97kg"
         },
         {
           "firstname": "Ron",
@@ -44,20 +44,20 @@
           "weight": "100kg"
         },
         {
-          "firstname": "Lee",
-          "lastname": "Murnane",
-          "jumper": "41",
-          "dob": "1959-05-08",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Parish",
           "jumper": "27",
           "dob": "1955-09-28",
           "height": "180cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Lee",
+          "lastname": "Murnane",
+          "jumper": "41",
+          "dob": "1959-05-08",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Grant",
@@ -76,6 +76,14 @@
           "weight": "93kg"
         },
         {
+          "firstname": "Chris",
+          "lastname": "Smith",
+          "jumper": "8",
+          "dob": "1955-09-29",
+          "height": "189cm",
+          "weight": "97kg"
+        },
+        {
           "firstname": "Michael",
           "lastname": "Poynton",
           "jumper": "17",
@@ -90,14 +98,6 @@
           "dob": "1959-04-18",
           "height": "200cm",
           "weight": "103kg"
-        },
-        {
-          "firstname": "Chris",
-          "lastname": "Smith",
-          "jumper": "8",
-          "dob": "1955-09-29",
-          "height": "189cm",
-          "weight": "97kg"
         },
         {
           "firstname": "Neville",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Gerald",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "23",
           "dob": "1951-11-02",
           "height": "191cm",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Leigh",
-          "lastname": "McConnon",
+          "lastname": "Mc Connon",
           "jumper": "34",
           "dob": "1953-06-09",
           "height": "177cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "25",
           "dob": "1956-06-10",
           "height": "189cm",
@@ -220,20 +220,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Graeme",
-          "lastname": "Hinchen",
-          "jumper": "15",
-          "dob": "1960-01-18",
-          "height": "179cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Geoff",
           "lastname": "Everett",
           "jumper": "14",
           "dob": "1960-12-20",
           "height": "180cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Hinchen",
+          "jumper": "15",
+          "dob": "1960-01-18",
+          "height": "179cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Craig",

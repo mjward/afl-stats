@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Ron",
-          "lastname": "Branton",
-          "jumper": "29",
-          "dob": "1933-06-10",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Grimmond",
           "jumper": "19",
@@ -26,6 +18,14 @@
           "dob": "1937-06-26",
           "height": "180cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Branton",
+          "jumper": "29",
+          "dob": "1933-06-10",
+          "height": "170cm",
+          "weight": "71kg"
         },
         {
           "firstname": "John",
@@ -44,20 +44,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Simpson",
-          "jumper": "11",
-          "dob": "1935-04-06",
-          "height": "174cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Gary",
           "lastname": "Williamson",
           "jumper": "23",
           "dob": "1941-09-25",
           "height": "198cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Simpson",
+          "jumper": "11",
+          "dob": "1935-04-06",
+          "height": "174cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Fred",
@@ -84,20 +84,20 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Mike",
-          "lastname": "Patterson",
-          "jumper": "25",
-          "dob": "1941-01-07",
-          "height": "193cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Loughran",
           "jumper": "18",
           "dob": "1940-12-03",
           "height": "175cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Patterson",
+          "jumper": "25",
+          "dob": "1941-01-07",
+          "height": "193cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Alan",
@@ -148,20 +148,20 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Graeme",
-          "lastname": "Wilkinson",
-          "jumper": "2",
-          "dob": "1938-03-31",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Jacobs",
           "jumper": "16",
           "dob": "1940-11-22",
           "height": "170cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Wilkinson",
+          "jumper": "2",
+          "dob": "1938-03-31",
+          "height": "185cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Neville",
@@ -212,14 +212,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Beaven",
-          "jumper": "50",
-          "dob": "1941-03-12",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Burrows",
           "jumper": "33",
@@ -237,19 +229,19 @@
         },
         {
           "firstname": "Bob",
+          "lastname": "Beaven",
+          "jumper": "50",
+          "dob": "1941-03-12",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bob",
           "lastname": "Dummett",
           "jumper": "13",
           "dob": "1935-10-03",
           "height": "188cm",
           "weight": "72kg"
-        },
-        {
-          "firstname": "Billy",
-          "lastname": "Barrot",
-          "jumper": "24",
-          "dob": "1944-05-06",
-          "height": "180cm",
-          "weight": "82kg"
         },
         {
           "firstname": "John",
@@ -258,6 +250,14 @@
           "dob": "1943-02-23",
           "height": "185cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "Barrot",
+          "jumper": "24",
+          "dob": "1944-05-06",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Bob",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "47",
           "dob": "1942-12-06",
           "height": "173cm",

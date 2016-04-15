@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Percy",
-          "lastname": "Wilson",
-          "jumper": "25",
-          "dob": "1889-03-31",
-          "height": "168cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Heinz",
           "jumper": "15",
@@ -28,12 +20,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Streeter",
-          "jumper": "9",
-          "dob": "1895-08-15",
-          "height": "170cm",
-          "weight": "73kg"
+          "firstname": "Percy",
+          "lastname": "Wilson",
+          "jumper": "25",
+          "dob": "1889-03-31",
+          "height": "168cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Harry",
@@ -60,12 +52,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Allen",
-          "jumper": "1",
-          "dob": "1889-07-07",
-          "height": "188cm",
-          "weight": "85kg"
+          "firstname": "Charlie",
+          "lastname": "Streeter",
+          "jumper": "9",
+          "dob": "1895-08-15",
+          "height": "170cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Jack",
@@ -84,8 +76,16 @@
           "weight": "68kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Allen",
+          "jumper": "1",
+          "dob": "1889-07-07",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "John",
-          "lastname": "LordSnr",
+          "lastname": "Lord Snr",
           "jumper": "11",
           "dob": "1899-09-16",
           "height": "191cm",
@@ -108,20 +108,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Thomas",
-          "jumper": "3",
-          "dob": "1898-08-09",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Pat",
           "lastname": "Bourke",
           "jumper": "32",
           "dob": "1894-11-18",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Thomas",
+          "jumper": "3",
+          "dob": "1898-08-09",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Clarrie",
@@ -244,20 +244,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Walker",
-          "jumper": "20",
-          "dob": "1894-05-14",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Wallace",
           "jumper": "29",
           "dob": "1894-05-22",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Walker",
+          "jumper": "20",
+          "dob": "1894-05-14",
+          "height": "175cm",
+          "weight": "76kg"
         }
       ]
     }

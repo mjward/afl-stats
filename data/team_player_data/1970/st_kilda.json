@@ -4,14 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Stuart",
-          "lastname": "Trott",
-          "jumper": "7",
-          "dob": "1948-04-25",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Murray",
           "jumper": "6",
@@ -21,7 +13,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "9",
           "dob": "1943-11-01",
           "height": "191cm",
@@ -49,6 +41,14 @@
           "jumper": "15",
           "dob": "1947-01-07",
           "height": "179cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Stuart",
+          "lastname": "Trott",
+          "jumper": "7",
+          "dob": "1948-04-25",
+          "height": "177cm",
           "weight": "76kg"
         },
         {
@@ -92,14 +92,6 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Stephen",
-          "lastname": "Rae",
-          "jumper": "32",
-          "dob": "1952-04-30",
-          "height": "180cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Mynott",
           "jumper": "2",
@@ -114,6 +106,14 @@
           "dob": "1947-12-08",
           "height": "179cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Rae",
+          "jumper": "32",
+          "dob": "1952-04-30",
+          "height": "180cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Barry",
@@ -132,14 +132,6 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Stewart",
-          "jumper": "5",
-          "dob": "1943-07-14",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Ross",
           "lastname": "Smith",
           "jumper": "3",
@@ -148,8 +140,16 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Stewart",
+          "jumper": "5",
+          "dob": "1943-07-14",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "28",
           "dob": "1947-06-08",
           "height": "184cm",

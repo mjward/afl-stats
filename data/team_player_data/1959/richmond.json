@@ -20,16 +20,8 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Dave",
-          "lastname": "Cuzens",
-          "jumper": "4",
-          "dob": "1932-12-11",
-          "height": "182cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Ron",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "14",
           "dob": "1933-08-12",
           "height": "189cm",
@@ -52,20 +44,20 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Dave",
+          "lastname": "Cuzens",
+          "jumper": "4",
+          "dob": "1932-12-11",
+          "height": "182cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Cameron",
           "jumper": "30",
           "dob": "1939-06-06",
           "height": "184cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Langridge",
-          "jumper": "28",
-          "dob": "1936-10-22",
-          "height": "171cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Graeme",
@@ -84,6 +76,14 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Ted",
+          "lastname": "Langridge",
+          "jumper": "28",
+          "dob": "1936-10-22",
+          "height": "171cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Colin",
           "lastname": "Holt",
           "jumper": "21",
@@ -100,19 +100,19 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Allsop",
-          "jumper": "32",
-          "dob": "1933-12-20",
-          "height": "166cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Branton",
           "jumper": "29",
           "dob": "1933-06-10",
           "height": "170cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Allsop",
+          "jumper": "32",
+          "dob": "1933-12-20",
+          "height": "166cm",
           "weight": "71kg"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Laurie",
-          "lastname": "O'Toole",
+          "lastname": "O' Toole",
           "jumper": "42",
           "dob": "1937-10-23",
           "height": "188cm",
@@ -204,20 +204,20 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Clements",
-          "jumper": "24",
-          "dob": "1933-10-08",
-          "height": "179cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Wilson",
           "jumper": "40",
           "dob": "1940-05-18",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Clements",
+          "jumper": "24",
+          "dob": "1933-10-08",
+          "height": "179cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Doug",

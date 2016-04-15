@@ -4,20 +4,20 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Gordon",
+          "lastname": "Mc Cracken",
+          "jumper": "24",
+          "dob": "1898-03-22",
+          "height": "191cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Ernie",
           "lastname": "Elliott",
           "jumper": "5",
           "dob": "1900-01-03",
           "height": "175cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Gordon",
-          "lastname": "McCracken",
-          "jumper": "24",
-          "dob": "1898-03-22",
-          "height": "191cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Len",
@@ -44,6 +44,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Steve",
+          "lastname": "Donnellan",
+          "jumper": "28",
+          "dob": "1900-11-12",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Horrie",
           "lastname": "Jenkin",
           "jumper": "4",
@@ -68,12 +76,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Steve",
-          "lastname": "Donnellan",
-          "jumper": "28",
-          "dob": "1900-11-12",
-          "height": "178cm",
-          "weight": "76kg"
+          "firstname": "Clive",
+          "lastname": "Fergie",
+          "jumper": "3",
+          "dob": "1895-12-20",
+          "height": "168cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Tommy",
@@ -82,14 +90,6 @@
           "dob": "1903-02-24",
           "height": "178cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Clive",
-          "lastname": "Fergie",
-          "jumper": "3",
-          "dob": "1895-12-20",
-          "height": "168cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Carl",
@@ -140,14 +140,6 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Clarrie",
-          "lastname": "Sherry",
-          "jumper": "18",
-          "dob": "1895-06-04",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Wigraft",
           "jumper": "10",
@@ -164,6 +156,14 @@
           "weight": "63kg"
         },
         {
+          "firstname": "Clarrie",
+          "lastname": "Sherry",
+          "jumper": "18",
+          "dob": "1895-06-04",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Harold",
           "lastname": "Carter",
           "jumper": "19",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Hector",
-          "lastname": "McNeil",
+          "lastname": "Mc Neil",
           "jumper": "23",
           "dob": "1901-11-08",
           "height": "183cm",

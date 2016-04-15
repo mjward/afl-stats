@@ -28,6 +28,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Roger",
+          "lastname": "Dean",
+          "jumper": "3",
+          "dob": "1940-04-30",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Neville",
           "lastname": "Crowe",
           "jumper": "5",
@@ -42,14 +50,6 @@
           "dob": "1935-04-06",
           "height": "174cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Roger",
-          "lastname": "Dean",
-          "jumper": "3",
-          "dob": "1940-04-30",
-          "height": "175cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Graeme",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "17",
           "dob": "1941-01-16",
           "height": "178cm",
@@ -148,22 +148,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Caulfield",
-          "jumper": "53",
-          "dob": "1944-01-25",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Gary",
-          "lastname": "Arnold",
-          "jumper": "28",
-          "dob": "1943-12-05",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Graham",
           "lastname": "Jacobs",
           "jumper": "16",
@@ -178,6 +162,22 @@
           "dob": "1940-06-18",
           "height": "180cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Caulfield",
+          "jumper": "53",
+          "dob": "1944-01-25",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Arnold",
+          "jumper": "28",
+          "dob": "1943-12-05",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Tom",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "SelleckJnr",
+          "lastname": "Selleck Jnr",
           "jumper": "22",
           "dob": "1944-02-22",
           "height": "183cm",

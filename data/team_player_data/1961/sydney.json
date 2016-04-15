@@ -5,11 +5,19 @@
       "Sydney": [
         {
           "firstname": "Brian",
-          "lastname": "McGowan",
+          "lastname": "Mc Gowan",
           "jumper": "3",
           "dob": "1938-01-01",
           "height": "165cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Skilton Jnr",
+          "jumper": "14",
+          "dob": "1938-11-08",
+          "height": "171cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Peter",
@@ -18,14 +26,6 @@
           "dob": "1938-02-28",
           "height": "180cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "SkiltonJnr",
-          "jumper": "14",
-          "dob": "1938-11-08",
-          "height": "171cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Frank",
@@ -37,7 +37,7 @@
         },
         {
           "firstname": "Ken",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "36",
           "dob": "1933-01-18",
           "height": "170cm",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McLaughlinJnr",
+          "lastname": "Mc Laughlin Jnr",
           "jumper": "25",
           "dob": "1935-10-13",
           "height": "178cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "43",
           "dob": "1938-10-21",
           "height": "175cm",
@@ -300,20 +300,20 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Brain",
-          "jumper": "16",
-          "dob": "1944-12-10",
-          "height": "173cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Morrie",
           "lastname": "Elliott",
           "jumper": "2",
           "dob": "1935-10-02",
           "height": "193cm",
           "weight": "94kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Brain",
+          "jumper": "16",
+          "dob": "1944-12-10",
+          "height": "173cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Marshall",

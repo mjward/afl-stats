@@ -36,6 +36,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Steven",
+          "lastname": "Smith",
+          "jumper": "1",
+          "dob": "1956-05-22",
+          "height": "193cm",
+          "weight": "91kg"
+        },
+        {
           "firstname": "Stephen",
           "lastname": "Icke",
           "jumper": "11",
@@ -50,14 +58,6 @@
           "dob": "1958-06-10",
           "height": "187cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Steven",
-          "lastname": "Smith",
-          "jumper": "1",
-          "dob": "1956-05-22",
-          "height": "193cm",
-          "weight": "91kg"
         },
         {
           "firstname": "David",
@@ -164,20 +164,20 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Dale",
-          "lastname": "Dickson",
-          "jumper": "29",
-          "dob": "1962-07-03",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Roger",
           "lastname": "Ellingworth",
           "jumper": "14",
           "dob": "1962-12-14",
           "height": "184cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Dale",
+          "lastname": "Dickson",
+          "jumper": "29",
+          "dob": "1962-07-03",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Michael",
@@ -221,19 +221,11 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "6",
           "dob": "1962-04-05",
           "height": "185cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Francesco",
-          "lastname": "Rugolo",
-          "jumper": "43",
-          "dob": "1963-09-05",
-          "height": "184cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Brian",
@@ -242,6 +234,14 @@
           "dob": "1961-09-30",
           "height": "180cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Francesco",
+          "lastname": "Rugolo",
+          "jumper": "43",
+          "dob": "1963-09-05",
+          "height": "184cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Rodney",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Kelly",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "23",
           "dob": "1960-11-16",
           "height": "173cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Glenn",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "26",
           "dob": "1961-07-10",
           "height": "194cm",

@@ -12,14 +12,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Max",
-          "lastname": "Mollar",
-          "jumper": "29",
-          "dob": "1929-08-29",
-          "height": "178cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Keith",
           "lastname": "Drinan",
           "jumper": "25",
@@ -29,27 +21,19 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "2",
           "dob": "1930-01-28",
           "height": "180cm",
           "weight": "76kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Watt",
-          "jumper": "26",
-          "dob": "1933-04-21",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Bruce",
-          "lastname": "Phillips",
-          "jumper": "14",
-          "dob": "1929-05-02",
-          "height": "188cm",
-          "weight": "83kg"
+          "firstname": "Max",
+          "lastname": "Mollar",
+          "jumper": "29",
+          "dob": "1929-08-29",
+          "height": "178cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Ken",
@@ -76,6 +60,22 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Watt",
+          "jumper": "26",
+          "dob": "1933-04-21",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Phillips",
+          "jumper": "14",
+          "dob": "1929-05-02",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Bennett",
           "jumper": "27",
@@ -92,14 +92,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Harold",
-          "lastname": "Davies",
-          "jumper": "12",
-          "dob": "1932-11-18",
-          "height": "179cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Hurst",
           "jumper": "15",
@@ -108,8 +100,16 @@
           "weight": "70kg"
         },
         {
+          "firstname": "Harold",
+          "lastname": "Davies",
+          "jumper": "12",
+          "dob": "1932-11-18",
+          "height": "179cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Bruce",
-          "lastname": "McLennan",
+          "lastname": "Mc Lennan",
           "jumper": "31",
           "dob": "1928-04-28",
           "height": "177cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "LeNepveu",
+          "lastname": "Le Nepveu",
           "jumper": "6",
           "dob": "1927-10-07",
           "height": "177cm",

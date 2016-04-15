@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Bob",
-          "lastname": "Corbett",
-          "jumper": "12",
-          "dob": "1895-11-23",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Chadwick",
           "jumper": "17",
@@ -20,26 +12,10 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Allen",
-          "jumper": "1",
-          "dob": "1889-07-07",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Herb",
-          "lastname": "Matthews",
-          "jumper": "6",
-          "dob": "1894-09-02",
-          "height": "180cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Lilley",
-          "jumper": "8",
-          "dob": "1892-07-03",
+          "firstname": "Bob",
+          "lastname": "Corbett",
+          "jumper": "12",
+          "dob": "1895-11-23",
           "height": "178cm",
           "weight": "76kg"
         },
@@ -66,6 +42,30 @@
           "dob": "1891-05-12",
           "height": "180cm",
           "weight": "68kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Allen",
+          "jumper": "1",
+          "dob": "1889-07-07",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Herb",
+          "lastname": "Matthews",
+          "jumper": "6",
+          "dob": "1894-09-02",
+          "height": "180cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Lilley",
+          "jumper": "8",
+          "dob": "1892-07-03",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "George",
@@ -100,20 +100,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Shelton",
-          "jumper": "13",
-          "dob": "1902-08-03",
-          "height": "182cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Mick",
           "lastname": "Anthony",
           "jumper": "7",
           "dob": "1894-08-08",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Shelton",
+          "jumper": "13",
+          "dob": "1902-08-03",
+          "height": "182cm",
+          "weight": "83kg"
         },
         {
           "firstname": "George",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Joe",
-          "lastname": "O'Carroll",
+          "lastname": "O' Carroll",
           "jumper": "20",
           "dob": "1891-03-21",
           "height": "169cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "24",
           "dob": "1897-07-29",
           "height": "180cm",
@@ -236,20 +236,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Aubrey",
-          "lastname": "Neal",
-          "jumper": "35",
-          "dob": "1893-07-31",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Dobrigh",
           "jumper": "34",
           "dob": "1898-12-06",
           "height": "177cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Aubrey",
+          "lastname": "Neal",
+          "jumper": "35",
+          "dob": "1893-07-31",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Reg",

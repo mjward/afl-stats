@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Les",
-          "lastname": "Armstrong",
-          "jumper": "1",
-          "dob": "1887-06-16",
-          "height": "180cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Moran",
           "jumper": "—",
@@ -36,20 +28,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Alex",
-          "lastname": "Boyd",
-          "jumper": "—",
-          "dob": "1883-11-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Ernie",
-          "lastname": "Newling",
-          "jumper": "—",
-          "dob": "1876-06-26",
-          "height": "188cm",
-          "weight": "94kg"
+          "firstname": "Les",
+          "lastname": "Armstrong",
+          "jumper": "1",
+          "dob": "1887-06-16",
+          "height": "180cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Les",
@@ -74,6 +58,22 @@
           "dob": "1888-08-09",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Alex",
+          "lastname": "Boyd",
+          "jumper": "—",
+          "dob": "1883-11-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Newling",
+          "jumper": "—",
+          "dob": "1876-06-26",
+          "height": "188cm",
+          "weight": "94kg"
         },
         {
           "firstname": "Bill",
@@ -108,20 +108,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Henry",
-          "lastname": "Young",
-          "jumper": "—",
-          "dob": "1873-05-18",
-          "height": "191cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Wilton",
           "jumper": "23",
           "dob": "1889-03-17",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Young",
+          "jumper": "—",
+          "dob": "1873-05-18",
+          "height": "191cm",
+          "weight": "90kg"
         },
         {
           "firstname": "George",
@@ -148,20 +148,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Eason",
-          "jumper": "2",
-          "dob": "1889-11-08",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Slater",
           "jumper": "10",
           "dob": "1888-11-29",
           "height": "179cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Eason",
+          "jumper": "2",
+          "dob": "1889-11-08",
+          "height": "175cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Jack",

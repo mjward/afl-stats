@@ -4,6 +4,22 @@
     "teams": {
       "North Melbourne": [
         {
+          "firstname": "Syd",
+          "lastname": "Barker Jnr",
+          "jumper": "5",
+          "dob": "1911-10-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Jerram",
+          "jumper": "2",
+          "dob": "1904-08-15",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Johnny",
           "lastname": "Gregory",
           "jumper": "9",
@@ -18,22 +34,6 @@
           "dob": "1901-09-13",
           "height": "191cm",
           "weight": "99kg"
-        },
-        {
-          "firstname": "Syd",
-          "lastname": "BarkerJnr",
-          "jumper": "5",
-          "dob": "1911-10-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Jerram",
-          "jumper": "2",
-          "dob": "1904-08-15",
-          "height": "185cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Neville",
@@ -108,14 +108,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Purcell",
-          "jumper": "11",
-          "dob": "1905-03-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Donnellan",
           "jumper": "7",
@@ -124,20 +116,20 @@
           "weight": "—"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Purcell",
+          "jumper": "11",
+          "dob": "1905-03-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Dick",
-          "lastname": "O'Shea",
+          "lastname": "O' Shea",
           "jumper": "22",
           "dob": "1909-01-31",
           "height": "185cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Selwyn",
-          "lastname": "Baker",
-          "jumper": "15",
-          "dob": "1911-04-09",
-          "height": "166cm",
-          "weight": "67kg"
         },
         {
           "firstname": "Len",
@@ -156,6 +148,14 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Selwyn",
+          "lastname": "Baker",
+          "jumper": "15",
+          "dob": "1911-04-09",
+          "height": "166cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Hector",
           "lastname": "Moir",
           "jumper": "10",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "4",
           "dob": "1908-01-31",
           "height": "185cm",
@@ -284,20 +284,20 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Joe",
+          "lastname": "Mc Elholum",
+          "jumper": "40",
+          "dob": "1910-04-06",
+          "height": "179cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Les",
           "lastname": "Jones",
           "jumper": "23",
           "dob": "1907-02-17",
           "height": "177cm",
           "weight": "77kg"
-        },
-        {
-          "firstname": "Joe",
-          "lastname": "McElholum",
-          "jumper": "40",
-          "dob": "1910-04-06",
-          "height": "179cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Bill",
@@ -316,18 +316,18 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Kennedy",
-          "jumper": "3",
-          "dob": "1908-12-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Wally",
           "lastname": "Spry",
           "jumper": "12",
           "dob": "1906-08-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Kennedy",
+          "jumper": "3",
+          "dob": "1908-12-30",
           "height": "—",
           "weight": "—"
         }

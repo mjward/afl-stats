@@ -4,22 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Fred",
-          "lastname": "Bamford",
-          "jumper": "1",
-          "dob": "1887-04-10",
-          "height": "175cm",
-          "weight": "68kg"
-        },
-        {
-          "firstname": "Percy",
-          "lastname": "Parratt",
-          "jumper": "21",
-          "dob": "1887-02-27",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Wally",
           "lastname": "Johnson",
           "jumper": "14",
@@ -44,6 +28,22 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Fred",
+          "lastname": "Bamford",
+          "jumper": "1",
+          "dob": "1887-04-10",
+          "height": "175cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Parratt",
+          "jumper": "21",
+          "dob": "1887-02-27",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Bert",
           "lastname": "Lenne",
           "jumper": "17",
@@ -58,30 +58,6 @@
           "dob": "1887-07-27",
           "height": "188cm",
           "weight": "96kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "Strownix",
-          "jumper": "26",
-          "dob": "1886-05-02",
-          "height": "178cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Shaw",
-          "jumper": "23",
-          "dob": "1886-04-01",
-          "height": "164cm",
-          "weight": "65kg"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "McLennan",
-          "jumper": "19",
-          "dob": "1888-07-26",
-          "height": "178cm",
-          "weight": "74kg"
         },
         {
           "firstname": "Jack",
@@ -106,6 +82,30 @@
           "dob": "1883-05-25",
           "height": "179cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Strownix",
+          "jumper": "26",
+          "dob": "1886-05-02",
+          "height": "178cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Shaw",
+          "jumper": "23",
+          "dob": "1886-04-01",
+          "height": "164cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Mc Lennan",
+          "jumper": "19",
+          "dob": "1888-07-26",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Tom",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McArthur",
+          "lastname": "Mc Arthur",
           "jumper": "16",
           "dob": "1891-05-05",
           "height": "170cm",

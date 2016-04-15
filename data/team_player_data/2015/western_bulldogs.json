@@ -1,0 +1,329 @@
+{
+  "team_player_data": {
+    "year": 2015,
+    "teams": {
+      "Western Bulldogs": [
+        {
+          "firstname": "Tory",
+          "lastname": "Dickson",
+          "jumper": "29",
+          "dob": "1987-09-26",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Luke",
+          "lastname": "Dahlhaus",
+          "jumper": "6",
+          "dob": "1992-08-21",
+          "height": "178cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Jake",
+          "lastname": "Stringer",
+          "jumper": "9",
+          "dob": "1994-04-25",
+          "height": "192cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Easton",
+          "lastname": "Wood",
+          "jumper": "10",
+          "dob": "1989-09-04",
+          "height": "186cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Macrae",
+          "jumper": "11",
+          "dob": "1994-08-03",
+          "height": "188cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Murphy",
+          "jumper": "2",
+          "dob": "1982-06-09",
+          "height": "187cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Liam",
+          "lastname": "Picken",
+          "jumper": "42",
+          "dob": "1986-08-01",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Marcus",
+          "lastname": "Bontempelli",
+          "jumper": "4",
+          "dob": "1995-11-24",
+          "height": "192cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Mitch",
+          "lastname": "Wallis",
+          "jumper": "3",
+          "dob": "1992-10-24",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Johannisen",
+          "jumper": "39",
+          "dob": "1992-11-08",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Boyd",
+          "jumper": "5",
+          "dob": "1982-08-27",
+          "height": "184cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Jarrad",
+          "lastname": "Grant",
+          "jumper": "1",
+          "dob": "1989-07-06",
+          "height": "192cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Stewart",
+          "lastname": "Crameri",
+          "jumper": "8",
+          "dob": "1988-08-10",
+          "height": "190cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Jordan",
+          "lastname": "Roughead",
+          "jumper": "23",
+          "dob": "1990-11-03",
+          "height": "200cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Dale",
+          "lastname": "Morris",
+          "jumper": "38",
+          "dob": "1982-12-29",
+          "height": "190cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Talia",
+          "jumper": "32",
+          "dob": "1993-02-11",
+          "height": "194cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Boyd",
+          "jumper": "17",
+          "dob": "1995-08-22",
+          "height": "200cm",
+          "weight": "103kg"
+        },
+        {
+          "firstname": "Lin",
+          "lastname": "Jong",
+          "jumper": "46",
+          "dob": "1993-06-04",
+          "height": "190cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Lachie",
+          "lastname": "Hunter",
+          "jumper": "7",
+          "dob": "1994-12-13",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Fletcher",
+          "lastname": "Roberts",
+          "jumper": "18",
+          "dob": "1993-06-03",
+          "height": "196cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Redpath",
+          "jumper": "43",
+          "dob": "1990-12-13",
+          "height": "194cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Koby",
+          "lastname": "Stevens",
+          "jumper": "25",
+          "dob": "1991-06-18",
+          "height": "187cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Joel",
+          "lastname": "Hamling",
+          "jumper": "30",
+          "dob": "1993-04-09",
+          "height": "194cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Mitch",
+          "lastname": "Honeychurch",
+          "jumper": "22",
+          "dob": "1995-03-02",
+          "height": "176cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "Caleb",
+          "lastname": "Daniel",
+          "jumper": "35",
+          "dob": "1996-07-07",
+          "height": "167cm",
+          "weight": "63kg"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "Biggs",
+          "jumper": "24",
+          "dob": "1991-08-05",
+          "height": "187cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Will",
+          "lastname": "Minson",
+          "jumper": "27",
+          "dob": "1985-04-11",
+          "height": "199cm",
+          "weight": "106kg"
+        },
+        {
+          "firstname": "Lukas",
+          "lastname": "Webb",
+          "jumper": "19",
+          "dob": "1996-03-04",
+          "height": "186cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Bailey",
+          "lastname": "Dale",
+          "jumper": "31",
+          "dob": "1996-07-22",
+          "height": "183cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Brett",
+          "lastname": "Goodes",
+          "jumper": "44",
+          "dob": "1984-02-17",
+          "height": "183cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Nathan",
+          "lastname": "Hrovat",
+          "jumper": "13",
+          "dob": "1994-06-07",
+          "height": "175cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Ayce",
+          "lastname": "Cordy",
+          "jumper": "49",
+          "dob": "1990-08-06",
+          "height": "204cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Campbell",
+          "jumper": "45",
+          "dob": "1991-11-02",
+          "height": "201cm",
+          "weight": "101kg"
+        },
+        {
+          "firstname": "Josh",
+          "lastname": "Prudden",
+          "jumper": "28",
+          "dob": "1994-09-06",
+          "height": "182cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Toby",
+          "lastname": "Mc Lean",
+          "jumper": "16",
+          "dob": "1996-01-31",
+          "height": "180cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Clay",
+          "lastname": "Smith",
+          "jumper": "14",
+          "dob": "1993-05-11",
+          "height": "182cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Zaine",
+          "lastname": "Cordy",
+          "jumper": "12",
+          "dob": "1996-10-27",
+          "height": "191cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Darley",
+          "jumper": "33",
+          "dob": "1993-02-15",
+          "height": "186cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Roarke",
+          "lastname": "Smith",
+          "jumper": "37",
+          "dob": "1996-09-11",
+          "height": "182cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Pearce",
+          "jumper": "20",
+          "dob": "1993-01-22",
+          "height": "182cm",
+          "weight": "77kg"
+        }
+      ]
+    }
+  }
+}

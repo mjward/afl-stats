@@ -84,22 +84,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "Colling",
-          "jumper": "12",
-          "dob": "1950-03-17",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Stephen",
-          "lastname": "Roberts",
-          "jumper": "30",
-          "dob": "1948-11-25",
-          "height": "191cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Daryl",
           "lastname": "Griffiths",
           "jumper": "25",
@@ -132,8 +116,24 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Gary",
+          "lastname": "Colling",
+          "jumper": "12",
+          "dob": "1950-03-17",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Roberts",
+          "jumper": "30",
+          "dob": "1948-11-25",
+          "height": "191cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "John",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "28",
           "dob": "1947-06-08",
           "height": "184cm",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Dea",
+          "lastname": "O' Dea",
           "jumper": "14",
           "dob": "1949-02-02",
           "height": "185cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Graeme",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "24",
           "dob": "1947-09-15",
           "height": "185cm",

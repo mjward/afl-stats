@@ -1,0 +1,281 @@
+{
+  "team_player_data": {
+    "year": 2007,
+    "teams": {
+      "Hawthorn": [
+        {
+          "firstname": "Robert",
+          "lastname": "Campbell",
+          "jumper": "39",
+          "dob": "1982-06-02",
+          "height": "199cm",
+          "weight": "108kg"
+        },
+        {
+          "firstname": "Brad",
+          "lastname": "Sewell",
+          "jumper": "12",
+          "dob": "1984-02-02",
+          "height": "181cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Grant",
+          "lastname": "Birchall",
+          "jumper": "14",
+          "dob": "1988-01-28",
+          "height": "193cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Luke",
+          "lastname": "Hodge",
+          "jumper": "15",
+          "dob": "1984-06-15",
+          "height": "184cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Gilham",
+          "jumper": "27",
+          "dob": "1984-09-02",
+          "height": "192cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Taylor",
+          "jumper": "13",
+          "dob": "1982-08-18",
+          "height": "200cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "Jordan",
+          "lastname": "Lewis",
+          "jumper": "3",
+          "dob": "1986-04-24",
+          "height": "186cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Brent",
+          "lastname": "Guerra",
+          "jumper": "18",
+          "dob": "1982-05-29",
+          "height": "182cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "Crawford",
+          "jumper": "9",
+          "dob": "1974-09-09",
+          "height": "174cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Clinton",
+          "lastname": "Young",
+          "jumper": "45",
+          "dob": "1986-02-16",
+          "height": "189cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Mitchell",
+          "jumper": "5",
+          "dob": "1982-10-12",
+          "height": "179cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Campbell",
+          "lastname": "Brown",
+          "jumper": "30",
+          "dob": "1983-08-28",
+          "height": "177cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Rick",
+          "lastname": "Ladson",
+          "jumper": "4",
+          "dob": "1984-02-18",
+          "height": "179cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Jarryd",
+          "lastname": "Roughead",
+          "jumper": "2",
+          "dob": "1987-01-23",
+          "height": "193cm",
+          "weight": "102kg"
+        },
+        {
+          "firstname": "Lance",
+          "lastname": "Franklin",
+          "jumper": "23",
+          "dob": "1987-01-30",
+          "height": "196cm",
+          "weight": "101kg"
+        },
+        {
+          "firstname": "Chance",
+          "lastname": "Bateman",
+          "jumper": "10",
+          "dob": "1981-06-21",
+          "height": "175cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Mc Glynn",
+          "jumper": "22",
+          "dob": "1985-08-06",
+          "height": "174cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Tim",
+          "lastname": "Boyle",
+          "jumper": "20",
+          "dob": "1984-01-28",
+          "height": "194cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Trent",
+          "lastname": "Croad",
+          "jumper": "24",
+          "dob": "1980-03-09",
+          "height": "190cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Dixon",
+          "jumper": "19",
+          "dob": "1977-06-14",
+          "height": "188cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Joel",
+          "lastname": "Smith",
+          "jumper": "11",
+          "dob": "1977-05-03",
+          "height": "185cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Osborne",
+          "jumper": "7",
+          "dob": "1982-07-29",
+          "height": "178cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Xavier",
+          "lastname": "Ellis",
+          "jumper": "32",
+          "dob": "1988-02-28",
+          "height": "187cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Danny",
+          "lastname": "Jacobs",
+          "jumper": "8",
+          "dob": "1980-06-25",
+          "height": "189cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Richie",
+          "lastname": "Vandenberg",
+          "jumper": "21",
+          "dob": "1977-01-14",
+          "height": "178cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Murphy",
+          "jumper": "29",
+          "dob": "1986-03-19",
+          "height": "189cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Williams",
+          "jumper": "6",
+          "dob": "1983-04-13",
+          "height": "180cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Josh",
+          "lastname": "Thurgood",
+          "jumper": "33",
+          "dob": "1985-06-05",
+          "height": "190cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Tim",
+          "lastname": "Clarke",
+          "jumper": "25",
+          "dob": "1982-04-02",
+          "height": "176cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Travis",
+          "lastname": "Tuck",
+          "jumper": "38",
+          "dob": "1987-09-07",
+          "height": "188cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Beau",
+          "lastname": "Dowler",
+          "jumper": "16",
+          "dob": "1987-12-16",
+          "height": "196cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Little",
+          "jumper": "28",
+          "dob": "1986-01-03",
+          "height": "188cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Mitchell",
+          "lastname": "Thorp",
+          "jumper": "31",
+          "dob": "1988-12-25",
+          "height": "194cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Moss",
+          "jumper": "37",
+          "dob": "1988-07-05",
+          "height": "181cm",
+          "weight": "74kg"
+        }
+      ]
+    }
+  }
+}

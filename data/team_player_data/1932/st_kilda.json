@@ -4,14 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Bill",
-          "lastname": "Mohr",
-          "jumper": "10",
-          "dob": "1909-06-29",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Comte",
           "jumper": "9",
@@ -28,12 +20,12 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Davis",
-          "jumper": "26",
-          "dob": "1908-07-16",
-          "height": "189cm",
-          "weight": "84kg"
+          "firstname": "Bill",
+          "lastname": "Mohr",
+          "jumper": "10",
+          "dob": "1909-06-29",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Clarrie",
@@ -61,6 +53,22 @@
         },
         {
           "firstname": "Jack",
+          "lastname": "Davis",
+          "jumper": "26",
+          "dob": "1908-07-16",
+          "height": "189cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Matthews",
+          "jumper": "11",
+          "dob": "1902-12-07",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jack",
           "lastname": "Anderson",
           "jumper": "6",
           "dob": "1909-03-03",
@@ -74,14 +82,6 @@
           "dob": "1907-02-11",
           "height": "185cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Matthews",
-          "jumper": "11",
-          "dob": "1902-12-07",
-          "height": "179cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Stuart",
@@ -116,14 +116,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Doug",
-          "lastname": "Bourne",
-          "jumper": "24",
-          "dob": "1908-12-22",
-          "height": "168cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Geoff",
           "lastname": "Neil",
           "jumper": "31",
@@ -138,6 +130,14 @@
           "dob": "1908-10-24",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Bourne",
+          "jumper": "24",
+          "dob": "1908-12-22",
+          "height": "168cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Clem",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Denis",
-          "lastname": "McKey",
+          "lastname": "Mc Key",
           "jumper": "30",
           "dob": "1910-03-13",
           "height": "188cm",

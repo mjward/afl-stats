@@ -4,30 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Jack",
-          "lastname": "Conley",
-          "jumper": "35",
-          "dob": "1920-10-18",
-          "height": "173cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Doug",
-          "lastname": "Beasy",
-          "jumper": "17",
-          "dob": "1930-04-16",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Milroy",
-          "jumper": "2",
-          "dob": "1929-10-24",
-          "height": "189cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Ollie",
           "lastname": "Grieve",
           "jumper": "27",
@@ -52,12 +28,28 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Warburton",
-          "jumper": "7",
-          "dob": "1929-06-07",
-          "height": "178cm",
+          "firstname": "Jack",
+          "lastname": "Conley",
+          "jumper": "35",
+          "dob": "1920-10-18",
+          "height": "173cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Beasy",
+          "jumper": "17",
+          "dob": "1930-04-16",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Milroy",
+          "jumper": "2",
+          "dob": "1929-10-24",
+          "height": "189cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Ken",
@@ -74,6 +66,14 @@
           "dob": "1923-10-14",
           "height": "183cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Warburton",
+          "jumper": "7",
+          "dob": "1929-06-07",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Laurie",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "HowellJnr",
+          "lastname": "Howell Jnr",
           "jumper": "13",
           "dob": "1924-08-31",
           "height": "193cm",
@@ -116,20 +116,20 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Stafford",
-          "jumper": "10",
-          "dob": "1926-08-03",
-          "height": "173cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Spencer",
           "jumper": "32",
           "dob": "1927-08-07",
           "height": "168cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Stafford",
+          "jumper": "10",
+          "dob": "1926-08-03",
+          "height": "173cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Richie",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Harvey",
-          "lastname": "DunnJnr",
+          "lastname": "Dunn Jnr",
           "jumper": "22",
           "dob": "1931-09-06",
           "height": "170cm",

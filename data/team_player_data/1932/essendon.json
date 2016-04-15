@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Howard",
-          "lastname": "Okey",
-          "jumper": "2",
-          "dob": "1906-02-12",
-          "height": "177cm",
-          "weight": "69kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Williamson",
           "jumper": "25",
@@ -28,12 +20,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Syd",
-          "lastname": "Carman",
-          "jumper": "11",
-          "dob": "1901-12-15",
-          "height": "173cm",
-          "weight": "65kg"
+          "firstname": "Howard",
+          "lastname": "Okey",
+          "jumper": "2",
+          "dob": "1906-02-12",
+          "height": "177cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Bill",
@@ -44,12 +36,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Bruce",
-          "lastname": "Anderson",
-          "jumper": "16",
-          "dob": "1907-02-20",
-          "height": "180cm",
-          "weight": "83kg"
+          "firstname": "Syd",
+          "lastname": "Carman",
+          "jumper": "11",
+          "dob": "1901-12-15",
+          "height": "173cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Frank",
@@ -66,6 +58,14 @@
           "dob": "1903-07-31",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Anderson",
+          "jumper": "16",
+          "dob": "1907-02-20",
+          "height": "180cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Len",
@@ -92,14 +92,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Peterson",
-          "jumper": "30",
-          "dob": "1907-08-16",
-          "height": "182cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Nash",
           "jumper": "22",
@@ -114,6 +106,14 @@
           "dob": "1909-12-13",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Peterson",
+          "jumper": "30",
+          "dob": "1907-08-16",
+          "height": "182cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Paddy",
@@ -132,20 +132,20 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Norm",
+          "lastname": "Le Brun",
+          "jumper": "13",
+          "dob": "1908-04-22",
+          "height": "171cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Russell",
           "lastname": "Madden",
           "jumper": "18",
           "dob": "1910-06-04",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Norm",
-          "lastname": "LeBrun",
-          "jumper": "13",
-          "dob": "1908-04-22",
-          "height": "171cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Carl",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "6",
           "dob": "1909-01-24",
           "height": "—",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "O'Shea",
+          "lastname": "O' Shea",
           "jumper": "27",
           "dob": "1909-01-31",
           "height": "185cm",

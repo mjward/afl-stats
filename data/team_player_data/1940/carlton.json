@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Paul",
-          "lastname": "Schmidt",
-          "jumper": "23",
-          "dob": "1917-04-23",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Green",
           "jumper": "32",
@@ -60,6 +52,14 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Paul",
+          "lastname": "Schmidt",
+          "jumper": "23",
+          "dob": "1917-04-23",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Mooring",
           "jumper": "16",
@@ -92,20 +92,20 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Rod",
+          "lastname": "Mc Lean",
+          "jumper": "14",
+          "dob": "1915-10-22",
+          "height": "182cm",
+          "weight": "88kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Carney",
           "jumper": "7",
           "dob": "1909-01-22",
           "height": "160cm",
           "weight": "62kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "McLean",
-          "jumper": "14",
-          "dob": "1915-10-22",
-          "height": "182cm",
-          "weight": "88kg"
         },
         {
           "firstname": "Cyril",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "2",
           "dob": "1915-03-05",
           "height": "179cm",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "31",
           "dob": "1916-08-21",
           "height": "174cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Bert",
-          "lastname": "McTaggart",
+          "lastname": "Mc Taggart",
           "jumper": "20",
           "dob": "1916-04-20",
           "height": "185cm",

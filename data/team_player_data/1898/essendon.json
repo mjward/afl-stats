@@ -20,6 +20,14 @@
           "weight": "—"
         },
         {
+          "firstname": "George",
+          "lastname": "Hastings",
+          "jumper": "—",
+          "dob": "1877-01-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Harry",
           "lastname": "Wright",
           "jumper": "—",
@@ -36,26 +44,10 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Hastings",
-          "jumper": "—",
-          "dob": "1877-01-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Maurie",
           "lastname": "Collins",
           "jumper": "—",
           "dob": "1876-07-21",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Pat",
-          "lastname": "O'Loughlin",
-          "jumper": "—",
-          "dob": "1873-10-29",
           "height": "—",
           "weight": "—"
         },
@@ -68,6 +60,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Pat",
+          "lastname": "O' Loughlin",
+          "jumper": "—",
+          "dob": "1873-10-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "George",
           "lastname": "Martin",
           "jumper": "—",
@@ -76,7 +76,15 @@
           "weight": "—"
         },
         {
-          "firstname": "CharlesTracker",
+          "firstname": "Charlie",
+          "lastname": "Moore",
+          "jumper": "—",
+          "dob": "1875-09-24",
+          "height": "169cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Charles Tracker",
           "lastname": "Forbes",
           "jumper": "—",
           "dob": "1865-05-08",
@@ -100,14 +108,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Moore",
-          "jumper": "—",
-          "dob": "1875-09-24",
-          "height": "169cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Alec",
           "lastname": "Hall",
           "jumper": "—",
@@ -120,6 +120,14 @@
           "lastname": "Groves",
           "jumper": "—",
           "dob": "1874-05-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Vautin",
+          "jumper": "—",
+          "dob": "1869-04-23",
           "height": "—",
           "weight": "—"
         },
@@ -140,14 +148,6 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Vautin",
-          "jumper": "—",
-          "dob": "1869-04-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Corrie",
           "lastname": "Gardner",
           "jumper": "—",
@@ -164,18 +164,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Colin",
-          "lastname": "Campbell",
-          "jumper": "—",
-          "dob": "1872-08-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Newhaven",
           "lastname": "Jackson",
           "jumper": "—",
           "dob": "1874-04-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Campbell",
+          "jumper": "—",
+          "dob": "1872-08-13",
           "height": "—",
           "weight": "—"
         },
@@ -236,7 +236,7 @@
           "weight": "—"
         },
         {
-          "firstname": "William'Pos'",
+          "firstname": "William' Pos'",
           "lastname": "Watson",
           "jumper": "—",
           "dob": "1868-08-25",
@@ -252,18 +252,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Dave",
-          "lastname": "Currie",
-          "jumper": "—",
-          "dob": "1876-05-19",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Stewart",
           "jumper": "—",
           "dob": "1871-05-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Currie",
+          "jumper": "—",
+          "dob": "1876-05-19",
           "height": "—",
           "weight": "—"
         },

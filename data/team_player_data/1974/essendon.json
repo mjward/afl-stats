@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Geoff",
-          "lastname": "Pryor",
-          "jumper": "31",
-          "dob": "1945-11-21",
-          "height": "191cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Smith",
           "jumper": "35",
@@ -20,12 +12,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Des",
-          "lastname": "Tuddenham",
-          "jumper": "8",
-          "dob": "1943-01-29",
-          "height": "180cm",
-          "weight": "84kg"
+          "firstname": "Geoff",
+          "lastname": "Pryor",
+          "jumper": "31",
+          "dob": "1945-11-21",
+          "height": "191cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Alan",
@@ -50,6 +42,14 @@
           "dob": "1951-09-25",
           "height": "179cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Des",
+          "lastname": "Tuddenham",
+          "jumper": "8",
+          "dob": "1943-01-29",
+          "height": "180cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Laurie",
@@ -92,20 +92,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Andrews",
-          "jumper": "4",
-          "dob": "1955-05-13",
-          "height": "191cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Graeme",
           "lastname": "Schultz",
           "jumper": "12",
           "dob": "1953-05-17",
           "height": "180cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Andrews",
+          "jumper": "4",
+          "dob": "1955-05-13",
+          "height": "191cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Greg",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "24",
           "dob": "1939-03-23",
           "height": "188cm",
@@ -164,14 +164,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Garry",
-          "lastname": "Foulds",
-          "jumper": "38",
-          "dob": "1956-05-13",
-          "height": "188cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Dean",
           "lastname": "Hartigan",
           "jumper": "41",
@@ -186,6 +178,14 @@
           "dob": "1953-12-31",
           "height": "185cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Foulds",
+          "jumper": "38",
+          "dob": "1956-05-13",
+          "height": "188cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Peter",
@@ -204,6 +204,14 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Russ",
+          "lastname": "Ellen",
+          "jumper": "30",
+          "dob": "1954-02-08",
+          "height": "191cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Grinter",
           "jumper": "18",
@@ -218,14 +226,6 @@
           "dob": "1955-03-31",
           "height": "177cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Russ",
-          "lastname": "Ellen",
-          "jumper": "30",
-          "dob": "1954-02-08",
-          "height": "191cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Ken",

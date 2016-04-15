@@ -4,6 +4,14 @@
     "teams": {
       "Collingwood": [
         {
+          "firstname": "Harry",
+          "lastname": "Collier",
+          "jumper": "8",
+          "dob": "1907-10-01",
+          "height": "173cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Albert",
           "lastname": "Collier",
           "jumper": "7",
@@ -20,16 +28,8 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Collier",
-          "jumper": "8",
-          "dob": "1907-10-01",
-          "height": "173cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Syd",
-          "lastname": "CoventrySnr",
+          "lastname": "Coventry Snr",
           "jumper": "6",
           "dob": "1899-06-13",
           "height": "182cm",
@@ -132,20 +132,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Marcus",
-          "lastname": "Whelan",
-          "jumper": "39",
-          "dob": "1914-06-27",
-          "height": "175cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Clayden",
           "jumper": "4",
           "dob": "1903-08-14",
           "height": "187cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Marcus",
+          "lastname": "Whelan",
+          "jumper": "39",
+          "dob": "1914-06-27",
+          "height": "175cm",
+          "weight": "67kg"
         },
         {
           "firstname": "George",
@@ -164,6 +164,14 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Lou",
+          "lastname": "Daily",
+          "jumper": "27",
+          "dob": "1911-01-31",
+          "height": "185cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "George",
           "lastname": "Carter",
           "jumper": "3",
@@ -180,12 +188,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Lou",
-          "lastname": "Daily",
-          "jumper": "27",
-          "dob": "1911-01-31",
-          "height": "185cm",
-          "weight": "72kg"
+          "firstname": "Ivan",
+          "lastname": "Mc Intosh",
+          "jumper": "19",
+          "dob": "1913-12-14",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Bill",
@@ -194,14 +202,6 @@
           "dob": "1911-07-18",
           "height": "171cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Ivan",
-          "lastname": "McIntosh",
-          "jumper": "19",
-          "dob": "1913-12-14",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Alby",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Alf",
-          "lastname": "Andrew-Street",
+          "lastname": "Andrew- Street",
           "jumper": "26",
           "dob": "1914-04-08",
           "height": "—",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "LeBrun",
+          "lastname": "Le Brun",
           "jumper": "33",
           "dob": "1908-04-22",
           "height": "171cm",

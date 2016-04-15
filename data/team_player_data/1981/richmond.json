@@ -68,20 +68,20 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Smith",
-          "jumper": "10",
-          "dob": "1959-02-06",
-          "height": "185cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Robert",
           "lastname": "Wiley",
           "jumper": "2",
           "dob": "1955-03-24",
           "height": "178cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Smith",
+          "jumper": "10",
+          "dob": "1959-02-06",
+          "height": "185cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Dale",

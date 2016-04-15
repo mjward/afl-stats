@@ -20,14 +20,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Max",
-          "lastname": "Mollar",
-          "jumper": "29",
-          "dob": "1929-08-29",
-          "height": "178cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Ross",
           "jumper": "20",
@@ -37,7 +29,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "McLennan",
+          "lastname": "Mc Lennan",
           "jumper": "31",
           "dob": "1928-04-28",
           "height": "177cm",
@@ -45,19 +37,19 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "2",
           "dob": "1930-01-28",
           "height": "180cm",
           "weight": "76kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Drinan",
-          "jumper": "25",
-          "dob": "1924-11-13",
-          "height": "182cm",
-          "weight": "83kg"
+          "firstname": "Max",
+          "lastname": "Mollar",
+          "jumper": "29",
+          "dob": "1929-08-29",
+          "height": "178cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Brian",
@@ -68,12 +60,12 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Neil",
-          "lastname": "Roberts",
-          "jumper": "10",
-          "dob": "1933-06-15",
-          "height": "185cm",
-          "weight": "81kg"
+          "firstname": "Keith",
+          "lastname": "Drinan",
+          "jumper": "25",
+          "dob": "1924-11-13",
+          "height": "182cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Harold",
@@ -84,12 +76,12 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Watt",
-          "jumper": "26",
-          "dob": "1933-04-21",
-          "height": "188cm",
-          "weight": "85kg"
+          "firstname": "Neil",
+          "lastname": "Roberts",
+          "jumper": "10",
+          "dob": "1933-06-15",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Neville",
@@ -114,6 +106,14 @@
           "dob": "1931-05-11",
           "height": "171cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Watt",
+          "jumper": "26",
+          "dob": "1933-04-21",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Ken",
@@ -156,20 +156,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Milnes",
-          "jumper": "23",
-          "dob": "1932-03-12",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Dave",
           "lastname": "Bland",
           "jumper": "19",
           "dob": "1929-11-10",
           "height": "192cm",
           "weight": "98kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Milnes",
+          "jumper": "23",
+          "dob": "1932-03-12",
+          "height": "183cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Ron",

@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Andy",
-          "lastname": "Wilson",
-          "jumper": "33",
-          "dob": "1951-09-25",
-          "height": "179cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Williams",
           "jumper": "22",
@@ -34,6 +26,14 @@
           "dob": "1950-05-14",
           "height": "196cm",
           "weight": "102kg"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Wilson",
+          "jumper": "33",
+          "dob": "1951-09-25",
+          "height": "179cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Greg",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "24",
           "dob": "1939-03-23",
           "height": "188cm",

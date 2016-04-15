@@ -5,22 +5,6 @@
       "Richmond": [
         {
           "firstname": "Jack",
-          "lastname": "Crane",
-          "jumper": "18",
-          "dob": "1913-08-26",
-          "height": "191cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Scott",
-          "jumper": "6",
-          "dob": "1915-10-27",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Jack",
           "lastname": "Titus",
           "jumper": "12",
           "dob": "1908-03-09",
@@ -37,11 +21,27 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "16",
           "dob": "1908-03-20",
           "height": "175cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Crane",
+          "jumper": "18",
+          "dob": "1913-08-26",
+          "height": "191cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Scott",
+          "jumper": "6",
+          "dob": "1915-10-27",
+          "height": "188cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Jack",
@@ -58,14 +58,6 @@
           "dob": "1917-05-27",
           "height": "183cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Martin",
-          "lastname": "Bolger",
-          "jumper": "9",
-          "dob": "1906-08-19",
-          "height": "177cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Dick",
@@ -90,6 +82,14 @@
           "dob": "1913-11-15",
           "height": "185cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Bolger",
+          "jumper": "9",
+          "dob": "1906-08-19",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Bert",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Maurie",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "5",
           "dob": "1917-03-05",
           "height": "180cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "10",
           "dob": "1918-06-23",
           "height": "173cm",

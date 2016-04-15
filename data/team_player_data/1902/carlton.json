@@ -5,7 +5,7 @@
       "Carlton": [
         {
           "firstname": "Joe",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1868-11-29",
           "height": "—",
@@ -20,14 +20,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Archie",
-          "lastname": "Snell",
-          "jumper": "—",
-          "dob": "1877-07-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Roland",
           "jumper": "—",
@@ -36,10 +28,10 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Bobby",
-          "lastname": "Walsh",
+          "firstname": "Archie",
+          "lastname": "Snell",
           "jumper": "—",
-          "dob": "1877-06-25",
+          "dob": "1877-07-30",
           "height": "—",
           "weight": "—"
         },
@@ -53,15 +45,23 @@
         },
         {
           "firstname": "Henry",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1873-02-09",
           "height": "—",
           "weight": "—"
         },
         {
+          "firstname": "Bobby",
+          "lastname": "Walsh",
+          "jumper": "—",
+          "dob": "1877-06-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bill",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "—",
           "dob": "1876-06-08",
           "height": "—",
@@ -76,18 +76,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Gordon",
-          "lastname": "Ross",
-          "jumper": "—",
-          "dob": "1878-07-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Wally",
           "lastname": "Powell",
           "jumper": "—",
           "dob": "1878-03-31",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Ross",
+          "jumper": "—",
+          "dob": "1878-07-26",
           "height": "—",
           "weight": "—"
         },
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "—",
           "dob": "1882-05-27",
           "height": "—",
@@ -277,14 +277,6 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "Pye",
-          "jumper": "—",
-          "dob": "1880-08-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Harry",
           "lastname": "Powell",
           "jumper": "—",
           "dob": "1878-07-22",
@@ -300,6 +292,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Harry",
+          "lastname": "Pye",
+          "jumper": "—",
+          "dob": "1880-08-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Sam",
           "lastname": "Stivey",
           "jumper": "—",
@@ -309,7 +309,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "McNulty",
+          "lastname": "Mc Nulty",
           "jumper": "—",
           "dob": "1876-04-24",
           "height": "—",
@@ -317,7 +317,7 @@
         },
         {
           "firstname": "Wal",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1879-02-18",
           "height": "—",
@@ -341,7 +341,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McFarlane",
+          "lastname": "Mc Farlane",
           "jumper": "—",
           "dob": "1876-09-15",
           "height": "—",

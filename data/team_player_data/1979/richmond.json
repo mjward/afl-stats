@@ -28,14 +28,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Raines",
-          "jumper": "4",
-          "dob": "1956-08-10",
-          "height": "180cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "David",
           "lastname": "Cloke",
           "jumper": "33",
@@ -52,12 +44,12 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Heard",
-          "jumper": "15",
-          "dob": "1949-02-09",
-          "height": "202cm",
-          "weight": "97kg"
+          "firstname": "Geoff",
+          "lastname": "Raines",
+          "jumper": "4",
+          "dob": "1956-08-10",
+          "height": "180cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Bruce",
@@ -66,6 +58,14 @@
           "dob": "1958-12-22",
           "height": "189cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Heard",
+          "jumper": "15",
+          "dob": "1949-02-09",
+          "height": "202cm",
+          "weight": "97kg"
         },
         {
           "firstname": "Michael",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Geoff",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "42",
           "dob": "1958-05-22",
           "height": "188cm",

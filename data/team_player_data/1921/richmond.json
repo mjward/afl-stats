@@ -4,16 +4,8 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Vic",
-          "lastname": "Thorp",
-          "jumper": "5",
-          "dob": "1890-10-25",
-          "height": "178cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Norm'Snowy'",
-          "lastname": "McIntosh",
+          "firstname": "Norm' Snowy'",
+          "lastname": "Mc Intosh",
           "jumper": "3",
           "dob": "1890-03-03",
           "height": "175cm",
@@ -52,12 +44,12 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Weatherill",
-          "jumper": "15",
-          "dob": "1897-07-20",
-          "height": "180cm",
-          "weight": "70kg"
+          "firstname": "Vic",
+          "lastname": "Thorp",
+          "jumper": "5",
+          "dob": "1890-10-25",
+          "height": "178cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Max",
@@ -66,6 +58,14 @@
           "dob": "1895-08-25",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Weatherill",
+          "jumper": "15",
+          "dob": "1897-07-20",
+          "height": "180cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Barney",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "HughesSnr",
+          "lastname": "Hughes Snr",
           "jumper": "32",
           "dob": "1894-02-26",
           "height": "175cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "O'Hehir",
+          "lastname": "O' Hehir",
           "jumper": "27",
           "dob": "1891-08-20",
           "height": "—",

@@ -5,7 +5,7 @@
       "Western Bulldogs": [
         {
           "firstname": "George",
-          "lastname": "McLaren",
+          "lastname": "Mc Laren",
           "jumper": "21",
           "dob": "1925-03-22",
           "height": "170cm",
@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Len",
-          "lastname": "McCankie",
+          "lastname": "Mc Cankie",
           "jumper": "27",
           "dob": "1924-11-08",
           "height": "180cm",
@@ -36,24 +36,8 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Dave",
-          "lastname": "Bryden",
-          "jumper": "18",
-          "dob": "1927-06-23",
-          "height": "187cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Charlie",
-          "lastname": "Sutton",
-          "jumper": "6",
-          "dob": "1924-04-03",
-          "height": "169cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Marty",
-          "lastname": "McDonnell",
+          "lastname": "Mc Donnell",
           "jumper": "32",
           "dob": "1920-12-28",
           "height": "183cm",
@@ -76,6 +60,30 @@
           "weight": "87kg"
         },
         {
+          "firstname": "Dave",
+          "lastname": "Bryden",
+          "jumper": "18",
+          "dob": "1927-06-23",
+          "height": "187cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Sutton",
+          "jumper": "6",
+          "dob": "1924-04-03",
+          "height": "169cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Martin",
+          "jumper": "19",
+          "dob": "1928-03-13",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Wood",
           "jumper": "28",
@@ -85,19 +93,11 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "ReidSnr",
+          "lastname": "Reid Snr",
           "jumper": "7",
           "dob": "1929-04-27",
           "height": "175cm",
           "weight": "77kg"
-        },
-        {
-          "firstname": "Alan",
-          "lastname": "Martin",
-          "jumper": "19",
-          "dob": "1928-03-13",
-          "height": "180cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Evan",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "LintonJnr",
+          "lastname": "Linton Jnr",
           "jumper": "23",
           "dob": "1926-11-18",
           "height": "170cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Geoff",
-          "lastname": "VanDerFeen",
+          "lastname": "Van Der Feen",
           "jumper": "34",
           "dob": "1930-02-25",
           "height": "183cm",

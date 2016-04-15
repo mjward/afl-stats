@@ -28,6 +28,14 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Graham",
+          "jumper": "22",
+          "dob": "1916-05-07",
+          "height": "191cm",
+          "weight": "99kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Cleary",
           "jumper": "20",
@@ -60,14 +68,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Graham",
-          "jumper": "22",
-          "dob": "1916-05-07",
-          "height": "191cm",
-          "weight": "99kg"
-        },
-        {
           "firstname": "Allan",
           "lastname": "Mullenger",
           "jumper": "21",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsSnr",
+          "lastname": "Matthews Snr",
           "jumper": "2",
           "dob": "1913-11-12",
           "height": "177cm",
@@ -148,20 +148,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Linden",
-          "jumper": "33",
-          "dob": "1917-04-27",
-          "height": "191cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Williams",
           "jumper": "25",
           "dob": "1917-06-17",
           "height": "178cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Linden",
+          "jumper": "33",
+          "dob": "1917-04-27",
+          "height": "191cm",
+          "weight": "96kg"
         },
         {
           "firstname": "George",
@@ -284,20 +284,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Laurie",
-          "lastname": "Tetley",
-          "jumper": "16",
-          "dob": "1921-09-03",
-          "height": "179cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Des",
           "lastname": "Martin",
           "jumper": "8",
           "dob": "1913-08-02",
           "height": "171cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Laurie",
+          "lastname": "Tetley",
+          "jumper": "16",
+          "dob": "1921-09-03",
+          "height": "179cm",
+          "weight": "72kg"
         }
       ]
     }

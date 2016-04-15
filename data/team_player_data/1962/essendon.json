@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Ken",
-          "lastname": "Timms",
-          "jumper": "25",
-          "dob": "1938-07-23",
-          "height": "188cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Paul",
           "lastname": "Doran",
           "jumper": "36",
@@ -44,20 +36,12 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Shelton",
-          "jumper": "10",
-          "dob": "1940-02-24",
-          "height": "185cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Don",
-          "lastname": "McKenzie",
-          "jumper": "24",
-          "dob": "1939-03-23",
+          "firstname": "Ken",
+          "lastname": "Timms",
+          "jumper": "25",
+          "dob": "1938-07-23",
           "height": "188cm",
-          "weight": "85kg"
+          "weight": "79kg"
         },
         {
           "firstname": "Charlie",
@@ -84,6 +68,22 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Shelton",
+          "jumper": "10",
+          "dob": "1940-02-24",
+          "height": "185cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Mc Kenzie",
+          "jumper": "24",
+          "dob": "1939-03-23",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Russell",
           "lastname": "Blew",
           "jumper": "14",
@@ -100,6 +100,14 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Graeme",
+          "lastname": "Johnston",
+          "jumper": "16",
+          "dob": "1942-05-20",
+          "height": "178cm",
+          "weight": "71kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Davis",
           "jumper": "32",
@@ -114,14 +122,6 @@
           "dob": "1940-11-26",
           "height": "175cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Graeme",
-          "lastname": "Johnston",
-          "jumper": "16",
-          "dob": "1942-05-20",
-          "height": "178cm",
-          "weight": "71kg"
         },
         {
           "firstname": "Terry",

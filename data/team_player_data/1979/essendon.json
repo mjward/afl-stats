@@ -44,20 +44,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Ian",
-          "lastname": "Marsh",
-          "jumper": "37",
-          "dob": "1955-10-23",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Crow",
           "jumper": "31",
           "dob": "1956-01-07",
           "height": "194cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Marsh",
+          "jumper": "37",
+          "dob": "1955-10-23",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Ken",
@@ -92,14 +92,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Russell",
-          "lastname": "Muir",
-          "jumper": "42",
-          "dob": "1954-07-12",
-          "height": "180cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Robert",
           "lastname": "Shaw",
           "jumper": "26",
@@ -108,12 +100,28 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Russell",
+          "lastname": "Muir",
+          "jumper": "42",
+          "dob": "1954-07-12",
+          "height": "180cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Alan",
           "lastname": "Reid",
           "jumper": "2",
           "dob": "1956-01-29",
           "height": "185cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Daniher",
+          "jumper": "5",
+          "dob": "1957-08-15",
+          "height": "188cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Shane",
@@ -132,16 +140,8 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Daniher",
-          "jumper": "5",
-          "dob": "1957-08-15",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Paul",
-          "lastname": "VanDerHaar",
+          "lastname": "Van Der Haar",
           "jumper": "18",
           "dob": "1958-03-07",
           "height": "192cm",
@@ -172,20 +172,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Wayne",
-          "lastname": "Primmer",
-          "jumper": "15",
-          "dob": "1959-01-09",
-          "height": "175cm",
-          "weight": "65kg"
-        },
-        {
           "firstname": "Glenn",
           "lastname": "Hawker",
           "jumper": "33",
           "dob": "1961-03-17",
           "height": "185cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Primmer",
+          "jumper": "15",
+          "dob": "1959-01-09",
+          "height": "175cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Merv",

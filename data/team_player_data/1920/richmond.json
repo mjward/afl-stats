@@ -4,24 +4,8 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Donald",
-          "lastname": "Don",
-          "jumper": "17",
-          "dob": "1900-08-17",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Jimmy",
-          "lastname": "Smith",
-          "jumper": "10",
-          "dob": "1899-01-25",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Frank",
-          "lastname": "HughesSnr",
+          "lastname": "Hughes Snr",
           "jumper": "32",
           "dob": "1894-02-26",
           "height": "175cm",
@@ -44,12 +28,20 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Harley",
-          "jumper": "33",
-          "dob": "1895-06-29",
+          "firstname": "Donald",
+          "lastname": "Don",
+          "jumper": "17",
+          "dob": "1900-08-17",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Smith",
+          "jumper": "10",
+          "dob": "1899-01-25",
           "height": "178cm",
-          "weight": "73kg"
+          "weight": "76kg"
         },
         {
           "firstname": "Vic",
@@ -76,6 +68,14 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Frank",
+          "lastname": "Harley",
+          "jumper": "33",
+          "dob": "1895-06-29",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "George",
           "lastname": "Bayliss",
           "jumper": "2",
@@ -90,14 +90,6 @@
           "dob": "1893-10-01",
           "height": "170cm",
           "weight": "66kg"
-        },
-        {
-          "firstname": "Dave",
-          "lastname": "Moffatt",
-          "jumper": "14",
-          "dob": "1892-05-18",
-          "height": "188cm",
-          "weight": "92kg"
         },
         {
           "firstname": "Reg",
@@ -116,6 +108,14 @@
           "weight": "64kg"
         },
         {
+          "firstname": "Dave",
+          "lastname": "Moffatt",
+          "jumper": "14",
+          "dob": "1892-05-18",
+          "height": "188cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Gerald",
           "lastname": "Rush",
           "jumper": "19",
@@ -124,8 +124,8 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Norm'Snowy'",
-          "lastname": "McIntosh",
+          "firstname": "Norm' Snowy'",
+          "lastname": "Mc Intosh",
           "jumper": "3",
           "dob": "1890-03-03",
           "height": "175cm",

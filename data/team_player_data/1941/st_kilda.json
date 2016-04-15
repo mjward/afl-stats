@@ -36,14 +36,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Meek",
-          "jumper": "18",
-          "dob": "1918-07-21",
-          "height": "177cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Reg",
           "lastname": "Garvin",
           "jumper": "19",
@@ -60,20 +52,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Meek",
+          "jumper": "18",
+          "dob": "1918-07-21",
+          "height": "177cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Ted",
           "lastname": "Hoppen",
           "jumper": "25",
           "dob": "1918-03-17",
           "height": "170cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "Fountain",
-          "jumper": "6",
-          "dob": "1915-02-16",
-          "height": "188cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Arthur",
@@ -90,6 +82,14 @@
           "dob": "1916-01-11",
           "height": "178cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Fountain",
+          "jumper": "6",
+          "dob": "1915-02-16",
+          "height": "188cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Jack",
@@ -132,20 +132,20 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "McGrath",
-          "jumper": "16",
-          "dob": "1914-06-13",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Stan",
           "lastname": "Tormey",
           "jumper": "36",
           "dob": "1916-07-10",
           "height": "179cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Mc Grath",
+          "jumper": "16",
+          "dob": "1914-06-13",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Harold",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "11",
           "dob": "1919-01-04",
           "height": "178cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1918-11-07",
           "height": "159cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "10",
           "dob": "1914-02-01",
           "height": "194cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "3",
           "dob": "1921-04-19",
           "height": "185cm",

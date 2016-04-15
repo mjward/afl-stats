@@ -20,6 +20,14 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Bernie",
+          "lastname": "Quinlan",
+          "jumper": "5",
+          "dob": "1951-07-21",
+          "height": "193cm",
+          "weight": "97kg"
+        },
+        {
           "firstname": "Matthew",
           "lastname": "Rendell",
           "jumper": "9",
@@ -28,12 +36,12 @@
           "weight": "103kg"
         },
         {
-          "firstname": "Bernie",
-          "lastname": "Quinlan",
-          "jumper": "5",
-          "dob": "1951-07-21",
-          "height": "193cm",
-          "weight": "97kg"
+          "firstname": "Les",
+          "lastname": "Parish",
+          "jumper": "27",
+          "dob": "1955-09-28",
+          "height": "180cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Bradley",
@@ -44,12 +52,12 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Parish",
-          "jumper": "27",
-          "dob": "1955-09-28",
-          "height": "180cm",
-          "weight": "82kg"
+          "firstname": "Scott",
+          "lastname": "Clayton",
+          "jumper": "40",
+          "dob": "1959-11-13",
+          "height": "185cm",
+          "weight": "88kg"
         },
         {
           "firstname": "Garry",
@@ -68,12 +76,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Scott",
-          "lastname": "Clayton",
-          "jumper": "40",
-          "dob": "1959-11-13",
-          "height": "185cm",
-          "weight": "88kg"
+          "firstname": "Glenn",
+          "lastname": "Coleman",
+          "jumper": "32",
+          "dob": "1961-02-03",
+          "height": "193cm",
+          "weight": "100kg"
         },
         {
           "firstname": "Leigh",
@@ -84,16 +92,8 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Glenn",
-          "lastname": "Coleman",
-          "jumper": "32",
-          "dob": "1961-02-03",
-          "height": "193cm",
-          "weight": "100kg"
-        },
-        {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "25",
           "dob": "1956-06-10",
           "height": "189cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Grant",
-          "lastname": "O'Riley",
+          "lastname": "O' Riley",
           "jumper": "6",
           "dob": "1960-01-21",
           "height": "193cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Gerald",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "23",
           "dob": "1951-11-02",
           "height": "191cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Keeffe",
+          "lastname": "O' Keeffe",
           "jumper": "36",
           "dob": "1952-10-22",
           "height": "180cm",

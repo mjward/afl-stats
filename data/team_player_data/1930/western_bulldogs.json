@@ -4,14 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Frank",
-          "lastname": "AkedSnr",
-          "jumper": "8",
-          "dob": "1902-11-25",
-          "height": "183cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Russ",
           "jumper": "6",
@@ -20,8 +12,16 @@
           "weight": "62kg"
         },
         {
+          "firstname": "Frank",
+          "lastname": "Aked Snr",
+          "jumper": "8",
+          "dob": "1902-11-25",
+          "height": "183cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Roy",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "15",
           "dob": "1909-03-25",
           "height": "185cm",
@@ -29,19 +29,11 @@
         },
         {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "22",
           "dob": "1907-07-19",
           "height": "182cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Downie",
-          "jumper": "23",
-          "dob": "1908-12-04",
-          "height": "184cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Alby",
@@ -50,6 +42,14 @@
           "dob": "1909-01-29",
           "height": "183cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Downie",
+          "jumper": "23",
+          "dob": "1908-12-04",
+          "height": "184cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Allan",
@@ -108,20 +108,20 @@
           "weight": "65kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Spurling",
-          "jumper": "14",
-          "dob": "1907-10-28",
-          "height": "179cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Stanway",
           "jumper": "30",
           "dob": "1908-11-11",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Spurling",
+          "jumper": "14",
+          "dob": "1907-10-28",
+          "height": "179cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Fred",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Bernie",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "4",
           "dob": "1909-05-14",
           "height": "169cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "29",
           "dob": "1907-11-12",
           "height": "—",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "OutenSnr",
+          "lastname": "Outen Snr",
           "jumper": "3",
           "dob": "1902-12-06",
           "height": "178cm",

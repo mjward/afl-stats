@@ -12,18 +12,18 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Boyd",
-          "jumper": "5",
-          "dob": "1895-03-01",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Sinclair",
           "jumper": "27",
           "dob": "1900-04-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Boyd",
+          "jumper": "5",
+          "dob": "1895-03-01",
           "height": "—",
           "weight": "—"
         },
@@ -52,20 +52,20 @@
           "weight": "61kg"
         },
         {
-          "firstname": "Carlyle",
-          "lastname": "Kenley",
-          "jumper": "26",
-          "dob": "1892-02-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Bowden",
           "jumper": "12",
           "dob": "1887-03-29",
           "height": "168cm",
           "weight": "68kg"
+        },
+        {
+          "firstname": "Carlyle",
+          "lastname": "Kenley",
+          "jumper": "26",
+          "dob": "1892-02-26",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Reg",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Dave",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "20",
           "dob": "1887-01-22",
           "height": "193cm",

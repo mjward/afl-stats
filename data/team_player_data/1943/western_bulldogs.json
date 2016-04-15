@@ -4,6 +4,22 @@
     "teams": {
       "Western Bulldogs": [
         {
+          "firstname": "Bert",
+          "lastname": "Mc Taggart",
+          "jumper": "6",
+          "dob": "1916-04-20",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Thoms",
+          "jumper": "1",
+          "dob": "1918-05-25",
+          "height": "173cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "George",
           "lastname": "Dougherty",
           "jumper": "19",
@@ -28,22 +44,6 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Bert",
-          "lastname": "McTaggart",
-          "jumper": "6",
-          "dob": "1916-04-20",
-          "height": "185cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Thoms",
-          "jumper": "1",
-          "dob": "1918-05-25",
-          "height": "173cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Ryan",
           "jumper": "10",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Gerry",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "29",
           "dob": "1919-04-13",
           "height": "178cm",
@@ -69,7 +69,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McTaggart",
+          "lastname": "Mc Taggart",
           "jumper": "31",
           "dob": "1921-02-23",
           "height": "178cm",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Len",
-          "lastname": "McCankie",
+          "lastname": "Mc Cankie",
           "jumper": "27",
           "dob": "1924-11-08",
           "height": "180cm",
@@ -164,20 +164,20 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Miller",
-          "jumper": "33",
-          "dob": "1919-05-30",
-          "height": "169cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Hale",
           "jumper": "11",
           "dob": "1923-06-01",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Miller",
+          "jumper": "33",
+          "dob": "1919-05-30",
+          "height": "169cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Reg",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "11",
           "dob": "1921-09-11",
           "height": "177cm",

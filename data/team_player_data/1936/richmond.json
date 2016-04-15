@@ -4,38 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Jack",
-          "lastname": "Cotter",
-          "jumper": "15",
-          "dob": "1915-01-08",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Martin",
-          "lastname": "Bolger",
-          "jumper": "9",
-          "dob": "1906-08-19",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "O'Neill",
-          "jumper": "16",
-          "dob": "1908-03-20",
-          "height": "175cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Martin",
-          "jumper": "7",
-          "dob": "1909-11-18",
-          "height": "173cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Danny",
           "lastname": "Guinane",
           "jumper": "22",
@@ -68,6 +36,38 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Cotter",
+          "jumper": "15",
+          "dob": "1915-01-08",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Bolger",
+          "jumper": "9",
+          "dob": "1906-08-19",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "O' Neill",
+          "jumper": "16",
+          "dob": "1908-03-20",
+          "height": "175cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Martin",
+          "jumper": "7",
+          "dob": "1909-11-18",
+          "height": "173cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Ian",
           "lastname": "Hull",
           "jumper": "27",
@@ -84,22 +84,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Bert",
-          "lastname": "Foster",
-          "jumper": "11",
-          "dob": "1906-08-19",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Symons",
-          "jumper": "19",
-          "dob": "1912-05-11",
-          "height": "185cm",
-          "weight": "93kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Scriven",
           "jumper": "25",
@@ -114,6 +98,22 @@
           "dob": "1911-10-21",
           "height": "171cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Foster",
+          "jumper": "11",
+          "dob": "1906-08-19",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Symons",
+          "jumper": "19",
+          "dob": "1912-05-11",
+          "height": "185cm",
+          "weight": "93kg"
         },
         {
           "firstname": "Jack",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Basil",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "9",
           "dob": "1904-08-03",
           "height": "180cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Cyril",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "5",
           "dob": "1912-08-26",
           "height": "183cm",
@@ -236,18 +236,18 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Patton",
-          "jumper": "28",
-          "dob": "1915-10-24",
-          "height": "168cm",
-          "weight": "66kg"
-        },
-        {
           "firstname": "Geoff",
           "lastname": "Grant",
           "jumper": "32",
           "dob": "1914-12-02",
+          "height": "168cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Patton",
+          "jumper": "28",
+          "dob": "1915-10-24",
           "height": "168cm",
           "weight": "66kg"
         }

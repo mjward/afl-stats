@@ -4,6 +4,14 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Hec",
+          "lastname": "Mc Kay",
+          "jumper": "10",
+          "dob": "1904-12-15",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Joe",
           "lastname": "Scanlan",
           "jumper": "18",
@@ -13,19 +21,11 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "PannamJnr",
+          "lastname": "Pannam Jnr",
           "jumper": "1",
           "dob": "1897-04-21",
           "height": "174cm",
           "weight": "69kg"
-        },
-        {
-          "firstname": "Hec",
-          "lastname": "McKay",
-          "jumper": "10",
-          "dob": "1904-12-15",
-          "height": "180cm",
-          "weight": "82kg"
         },
         {
           "firstname": "Bill",
@@ -36,6 +36,14 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Austin",
+          "lastname": "Robertson Snr",
+          "jumper": "—",
+          "dob": "1907-11-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Martin",
           "lastname": "Brown",
           "jumper": "14",
@@ -44,10 +52,10 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Austin",
-          "lastname": "RobertsonSnr",
-          "jumper": "—",
-          "dob": "1907-11-21",
+          "firstname": "Jack",
+          "lastname": "Petchell",
+          "jumper": "22",
+          "dob": "1904-12-14",
           "height": "—",
           "weight": "—"
         },
@@ -58,14 +66,6 @@
           "dob": "1901-07-14",
           "height": "173cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Petchell",
-          "jumper": "22",
-          "dob": "1904-12-14",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Ted",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Charles",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "28",
           "dob": "1901-06-14",
           "height": "182cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1907-12-29",
           "height": "180cm",

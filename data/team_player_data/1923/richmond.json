@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Doug",
+          "lastname": "Hayes",
+          "jumper": "20",
+          "dob": "1896-09-16",
+          "height": "163cm",
+          "weight": "60kg"
+        },
+        {
           "firstname": "Vic",
           "lastname": "Thorp",
           "jumper": "5",
@@ -18,22 +26,6 @@
           "dob": "1891-09-04",
           "height": "180cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Doug",
-          "lastname": "Hayes",
-          "jumper": "20",
-          "dob": "1896-09-16",
-          "height": "163cm",
-          "weight": "60kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Harley",
-          "jumper": "16",
-          "dob": "1895-06-29",
-          "height": "178cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Hughie",
@@ -52,11 +44,19 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Norm'Snowy'",
-          "lastname": "McIntosh",
+          "firstname": "Norm' Snowy'",
+          "lastname": "Mc Intosh",
           "jumper": "3",
           "dob": "1890-03-03",
           "height": "175cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Harley",
+          "jumper": "16",
+          "dob": "1895-06-29",
+          "height": "178cm",
           "weight": "73kg"
         },
         {
@@ -66,14 +66,6 @@
           "dob": "1894-06-15",
           "height": "169cm",
           "weight": "66kg"
-        },
-        {
-          "firstname": "Gordon",
-          "lastname": "Hislop",
-          "jumper": "9",
-          "dob": "1901-06-01",
-          "height": "180cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Ernie",
@@ -90,6 +82,14 @@
           "dob": "1899-01-25",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Hislop",
+          "jumper": "9",
+          "dob": "1901-06-01",
+          "height": "180cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Dave",
@@ -132,14 +132,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "McCaskill",
-          "jumper": "25",
-          "dob": "1895-09-27",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Huggard",
           "jumper": "25",
@@ -148,8 +140,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Mc Caskill",
+          "jumper": "25",
+          "dob": "1895-09-27",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Angus",
-          "lastname": "MacIsaac",
+          "lastname": "Mac Isaac",
           "jumper": "29",
           "dob": "1900-04-15",
           "height": "187cm",
@@ -172,14 +172,6 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Harrison",
-          "jumper": "8",
-          "dob": "1903-03-06",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Stan",
           "lastname": "Wootton",
           "jumper": "26",
@@ -194,6 +186,14 @@
           "dob": "1901-03-29",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Harrison",
+          "jumper": "8",
+          "dob": "1903-03-06",
+          "height": "178cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Jim",
@@ -244,20 +244,20 @@
           "weight": "—"
         },
         {
+          "firstname": "Cedric",
+          "lastname": "Mac Leod",
+          "jumper": "24",
+          "dob": "1899-11-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Gus",
           "lastname": "Petzke",
           "jumper": "25",
           "dob": "1896-08-23",
           "height": "193cm",
           "weight": "96kg"
-        },
-        {
-          "firstname": "Cedric",
-          "lastname": "MacLeod",
-          "jumper": "24",
-          "dob": "1899-11-26",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Loyal",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "HughesSnr",
+          "lastname": "Hughes Snr",
           "jumper": "18",
           "dob": "1894-02-26",
           "height": "175cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McCormick",
+          "lastname": "Mc Cormick",
           "jumper": "24",
           "dob": "1899-11-24",
           "height": "185cm",
@@ -324,20 +324,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Herbie",
-          "lastname": "Brunning",
-          "jumper": "8",
-          "dob": "1899-08-25",
-          "height": "170cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Rob",
           "lastname": "Brady",
           "jumper": "30",
           "dob": "1901-05-17",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Herbie",
+          "lastname": "Brunning",
+          "jumper": "8",
+          "dob": "1899-08-25",
+          "height": "170cm",
+          "weight": "73kg"
         }
       ]
     }

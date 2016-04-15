@@ -53,7 +53,7 @@
         },
         {
           "firstname": "Ted",
-          "lastname": "WhittenJnr",
+          "lastname": "Whitten Jnr",
           "jumper": "22",
           "dob": "1957-03-15",
           "height": "178cm",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "24",
           "dob": "1951-08-18",
           "height": "192cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "ReidJnr",
+          "lastname": "Reid Jnr",
           "jumper": "5",
           "dob": "1955-12-23",
           "height": "191cm",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "34",
           "dob": "1961-04-04",
           "height": "171cm",

@@ -4,22 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Barry",
-          "lastname": "Round",
-          "jumper": "25",
-          "dob": "1950-01-26",
-          "height": "193cm",
-          "weight": "105kg"
-        },
-        {
-          "firstname": "Anthony",
-          "lastname": "Daniher",
-          "jumper": "19",
-          "dob": "1963-01-21",
-          "height": "191cm",
-          "weight": "90kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Roberts",
           "jumper": "5",
@@ -50,6 +34,22 @@
           "dob": "1956-11-30",
           "height": "180cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Round",
+          "jumper": "25",
+          "dob": "1950-01-26",
+          "height": "193cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "Anthony",
+          "lastname": "Daniher",
+          "jumper": "19",
+          "dob": "1963-01-21",
+          "height": "191cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Craig",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "Rhys-Jones",
+          "lastname": "Rhys- Jones",
           "jumper": "30",
           "dob": "1962-06-16",
           "height": "187cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Stephen",
-          "lastname": "McBroom",
+          "lastname": "Mc Broom",
           "jumper": "46",
           "dob": "1964-04-01",
           "height": "169cm",

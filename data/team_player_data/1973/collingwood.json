@@ -12,6 +12,22 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Daryl",
+          "lastname": "Salmon",
+          "jumper": "24",
+          "dob": "1953-08-25",
+          "height": "183cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Richardson",
+          "jumper": "18",
+          "dob": "1948-12-24",
+          "height": "183cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Len",
           "lastname": "Thompson",
           "jumper": "2",
@@ -44,22 +60,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Daryl",
-          "lastname": "Salmon",
-          "jumper": "24",
-          "dob": "1953-08-25",
-          "height": "183cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Max",
-          "lastname": "Richardson",
-          "jumper": "18",
-          "dob": "1948-12-24",
-          "height": "183cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ross",
           "lastname": "Dunne",
           "jumper": "12",
@@ -76,14 +76,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Denis",
-          "lastname": "O'Callaghan",
-          "jumper": "29",
-          "dob": "1949-02-07",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Price",
           "jumper": "5",
@@ -92,8 +84,16 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Denis",
+          "lastname": "O' Callaghan",
+          "jumper": "29",
+          "dob": "1949-02-07",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Peter",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "6",
           "dob": "1946-08-27",
           "height": "191cm",
@@ -140,20 +140,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Phil",
-          "lastname": "Manassa",
-          "jumper": "31",
-          "dob": "1956-01-29",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Ronnie",
           "lastname": "Wearmouth",
           "jumper": "5",
           "dob": "1950-07-17",
           "height": "175cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Manassa",
+          "jumper": "31",
+          "dob": "1956-01-29",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Henry",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Danny",
-          "lastname": "O'Sullivan",
+          "lastname": "O' Sullivan",
           "jumper": "41",
           "dob": "1952-08-16",
           "height": "173cm",

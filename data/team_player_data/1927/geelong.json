@@ -4,38 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Arthur",
-          "lastname": "Coghlan",
-          "jumper": "13",
-          "dob": "1902-08-16",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Williams",
-          "jumper": "24",
-          "dob": "1902-01-31",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Baker",
-          "jumper": "2",
-          "dob": "1901-01-21",
-          "height": "165cm",
-          "weight": "68kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Todd",
-          "jumper": "19",
-          "dob": "1903-01-10",
-          "height": "185cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Jerram",
           "jumper": "1",
@@ -68,6 +36,38 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Arthur",
+          "lastname": "Coghlan",
+          "jumper": "13",
+          "dob": "1902-08-16",
+          "height": "180cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Williams",
+          "jumper": "24",
+          "dob": "1902-01-31",
+          "height": "179cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Baker",
+          "jumper": "2",
+          "dob": "1901-01-21",
+          "height": "165cm",
+          "weight": "68kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Todd",
+          "jumper": "19",
+          "dob": "1903-01-10",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Carji",
           "lastname": "Greeves",
           "jumper": "20",
@@ -84,14 +84,6 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Rayson",
-          "jumper": "28",
-          "dob": "1898-12-01",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Syd",
           "lastname": "Hall",
           "jumper": "4",
@@ -106,6 +98,14 @@
           "dob": "1901-12-06",
           "height": "185cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Rayson",
+          "jumper": "28",
+          "dob": "1898-12-01",
+          "height": "170cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Ted",
@@ -132,20 +132,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Eric",
-          "lastname": "Fleming",
-          "jumper": "11",
-          "dob": "1903-03-16",
-          "height": "191cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Tom",
           "lastname": "Fitzmaurice",
           "jumper": "23",
           "dob": "1898-07-07",
           "height": "192cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Eric",
+          "lastname": "Fleming",
+          "jumper": "11",
+          "dob": "1903-03-16",
+          "height": "191cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Frank",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Cleve",
-          "lastname": "McDiarmid",
+          "lastname": "Mc Diarmid",
           "jumper": "29",
           "dob": "1901-07-16",
           "height": "175cm",

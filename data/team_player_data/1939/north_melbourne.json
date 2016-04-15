@@ -4,14 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Eddie",
-          "lastname": "Morcom",
-          "jumper": "26",
-          "dob": "1917-05-17",
-          "height": "178cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Sid",
           "lastname": "Dyer",
           "jumper": "5",
@@ -36,6 +28,14 @@
           "weight": "97kg"
         },
         {
+          "firstname": "Eddie",
+          "lastname": "Morcom",
+          "jumper": "26",
+          "dob": "1917-05-17",
+          "height": "178cm",
+          "weight": "77kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Findlay",
           "jumper": "9",
@@ -52,20 +52,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Adamson",
-          "jumper": "8",
-          "dob": "1905-08-01",
-          "height": "178cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Wally",
           "lastname": "Carter",
           "jumper": "17",
           "dob": "1909-02-04",
           "height": "175cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Adamson",
+          "jumper": "8",
+          "dob": "1905-08-01",
+          "height": "178cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Don",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Mick",
-          "lastname": "McFarlane",
+          "lastname": "Mc Farlane",
           "jumper": "28",
           "dob": "1908-10-25",
           "height": "182cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Dally",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "13",
           "dob": "1918-10-31",
           "height": "182cm",

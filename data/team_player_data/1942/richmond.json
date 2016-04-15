@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Bernie",
-          "lastname": "Waldron",
-          "jumper": "13",
-          "dob": "1920-03-20",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Dyer",
           "jumper": "17",
@@ -52,6 +44,14 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Bernie",
+          "lastname": "Waldron",
+          "jumper": "13",
+          "dob": "1920-03-20",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Danny",
           "lastname": "Guinane",
           "jumper": "22",
@@ -68,20 +68,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Ablett",
-          "jumper": "3",
-          "dob": "1916-05-10",
-          "height": "184cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Hull",
           "jumper": "27",
           "dob": "1916-06-20",
           "height": "183cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Ablett",
+          "jumper": "3",
+          "dob": "1916-05-10",
+          "height": "184cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Jack",
@@ -132,20 +132,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Steele",
-          "jumper": "4",
-          "dob": "1917-05-19",
-          "height": "183cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Reilly",
           "jumper": "34",
           "dob": "1916-09-17",
           "height": "180cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Steele",
+          "jumper": "4",
+          "dob": "1917-05-19",
+          "height": "183cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Bill",
@@ -172,20 +172,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Des",
-          "lastname": "Martin",
-          "jumper": "8",
-          "dob": "1913-08-02",
-          "height": "171cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Randall",
           "jumper": "29",
           "dob": "1920-10-12",
           "height": "188cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Des",
+          "lastname": "Martin",
+          "jumper": "8",
+          "dob": "1913-08-02",
+          "height": "171cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Joe",
@@ -276,14 +276,6 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Dwan",
-          "jumper": "30",
-          "dob": "1918-12-08",
-          "height": "168cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Crohan",
           "jumper": "8",
@@ -298,6 +290,14 @@
           "dob": "1922-07-29",
           "height": "182cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Dwan",
+          "jumper": "30",
+          "dob": "1918-12-08",
+          "height": "168cm",
+          "weight": "70kg"
         }
       ]
     }

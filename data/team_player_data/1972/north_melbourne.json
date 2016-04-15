@@ -20,20 +20,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Greig",
-          "jumper": "27",
-          "dob": "1951-10-23",
-          "height": "180cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Glenn",
           "lastname": "Joseph",
           "jumper": "33",
           "dob": "1952-12-06",
           "height": "191cm",
           "weight": "93kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Greig",
+          "jumper": "27",
+          "dob": "1951-10-23",
+          "height": "180cm",
+          "weight": "79kg"
         },
         {
           "firstname": "David",
@@ -44,14 +44,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "David",
-          "lastname": "Pretty",
-          "jumper": "9",
-          "dob": "1951-04-02",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Vin",
           "lastname": "Doolan",
           "jumper": "7",
@@ -60,12 +52,12 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "Feltham",
-          "jumper": "18",
-          "dob": "1948-10-01",
-          "height": "175cm",
-          "weight": "78kg"
+          "firstname": "David",
+          "lastname": "Pretty",
+          "jumper": "9",
+          "dob": "1951-04-02",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Frank",
@@ -82,6 +74,14 @@
           "dob": "1945-05-09",
           "height": "199cm",
           "weight": "99kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Feltham",
+          "jumper": "18",
+          "dob": "1948-10-01",
+          "height": "175cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Denis",

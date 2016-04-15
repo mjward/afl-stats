@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "John",
-          "lastname": "Williams",
-          "jumper": "22",
-          "dob": "1947-07-17",
-          "height": "189cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ken",
           "lastname": "Fletcher",
           "jumper": "21",
@@ -37,11 +29,19 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "24",
           "dob": "1939-03-23",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Williams",
+          "jumper": "22",
+          "dob": "1947-07-17",
+          "height": "189cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Barry",
@@ -124,14 +124,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Stuart",
-          "lastname": "Barclay",
-          "jumper": "42",
-          "dob": "1949-10-04",
-          "height": "188cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Egan",
           "jumper": "29",
@@ -145,6 +137,14 @@
           "jumper": "8",
           "dob": "1947-03-24",
           "height": "175cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Stuart",
+          "lastname": "Barclay",
+          "jumper": "42",
+          "dob": "1949-10-04",
+          "height": "188cm",
           "weight": "79kg"
         },
         {
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Lindsay",
-          "lastname": "McGie",
+          "lastname": "Mc Gie",
           "jumper": "4",
           "dob": "1945-03-30",
           "height": "188cm",

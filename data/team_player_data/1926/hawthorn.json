@@ -68,20 +68,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Sellers",
-          "jumper": "25",
-          "dob": "1905-02-23",
-          "height": "182cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Logan",
           "jumper": "13",
           "dob": "1906-06-29",
           "height": "165cm",
           "weight": "59kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Sellers",
+          "jumper": "25",
+          "dob": "1905-02-23",
+          "height": "182cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Jack",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "8",
           "dob": "1900-12-30",
           "height": "175cm",
@@ -244,20 +244,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Ivan",
-          "lastname": "Corry",
-          "jumper": "26",
-          "dob": "1907-07-21",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Bullen",
           "jumper": "18",
           "dob": "1906-03-13",
           "height": "185cm",
           "weight": "91kg"
+        },
+        {
+          "firstname": "Ivan",
+          "lastname": "Corry",
+          "jumper": "26",
+          "dob": "1907-07-21",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Lindsay",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "10",
           "dob": "1896-05-31",
           "height": "—",
@@ -306,6 +306,14 @@
           "dob": "1904-01-12",
           "height": "173cm",
           "weight": "68kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Jobson",
+          "jumper": "27",
+          "dob": "1899-07-30",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Fred",
@@ -322,14 +330,6 @@
           "dob": "1891-09-04",
           "height": "180cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Jobson",
-          "jumper": "27",
-          "dob": "1899-07-30",
-          "height": "—",
-          "weight": "—"
         }
       ]
     }

@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Brian",
-          "lastname": "Dixon",
-          "jumper": "9",
-          "dob": "1936-05-20",
-          "height": "175cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "McLean",
-          "jumper": "5",
-          "dob": "1929-08-27",
-          "height": "175cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Dennis",
           "lastname": "Jones",
           "jumper": "27",
@@ -28,7 +12,7 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Bob'Tassie'",
+          "firstname": "Bob' Tassie'",
           "lastname": "Johnson",
           "jumper": "8",
           "dob": "1937-12-02",
@@ -52,20 +36,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "JohnsonJnr",
-          "jumper": "16",
-          "dob": "1935-06-03",
-          "height": "198cm",
-          "weight": "96kg"
+          "firstname": "Brian",
+          "lastname": "Dixon",
+          "jumper": "9",
+          "dob": "1936-05-20",
+          "height": "175cm",
+          "weight": "70kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Beckwith",
-          "jumper": "30",
-          "dob": "1932-09-16",
-          "height": "180cm",
-          "weight": "76kg"
+          "firstname": "Ian",
+          "lastname": "Mc Lean",
+          "jumper": "5",
+          "dob": "1929-08-27",
+          "height": "175cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Laurie",
@@ -84,6 +68,30 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Johnson Jnr",
+          "jumper": "16",
+          "dob": "1935-06-03",
+          "height": "198cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Beckwith",
+          "jumper": "30",
+          "dob": "1932-09-16",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Barassi Jnr",
+          "jumper": "31",
+          "dob": "1936-02-27",
+          "height": "179cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Ian",
           "lastname": "Ridley",
           "jumper": "24",
@@ -92,12 +100,20 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "BarassiJnr",
-          "jumper": "31",
-          "dob": "1936-02-27",
-          "height": "179cm",
-          "weight": "87kg"
+          "firstname": "Alan",
+          "lastname": "Rowarth",
+          "jumper": "2",
+          "dob": "1936-08-24",
+          "height": "177cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Harold' Hassa'",
+          "lastname": "Mann",
+          "jumper": "29",
+          "dob": "1940-10-10",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Don",
@@ -124,22 +140,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Rowarth",
-          "jumper": "2",
-          "dob": "1936-08-24",
-          "height": "177cm",
-          "weight": "77kg"
-        },
-        {
-          "firstname": "Harold'Hassa'",
-          "lastname": "Mann",
-          "jumper": "29",
-          "dob": "1940-10-10",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Trevor",
           "lastname": "Johnson",
           "jumper": "14",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "Fenton-Smith",
+          "lastname": "Fenton- Smith",
           "jumper": "1",
           "dob": "1931-10-19",
           "height": "196cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "LordJnr",
+          "lastname": "Lord Jnr",
           "jumper": "4",
           "dob": "1937-04-02",
           "height": "188cm",

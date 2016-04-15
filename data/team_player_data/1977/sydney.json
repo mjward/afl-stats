@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "John",
-          "lastname": "Rantall",
-          "jumper": "5",
-          "dob": "1943-12-09",
-          "height": "182cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Round",
           "jumper": "25",
@@ -21,11 +13,19 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "19",
           "dob": "1956-06-10",
           "height": "189cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Rantall",
+          "jumper": "5",
+          "dob": "1943-12-09",
+          "height": "182cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Ricky",
@@ -69,7 +69,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "GossJnr",
+          "lastname": "Goss Jnr",
           "jumper": "12",
           "dob": "1951-03-03",
           "height": "177cm",
@@ -84,14 +84,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Daniher",
-          "jumper": "2",
-          "dob": "1957-08-15",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Gary",
           "lastname": "Brice",
           "jumper": "7",
@@ -101,11 +93,19 @@
         },
         {
           "firstname": "David",
-          "lastname": "McLeish",
+          "lastname": "Mc Leish",
           "jumper": "29",
           "dob": "1950-02-21",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Daniher",
+          "jumper": "2",
+          "dob": "1957-08-15",
+          "height": "188cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Robert",
@@ -116,20 +116,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Francis",
-          "lastname": "Jackson",
-          "jumper": "31",
-          "dob": "1954-08-24",
-          "height": "184cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Colin",
           "lastname": "Hounsell",
           "jumper": "27",
           "dob": "1955-09-04",
           "height": "173cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Francis",
+          "lastname": "Jackson",
+          "jumper": "31",
+          "dob": "1954-08-24",
+          "height": "184cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Brian",

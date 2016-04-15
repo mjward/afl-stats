@@ -4,30 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Graham",
-          "lastname": "Campbell",
-          "jumper": "20",
-          "dob": "1936-07-22",
-          "height": "177cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "Vernon",
-          "jumper": "9",
-          "dob": "1934-04-03",
-          "height": "191cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Barclay",
-          "jumper": "31",
-          "dob": "1938-02-27",
-          "height": "188cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Henderson",
           "jumper": "23",
@@ -52,12 +28,28 @@
           "weight": "105kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Murray",
-          "jumper": "2",
-          "dob": "1938-06-18",
-          "height": "178cm",
-          "weight": "79kg"
+          "firstname": "Graham",
+          "lastname": "Campbell",
+          "jumper": "20",
+          "dob": "1936-07-22",
+          "height": "177cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Vernon",
+          "jumper": "9",
+          "dob": "1934-04-03",
+          "height": "191cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Barclay",
+          "jumper": "31",
+          "dob": "1938-02-27",
+          "height": "188cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Alan",
@@ -76,12 +68,12 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Owen",
-          "lastname": "Abrahams",
-          "jumper": "16",
-          "dob": "1933-07-25",
-          "height": "180cm",
-          "weight": "83kg"
+          "firstname": "Kevin",
+          "lastname": "Murray",
+          "jumper": "2",
+          "dob": "1938-06-18",
+          "height": "178cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Ray",
@@ -100,8 +92,16 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Owen",
+          "lastname": "Abrahams",
+          "jumper": "16",
+          "dob": "1933-07-25",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Graeme",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "29",
           "dob": "1935-03-08",
           "height": "175cm",
@@ -156,20 +156,20 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Hughson Jnr",
+          "jumper": "8",
+          "dob": "1938-12-01",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Ian",
           "lastname": "Powell",
           "jumper": "4",
           "dob": "1940-10-14",
           "height": "175cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "HughsonJnr",
-          "jumper": "8",
-          "dob": "1938-12-01",
-          "height": "178cm",
-          "weight": "78kg"
         },
         {
           "firstname": "John",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "McMaster-Smith",
+          "lastname": "Mc Master- Smith",
           "jumper": "24",
           "dob": "1939-11-19",
           "height": "169cm",

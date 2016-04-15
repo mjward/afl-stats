@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Bill",
+          "lastname": "Luff",
+          "jumper": "—",
+          "dob": "1886-01-15",
+          "height": "191cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Megson",
           "jumper": "—",
@@ -12,12 +20,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Luff",
+          "firstname": "Dick",
+          "lastname": "Condon",
           "jumper": "—",
-          "dob": "1886-01-15",
-          "height": "191cm",
-          "weight": "73kg"
+          "dob": "1876-03-19",
+          "height": "180cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Billy",
@@ -52,20 +60,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Condon",
-          "jumper": "—",
-          "dob": "1876-03-19",
-          "height": "180cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Incigneri",
           "jumper": "—",
           "dob": "1884-01-03",
           "height": "180cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ivo",
+          "lastname": "Lawson",
+          "jumper": "—",
+          "dob": "1883-05-02",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Jack",
@@ -84,14 +92,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Ivo",
-          "lastname": "Lawson",
-          "jumper": "—",
-          "dob": "1883-05-02",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Bowden",
           "jumper": "23",
@@ -100,20 +100,20 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Pannam",
-          "jumper": "—",
-          "dob": "1874-10-02",
-          "height": "173cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Neil",
           "jumper": "—",
           "dob": "1882-09-13",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Pannam",
+          "jumper": "—",
+          "dob": "1874-10-02",
+          "height": "173cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Herbert",
@@ -132,20 +132,20 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Gibson",
-          "jumper": "6",
-          "dob": "1885-06-23",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Chapman",
           "jumper": "—",
           "dob": "1889-05-24",
           "height": "191cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Gibson",
+          "jumper": "6",
+          "dob": "1885-06-23",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Bill",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Stan",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "—",
           "dob": "1883-04-29",
           "height": "—",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "—",
           "dob": "1883-01-26",
           "height": "—",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "StJohn",
+          "lastname": "St John",
           "jumper": "—",
           "dob": "1878-04-14",
           "height": "—",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "BarkerSnr",
+          "lastname": "Barker Snr",
           "jumper": "—",
           "dob": "1887-11-26",
           "height": "183cm",

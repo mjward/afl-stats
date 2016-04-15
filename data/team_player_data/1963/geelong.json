@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "John",
-          "lastname": "Sharrock",
-          "jumper": "10",
-          "dob": "1944-02-16",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Stewart",
           "lastname": "Lord",
           "jumper": "6",
@@ -36,12 +28,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Graham'Polly'",
-          "lastname": "Farmer",
-          "jumper": "5",
-          "dob": "1935-03-10",
-          "height": "191cm",
-          "weight": "94kg"
+          "firstname": "John",
+          "lastname": "Sharrock",
+          "jumper": "10",
+          "dob": "1944-02-16",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "John",
@@ -68,6 +60,22 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Graham' Polly'",
+          "lastname": "Farmer",
+          "jumper": "5",
+          "dob": "1935-03-10",
+          "height": "191cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Alistair",
+          "lastname": "Lord",
+          "jumper": "4",
+          "dob": "1940-04-09",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Goggin",
           "jumper": "35",
@@ -81,14 +89,6 @@
           "jumper": "3",
           "dob": "1938-10-21",
           "height": "187cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "Alistair",
-          "lastname": "Lord",
-          "jumper": "4",
-          "dob": "1940-04-09",
-          "height": "180cm",
           "weight": "85kg"
         },
         {
@@ -117,19 +117,19 @@
         },
         {
           "firstname": "John",
-          "lastname": "Watts",
-          "jumper": "28",
-          "dob": "1937-01-21",
-          "height": "191cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "John",
           "lastname": "Yeates",
           "jumper": "40",
           "dob": "1938-08-30",
           "height": "196cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Watts",
+          "jumper": "28",
+          "dob": "1937-01-21",
+          "height": "191cm",
+          "weight": "94kg"
         },
         {
           "firstname": "Ken",

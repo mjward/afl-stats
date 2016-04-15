@@ -29,7 +29,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "McConnell",
+          "lastname": "Mc Connell",
           "jumper": "25",
           "dob": "1927-08-21",
           "height": "188cm",
@@ -44,6 +44,14 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Ron",
+          "lastname": "Mc Ewin",
+          "jumper": "11",
+          "dob": "1928-01-01",
+          "height": "169cm",
+          "weight": "66kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Brittingham",
           "jumper": "23",
@@ -53,27 +61,11 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "4",
           "dob": "1925-12-10",
           "height": "180cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "McEwin",
-          "jumper": "11",
-          "dob": "1928-01-01",
-          "height": "169cm",
-          "weight": "66kg"
-        },
-        {
-          "firstname": "Alan",
-          "lastname": "Dale",
-          "jumper": "15",
-          "dob": "1929-11-14",
-          "height": "177cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Bill",
@@ -84,12 +76,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Tate",
-          "jumper": "16",
-          "dob": "1925-10-21",
-          "height": "171cm",
-          "weight": "67kg"
+          "firstname": "Alan",
+          "lastname": "Dale",
+          "jumper": "15",
+          "dob": "1929-11-14",
+          "height": "177cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Wally",
@@ -100,6 +92,14 @@
           "weight": "85kg"
         },
         {
+          "firstname": "Greg",
+          "lastname": "Tate",
+          "jumper": "16",
+          "dob": "1925-10-21",
+          "height": "171cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Chris",
           "lastname": "Lambert",
           "jumper": "14",
@@ -108,20 +108,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Lance",
-          "lastname": "Mann",
-          "jumper": "32",
-          "dob": "1930-07-12",
-          "height": "175cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Payne",
           "jumper": "35",
           "dob": "1927-02-04",
           "height": "182cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Lance",
+          "lastname": "Mann",
+          "jumper": "32",
+          "dob": "1930-07-12",
+          "height": "175cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Ron",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Keith",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "9",
           "dob": "1929-09-12",
           "height": "182cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "13",
           "dob": "1929-07-09",
           "height": "174cm",
@@ -252,14 +252,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Martini",
-          "jumper": "1",
-          "dob": "1930-07-14",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Lloyd",
           "lastname": "Middleton",
           "jumper": "5",
@@ -268,8 +260,16 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Ray",
+          "lastname": "Martini",
+          "jumper": "1",
+          "dob": "1930-07-14",
+          "height": "180cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Bob",
-          "lastname": "McClure",
+          "lastname": "Mc Clure",
           "jumper": "31",
           "dob": "1925-06-05",
           "height": "188cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Keith",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "29",
           "dob": "1928-09-06",
           "height": "164cm",

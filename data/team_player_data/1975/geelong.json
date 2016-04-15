@@ -4,20 +4,20 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Mike",
-          "lastname": "Woolnough",
-          "jumper": "10",
-          "dob": "1952-09-24",
-          "height": "185cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Nankervis",
           "jumper": "33",
           "dob": "1950-08-14",
           "height": "179cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Woolnough",
+          "jumper": "10",
+          "dob": "1952-09-24",
+          "height": "185cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Mick",
@@ -28,7 +28,7 @@
           "weight": "77kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",
@@ -76,20 +76,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Scarlett",
-          "jumper": "30",
-          "dob": "1947-05-29",
-          "height": "191cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Wayne",
           "lastname": "Closter",
           "jumper": "1",
           "dob": "1945-02-26",
           "height": "180cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Scarlett",
+          "jumper": "30",
+          "dob": "1947-05-29",
+          "height": "191cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Robert",

@@ -44,6 +44,30 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Stephen",
+          "lastname": "Mc Cann",
+          "jumper": "16",
+          "dob": "1958-05-31",
+          "height": "192cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Donald",
+          "lastname": "Mc Donald",
+          "jumper": "25",
+          "dob": "1962-05-10",
+          "height": "191cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Ross",
+          "lastname": "Smith",
+          "jumper": "15",
+          "dob": "1965-02-03",
+          "height": "184cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Holt",
           "jumper": "2",
@@ -58,30 +82,6 @@
           "dob": "1951-10-23",
           "height": "180cm",
           "weight": "79kg"
-        },
-        {
-          "firstname": "Stephen",
-          "lastname": "McCann",
-          "jumper": "16",
-          "dob": "1958-05-31",
-          "height": "192cm",
-          "weight": "96kg"
-        },
-        {
-          "firstname": "Donald",
-          "lastname": "McDonald",
-          "jumper": "25",
-          "dob": "1962-05-10",
-          "height": "191cm",
-          "weight": "97kg"
-        },
-        {
-          "firstname": "Ross",
-          "lastname": "Smith",
-          "jumper": "15",
-          "dob": "1965-02-03",
-          "height": "184cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Roy",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "McGuire",
+          "lastname": "Mc Guire",
           "jumper": "31",
           "dob": "1961-06-10",
           "height": "185cm",

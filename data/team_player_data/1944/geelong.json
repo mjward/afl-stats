@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "George",
-          "lastname": "Dougherty",
-          "jumper": "6",
-          "dob": "1913-12-09",
-          "height": "191cm",
-          "weight": "93kg"
-        },
-        {
-          "firstname": "Ralph",
-          "lastname": "Patman",
-          "jumper": "10",
-          "dob": "1916-01-10",
-          "height": "175cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Fitzgerald",
           "jumper": "3",
@@ -44,20 +28,28 @@
           "weight": "83kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Dougherty",
+          "jumper": "6",
+          "dob": "1913-12-09",
+          "height": "191cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Ralph",
+          "lastname": "Patman",
+          "jumper": "10",
+          "dob": "1916-01-10",
+          "height": "175cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Wally",
           "lastname": "Southern",
           "jumper": "22",
           "dob": "1921-10-26",
           "height": "178cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "MundayJnr",
-          "jumper": "15",
-          "dob": "1917-11-01",
-          "height": "188cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Neil",
@@ -74,6 +66,14 @@
           "dob": "1924-10-03",
           "height": "173cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Munday Jnr",
+          "jumper": "15",
+          "dob": "1917-11-01",
+          "height": "188cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Pat",
@@ -108,6 +108,14 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Howie",
+          "jumper": "30",
+          "dob": "1917-09-25",
+          "height": "175cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Lionel",
           "lastname": "Barclay",
           "jumper": "12",
@@ -124,16 +132,8 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Howie",
-          "jumper": "30",
-          "dob": "1917-09-25",
-          "height": "175cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Bob",
-          "lastname": "McHenry",
+          "lastname": "Mc Henry",
           "jumper": "27",
           "dob": "1919-10-19",
           "height": "168cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McWilliams",
+          "lastname": "Mc Williams",
           "jumper": "2",
           "dob": "1915-11-25",
           "height": "168cm",
@@ -228,14 +228,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Leo",
-          "lastname": "Dean",
-          "jumper": "33",
-          "dob": "1914-10-04",
-          "height": "168cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Altmann",
           "jumper": "14",
@@ -250,6 +242,14 @@
           "dob": "1924-10-22",
           "height": "178cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Dean",
+          "jumper": "33",
+          "dob": "1914-10-04",
+          "height": "168cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Phonse",

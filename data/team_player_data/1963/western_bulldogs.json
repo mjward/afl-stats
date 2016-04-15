@@ -4,14 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Ted",
-          "lastname": "WhittenSnr",
-          "jumper": "3",
-          "dob": "1933-07-27",
-          "height": "184cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Hoiles",
           "jumper": "23",
@@ -28,19 +20,11 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Walker",
-          "jumper": "26",
-          "dob": "1941-12-18",
-          "height": "175cm",
-          "weight": "79kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Schultz",
-          "jumper": "14",
-          "dob": "1938-09-28",
-          "height": "191cm",
+          "firstname": "Ted",
+          "lastname": "Whitten Snr",
+          "jumper": "3",
+          "dob": "1933-07-27",
+          "height": "184cm",
           "weight": "89kg"
         },
         {
@@ -58,6 +42,22 @@
           "dob": "1943-08-11",
           "height": "188cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Walker",
+          "jumper": "26",
+          "dob": "1941-12-18",
+          "height": "175cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Schultz",
+          "jumper": "14",
+          "dob": "1938-09-28",
+          "height": "191cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Ian",
@@ -92,6 +92,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Merv",
+          "lastname": "Hobbs",
+          "jumper": "2",
+          "dob": "1942-06-16",
+          "height": "175cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Ray",
           "lastname": "Baxter",
           "jumper": "18",
@@ -108,16 +116,8 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Merv",
-          "lastname": "Hobbs",
-          "jumper": "2",
-          "dob": "1942-06-16",
-          "height": "175cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Don",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "30",
           "dob": "1942-07-22",
           "height": "180cm",
@@ -156,22 +156,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Gray",
-          "jumper": "39",
-          "dob": "1943-03-04",
-          "height": "188cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Bradley",
-          "jumper": "20",
-          "dob": "1943-05-10",
-          "height": "184cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Graeme",
           "lastname": "Chalmers",
           "jumper": "27",
@@ -188,8 +172,24 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Gray",
+          "jumper": "39",
+          "dob": "1943-03-04",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Bradley",
+          "jumper": "20",
+          "dob": "1943-05-10",
+          "height": "184cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Eddie",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "41",
           "dob": "1943-03-11",
           "height": "180cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Cameron",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "9",
           "dob": "1940-06-24",
           "height": "183cm",

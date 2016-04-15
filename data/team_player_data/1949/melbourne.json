@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Don",
-          "lastname": "Cordner",
-          "jumper": "21",
-          "dob": "1922-01-21",
-          "height": "188cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Alby",
           "lastname": "Rodda",
           "jumper": "30",
@@ -21,7 +13,7 @@
         },
         {
           "firstname": "Col",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "25",
           "dob": "1920-08-05",
           "height": "178cm",
@@ -36,12 +28,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "McKenzie",
-          "jumper": "2",
-          "dob": "1929-12-19",
-          "height": "178cm",
-          "weight": "72kg"
+          "firstname": "Don",
+          "lastname": "Cordner",
+          "jumper": "21",
+          "dob": "1922-01-21",
+          "height": "188cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Len",
@@ -60,6 +52,14 @@
           "weight": "91kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Mc Kenzie",
+          "jumper": "2",
+          "dob": "1929-12-19",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Adrian",
           "lastname": "Dullard",
           "jumper": "28",
@@ -68,20 +68,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Collins",
-          "jumper": "3",
-          "dob": "1926-08-10",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Bickford",
           "jumper": "16",
           "dob": "1927-01-09",
           "height": "182cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Collins",
+          "jumper": "3",
+          "dob": "1926-08-10",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Lance",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Shane",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "22",
           "dob": "1919-06-06",
           "height": "183cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "McGowan",
+          "lastname": "Mc Gowan",
           "jumper": "20",
           "dob": "1926-08-07",
           "height": "183cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Noel",
-          "lastname": "McMahen",
+          "lastname": "Mc Mahen",
           "jumper": "35",
           "dob": "1926-10-30",
           "height": "184cm",
@@ -204,14 +204,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Colin",
-          "lastname": "Love",
-          "jumper": "19",
-          "dob": "1929-06-09",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Wally",
           "lastname": "Lock",
           "jumper": "18",
@@ -226,6 +218,14 @@
           "dob": "1915-09-09",
           "height": "188cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Love",
+          "jumper": "19",
+          "dob": "1929-06-09",
+          "height": "183cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Gordon",

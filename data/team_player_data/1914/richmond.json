@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Hughie",
+          "lastname": "James",
+          "jumper": "4",
+          "dob": "1890-05-04",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "Syd",
           "lastname": "Reeves",
           "jumper": "11",
@@ -12,12 +20,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Hughie",
-          "lastname": "James",
-          "jumper": "4",
-          "dob": "1890-05-04",
-          "height": "185cm",
-          "weight": "89kg"
+          "firstname": "Bill' Sonna'",
+          "lastname": "Thomas",
+          "jumper": "28",
+          "dob": "1886-11-10",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Artie",
+          "lastname": "Bettles",
+          "jumper": "16",
+          "dob": "1891-03-25",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ted",
@@ -36,24 +52,8 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Bill'Sonna'",
-          "lastname": "Thomas",
-          "jumper": "28",
-          "dob": "1886-11-10",
-          "height": "178cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Artie",
-          "lastname": "Bettles",
-          "jumper": "16",
-          "dob": "1891-03-25",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Frank",
-          "lastname": "HughesSnr",
+          "lastname": "Hughes Snr",
           "jumper": "8",
           "dob": "1894-02-26",
           "height": "175cm",
@@ -76,20 +76,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Dave",
-          "lastname": "Moffatt",
-          "jumper": "14",
-          "dob": "1892-05-18",
-          "height": "188cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Danks",
           "jumper": "24",
           "dob": "1891-09-05",
           "height": "173cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Moffatt",
+          "jumper": "14",
+          "dob": "1892-05-18",
+          "height": "188cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Vic",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "19",
           "dob": "1890-08-09",
           "height": "174cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McKendry",
+          "lastname": "Mc Kendry",
           "jumper": "25",
           "dob": "1889-08-18",
           "height": "173cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McLear",
+          "lastname": "Mc Lear",
           "jumper": "21",
           "dob": "1891-08-21",
           "height": "—",
@@ -260,20 +260,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Wal",
-          "lastname": "Rogers",
-          "jumper": "27",
-          "dob": "1889-05-10",
-          "height": "178cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Dave",
           "lastname": "Smith",
           "jumper": "—",
           "dob": "1884-09-14",
           "height": "183cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Wal",
+          "lastname": "Rogers",
+          "jumper": "27",
+          "dob": "1889-05-10",
+          "height": "178cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Len",

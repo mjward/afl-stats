@@ -4,14 +4,6 @@
     "teams": {
       "Western Bulldogs": [
         {
-          "firstname": "Alby",
-          "lastname": "OutenSnr",
-          "jumper": "20",
-          "dob": "1902-12-06",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Watt",
           "jumper": "5",
@@ -20,20 +12,20 @@
           "weight": "74kg"
         },
         {
+          "firstname": "Alby",
+          "lastname": "Outen Snr",
+          "jumper": "20",
+          "dob": "1902-12-06",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Paddy",
           "lastname": "Scanlan",
           "jumper": "1",
           "dob": "1896-09-06",
           "height": "173cm",
           "weight": "69kg"
-        },
-        {
-          "firstname": "Ralph",
-          "lastname": "Greenhalgh",
-          "jumper": "20",
-          "dob": "1899-05-08",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Alby",
@@ -68,8 +60,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Ralph",
+          "lastname": "Greenhalgh",
+          "jumper": "20",
+          "dob": "1899-05-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Norm",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "17",
           "dob": "1898-05-03",
           "height": "168cm",
@@ -85,14 +85,6 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "Sloley",
-          "jumper": "15",
-          "dob": "1906-09-13",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Charlie",
           "lastname": "Rowe",
           "jumper": "8",
           "dob": "1902-04-25",
@@ -100,8 +92,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Charlie",
+          "lastname": "Sloley",
+          "jumper": "15",
+          "dob": "1906-09-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "26",
           "dob": "1907-07-19",
           "height": "182cm",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "AkedSnr",
+          "lastname": "Aked Snr",
           "jumper": "22",
           "dob": "1902-11-25",
           "height": "183cm",
@@ -180,18 +180,18 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "McGann",
-          "jumper": "4",
-          "dob": "1905-09-08",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Woodman",
           "jumper": "21",
           "dob": "1902-07-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Mc Gann",
+          "jumper": "4",
+          "dob": "1905-09-08",
           "height": "—",
           "weight": "—"
         },
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "10",
           "dob": "1898-08-17",
           "height": "184cm",

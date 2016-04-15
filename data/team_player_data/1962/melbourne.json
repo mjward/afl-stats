@@ -20,7 +20,7 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Harold'Hassa'",
+          "firstname": "Harold' Hassa'",
           "lastname": "Mann",
           "jumper": "29",
           "dob": "1940-10-10",
@@ -28,16 +28,8 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Mann",
-          "jumper": "34",
-          "dob": "1938-08-21",
-          "height": "192cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "John",
-          "lastname": "LordJnr",
+          "lastname": "Lord Jnr",
           "jumper": "4",
           "dob": "1937-04-02",
           "height": "188cm",
@@ -52,7 +44,7 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Bob'Tassie'",
+          "firstname": "Bob' Tassie'",
           "lastname": "Johnson",
           "jumper": "8",
           "dob": "1937-12-02",
@@ -66,6 +58,22 @@
           "dob": "1936-05-20",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Mann",
+          "jumper": "34",
+          "dob": "1938-08-21",
+          "height": "192cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Leahy",
+          "jumper": "21",
+          "dob": "1943-02-03",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Robert",
@@ -85,7 +93,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "BarassiJnr",
+          "lastname": "Barassi Jnr",
           "jumper": "31",
           "dob": "1936-02-27",
           "height": "179cm",
@@ -105,14 +113,6 @@
           "jumper": "11",
           "dob": "1934-04-15",
           "height": "183cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Leahy",
-          "jumper": "21",
-          "dob": "1943-02-03",
-          "height": "185cm",
           "weight": "83kg"
         },
         {
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsJnr",
+          "lastname": "Matthews Jnr",
           "jumper": "39",
           "dob": "1943-05-10",
           "height": "169cm",

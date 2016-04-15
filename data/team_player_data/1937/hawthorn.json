@@ -4,22 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Ted",
-          "lastname": "Pool",
-          "jumper": "19",
-          "dob": "1906-11-09",
-          "height": "165cm",
-          "weight": "65kg"
-        },
-        {
-          "firstname": "Leo",
-          "lastname": "Murphy",
-          "jumper": "16",
-          "dob": "1909-08-07",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Hillard",
           "jumper": "14",
@@ -42,6 +26,22 @@
           "dob": "1916-04-13",
           "height": "173cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Pool",
+          "jumper": "19",
+          "dob": "1906-11-09",
+          "height": "165cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Murphy",
+          "jumper": "16",
+          "dob": "1909-08-07",
+          "height": "185cm",
+          "weight": "85kg"
         },
         {
           "firstname": "George",
@@ -68,20 +68,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Neil",
-          "lastname": "Allison",
-          "jumper": "9",
-          "dob": "1912-10-11",
-          "height": "171cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Barker",
           "jumper": "6",
           "dob": "1917-12-23",
           "height": "185cm",
           "weight": "98kg"
+        },
+        {
+          "firstname": "Neil",
+          "lastname": "Allison",
+          "jumper": "9",
+          "dob": "1912-10-11",
+          "height": "171cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Viv",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Ivan",
-          "lastname": "McAlpine",
+          "lastname": "Mc Alpine",
           "jumper": "1",
           "dob": "1907-07-19",
           "height": "182cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Max",
-          "lastname": "McQueen",
+          "lastname": "Mc Queen",
           "jumper": "15",
           "dob": "1915-01-16",
           "height": "179cm",

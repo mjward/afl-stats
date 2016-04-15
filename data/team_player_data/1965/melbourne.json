@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "John",
-          "lastname": "Townsend",
-          "jumper": "16",
-          "dob": "1943-06-16",
-          "height": "171cm",
-          "weight": "66kg"
-        },
-        {
           "firstname": "Bryan",
           "lastname": "Kenneally",
           "jumper": "22",
@@ -29,19 +21,19 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "36",
           "dob": "1941-05-06",
           "height": "187cm",
           "weight": "86kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Wise",
-          "jumper": "23",
-          "dob": "1942-10-13",
-          "height": "188cm",
-          "weight": "83kg"
+          "firstname": "John",
+          "lastname": "Townsend",
+          "jumper": "16",
+          "dob": "1943-06-16",
+          "height": "171cm",
+          "weight": "66kg"
         },
         {
           "firstname": "Ken",
@@ -68,12 +60,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Bob'Tassie'",
+          "firstname": "Bob' Tassie'",
           "lastname": "Johnson",
           "jumper": "8",
           "dob": "1937-12-02",
           "height": "189cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Wise",
+          "jumper": "23",
+          "dob": "1942-10-13",
+          "height": "188cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Robert",
@@ -92,7 +92,7 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Harold'Hassa'",
+          "firstname": "Harold' Hassa'",
           "lastname": "Mann",
           "jumper": "29",
           "dob": "1940-10-10",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "LordJnr",
+          "lastname": "Lord Jnr",
           "jumper": "4",
           "dob": "1937-04-02",
           "height": "188cm",
@@ -236,20 +236,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Gormly",
-          "jumper": "48",
-          "dob": "1947-02-07",
-          "height": "184cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Rick",
           "lastname": "Feldmann",
           "jumper": "40",
           "dob": "1945-11-27",
           "height": "179cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Gormly",
+          "jumper": "48",
+          "dob": "1947-02-07",
+          "height": "184cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Brian",

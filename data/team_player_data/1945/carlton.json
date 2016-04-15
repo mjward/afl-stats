@@ -4,6 +4,14 @@
     "teams": {
       "Carlton": [
         {
+          "firstname": "Jack",
+          "lastname": "Bennett",
+          "jumper": "3",
+          "dob": "1920-06-21",
+          "height": "184cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Vin",
           "lastname": "Brown",
           "jumper": "15",
@@ -18,14 +26,6 @@
           "dob": "1918-03-26",
           "height": "177cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Bennett",
-          "jumper": "3",
-          "dob": "1920-06-21",
-          "height": "184cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Jim",
@@ -44,14 +44,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Chitty",
-          "jumper": "6",
-          "dob": "1916-07-04",
-          "height": "174cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Williams",
           "jumper": "12",
@@ -66,6 +58,14 @@
           "dob": "1914-04-30",
           "height": "174cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Chitty",
+          "jumper": "6",
+          "dob": "1916-07-04",
+          "height": "174cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Clinton",
@@ -84,20 +84,20 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Rod",
+          "lastname": "Mc Lean",
+          "jumper": "14",
+          "dob": "1915-10-22",
+          "height": "182cm",
+          "weight": "88kg"
+        },
+        {
           "firstname": "Ken",
           "lastname": "Hands",
           "jumper": "1",
           "dob": "1926-10-26",
           "height": "185cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "McLean",
-          "jumper": "14",
-          "dob": "1915-10-22",
-          "height": "182cm",
-          "weight": "88kg"
         },
         {
           "firstname": "Fred",
@@ -108,20 +108,20 @@
           "weight": "64kg"
         },
         {
-          "firstname": "Lance",
-          "lastname": "Collins",
-          "jumper": "5",
-          "dob": "1916-06-19",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Baird",
           "jumper": "25",
           "dob": "1920-11-09",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Lance",
+          "lastname": "Collins",
+          "jumper": "5",
+          "dob": "1916-06-19",
+          "height": "183cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Herb",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "31",
           "dob": "1916-08-21",
           "height": "174cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "19",
           "dob": "1917-08-22",
           "height": "185cm",
@@ -228,20 +228,20 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Cyril",
-          "lastname": "Mann",
-          "jumper": "27",
-          "dob": "1918-08-31",
-          "height": "175cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Adrian",
           "lastname": "Hearn",
           "jumper": "19",
           "dob": "1920-03-16",
           "height": "185cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Cyril",
+          "lastname": "Mann",
+          "jumper": "27",
+          "dob": "1918-08-31",
+          "height": "175cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Ron",

@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Tommy",
-          "lastname": "Lahiff",
-          "jumper": "6",
-          "dob": "1910-07-31",
-          "height": "168cm",
-          "weight": "68kg"
-        },
-        {
           "firstname": "Keith",
           "lastname": "Forbes",
           "jumper": "1",
@@ -28,20 +20,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Earle",
-          "jumper": "25",
-          "dob": "1911-01-21",
-          "height": "180cm",
-          "weight": "66kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Bryce",
-          "jumper": "8",
-          "dob": "1912-12-21",
+          "firstname": "Tommy",
+          "lastname": "Lahiff",
+          "jumper": "6",
+          "dob": "1910-07-31",
           "height": "168cm",
-          "weight": "80kg"
+          "weight": "68kg"
         },
         {
           "firstname": "Hugh",
@@ -68,6 +52,22 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Earle",
+          "jumper": "25",
+          "dob": "1911-01-21",
+          "height": "180cm",
+          "weight": "66kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Bryce",
+          "jumper": "8",
+          "dob": "1912-12-21",
+          "height": "168cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Bruce",
           "lastname": "Anderson",
           "jumper": "16",
@@ -92,14 +92,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Rippon",
-          "jumper": "21",
-          "dob": "1914-04-29",
-          "height": "184cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Webster",
           "jumper": "32",
@@ -122,6 +114,14 @@
           "dob": "1914-05-06",
           "height": "185cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Rippon",
+          "jumper": "21",
+          "dob": "1914-04-29",
+          "height": "184cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bill",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McGorlick",
+          "lastname": "Mc Gorlick",
           "jumper": "13",
           "dob": "1916-01-31",
           "height": "174cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "McHardy",
+          "lastname": "Mc Hardy",
           "jumper": "36",
           "dob": "1914-11-28",
           "height": "—",

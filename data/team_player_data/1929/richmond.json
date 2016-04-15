@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Joe",
-          "lastname": "Murdoch",
-          "jumper": "13",
-          "dob": "1908-10-30",
-          "height": "183cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Dooley",
           "lastname": "Lilburne",
           "jumper": "16",
@@ -28,12 +20,28 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Joe",
+          "lastname": "Murdoch",
+          "jumper": "13",
+          "dob": "1908-10-30",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Percy",
           "lastname": "Bentley",
           "jumper": "1",
           "dob": "1906-12-13",
           "height": "183cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Benton",
+          "jumper": "3",
+          "dob": "1906-03-11",
+          "height": "183cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Harry",
@@ -50,14 +58,6 @@
           "dob": "1908-03-09",
           "height": "175cm",
           "weight": "66kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Benton",
-          "jumper": "3",
-          "dob": "1906-03-11",
-          "height": "183cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Maurie",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Basil",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "9",
           "dob": "1904-08-03",
           "height": "180cm",
@@ -108,22 +108,6 @@
           "weight": "61kg"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Dunne",
-          "jumper": "17",
-          "dob": "1906-11-12",
-          "height": "183cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "O'Halloran",
-          "jumper": "18",
-          "dob": "1904-12-24",
-          "height": "185cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Baggott",
           "jumper": "14",
@@ -148,8 +132,24 @@
           "weight": "74kg"
         },
         {
+          "firstname": "Tom",
+          "lastname": "Dunne",
+          "jumper": "17",
+          "dob": "1906-11-12",
+          "height": "183cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "O' Halloran",
+          "jumper": "18",
+          "dob": "1904-12-24",
+          "height": "185cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Jack",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "21",
           "dob": "1904-06-04",
           "height": "175cm",

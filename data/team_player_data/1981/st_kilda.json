@@ -44,20 +44,20 @@
           "weight": "96kg"
         },
         {
-          "firstname": "Mark",
-          "lastname": "Kellett",
-          "jumper": "21",
-          "dob": "1960-07-29",
-          "height": "188cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Doug",
           "lastname": "Cox",
           "jumper": "7",
           "dob": "1957-09-16",
           "height": "187cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Kellett",
+          "jumper": "21",
+          "dob": "1960-07-29",
+          "height": "188cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Trevor",

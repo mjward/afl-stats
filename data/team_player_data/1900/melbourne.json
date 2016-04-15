@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Frank",
-          "lastname": "Langley",
-          "jumper": "—",
-          "dob": "1882-10-13",
-          "height": "177cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Stewart",
           "lastname": "Geddes",
           "jumper": "—",
@@ -45,19 +37,19 @@
         },
         {
           "firstname": "Fred",
-          "lastname": "McGinis",
+          "lastname": "Mc Ginis",
           "jumper": "—",
           "dob": "1874-11-11",
           "height": "175cm",
           "weight": "74kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Rippon",
+          "firstname": "Frank",
+          "lastname": "Langley",
           "jumper": "—",
-          "dob": "1875-12-30",
-          "height": "—",
-          "weight": "—"
+          "dob": "1882-10-13",
+          "height": "177cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Jack",
@@ -69,7 +61,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "WardillJnr",
+          "lastname": "Wardill Jnr",
           "jumper": "—",
           "dob": "1872-07-05",
           "height": "—",
@@ -80,6 +72,14 @@
           "lastname": "Ryan",
           "jumper": "—",
           "dob": "1873-08-12",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Rippon",
+          "jumper": "—",
+          "dob": "1875-12-30",
           "height": "—",
           "weight": "—"
         },
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McClelland",
+          "lastname": "Mc Clelland",
           "jumper": "—",
           "dob": "1875-02-09",
           "height": "—",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "PirrieSnr",
+          "lastname": "Pirrie Snr",
           "jumper": "—",
           "dob": "1879-04-15",
           "height": "178cm",
@@ -213,17 +213,9 @@
         },
         {
           "firstname": "Bryan",
-          "lastname": "McGuigan",
+          "lastname": "Mc Guigan",
           "jumper": "—",
           "dob": "1880-09-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Ced",
-          "lastname": "Hay",
-          "jumper": "—",
-          "dob": "1880-09-27",
           "height": "—",
           "weight": "—"
         },
@@ -236,8 +228,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Ced",
+          "lastname": "Hay",
+          "jumper": "—",
+          "dob": "1880-09-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bill",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "—",
           "dob": "1872-11-07",
           "height": "180cm",

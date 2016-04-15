@@ -4,20 +4,20 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Kevin",
-          "lastname": "Rose",
-          "jumper": "29",
-          "dob": "1939-06-04",
-          "height": "184cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Reeves",
           "jumper": "16",
           "dob": "1938-12-06",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Rose",
+          "jumper": "29",
+          "dob": "1939-06-04",
+          "height": "184cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Mike",
@@ -76,20 +76,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Neville",
-          "lastname": "Withers",
-          "jumper": "41",
-          "dob": "1940-12-06",
-          "height": "189cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Trevor",
           "lastname": "Steer",
           "jumper": "9",
           "dob": "1938-10-11",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Neville",
+          "lastname": "Withers",
+          "jumper": "41",
+          "dob": "1940-12-06",
+          "height": "189cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Errol",
@@ -172,6 +172,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Ron",
+          "lastname": "Carruthers",
+          "jumper": "36",
+          "dob": "1943-05-03",
+          "height": "173cm",
+          "weight": "69kg"
+        },
+        {
           "firstname": "Barry",
           "lastname": "Rist",
           "jumper": "37",
@@ -181,15 +189,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "Carruthers",
-          "jumper": "36",
-          "dob": "1943-05-03",
-          "height": "173cm",
-          "weight": "69kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "O'Dwyer",
+          "lastname": "O' Dwyer",
           "jumper": "30",
           "dob": "1938-02-05",
           "height": "170cm",
@@ -202,22 +202,6 @@
           "dob": "1931-09-25",
           "height": "185cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Delanty",
-          "jumper": "13",
-          "dob": "1940-05-21",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Alan",
-          "lastname": "Poore",
-          "jumper": "40",
-          "dob": "1942-07-07",
-          "height": "179cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Keith",
@@ -234,6 +218,22 @@
           "dob": "1940-09-30",
           "height": "188cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Delanty",
+          "jumper": "13",
+          "dob": "1940-05-21",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Poore",
+          "jumper": "40",
+          "dob": "1942-07-07",
+          "height": "179cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Robin",
@@ -268,20 +268,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Dennis",
-          "lastname": "Bell",
-          "jumper": "3",
-          "dob": "1940-09-15",
-          "height": "177cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Perry",
           "jumper": "38",
           "dob": "1939-04-02",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Dennis",
+          "lastname": "Bell",
+          "jumper": "3",
+          "dob": "1940-09-15",
+          "height": "177cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Peter",

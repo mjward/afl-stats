@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Ivor",
-          "lastname": "Warne-Smith",
-          "jumper": "14",
-          "dob": "1897-10-29",
-          "height": "182cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Dick",
-          "lastname": "Taylor",
-          "jumper": "35",
-          "dob": "1901-11-28",
-          "height": "178cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Jimmy",
           "lastname": "Davidson",
           "jumper": "29",
@@ -36,6 +20,22 @@
           "weight": "90kg"
         },
         {
+          "firstname": "Ivor",
+          "lastname": "Warne- Smith",
+          "jumper": "14",
+          "dob": "1897-10-29",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Taylor",
+          "jumper": "35",
+          "dob": "1901-11-28",
+          "height": "178cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Stan",
           "lastname": "Wittman",
           "jumper": "1",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Tommy",
-          "lastname": "McConville",
+          "lastname": "Mc Conville",
           "jumper": "5",
           "dob": "1901-03-28",
           "height": "175cm",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "JohnsonSnr",
+          "lastname": "Johnson Snr",
           "jumper": "16",
           "dob": "1902-06-27",
           "height": "191cm",
@@ -92,20 +92,20 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Frank' Pop'",
+          "lastname": "Vine",
+          "jumper": "23",
+          "dob": "1904-10-01",
+          "height": "188cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Col",
           "lastname": "Deane",
           "jumper": "31",
           "dob": "1900-07-11",
           "height": "185cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Frank'Pop'",
-          "lastname": "Vine",
-          "jumper": "23",
-          "dob": "1904-10-01",
-          "height": "188cm",
-          "weight": "84kg"
         },
         {
           "firstname": "Jim",

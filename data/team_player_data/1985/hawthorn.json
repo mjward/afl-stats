@@ -5,7 +5,7 @@
       "Hawthorn": [
         {
           "firstname": "Rod",
-          "lastname": "Lester-Smith",
+          "lastname": "Lester- Smith",
           "jumper": "6",
           "dob": "1959-07-18",
           "height": "188cm",
@@ -13,7 +13,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "KennedyJnr",
+          "lastname": "Kennedy Jnr",
           "jumper": "34",
           "dob": "1959-11-22",
           "height": "190cm",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "20",
           "dob": "1957-10-10",
           "height": "193cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "8",
           "dob": "1955-09-08",
           "height": "185cm",

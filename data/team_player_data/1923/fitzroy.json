@@ -12,14 +12,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Tarbotton",
-          "jumper": "21",
-          "dob": "1899-05-05",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Goldie",
           "lastname": "Collins",
           "jumper": "29",
@@ -61,11 +53,27 @@
         },
         {
           "firstname": "Jim",
+          "lastname": "Tarbotton",
+          "jumper": "21",
+          "dob": "1899-05-05",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Jim",
           "lastname": "Freake",
           "jumper": "9",
           "dob": "1889-01-27",
           "height": "178cm",
           "weight": "63kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Bryant",
+          "jumper": "23",
+          "dob": "1896-06-29",
+          "height": "182cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Tommy",
@@ -77,19 +85,11 @@
         },
         {
           "firstname": "Gordon",
-          "lastname": "McCracken",
+          "lastname": "Mc Cracken",
           "jumper": "24",
           "dob": "1898-03-22",
           "height": "191cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Bryant",
-          "jumper": "23",
-          "dob": "1896-06-29",
-          "height": "182cm",
-          "weight": "91kg"
         },
         {
           "firstname": "Fred",
@@ -100,20 +100,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Percy",
-          "lastname": "Parratt",
-          "jumper": "30",
-          "dob": "1887-02-27",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Jenkin",
           "jumper": "4",
           "dob": "1893-02-14",
           "height": "178cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Parratt",
+          "jumper": "30",
+          "dob": "1887-02-27",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Les",

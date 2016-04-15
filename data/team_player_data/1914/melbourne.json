@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Bill",
-          "lastname": "McKenzie",
-          "jumper": "27",
-          "dob": "1889-01-31",
-          "height": "165cm",
-          "weight": "61kg"
-        },
-        {
           "firstname": "Bert",
           "lastname": "Trahair",
           "jumper": "8",
@@ -26,6 +18,14 @@
           "dob": "1893-11-04",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Mc Kenzie",
+          "jumper": "27",
+          "dob": "1889-01-31",
+          "height": "165cm",
+          "weight": "61kg"
         },
         {
           "firstname": "Len",
@@ -44,6 +44,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Alec",
+          "lastname": "Gray",
+          "jumper": "22",
+          "dob": "1891-05-12",
+          "height": "180cm",
+          "weight": "68kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Evans",
           "jumper": "8",
@@ -58,14 +66,6 @@
           "dob": "1892-07-03",
           "height": "178cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Alec",
-          "lastname": "Gray",
-          "jumper": "22",
-          "dob": "1891-05-12",
-          "height": "180cm",
-          "weight": "68kg"
         },
         {
           "firstname": "Vic",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "MacDonald",
+          "lastname": "Mac Donald",
           "jumper": "1",
           "dob": "1891-07-04",
           "height": "—",
@@ -212,18 +212,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Brunier",
-          "jumper": "22",
-          "dob": "1889-04-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Alex",
           "lastname": "Fraser",
           "jumper": "17",
           "dob": "1892-08-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Brunier",
+          "jumper": "22",
+          "dob": "1889-04-28",
           "height": "—",
           "weight": "—"
         },
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Aubrey",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "20",
           "dob": "1894-10-23",
           "height": "—",
@@ -300,14 +300,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Herbert",
-          "lastname": "Roberts",
-          "jumper": "21",
-          "dob": "1890-12-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Carlyle",
           "lastname": "Kenley",
           "jumper": "1",
@@ -322,6 +314,14 @@
           "dob": "1893-05-23",
           "height": "173cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Herbert",
+          "lastname": "Roberts",
+          "jumper": "21",
+          "dob": "1890-12-04",
+          "height": "—",
+          "weight": "—"
         }
       ]
     }

@@ -36,6 +36,14 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Arnold",
+          "lastname": "Briedis",
+          "jumper": "6",
+          "dob": "1955-08-20",
+          "height": "189cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Garry",
           "lastname": "Farrant",
           "jumper": "28",
@@ -68,14 +76,6 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Arnold",
-          "lastname": "Briedis",
-          "jumper": "6",
-          "dob": "1955-08-20",
-          "height": "189cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "David",
           "lastname": "Dench",
           "jumper": "23",
@@ -93,19 +93,19 @@
         },
         {
           "firstname": "Barry",
-          "lastname": "Goodingham",
-          "jumper": "10",
-          "dob": "1945-05-09",
-          "height": "199cm",
-          "weight": "99kg"
-        },
-        {
-          "firstname": "Barry",
           "lastname": "Cable",
           "jumper": "9",
           "dob": "1943-09-22",
           "height": "168cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Goodingham",
+          "jumper": "10",
+          "dob": "1945-05-09",
+          "height": "199cm",
+          "weight": "99kg"
         },
         {
           "firstname": "Brad",

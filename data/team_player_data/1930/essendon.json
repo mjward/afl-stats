@@ -12,14 +12,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Howard",
-          "lastname": "Okey",
-          "jumper": "2",
-          "dob": "1906-02-12",
-          "height": "177cm",
-          "weight": "69kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Hammond",
           "jumper": "20",
@@ -28,36 +20,20 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Howard",
+          "lastname": "Okey",
+          "jumper": "2",
+          "dob": "1906-02-12",
+          "height": "177cm",
+          "weight": "69kg"
+        },
+        {
           "firstname": "Norm",
           "lastname": "Beckton",
           "jumper": "3",
           "dob": "1898-05-04",
           "height": "189cm",
           "weight": "93kg"
-        },
-        {
-          "firstname": "Ted",
-          "lastname": "Freyer",
-          "jumper": "26",
-          "dob": "1910-05-20",
-          "height": "185cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Thomas",
-          "lastname": "Clarke",
-          "jumper": "23",
-          "dob": "1906-11-21",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
-          "firstname": "Paddy",
-          "lastname": "Walsh",
-          "jumper": "28",
-          "dob": "1906-08-21",
-          "height": "184cm",
-          "weight": "92kg"
         },
         {
           "firstname": "Clarrie",
@@ -84,6 +60,30 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Ted",
+          "lastname": "Freyer",
+          "jumper": "26",
+          "dob": "1910-05-20",
+          "height": "185cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Thomas",
+          "lastname": "Clarke",
+          "jumper": "23",
+          "dob": "1906-11-21",
+          "height": "170cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Paddy",
+          "lastname": "Walsh",
+          "jumper": "28",
+          "dob": "1906-08-21",
+          "height": "184cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Quinn",
           "jumper": "31",
@@ -93,19 +93,11 @@
         },
         {
           "firstname": "Mal",
-          "lastname": "MacRae",
+          "lastname": "Mac Rae",
           "jumper": "24",
           "dob": "1907-10-17",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Garnet",
-          "lastname": "Campbell",
-          "jumper": "17",
-          "dob": "1903-07-31",
-          "height": "175cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Billy",
@@ -114,6 +106,14 @@
           "dob": "1909-04-14",
           "height": "188cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Garnet",
+          "lastname": "Campbell",
+          "jumper": "17",
+          "dob": "1903-07-31",
+          "height": "175cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Len",
@@ -156,20 +156,20 @@
           "weight": "61kg"
         },
         {
-          "firstname": "Leo",
-          "lastname": "Glynn",
-          "jumper": "18",
-          "dob": "1903-11-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Norm",
           "lastname": "Simpson",
           "jumper": "19",
           "dob": "1905-05-20",
           "height": "170cm",
           "weight": "65kg"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Glynn",
+          "jumper": "18",
+          "dob": "1903-11-27",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Frank",

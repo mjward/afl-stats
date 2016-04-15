@@ -4,6 +4,22 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Jack",
+          "lastname": "Butcher",
+          "jumper": "31",
+          "dob": "1914-10-28",
+          "height": "175cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Knight",
+          "jumper": "22",
+          "dob": "1918-01-03",
+          "height": "173cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Joe",
           "lastname": "Sellwood",
           "jumper": "21",
@@ -20,20 +36,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Butcher",
-          "jumper": "31",
-          "dob": "1914-10-28",
-          "height": "175cm",
-          "weight": "80kg"
+          "firstname": "George",
+          "lastname": "Gniel",
+          "jumper": "7",
+          "dob": "1919-04-06",
+          "height": "183cm",
+          "weight": "83kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Knight",
-          "jumper": "22",
-          "dob": "1918-01-03",
-          "height": "173cm",
-          "weight": "73kg"
+          "firstname": "Lindsay",
+          "lastname": "White",
+          "jumper": "19",
+          "dob": "1922-01-05",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Mick",
@@ -58,22 +74,6 @@
           "dob": "1917-08-15",
           "height": "187cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Gniel",
-          "jumper": "7",
-          "dob": "1919-04-06",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Lindsay",
-          "lastname": "White",
-          "jumper": "19",
-          "dob": "1922-01-05",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Angie",
@@ -124,6 +124,14 @@
           "weight": "82kg"
         },
         {
+          "firstname": "Clyde",
+          "lastname": "Helmer",
+          "jumper": "29",
+          "dob": "1916-04-22",
+          "height": "184cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Harwood",
           "jumper": "12",
@@ -138,14 +146,6 @@
           "dob": "1914-10-04",
           "height": "168cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Clyde",
-          "lastname": "Helmer",
-          "jumper": "29",
-          "dob": "1916-04-22",
-          "height": "184cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Ron",
@@ -220,20 +220,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Bailey",
-          "jumper": "35",
-          "dob": "1921-10-02",
-          "height": "173cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Dan",
           "lastname": "Kearney",
           "jumper": "34",
           "dob": "1921-05-23",
           "height": "183cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Bailey",
+          "jumper": "35",
+          "dob": "1921-10-02",
+          "height": "173cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Vic",

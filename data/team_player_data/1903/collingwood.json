@@ -4,14 +4,6 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Charlie",
-          "lastname": "Pannam",
-          "jumper": "—",
-          "dob": "1874-10-02",
-          "height": "173cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Matthew",
           "lastname": "Fell",
           "jumper": "—",
@@ -29,7 +21,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MonohanSnr",
+          "lastname": "Monohan Snr",
           "jumper": "—",
           "dob": "1873-08-21",
           "height": "184cm",
@@ -44,11 +36,11 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Rush",
+          "firstname": "Charlie",
+          "lastname": "Pannam",
           "jumper": "—",
-          "dob": "1880-10-09",
-          "height": "177cm",
+          "dob": "1874-10-02",
+          "height": "173cm",
           "weight": "80kg"
         },
         {
@@ -76,12 +68,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Lardie",
-          "lastname": "Tulloch",
+          "firstname": "Bob",
+          "lastname": "Rush",
           "jumper": "—",
-          "dob": "1871-04-15",
-          "height": "179cm",
-          "weight": "82kg"
+          "dob": "1880-10-09",
+          "height": "177cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Eddie",
@@ -100,6 +92,14 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Lardie",
+          "lastname": "Tulloch",
+          "jumper": "—",
+          "dob": "1871-04-15",
+          "height": "179cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Incoll",
           "jumper": "—",
@@ -116,8 +116,8 @@
           "weight": "80kg"
         },
         {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
           "jumper": "17",
           "dob": "1882-12-12",
           "height": "180cm",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Con",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "—",
           "dob": "1877-12-25",
           "height": "—",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McKean",
+          "lastname": "Mc Kean",
           "jumper": "—",
           "dob": "1884-08-02",
           "height": "—",

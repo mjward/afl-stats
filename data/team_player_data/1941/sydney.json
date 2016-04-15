@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Harold",
-          "lastname": "Traynor",
-          "jumper": "32",
-          "dob": "1922-12-04",
-          "height": "173cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Kelly",
           "jumper": "31",
@@ -20,12 +12,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Richards",
-          "jumper": "11",
-          "dob": "1917-12-14",
+          "firstname": "Harold",
+          "lastname": "Traynor",
+          "jumper": "32",
+          "dob": "1922-12-04",
           "height": "173cm",
-          "weight": "79kg"
+          "weight": "73kg"
         },
         {
           "firstname": "Jack",
@@ -44,6 +36,22 @@
           "weight": "99kg"
         },
         {
+          "firstname": "Reg",
+          "lastname": "Richards",
+          "jumper": "11",
+          "dob": "1917-12-14",
+          "height": "173cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Billy",
+          "lastname": "King",
+          "jumper": "12",
+          "dob": "1920-08-17",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Cleary",
           "jumper": "20",
@@ -53,18 +61,10 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsSnr",
+          "lastname": "Matthews Snr",
           "jumper": "1",
           "dob": "1913-11-12",
           "height": "177cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Billy",
-          "lastname": "King",
-          "jumper": "12",
-          "dob": "1920-08-17",
-          "height": "178cm",
           "weight": "76kg"
         },
         {
@@ -148,20 +148,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Linden",
-          "jumper": "23",
-          "dob": "1917-04-27",
-          "height": "191cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Mulligan",
           "jumper": "27",
           "dob": "1919-06-18",
           "height": "180cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Linden",
+          "jumper": "23",
+          "dob": "1917-04-27",
+          "height": "191cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Allan",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "McCrory",
+          "lastname": "Mc Crory",
           "jumper": "24",
           "dob": "1918-02-26",
           "height": "178cm",

@@ -1,0 +1,289 @@
+{
+  "team_player_data": {
+    "year": 2014,
+    "teams": {
+      "Essendon": [
+        {
+          "firstname": "Cale",
+          "lastname": "Hooker",
+          "jumper": "26",
+          "dob": "1988-10-13",
+          "height": "196cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Zaharakis",
+          "jumper": "11",
+          "dob": "1990-02-21",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Brent",
+          "lastname": "Stanton",
+          "jumper": "5",
+          "dob": "1986-05-01",
+          "height": "182cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Baguley",
+          "jumper": "12",
+          "dob": "1987-05-21",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Heath",
+          "lastname": "Hocking",
+          "jumper": "39",
+          "dob": "1987-12-27",
+          "height": "184cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Dyson",
+          "lastname": "Heppell",
+          "jumper": "21",
+          "dob": "1992-05-14",
+          "height": "189cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Patrick",
+          "lastname": "Ryder",
+          "jumper": "30",
+          "dob": "1988-03-14",
+          "height": "196cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Hurley",
+          "jumper": "18",
+          "dob": "1990-06-01",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Joe",
+          "lastname": "Daniher",
+          "jumper": "6",
+          "dob": "1994-03-04",
+          "height": "201cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Howlett",
+          "jumper": "40",
+          "dob": "1988-10-21",
+          "height": "180cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Chapman",
+          "jumper": "3",
+          "dob": "1981-11-05",
+          "height": "179cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Zach",
+          "lastname": "Merrett",
+          "jumper": "27",
+          "dob": "1995-10-03",
+          "height": "179cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Brendon",
+          "lastname": "Goddard",
+          "jumper": "9",
+          "dob": "1985-05-20",
+          "height": "189cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Hibberd",
+          "jumper": "1",
+          "dob": "1990-01-03",
+          "height": "186cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Jake",
+          "lastname": "Carlisle",
+          "jumper": "22",
+          "dob": "1991-10-01",
+          "height": "198cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Myers",
+          "jumper": "23",
+          "dob": "1989-06-30",
+          "height": "191cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Courtenay",
+          "lastname": "Dempsey",
+          "jumper": "15",
+          "dob": "1987-08-28",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Winderlich",
+          "jumper": "8",
+          "dob": "1984-10-10",
+          "height": "188cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Patrick",
+          "lastname": "Ambrose",
+          "jumper": "47",
+          "dob": "1991-09-01",
+          "height": "185cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Jake",
+          "lastname": "Melksham",
+          "jumper": "17",
+          "dob": "1991-08-29",
+          "height": "185cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jobe",
+          "lastname": "Watson",
+          "jumper": "4",
+          "dob": "1985-02-08",
+          "height": "190cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Dustin",
+          "lastname": "Fletcher",
+          "jumper": "31",
+          "dob": "1975-05-07",
+          "height": "198cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Jackson",
+          "lastname": "Merrett",
+          "jumper": "20",
+          "dob": "1993-02-27",
+          "height": "183cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Travis",
+          "lastname": "Colyer",
+          "jumper": "32",
+          "dob": "1991-08-24",
+          "height": "174cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Gleeson",
+          "jumper": "35",
+          "dob": "1994-08-25",
+          "height": "186cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Bellchambers",
+          "jumper": "2",
+          "dob": "1989-07-09",
+          "height": "202cm",
+          "weight": "108kg"
+        },
+        {
+          "firstname": "Kyle",
+          "lastname": "Hardingham",
+          "jumper": "34",
+          "dob": "1988-09-01",
+          "height": "186cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Cory",
+          "lastname": "Dell' Olio",
+          "jumper": "29",
+          "dob": "1989-12-08",
+          "height": "175cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Ashby",
+          "jumper": "14",
+          "dob": "1994-05-16",
+          "height": "187cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Ariel",
+          "lastname": "Steinberg",
+          "jumper": "25",
+          "dob": "1992-08-26",
+          "height": "191cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Orazio",
+          "lastname": "Fantasia",
+          "jumper": "46",
+          "dob": "1995-09-14",
+          "height": "177cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Elliott",
+          "lastname": "Kavanagh",
+          "jumper": "28",
+          "dob": "1993-05-19",
+          "height": "187cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Kurt",
+          "lastname": "Aylett",
+          "jumper": "43",
+          "dob": "1992-04-02",
+          "height": "189cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Leroy",
+          "lastname": "Jetta",
+          "jumper": "7",
+          "dob": "1988-07-06",
+          "height": "177cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Dylan",
+          "lastname": "Van Unen",
+          "jumper": "33",
+          "dob": "1990-06-22",
+          "height": "188cm",
+          "weight": "85kg"
+        }
+      ]
+    }
+  }
+}

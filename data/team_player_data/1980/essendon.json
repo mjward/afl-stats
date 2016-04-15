@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Merv",
-          "lastname": "Neagle",
-          "jumper": "34",
-          "dob": "1958-03-07",
-          "height": "181cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Neale",
           "lastname": "Daniher",
           "jumper": "6",
@@ -26,6 +18,14 @@
           "dob": "1961-07-13",
           "height": "185cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Merv",
+          "lastname": "Neagle",
+          "jumper": "34",
+          "dob": "1958-03-07",
+          "height": "181cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Alan",
@@ -68,20 +68,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Wayne",
-          "lastname": "Foreman",
-          "jumper": "22",
-          "dob": "1955-05-16",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Bennett",
           "jumper": "38",
           "dob": "1956-11-08",
           "height": "180cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Foreman",
+          "jumper": "22",
+          "dob": "1955-05-16",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Peter",
@@ -92,14 +92,6 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Grant",
-          "lastname": "Fowler",
-          "jumper": "23",
-          "dob": "1957-03-12",
-          "height": "180cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Garry",
           "lastname": "Foulds",
           "jumper": "10",
@@ -108,8 +100,16 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Grant",
+          "lastname": "Fowler",
+          "jumper": "23",
+          "dob": "1957-03-12",
+          "height": "180cm",
+          "weight": "74kg"
+        },
+        {
           "firstname": "Paul",
-          "lastname": "VanDerHaar",
+          "lastname": "Van Der Haar",
           "jumper": "18",
           "dob": "1958-03-07",
           "height": "192cm",
@@ -309,7 +309,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McAllester",
+          "lastname": "Mc Allester",
           "jumper": "40",
           "dob": "1959-04-16",
           "height": "190cm",

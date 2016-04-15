@@ -4,30 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Bernie",
-          "lastname": "Smith",
-          "jumper": "11",
-          "dob": "1927-12-19",
-          "height": "178cm",
-          "weight": "77kg"
-        },
-        {
-          "firstname": "Russ",
-          "lastname": "Renfrey",
-          "jumper": "8",
-          "dob": "1923-08-11",
-          "height": "183cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "Pianto",
-          "jumper": "6",
-          "dob": "1929-11-25",
-          "height": "170cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Morrison",
           "jumper": "1",
@@ -50,6 +26,30 @@
           "dob": "1931-02-08",
           "height": "170cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Bernie",
+          "lastname": "Smith",
+          "jumper": "11",
+          "dob": "1927-12-19",
+          "height": "178cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Russ",
+          "lastname": "Renfrey",
+          "jumper": "8",
+          "dob": "1923-08-11",
+          "height": "183cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Pianto",
+          "jumper": "6",
+          "dob": "1929-11-25",
+          "height": "170cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Bob",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "17",
           "dob": "1935-08-30",
           "height": "174cm",
@@ -109,7 +109,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "22",
           "dob": "1935-12-04",
           "height": "193cm",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McMaster",
+          "lastname": "Mc Master",
           "jumper": "7",
           "dob": "1930-01-30",
           "height": "192cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "35",
           "dob": "1933-02-15",
           "height": "178cm",

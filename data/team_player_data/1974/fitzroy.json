@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "6",
           "dob": "1948-06-11",
           "height": "191cm",
@@ -100,20 +100,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Andrew",
-          "lastname": "Lukas",
-          "jumper": "34",
-          "dob": "1950-07-19",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Dean",
           "lastname": "Farnham",
           "jumper": "32",
           "dob": "1950-08-18",
           "height": "206cm",
           "weight": "115kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Lukas",
+          "jumper": "34",
+          "dob": "1950-07-19",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Doug",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "19",
           "dob": "1951-10-19",
           "height": "180cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Keeffe",
+          "lastname": "O' Keeffe",
           "jumper": "11",
           "dob": "1952-10-22",
           "height": "180cm",

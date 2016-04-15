@@ -20,22 +20,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Callan",
-          "jumper": "7",
-          "dob": "1938-08-30",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Colin",
-          "lastname": "Rice",
-          "jumper": "15",
-          "dob": "1938-07-16",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Matt",
           "lastname": "Goggin",
           "jumper": "1",
@@ -58,6 +42,22 @@
           "dob": "1940-04-09",
           "height": "180cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Callan",
+          "jumper": "7",
+          "dob": "1938-08-30",
+          "height": "178cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Rice",
+          "jumper": "15",
+          "dob": "1938-07-16",
+          "height": "170cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Bill",
@@ -84,14 +84,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Helmer",
-          "jumper": "10",
-          "dob": "1938-01-19",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Miller",
           "jumper": "37",
@@ -101,7 +93,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "17",
           "dob": "1935-08-30",
           "height": "174cm",
@@ -117,11 +109,19 @@
         },
         {
           "firstname": "George",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "33",
           "dob": "1935-11-16",
           "height": "184cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Helmer",
+          "jumper": "10",
+          "dob": "1938-01-19",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Ken",
@@ -244,20 +244,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Graeme",
-          "lastname": "O'Donnell",
-          "jumper": "14",
-          "dob": "1938-07-19",
-          "height": "174cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Neil",
           "lastname": "Sutherland",
           "jumper": "32",
           "dob": "1942-05-19",
           "height": "191cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "O' Donnell",
+          "jumper": "14",
+          "dob": "1938-07-19",
+          "height": "174cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Terry",

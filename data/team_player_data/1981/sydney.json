@@ -69,19 +69,11 @@
         },
         {
           "firstname": "David",
-          "lastname": "Rhys-Jones",
+          "lastname": "Rhys- Jones",
           "jumper": "30",
           "dob": "1962-06-16",
           "height": "187cm",
           "weight": "84kg"
-        },
-        {
-          "firstname": "Silvio",
-          "lastname": "Foschini",
-          "jumper": "46",
-          "dob": "1963-09-18",
-          "height": "175cm",
-          "weight": "75kg"
         },
         {
           "firstname": "Graham",
@@ -90,6 +82,14 @@
           "dob": "1955-06-26",
           "height": "193cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Silvio",
+          "lastname": "Foschini",
+          "jumper": "46",
+          "dob": "1963-09-18",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Francis",
@@ -132,20 +132,20 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Max",
-          "lastname": "Kruse",
-          "jumper": "3",
-          "dob": "1958-10-29",
-          "height": "188cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Mark",
           "lastname": "Browning",
           "jumper": "11",
           "dob": "1956-11-30",
           "height": "180cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Max",
+          "lastname": "Kruse",
+          "jumper": "3",
+          "dob": "1958-10-29",
+          "height": "188cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Max",
@@ -341,7 +341,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "4",
           "dob": "1951-08-18",
           "height": "192cm",

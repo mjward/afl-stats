@@ -44,6 +44,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Carey",
+          "jumper": "14",
+          "dob": "1905-12-30",
+          "height": "175cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Allan",
           "lastname": "Chandler",
           "jumper": "7",
@@ -53,11 +61,11 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "Carey",
-          "jumper": "14",
-          "dob": "1905-12-30",
-          "height": "175cm",
-          "weight": "78kg"
+          "lastname": "Hudd",
+          "jumper": "4",
+          "dob": "1901-11-28",
+          "height": "182cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Arthur",
@@ -74,14 +82,6 @@
           "dob": "1907-07-24",
           "height": "165cm",
           "weight": "67kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Hudd",
-          "jumper": "4",
-          "dob": "1901-11-28",
-          "height": "182cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Lyall",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Bert",
-          "lastname": "McComb",
+          "lastname": "Mc Comb",
           "jumper": "5",
           "dob": "1906-09-27",
           "height": "180cm",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "12",
           "dob": "1901-07-27",
           "height": "—",

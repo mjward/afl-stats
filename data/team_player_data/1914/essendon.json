@@ -12,14 +12,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Bowe",
-          "jumper": "4",
-          "dob": "1885-10-27",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Ogden",
           "jumper": "16",
@@ -36,20 +28,20 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Len",
+          "lastname": "Bowe",
+          "jumper": "4",
+          "dob": "1885-10-27",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Dan",
           "lastname": "Hanley",
           "jumper": "10",
           "dob": "1883-05-17",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Baring",
-          "jumper": "5",
-          "dob": "1890-12-15",
-          "height": "185cm",
-          "weight": "90kg"
         },
         {
           "firstname": "Jack",
@@ -82,6 +74,14 @@
           "dob": "1888-08-15",
           "height": "185cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Fred",
+          "lastname": "Baring",
+          "jumper": "5",
+          "dob": "1890-12-15",
+          "height": "185cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Wally",
@@ -141,9 +141,17 @@
         },
         {
           "firstname": "Vic",
-          "lastname": "McNeil",
+          "lastname": "Mc Neil",
           "jumper": "28",
           "dob": "1890-07-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Tommy",
+          "lastname": "Wade",
+          "jumper": "8",
+          "dob": "1894-03-02",
           "height": "—",
           "weight": "—"
         },
@@ -154,14 +162,6 @@
           "dob": "1894-06-09",
           "height": "185cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Tommy",
-          "lastname": "Wade",
-          "jumper": "8",
-          "dob": "1894-03-02",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Jimmy",
@@ -228,18 +228,18 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Parkinson",
-          "jumper": "21",
-          "dob": "1893-12-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Basil",
           "lastname": "Nehill",
           "jumper": "6",
           "dob": "1891-06-10",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Parkinson",
+          "jumper": "21",
+          "dob": "1893-12-10",
           "height": "—",
           "weight": "—"
         },

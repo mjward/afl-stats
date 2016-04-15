@@ -4,22 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Johnny",
-          "lastname": "Birt",
-          "jumper": "11",
-          "dob": "1937-01-29",
-          "height": "174cm",
-          "weight": "69kg"
-        },
-        {
-          "firstname": "Mal",
-          "lastname": "Pascoe",
-          "jumper": "34",
-          "dob": "1933-03-31",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Jeff",
           "lastname": "Gamble",
           "jumper": "22",
@@ -60,6 +44,30 @@
           "weight": "96kg"
         },
         {
+          "firstname": "Johnny",
+          "lastname": "Birt",
+          "jumper": "11",
+          "dob": "1937-01-29",
+          "height": "174cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Mal",
+          "lastname": "Pascoe",
+          "jumper": "34",
+          "dob": "1933-03-31",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Fraser",
+          "jumper": "23",
+          "dob": "1940-02-17",
+          "height": "187cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Alby",
           "lastname": "Murdoch",
           "jumper": "15",
@@ -73,14 +81,6 @@
           "jumper": "26",
           "dob": "1936-10-21",
           "height": "183cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Ken",
-          "lastname": "Fraser",
-          "jumper": "23",
-          "dob": "1940-02-17",
-          "height": "187cm",
           "weight": "80kg"
         },
         {

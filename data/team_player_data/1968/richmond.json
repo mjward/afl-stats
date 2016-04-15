@@ -4,20 +4,20 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Mike",
-          "lastname": "Patterson",
-          "jumper": "25",
-          "dob": "1941-01-07",
-          "height": "193cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Kevin",
           "lastname": "Bartlett",
           "jumper": "29",
           "dob": "1947-03-06",
           "height": "177cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Patterson",
+          "jumper": "25",
+          "dob": "1941-01-07",
+          "height": "193cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Billy",
@@ -84,6 +84,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Michael",
+          "lastname": "Bowden",
+          "jumper": "11",
+          "dob": "1947-03-21",
+          "height": "185cm",
+          "weight": "94kg"
+        },
+        {
           "firstname": "Ted",
           "lastname": "Murphy",
           "jumper": "10",
@@ -100,14 +108,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Michael",
-          "lastname": "Bowden",
-          "jumper": "11",
-          "dob": "1947-03-21",
-          "height": "185cm",
-          "weight": "94kg"
-        },
-        {
           "firstname": "Mike",
           "lastname": "Green",
           "jumper": "37",
@@ -116,20 +116,20 @@
           "weight": "95kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Burgin",
-          "jumper": "27",
-          "dob": "1948-04-04",
-          "height": "187cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Roger",
           "lastname": "Dean",
           "jumper": "3",
           "dob": "1940-04-30",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Burgin",
+          "jumper": "27",
+          "dob": "1948-04-04",
+          "height": "187cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Rex",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Des",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "48",
           "dob": "1945-03-15",
           "height": "185cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "20",
           "dob": "1946-05-10",
           "height": "193cm",

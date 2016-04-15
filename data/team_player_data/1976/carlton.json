@@ -4,7 +4,15 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Peter'Percy'",
+          "firstname": "John",
+          "lastname": "O' Connell",
+          "jumper": "19",
+          "dob": "1951-04-22",
+          "height": "183cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Peter' Percy'",
           "lastname": "Jones",
           "jumper": "28",
           "dob": "1946-10-20",
@@ -21,7 +29,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "43",
           "dob": "1949-11-05",
           "height": "191cm",
@@ -44,16 +52,8 @@
           "weight": "92kg"
         },
         {
-          "firstname": "John",
-          "lastname": "O'Connell",
-          "jumper": "19",
-          "dob": "1951-04-22",
-          "height": "183cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Mark",
-          "lastname": "MacLure",
+          "lastname": "Mac Lure",
           "jumper": "36",
           "dob": "1955-07-14",
           "height": "188cm",
@@ -76,6 +76,14 @@
           "weight": "87kg"
         },
         {
+          "firstname": "Rod",
+          "lastname": "Austin",
+          "jumper": "21",
+          "dob": "1953-01-26",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Phillip",
           "lastname": "Pinnell",
           "jumper": "15",
@@ -88,14 +96,6 @@
           "lastname": "Byrne",
           "jumper": "26",
           "dob": "1953-07-16",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "Austin",
-          "jumper": "21",
-          "dob": "1953-01-26",
           "height": "180cm",
           "weight": "80kg"
         },
@@ -157,19 +157,11 @@
         },
         {
           "firstname": "Leigh",
-          "lastname": "McConnon",
+          "lastname": "Mc Connon",
           "jumper": "32",
           "dob": "1953-06-09",
           "height": "177cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Syd",
-          "lastname": "Jackson",
-          "jumper": "5",
-          "dob": "1944-07-01",
-          "height": "173cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Mike",
@@ -178,6 +170,14 @@
           "dob": "1953-01-28",
           "height": "191cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Jackson",
+          "jumper": "5",
+          "dob": "1944-07-01",
+          "height": "173cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Graeme",

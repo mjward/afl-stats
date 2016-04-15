@@ -21,19 +21,11 @@
         },
         {
           "firstname": "David",
-          "lastname": "McLeish",
+          "lastname": "Mc Leish",
           "jumper": "29",
           "dob": "1950-02-21",
           "height": "180cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Gary",
-          "lastname": "Brice",
-          "jumper": "7",
-          "dob": "1948-10-07",
-          "height": "180cm",
-          "weight": "78kg"
         },
         {
           "firstname": "John",
@@ -42,6 +34,14 @@
           "dob": "1943-12-09",
           "height": "182cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Brice",
+          "jumper": "7",
+          "dob": "1948-10-07",
+          "height": "180cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Barry",
@@ -60,14 +60,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Bedford",
-          "jumper": "11",
-          "dob": "1947-04-11",
-          "height": "180cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Ian",
           "lastname": "Thomson",
           "jumper": "9",
@@ -76,12 +68,12 @@
           "weight": "88kg"
         },
         {
-          "firstname": "Brian",
-          "lastname": "Woodman",
-          "jumper": "10",
-          "dob": "1950-10-10",
-          "height": "175cm",
-          "weight": "70kg"
+          "firstname": "Peter",
+          "lastname": "Bedford",
+          "jumper": "11",
+          "dob": "1947-04-11",
+          "height": "180cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Graham",
@@ -92,8 +84,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Brian",
+          "lastname": "Woodman",
+          "jumper": "10",
+          "dob": "1950-10-10",
+          "height": "175cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Norm",
-          "lastname": "GossJnr",
+          "lastname": "Goss Jnr",
           "jumper": "12",
           "dob": "1951-03-03",
           "height": "177cm",
@@ -116,20 +116,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Teasdale",
-          "jumper": "20",
-          "dob": "1955-06-26",
-          "height": "193cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Stewart",
           "lastname": "Gull",
           "jumper": "34",
           "dob": "1951-06-24",
           "height": "191cm",
           "weight": "87kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Teasdale",
+          "jumper": "20",
+          "dob": "1955-06-26",
+          "height": "193cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Barry",
@@ -172,20 +172,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Morrison",
-          "jumper": "35",
-          "dob": "1956-04-17",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Colin",
           "lastname": "Hounsell",
           "jumper": "37",
           "dob": "1955-09-04",
           "height": "173cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Morrison",
+          "jumper": "35",
+          "dob": "1956-04-17",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Barry",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Terry",
-          "lastname": "O'Neill",
+          "lastname": "O' Neill",
           "jumper": "19",
           "dob": "1956-06-10",
           "height": "189cm",

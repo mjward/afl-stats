@@ -12,6 +12,14 @@
           "weight": "67kg"
         },
         {
+          "firstname": "Colin",
+          "lastname": "Watson",
+          "jumper": "31",
+          "dob": "1900-10-12",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Harry",
           "lastname": "Comte",
           "jumper": "9",
@@ -26,14 +34,6 @@
           "dob": "1908-12-04",
           "height": "178cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Colin",
-          "lastname": "Watson",
-          "jumper": "31",
-          "dob": "1900-10-12",
-          "height": "180cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Jack",
@@ -52,14 +52,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Anderson",
-          "jumper": "6",
-          "dob": "1909-03-03",
-          "height": "185cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Downie",
           "jumper": "40",
@@ -74,6 +66,14 @@
           "dob": "1909-06-29",
           "height": "182cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Anderson",
+          "jumper": "6",
+          "dob": "1909-03-03",
+          "height": "185cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Les",
@@ -116,20 +116,20 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Matt",
-          "lastname": "Cave",
-          "jumper": "25",
-          "dob": "1910-03-30",
-          "height": "190cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Clarrie",
           "lastname": "Hindson",
           "jumper": "29",
           "dob": "1907-10-07",
           "height": "173cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Matt",
+          "lastname": "Cave",
+          "jumper": "25",
+          "dob": "1910-03-30",
+          "height": "190cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Stuart",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Ted",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "35",
           "dob": "1911-03-19",
           "height": "—",
@@ -309,7 +309,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "33",
           "dob": "1907-08-08",
           "height": "185cm",

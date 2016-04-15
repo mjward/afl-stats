@@ -4,6 +4,22 @@
     "teams": {
       "University": [
         {
+          "firstname": "Chris",
+          "lastname": "Fogarty",
+          "jumper": "—",
+          "dob": "1884-01-28",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Crawford",
+          "jumper": "—",
+          "dob": "1887-06-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Alick",
           "lastname": "Ogilvie",
           "jumper": "—",
@@ -28,18 +44,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Chris",
-          "lastname": "Fogarty",
+          "firstname": "Norm",
+          "lastname": "Richards",
           "jumper": "—",
-          "dob": "1884-01-28",
-          "height": "185cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Crawford",
-          "jumper": "—",
-          "dob": "1887-06-07",
+          "dob": "1890-04-06",
           "height": "—",
           "weight": "—"
         },
@@ -48,14 +56,6 @@
           "lastname": "Ratz",
           "jumper": "—",
           "dob": "1887-10-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Norm",
-          "lastname": "Richards",
-          "jumper": "—",
-          "dob": "1890-04-06",
           "height": "—",
           "weight": "—"
         },
@@ -84,7 +84,7 @@
           "weight": "—"
         },
         {
-          "firstname": "Leo'Sommy'",
+          "firstname": "Leo' Sommy'",
           "lastname": "Seward",
           "jumper": "—",
           "dob": "1885-11-03",
@@ -132,18 +132,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Mark",
-          "lastname": "Gardner",
-          "jumper": "—",
-          "dob": "1884-09-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Jones",
           "jumper": "19",
           "dob": "1888-03-05",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Gardner",
+          "jumper": "—",
+          "dob": "1884-09-11",
           "height": "—",
           "weight": "—"
         },
@@ -164,18 +164,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Bert",
-          "lastname": "Hartkopf",
-          "jumper": "26",
-          "dob": "1889-12-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Mal",
           "lastname": "Williams",
           "jumper": "—",
           "dob": "1886-09-09",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bert",
+          "lastname": "Hartkopf",
+          "jumper": "26",
+          "dob": "1889-12-28",
           "height": "—",
           "weight": "—"
         },

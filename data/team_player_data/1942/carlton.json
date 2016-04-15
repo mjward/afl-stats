@@ -5,14 +5,6 @@
       "Carlton": [
         {
           "firstname": "Jim",
-          "lastname": "Mooring",
-          "jumper": "16",
-          "dob": "1917-10-14",
-          "height": "170cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Jim",
           "lastname": "Francis",
           "jumper": "10",
           "dob": "1910-12-12",
@@ -37,35 +29,19 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McInnes",
+          "lastname": "Mc Innes",
           "jumper": "31",
           "dob": "1916-08-21",
           "height": "174cm",
           "weight": "88kg"
         },
         {
-          "firstname": "Vin",
-          "lastname": "Brown",
-          "jumper": "15",
-          "dob": "1922-02-05",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Bailey",
-          "jumper": "5",
-          "dob": "1919-07-05",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Atkinson",
-          "jumper": "9",
-          "dob": "1913-10-29",
-          "height": "173cm",
-          "weight": "80kg"
+          "firstname": "Jim",
+          "lastname": "Mooring",
+          "jumper": "16",
+          "dob": "1917-10-14",
+          "height": "170cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Fred",
@@ -92,20 +68,28 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Savage",
-          "jumper": "24",
-          "dob": "1917-04-22",
-          "height": "187cm",
-          "weight": "89kg"
+          "firstname": "Vin",
+          "lastname": "Brown",
+          "jumper": "15",
+          "dob": "1922-02-05",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Knight",
-          "jumper": "11",
-          "dob": "1918-01-03",
+          "firstname": "George",
+          "lastname": "Bailey",
+          "jumper": "5",
+          "dob": "1919-07-05",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Atkinson",
+          "jumper": "9",
+          "dob": "1913-10-29",
           "height": "173cm",
-          "weight": "73kg"
+          "weight": "80kg"
         },
         {
           "firstname": "Bob",
@@ -122,6 +106,22 @@
           "dob": "1920-11-09",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Savage",
+          "jumper": "24",
+          "dob": "1917-04-22",
+          "height": "187cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Knight",
+          "jumper": "11",
+          "dob": "1918-01-03",
+          "height": "173cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Jack",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "2",
           "dob": "1915-03-05",
           "height": "179cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Rod",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "14",
           "dob": "1915-10-22",
           "height": "182cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "HowellJnr",
+          "lastname": "Howell Jnr",
           "jumper": "13",
           "dob": "1924-08-31",
           "height": "193cm",

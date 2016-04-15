@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Greg",
-          "lastname": "Lambert",
-          "jumper": "33",
-          "dob": "1947-03-01",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Max",
           "lastname": "Robertson",
           "jumper": "23",
@@ -21,7 +13,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McLeish",
+          "lastname": "Mc Leish",
           "jumper": "29",
           "dob": "1950-02-21",
           "height": "180cm",
@@ -29,7 +21,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "GossJnr",
+          "lastname": "Goss Jnr",
           "jumper": "12",
           "dob": "1951-03-03",
           "height": "177cm",
@@ -52,6 +44,14 @@
           "weight": "88kg"
         },
         {
+          "firstname": "Greg",
+          "lastname": "Lambert",
+          "jumper": "33",
+          "dob": "1947-03-01",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Stewart",
           "lastname": "Gull",
           "jumper": "34",
@@ -68,14 +68,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Reg",
-          "lastname": "Gleeson",
-          "jumper": "27",
-          "dob": "1950-05-01",
-          "height": "183cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Peter",
           "lastname": "Bedford",
           "jumper": "11",
@@ -84,12 +76,12 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Russ",
-          "lastname": "Hodges",
-          "jumper": "47",
-          "dob": "1953-07-19",
-          "height": "185cm",
-          "weight": "83kg"
+          "firstname": "Reg",
+          "lastname": "Gleeson",
+          "jumper": "27",
+          "dob": "1950-05-01",
+          "height": "183cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Barry",
@@ -108,6 +100,22 @@
           "weight": "88kg"
         },
         {
+          "firstname": "Russ",
+          "lastname": "Hodges",
+          "jumper": "47",
+          "dob": "1953-07-19",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Brice",
+          "jumper": "7",
+          "dob": "1948-10-07",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Greg",
           "lastname": "Miller",
           "jumper": "5",
@@ -122,14 +130,6 @@
           "dob": "1947-09-23",
           "height": "185cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Gary",
-          "lastname": "Brice",
-          "jumper": "7",
-          "dob": "1948-10-07",
-          "height": "180cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Peter",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Neville",
-          "lastname": "StibbardJnr",
+          "lastname": "Stibbard Jnr",
           "jumper": "25",
           "dob": "1952-02-09",
           "height": "178cm",

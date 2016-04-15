@@ -4,8 +4,16 @@
     "teams": {
       "North Melbourne": [
         {
+          "firstname": "Roy",
+          "lastname": "Ramsay",
+          "jumper": "30",
+          "dob": "1956-01-03",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Donald",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "25",
           "dob": "1962-05-10",
           "height": "191cm",
@@ -20,20 +28,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Ramsay",
-          "jumper": "30",
-          "dob": "1956-01-03",
-          "height": "180cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Stephen",
-          "lastname": "McCann",
+          "lastname": "Mc Cann",
           "jumper": "16",
           "dob": "1958-05-31",
           "height": "192cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Ross",
+          "lastname": "Smith",
+          "jumper": "54",
+          "dob": "1965-02-03",
+          "height": "184cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Kym",
@@ -50,14 +58,6 @@
           "dob": "1964-03-15",
           "height": "182cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Ross",
-          "lastname": "Smith",
-          "jumper": "54",
-          "dob": "1965-02-03",
-          "height": "184cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Ross",
@@ -124,6 +124,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Densley",
+          "jumper": "44",
+          "dob": "1964-06-01",
+          "height": "178cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Berry",
           "jumper": "34",
@@ -140,20 +148,20 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Densley",
-          "jumper": "44",
-          "dob": "1964-06-01",
-          "height": "178cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Matthew",
           "lastname": "Larkin",
           "jumper": "41",
           "dob": "1964-08-19",
           "height": "180cm",
           "weight": "90kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Bryant",
+          "jumper": "9",
+          "dob": "1955-01-08",
+          "height": "189cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Graeme",
@@ -170,14 +178,6 @@
           "dob": "1964-09-18",
           "height": "189cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "Bryant",
-          "jumper": "9",
-          "dob": "1955-01-08",
-          "height": "189cm",
-          "weight": "87kg"
         },
         {
           "firstname": "John",
@@ -333,7 +333,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "McGuire",
+          "lastname": "Mc Guire",
           "jumper": "31",
           "dob": "1961-06-10",
           "height": "185cm",

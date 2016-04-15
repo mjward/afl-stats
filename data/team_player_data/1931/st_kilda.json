@@ -20,6 +20,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Lloyd",
+          "lastname": "Jones",
+          "jumper": "4",
+          "dob": "1906-01-04",
+          "height": "170cm",
+          "weight": "67kg"
+        },
+        {
           "firstname": "Stuart",
           "lastname": "King",
           "jumper": "1",
@@ -34,14 +42,6 @@
           "dob": "1909-03-10",
           "height": "175cm",
           "weight": "71kg"
-        },
-        {
-          "firstname": "Lloyd",
-          "lastname": "Jones",
-          "jumper": "4",
-          "dob": "1906-01-04",
-          "height": "170cm",
-          "weight": "67kg"
         },
         {
           "firstname": "Fred",
@@ -124,20 +124,20 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Anderson",
-          "jumper": "25",
-          "dob": "1909-03-03",
-          "height": "185cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "William",
           "lastname": "Stevens",
           "jumper": "2",
           "dob": "1905-08-06",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Anderson",
+          "jumper": "25",
+          "dob": "1909-03-03",
+          "height": "185cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Jim",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "McLorinan",
+          "lastname": "Mc Lorinan",
           "jumper": "13",
           "dob": "1906-08-31",
           "height": "—",

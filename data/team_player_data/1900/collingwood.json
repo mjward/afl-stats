@@ -37,7 +37,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MonohanSnr",
+          "lastname": "Monohan Snr",
           "jumper": "—",
           "dob": "1873-08-21",
           "height": "184cm",
@@ -53,19 +53,11 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "—",
           "dob": "1877-03-23",
           "height": "175cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Frank",
-          "lastname": "Hailwood",
-          "jumper": "—",
-          "dob": "1873-04-03",
-          "height": "184cm",
-          "weight": "91kg"
         },
         {
           "firstname": "Bob",
@@ -82,6 +74,14 @@
           "dob": "1876-03-19",
           "height": "180cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Hailwood",
+          "jumper": "—",
+          "dob": "1873-04-03",
+          "height": "184cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Doug",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Tom",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "—",
           "dob": "1876-07-07",
           "height": "—",

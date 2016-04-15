@@ -4,20 +4,20 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Leo",
-          "lastname": "Murphy",
-          "jumper": "16",
-          "dob": "1909-08-07",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Pool",
           "jumper": "19",
           "dob": "1906-11-09",
           "height": "165cm",
           "weight": "65kg"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Murphy",
+          "jumper": "16",
+          "dob": "1909-08-07",
+          "height": "185cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Bert",
@@ -52,14 +52,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Spinks",
-          "jumper": "7",
-          "dob": "1912-10-16",
-          "height": "171cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Ryan",
           "jumper": "21",
@@ -74,6 +66,14 @@
           "dob": "1907-12-06",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Spinks",
+          "jumper": "7",
+          "dob": "1912-10-16",
+          "height": "171cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Bert",
@@ -92,20 +92,20 @@
           "weight": "65kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Bennett",
-          "jumper": "24",
-          "dob": "1911-09-22",
-          "height": "184cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Francis",
           "jumper": "10",
           "dob": "1910-12-12",
           "height": "184cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Bennett",
+          "jumper": "24",
+          "dob": "1911-09-22",
+          "height": "184cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Alex",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeySnr",
+          "lastname": "Twomey Snr",
           "jumper": "1",
           "dob": "1899-05-14",
           "height": "174cm",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "AkedSnr",
+          "lastname": "Aked Snr",
           "jumper": "7",
           "dob": "1902-11-25",
           "height": "183cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McGillivray",
+          "lastname": "Mc Gillivray",
           "jumper": "32",
           "dob": "1910-07-10",
           "height": "185cm",
@@ -268,14 +268,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Hillard",
-          "jumper": "25",
-          "dob": "1915-06-03",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "White",
           "jumper": "10",
@@ -290,6 +282,14 @@
           "dob": "1913-07-11",
           "height": "183cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Norm",
+          "lastname": "Hillard",
+          "jumper": "25",
+          "dob": "1915-06-03",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Larry",

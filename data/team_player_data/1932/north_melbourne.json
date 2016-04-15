@@ -52,20 +52,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Allen",
-          "jumper": "16",
-          "dob": "1911-03-07",
-          "height": "178cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Pearce",
           "jumper": "44",
           "dob": "1904-06-13",
           "height": "177cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Allen",
+          "jumper": "16",
+          "dob": "1911-03-07",
+          "height": "178cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Jack",
@@ -76,20 +76,20 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Taylor",
-          "jumper": "35",
-          "dob": "1901-11-28",
-          "height": "178cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Selwyn",
           "lastname": "Baker",
           "jumper": "4",
           "dob": "1911-04-09",
           "height": "166cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Taylor",
+          "jumper": "35",
+          "dob": "1901-11-28",
+          "height": "178cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Ray",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Syd",
-          "lastname": "BarkerJnr",
+          "lastname": "Barker Jnr",
           "jumper": "5",
           "dob": "1911-10-15",
           "height": "—",

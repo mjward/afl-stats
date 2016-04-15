@@ -4,14 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Bill",
-          "lastname": "Findlay",
-          "jumper": "9",
-          "dob": "1913-10-29",
-          "height": "168cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Kennedy",
           "jumper": "18",
@@ -28,12 +20,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Tom",
-          "lastname": "Roulent",
-          "jumper": "3",
-          "dob": "1918-02-10",
-          "height": "180cm",
-          "weight": "90kg"
+          "firstname": "Bill",
+          "lastname": "Findlay",
+          "jumper": "9",
+          "dob": "1913-10-29",
+          "height": "168cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Sel",
@@ -45,11 +37,19 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "McCorkell",
+          "lastname": "Mc Corkell",
           "jumper": "14",
           "dob": "1918-07-02",
           "height": "183cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Roulent",
+          "jumper": "3",
+          "dob": "1918-02-10",
+          "height": "180cm",
+          "weight": "90kg"
         },
         {
           "firstname": "Jim",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Dally",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "28",
           "dob": "1918-10-31",
           "height": "182cm",

@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Alf",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1876-11-30",
           "height": "—",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "—",
           "dob": "1874-09-25",
           "height": "—",
@@ -114,14 +114,6 @@
           "dob": "1876-11-27",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Eddie",
-          "lastname": "Drohan",
-          "jumper": "—",
-          "dob": "1876-07-17",
-          "height": "171cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Pat",
@@ -138,6 +130,14 @@
           "dob": "1878-05-06",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Drohan",
+          "jumper": "—",
+          "dob": "1876-07-17",
+          "height": "171cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Bill",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McEwen",
+          "lastname": "Mc Ewen",
           "jumper": "—",
           "dob": "1877-04-02",
           "height": "—",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Dave",
-          "lastname": "McGrath",
+          "lastname": "Mc Grath",
           "jumper": "—",
           "dob": "1872-11-10",
           "height": "170cm",

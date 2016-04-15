@@ -4,8 +4,8 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Norm'Snowy'",
-          "lastname": "McIntosh",
+          "firstname": "Norm' Snowy'",
+          "lastname": "Mc Intosh",
           "jumper": "3",
           "dob": "1890-03-03",
           "height": "175cm",
@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Angus",
-          "lastname": "MacIsaac",
+          "lastname": "Mac Isaac",
           "jumper": "28",
           "dob": "1900-04-15",
           "height": "187cm",
@@ -52,14 +52,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Doug",
-          "lastname": "Hayes",
-          "jumper": "20",
-          "dob": "1896-09-16",
-          "height": "163cm",
-          "weight": "60kg"
-        },
-        {
           "firstname": "Mel",
           "lastname": "Morris",
           "jumper": "11",
@@ -69,11 +61,19 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McCaskill",
+          "lastname": "Mc Caskill",
           "jumper": "25",
           "dob": "1895-09-27",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Hayes",
+          "jumper": "20",
+          "dob": "1896-09-16",
+          "height": "163cm",
+          "weight": "60kg"
         },
         {
           "firstname": "Jim",

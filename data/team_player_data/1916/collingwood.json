@@ -20,20 +20,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
           "jumper": "17",
           "dob": "1882-12-12",
           "height": "180cm",
           "weight": "78kg"
-        },
-        {
-          "firstname": "Maurie",
-          "lastname": "Sheehy",
-          "jumper": "22",
-          "dob": "1893-06-12",
-          "height": "175cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Dick",
@@ -44,8 +36,16 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Maurie",
+          "lastname": "Sheehy",
+          "jumper": "22",
+          "dob": "1893-06-12",
+          "height": "175cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Con",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "18",
           "dob": "1893-02-10",
           "height": "180cm",
@@ -66,6 +66,22 @@
           "dob": "1892-05-04",
           "height": "173cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Clancy",
+          "jumper": "4",
+          "dob": "1887-04-11",
+          "height": "175cm",
+          "weight": "65kg"
+        },
+        {
+          "firstname": "Matt",
+          "lastname": "Cody",
+          "jumper": "6",
+          "dob": "1895-02-28",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Les",
@@ -98,22 +114,6 @@
           "dob": "1890-03-20",
           "height": "175cm",
           "weight": "72kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "Clancy",
-          "jumper": "4",
-          "dob": "1887-04-11",
-          "height": "175cm",
-          "weight": "65kg"
-        },
-        {
-          "firstname": "Matt",
-          "lastname": "Cody",
-          "jumper": "6",
-          "dob": "1895-02-28",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Charlie",

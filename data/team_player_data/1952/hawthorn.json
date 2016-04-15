@@ -4,22 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Lance",
-          "lastname": "Wilkinson",
-          "jumper": "16",
-          "dob": "1931-03-14",
-          "height": "170cm",
-          "weight": "70kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "O'Mahoney",
-          "jumper": "3",
-          "dob": "1931-12-07",
-          "height": "179cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Len",
           "lastname": "Crane",
           "jumper": "1",
@@ -44,6 +28,38 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Lance",
+          "lastname": "Wilkinson",
+          "jumper": "16",
+          "dob": "1931-03-14",
+          "height": "170cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "O' Mahoney",
+          "jumper": "3",
+          "dob": "1931-12-07",
+          "height": "179cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Fletcher",
+          "jumper": "23",
+          "dob": "1925-12-13",
+          "height": "187cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Mac Donald",
+          "jumper": "21",
+          "dob": "1927-05-16",
+          "height": "179cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Clive",
           "lastname": "Philp",
           "jumper": "8",
@@ -60,24 +76,8 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Fletcher",
-          "jumper": "23",
-          "dob": "1925-12-13",
-          "height": "187cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "MacDonald",
-          "jumper": "21",
-          "dob": "1927-05-16",
-          "height": "179cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "John",
-          "lastname": "KennedySnr",
+          "lastname": "Kennedy Snr",
           "jumper": "10",
           "dob": "1928-12-20",
           "height": "188cm",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "O'Donohue",
+          "lastname": "O' Donohue",
           "jumper": "14",
           "dob": "1923-06-14",
           "height": "179cm",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "LeNepveu",
+          "lastname": "Le Nepveu",
           "jumper": "19",
           "dob": "1927-10-07",
           "height": "177cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Vic",
-          "lastname": "McKinnon",
+          "lastname": "Mc Kinnon",
           "jumper": "20",
           "dob": "1926-01-19",
           "height": "183cm",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Phil",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "15",
           "dob": "1930-12-31",
           "height": "175cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McGreevy",
+          "lastname": "Mc Greevy",
           "jumper": "17",
           "dob": "1930-05-11",
           "height": "184cm",

@@ -68,6 +68,14 @@
           "weight": "87kg"
         },
         {
+          "firstname": "Neil",
+          "lastname": "Busse",
+          "jumper": "16",
+          "dob": "1945-04-03",
+          "height": "189cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Roger",
           "lastname": "Dean",
           "jumper": "3",
@@ -84,20 +92,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Neil",
-          "lastname": "Busse",
-          "jumper": "16",
-          "dob": "1945-04-03",
-          "height": "189cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Billy",
           "lastname": "Brown",
           "jumper": "40",
           "dob": "1942-10-09",
           "height": "171cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Bartlett",
+          "jumper": "29",
+          "dob": "1947-03-06",
+          "height": "177cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Neville",
@@ -116,28 +124,12 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Bartlett",
-          "jumper": "29",
-          "dob": "1947-03-06",
-          "height": "177cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Ross",
           "lastname": "Warner",
           "jumper": "14",
           "dob": "1944-08-02",
           "height": "193cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Sheahan",
-          "jumper": "4",
-          "dob": "1942-09-19",
-          "height": "184cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Trevor",
@@ -154,6 +146,14 @@
           "dob": "1943-06-06",
           "height": "187cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Sheahan",
+          "jumper": "4",
+          "dob": "1942-09-19",
+          "height": "184cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Mike",
@@ -268,20 +268,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Ronaldson",
-          "jumper": "2",
-          "dob": "1946-10-01",
-          "height": "196cm",
-          "weight": "102kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Teague",
           "jumper": "36",
           "dob": "1946-03-19",
           "height": "170cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Ronaldson",
+          "jumper": "2",
+          "dob": "1946-10-01",
+          "height": "196cm",
+          "weight": "102kg"
         },
         {
           "firstname": "John",

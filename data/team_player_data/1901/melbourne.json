@@ -28,22 +28,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Vic",
-          "lastname": "Cumberland",
-          "jumper": "—",
-          "dob": "1877-07-04",
-          "height": "182cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Sowden",
-          "jumper": "—",
-          "dob": "1878-04-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Dan",
           "lastname": "Moriarty",
           "jumper": "—",
@@ -53,7 +37,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McClelland",
+          "lastname": "Mc Clelland",
           "jumper": "—",
           "dob": "1875-02-09",
           "height": "—",
@@ -69,11 +53,27 @@
         },
         {
           "firstname": "Fred",
-          "lastname": "McGinis",
+          "lastname": "Mc Ginis",
           "jumper": "—",
           "dob": "1874-11-11",
           "height": "175cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Vic",
+          "lastname": "Cumberland",
+          "jumper": "—",
+          "dob": "1877-07-04",
+          "height": "182cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Sowden",
+          "jumper": "—",
+          "dob": "1878-04-06",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Bill",
@@ -108,14 +108,6 @@
           "weight": "63kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Colclough",
-          "jumper": "—",
-          "dob": "1883-10-15",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Les",
           "lastname": "Rippon",
           "jumper": "—",
@@ -124,8 +116,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Graham",
+          "lastname": "Colclough",
+          "jumper": "—",
+          "dob": "1883-10-15",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jim",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "—",
           "dob": "1880-05-02",
           "height": "—",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "WardillJnr",
+          "lastname": "Wardill Jnr",
           "jumper": "—",
           "dob": "1872-07-05",
           "height": "—",
@@ -260,18 +260,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Harold",
-          "lastname": "DeGruchy",
-          "jumper": "—",
-          "dob": "1881-02-09",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Strong",
           "jumper": "24",
           "dob": "1884-04-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "De Gruchy",
+          "jumper": "—",
+          "dob": "1881-02-09",
           "height": "—",
           "weight": "—"
         },

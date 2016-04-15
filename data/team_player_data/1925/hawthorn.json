@@ -4,8 +4,16 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Stan",
+          "lastname": "Mc Kenzie",
+          "jumper": "3",
+          "dob": "1896-08-30",
+          "height": "173cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Jim",
-          "lastname": "McCashney",
+          "lastname": "Mc Cashney",
           "jumper": "8",
           "dob": "1900-12-30",
           "height": "175cm",
@@ -20,12 +28,12 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "McKenzie",
-          "jumper": "3",
-          "dob": "1896-08-30",
-          "height": "173cm",
-          "weight": "75kg"
+          "firstname": "Bert",
+          "lastname": "Calwell",
+          "jumper": "26",
+          "dob": "1898-12-25",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Gil",
@@ -50,14 +58,6 @@
           "dob": "1899-09-17",
           "height": "188cm",
           "weight": "84kg"
-        },
-        {
-          "firstname": "Bert",
-          "lastname": "Calwell",
-          "jumper": "26",
-          "dob": "1898-12-25",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "Hec",
@@ -148,14 +148,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Bolt",
-          "jumper": "19",
-          "dob": "1899-08-01",
-          "height": "170cm",
-          "weight": "69kg"
-        },
-        {
           "firstname": "Lew",
           "lastname": "Gough",
           "jumper": "30",
@@ -164,12 +156,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Pat",
-          "lastname": "Keary",
-          "jumper": "29",
-          "dob": "1901-10-10",
-          "height": "180cm",
-          "weight": "81kg"
+          "firstname": "George",
+          "lastname": "Bolt",
+          "jumper": "19",
+          "dob": "1899-08-01",
+          "height": "170cm",
+          "weight": "69kg"
         },
         {
           "firstname": "Mick",
@@ -178,6 +170,14 @@
           "dob": "1901-04-25",
           "height": "183cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Pat",
+          "lastname": "Keary",
+          "jumper": "29",
+          "dob": "1901-10-10",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Arthur",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Bert",
-          "lastname": "McComb",
+          "lastname": "Mc Comb",
           "jumper": "20",
           "dob": "1906-09-27",
           "height": "180cm",

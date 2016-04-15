@@ -4,14 +4,6 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Gerry",
-          "lastname": "Balme",
-          "jumper": "3",
-          "dob": "1885-04-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Roy",
           "lastname": "Cazaly",
           "jumper": "10",
@@ -36,12 +28,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Collins",
-          "jumper": "5",
-          "dob": "1893-09-22",
-          "height": "168cm",
-          "weight": "67kg"
+          "firstname": "Gerry",
+          "lastname": "Balme",
+          "jumper": "3",
+          "dob": "1885-04-27",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Reg",
@@ -60,6 +52,22 @@
           "weight": "61kg"
         },
         {
+          "firstname": "Ted",
+          "lastname": "Collins",
+          "jumper": "5",
+          "dob": "1893-09-22",
+          "height": "168cm",
+          "weight": "67kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Lever",
+          "jumper": "4",
+          "dob": "1886-01-05",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Harry",
           "lastname": "Moyes",
           "jumper": "19",
@@ -74,14 +82,6 @@
           "dob": "1888-12-21",
           "height": "180cm",
           "weight": "87kg"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Lever",
-          "jumper": "4",
-          "dob": "1886-01-05",
-          "height": "178cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Les",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Dave",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "23",
           "dob": "1887-01-22",
           "height": "193cm",

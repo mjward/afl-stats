@@ -4,22 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Fred",
-          "lastname": "Elliott",
-          "jumper": "1",
-          "dob": "1879-04-07",
-          "height": "177cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Archie",
-          "lastname": "Snell",
-          "jumper": "—",
-          "dob": "1877-07-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Ross",
           "jumper": "—",
@@ -36,8 +20,32 @@
           "weight": "—"
         },
         {
+          "firstname": "Fred",
+          "lastname": "Elliott",
+          "jumper": "1",
+          "dob": "1879-04-07",
+          "height": "177cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Archie",
+          "lastname": "Snell",
+          "jumper": "—",
+          "dob": "1877-07-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Grace",
+          "jumper": "—",
+          "dob": "1874-07-24",
+          "height": "—",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Joe",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1868-11-29",
           "height": "—",
@@ -60,14 +68,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Mick",
-          "lastname": "Grace",
-          "jumper": "—",
-          "dob": "1874-07-24",
-          "height": "—",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Opie",
           "jumper": "—",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Henry",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1873-02-09",
           "height": "—",
@@ -132,14 +132,6 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "McNamara",
-          "jumper": "—",
-          "dob": "1876-06-08",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Flynn",
           "jumper": "—",
@@ -149,9 +141,17 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "—",
           "dob": "1882-05-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Mc Namara",
+          "jumper": "—",
+          "dob": "1876-06-08",
           "height": "—",
           "weight": "—"
         },
@@ -220,20 +220,20 @@
           "weight": "—"
         },
         {
-          "firstname": "John",
-          "lastname": "Stephenson",
-          "jumper": "—",
-          "dob": "1881-12-29",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Marchbank",
           "jumper": "2",
           "dob": "1878-08-17",
           "height": "188cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Stephenson",
+          "jumper": "—",
+          "dob": "1881-12-29",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Alex",

@@ -20,6 +20,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Hugh",
+          "lastname": "Murnane",
+          "jumper": "7",
+          "dob": "1916-10-29",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Wally",
           "lastname": "Lock",
           "jumper": "18",
@@ -28,12 +36,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Hugh",
-          "lastname": "Murnane",
-          "jumper": "7",
-          "dob": "1916-10-29",
-          "height": "188cm",
-          "weight": "83kg"
+          "firstname": "Jack",
+          "lastname": "Furniss",
+          "jumper": "26",
+          "dob": "1914-12-11",
+          "height": "183cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "La Fontaine",
+          "jumper": "17",
+          "dob": "1910-12-15",
+          "height": "175cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Percy",
@@ -50,22 +66,6 @@
           "dob": "1912-02-27",
           "height": "175cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Furniss",
-          "jumper": "26",
-          "dob": "1914-12-11",
-          "height": "183cm",
-          "weight": "87kg"
-        },
-        {
-          "firstname": "Allan",
-          "lastname": "LaFontaine",
-          "jumper": "17",
-          "dob": "1910-12-15",
-          "height": "175cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Gordon",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "BarassiSnr",
+          "lastname": "Barassi Snr",
           "jumper": "31",
           "dob": "1913-10-24",
           "height": "173cm",
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "28",
           "dob": "1912-01-10",
           "height": "180cm",
@@ -180,7 +180,7 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Eric'Tarzan'",
+          "firstname": "Eric' Tarzan'",
           "lastname": "Glass",
           "jumper": "16",
           "dob": "1910-02-22",
@@ -212,14 +212,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Harden",
-          "lastname": "Dean",
-          "jumper": "29",
-          "dob": "1913-10-13",
-          "height": "178cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Williams",
           "jumper": "20",
@@ -228,8 +220,16 @@
           "weight": "75kg"
         },
         {
+          "firstname": "Harden",
+          "lastname": "Dean",
+          "jumper": "29",
+          "dob": "1913-10-13",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Geoff",
-          "lastname": "McNaughton",
+          "lastname": "Mc Naughton",
           "jumper": "21",
           "dob": "1916-10-17",
           "height": "182cm",

@@ -52,14 +52,6 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Cornelius",
-          "jumper": "—",
-          "dob": "1874-08-12",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Gibson",
           "jumper": "—",
@@ -69,9 +61,17 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "PurdySnr",
+          "lastname": "Purdy Snr",
           "jumper": "—",
           "dob": "1867-08-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Cornelius",
+          "jumper": "—",
+          "dob": "1874-08-12",
           "height": "—",
           "weight": "—"
         },
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1872-08-11",
           "height": "—",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Arch",
-          "lastname": "McNair",
+          "lastname": "Mc Nair",
           "jumper": "—",
           "dob": "1872-08-01",
           "height": "—",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McDermott",
+          "lastname": "Mc Dermott",
           "jumper": "—",
           "dob": "1872-05-17",
           "height": "—",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "—",
           "dob": "1870-04-23",
           "height": "—",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1866-09-24",
           "height": "—",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McArthur",
+          "lastname": "Mc Arthur",
           "jumper": "—",
           "dob": "1870-07-13",
           "height": "—",
@@ -309,7 +309,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "O'Gorman",
+          "lastname": "O' Gorman",
           "jumper": "—",
           "dob": "1874-11-08",
           "height": "—",

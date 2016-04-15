@@ -4,30 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Kevin",
-          "lastname": "Wright",
-          "jumper": "13",
-          "dob": "1933-02-19",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Graham",
-          "lastname": "Campbell",
-          "jumper": "20",
-          "dob": "1936-07-22",
-          "height": "177cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Ray",
-          "lastname": "Slocum",
-          "jumper": "27",
-          "dob": "1936-08-16",
-          "height": "170cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Ron",
           "lastname": "Harvey",
           "jumper": "19",
@@ -53,11 +29,35 @@
         },
         {
           "firstname": "Graeme",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "29",
           "dob": "1935-03-08",
           "height": "175cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Wright",
+          "jumper": "13",
+          "dob": "1933-02-19",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Campbell",
+          "jumper": "20",
+          "dob": "1936-07-22",
+          "height": "177cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Slocum",
+          "jumper": "27",
+          "dob": "1936-08-16",
+          "height": "170cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Kevin",
@@ -68,20 +68,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Ken",
-          "lastname": "Jones",
-          "jumper": "17",
-          "dob": "1934-04-26",
-          "height": "175cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Wally",
           "lastname": "Clark",
           "jumper": "7",
           "dob": "1936-05-25",
           "height": "168cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Ken",
+          "lastname": "Jones",
+          "jumper": "17",
+          "dob": "1934-04-26",
+          "height": "175cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Owen",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "McMaster-Smith",
+          "lastname": "Mc Master- Smith",
           "jumper": "24",
           "dob": "1939-11-19",
           "height": "169cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Les",
-          "lastname": "HughsonJnr",
+          "lastname": "Hughson Jnr",
           "jumper": "8",
           "dob": "1938-12-01",
           "height": "178cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Colin",
-          "lastname": "MacNeil",
+          "lastname": "Mac Neil",
           "jumper": "38",
           "dob": "1936-08-05",
           "height": "197cm",
@@ -236,20 +236,20 @@
           "weight": "105kg"
         },
         {
-          "firstname": "Barrie",
-          "lastname": "Pigot",
-          "jumper": "25",
-          "dob": "1938-08-03",
-          "height": "184cm",
-          "weight": "84kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Wicks",
           "jumper": "39",
           "dob": "1940-04-10",
           "height": "175cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Barrie",
+          "lastname": "Pigot",
+          "jumper": "25",
+          "dob": "1938-08-03",
+          "height": "184cm",
+          "weight": "84kg"
         },
         {
           "firstname": "John",

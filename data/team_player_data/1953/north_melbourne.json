@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "5",
           "dob": "1929-07-09",
           "height": "174cm",
@@ -21,7 +21,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "21",
           "dob": "1930-05-17",
           "height": "170cm",
@@ -52,14 +52,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "John",
-          "lastname": "Brady",
-          "jumper": "20",
-          "dob": "1932-02-20",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Jarrard",
           "jumper": "4",
@@ -73,6 +65,14 @@
           "jumper": "10",
           "dob": "1932-09-22",
           "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Brady",
+          "jumper": "20",
+          "dob": "1932-02-20",
+          "height": "185cm",
           "weight": "83kg"
         },
         {
@@ -100,6 +100,14 @@
           "weight": "75kg"
         },
         {
+          "firstname": "Bryan",
+          "lastname": "Martyn",
+          "jumper": "31",
+          "dob": "1930-12-27",
+          "height": "191cm",
+          "weight": "90kg"
+        },
+        {
           "firstname": "Kevin",
           "lastname": "Dynon",
           "jumper": "2",
@@ -114,14 +122,6 @@
           "dob": "1932-08-11",
           "height": "170cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Bryan",
-          "lastname": "Martyn",
-          "jumper": "31",
-          "dob": "1930-12-27",
-          "height": "191cm",
-          "weight": "90kg"
         },
         {
           "firstname": "Bob",
@@ -180,20 +180,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Smith",
-          "jumper": "8",
-          "dob": "1932-08-10",
-          "height": "169cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Neil",
           "lastname": "Doolan",
           "jumper": "12",
           "dob": "1933-01-27",
           "height": "178cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Smith",
+          "jumper": "8",
+          "dob": "1932-08-10",
+          "height": "169cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Les",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "McCorkell",
+          "lastname": "Mc Corkell",
           "jumper": "18",
           "dob": "1918-07-02",
           "height": "183cm",

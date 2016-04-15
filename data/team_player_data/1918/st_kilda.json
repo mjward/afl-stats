@@ -4,6 +4,22 @@
     "teams": {
       "St Kilda": [
         {
+          "firstname": "Jack",
+          "lastname": "James",
+          "jumper": "18",
+          "dob": "1892-10-31",
+          "height": "165cm",
+          "weight": "61kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Cazaly",
+          "jumper": "14",
+          "dob": "1893-01-13",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Billy",
           "lastname": "Schmidt",
           "jumper": "7",
@@ -20,20 +36,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "James",
-          "jumper": "18",
-          "dob": "1892-10-31",
-          "height": "165cm",
-          "weight": "61kg"
+          "firstname": "Wels",
+          "lastname": "Eicke",
+          "jumper": "7",
+          "dob": "1893-09-27",
+          "height": "177cm",
+          "weight": "74kg"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Cazaly",
-          "jumper": "14",
-          "dob": "1893-01-13",
-          "height": "180cm",
-          "weight": "80kg"
+          "firstname": "Tommy",
+          "lastname": "Lang",
+          "jumper": "4",
+          "dob": "1890-11-11",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Bill",
@@ -60,18 +76,18 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Wels",
-          "lastname": "Eicke",
-          "jumper": "7",
-          "dob": "1893-09-27",
-          "height": "177cm",
-          "weight": "74kg"
+          "firstname": "Bob",
+          "lastname": "Bowden",
+          "jumper": "12",
+          "dob": "1887-03-29",
+          "height": "168cm",
+          "weight": "68kg"
         },
         {
-          "firstname": "Tommy",
-          "lastname": "Lang",
-          "jumper": "4",
-          "dob": "1890-11-11",
+          "firstname": "Pat",
+          "lastname": "Maloney",
+          "jumper": "11",
+          "dob": "1894-03-05",
           "height": "—",
           "weight": "—"
         },
@@ -100,22 +116,6 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Bowden",
-          "jumper": "12",
-          "dob": "1887-03-29",
-          "height": "168cm",
-          "weight": "68kg"
-        },
-        {
-          "firstname": "Pat",
-          "lastname": "Maloney",
-          "jumper": "11",
-          "dob": "1894-03-05",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Gordon",
           "lastname": "Dangerfield",
           "jumper": "8",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Dave",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "22",
           "dob": "1887-01-22",
           "height": "193cm",
@@ -237,17 +237,9 @@
         },
         {
           "firstname": "Frank",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "29",
           "dob": "1896-02-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Harry",
-          "lastname": "Horsenail",
-          "jumper": "16",
-          "dob": "1892-01-18",
           "height": "—",
           "weight": "—"
         },
@@ -256,6 +248,14 @@
           "lastname": "Turnbull",
           "jumper": "15",
           "dob": "1884-02-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Horsenail",
+          "jumper": "16",
+          "dob": "1892-01-18",
           "height": "—",
           "weight": "—"
         }

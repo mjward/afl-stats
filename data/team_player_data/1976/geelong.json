@@ -4,30 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Larry",
-          "lastname": "Donohue",
-          "jumper": "23",
-          "dob": "1955-04-22",
-          "height": "196cm",
-          "weight": "97kg"
-        },
-        {
-          "firstname": "Robert",
-          "lastname": "Neal",
-          "jumper": "35",
-          "dob": "1956-12-16",
-          "height": "178cm",
-          "weight": "82kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "Higgins",
-          "jumper": "39",
-          "dob": "1951-02-20",
-          "height": "183cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "David",
           "lastname": "Clarke",
           "jumper": "14",
@@ -60,6 +36,38 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Larry",
+          "lastname": "Donohue",
+          "jumper": "23",
+          "dob": "1955-04-22",
+          "height": "196cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Neal",
+          "jumper": "35",
+          "dob": "1956-12-16",
+          "height": "178cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Higgins",
+          "jumper": "39",
+          "dob": "1951-02-20",
+          "height": "183cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "John' Sam'",
+          "lastname": "Newman",
+          "jumper": "17",
+          "dob": "1945-12-22",
+          "height": "189cm",
+          "weight": "94kg"
+        },
+        {
           "firstname": "Mark",
           "lastname": "Browne",
           "jumper": "12",
@@ -68,12 +76,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "John'Sam'",
-          "lastname": "Newman",
-          "jumper": "17",
-          "dob": "1945-12-22",
-          "height": "189cm",
-          "weight": "94kg"
+          "firstname": "Paul",
+          "lastname": "Sarah",
+          "jumper": "13",
+          "dob": "1953-12-19",
+          "height": "177cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Mick",
@@ -82,14 +90,6 @@
           "dob": "1954-12-06",
           "height": "183cm",
           "weight": "77kg"
-        },
-        {
-          "firstname": "Paul",
-          "lastname": "Sarah",
-          "jumper": "13",
-          "dob": "1953-12-19",
-          "height": "177cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Bruce",
@@ -164,20 +164,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Bryan",
-          "lastname": "Cousins",
-          "jumper": "24",
-          "dob": "1953-12-29",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "David",
           "lastname": "Manson",
           "jumper": "6",
           "dob": "1951-02-11",
           "height": "200cm",
           "weight": "105kg"
+        },
+        {
+          "firstname": "Bryan",
+          "lastname": "Cousins",
+          "jumper": "24",
+          "dob": "1953-12-29",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Peter",

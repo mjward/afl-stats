@@ -12,14 +12,6 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Herb",
-          "lastname": "Matthews",
-          "jumper": "6",
-          "dob": "1894-09-02",
-          "height": "180cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Heinz",
           "jumper": "15",
@@ -52,20 +44,28 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Herb",
+          "lastname": "Matthews",
+          "jumper": "6",
+          "dob": "1894-09-02",
+          "height": "180cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Mc Kenzie",
+          "jumper": "4",
+          "dob": "1889-01-31",
+          "height": "165cm",
+          "weight": "61kg"
+        },
+        {
           "firstname": "Alec",
           "lastname": "Gray",
           "jumper": "14",
           "dob": "1891-05-12",
           "height": "180cm",
           "weight": "68kg"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "McKenzie",
-          "jumper": "4",
-          "dob": "1889-01-31",
-          "height": "165cm",
-          "weight": "61kg"
         },
         {
           "firstname": "Jack",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Ivor",
-          "lastname": "Warne-Smith",
+          "lastname": "Warne- Smith",
           "jumper": "33",
           "dob": "1897-10-29",
           "height": "182cm",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "19",
           "dob": "1899-01-28",
           "height": "187cm",
@@ -268,20 +268,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "John",
-          "lastname": "McMahon",
-          "jumper": "9",
-          "dob": "1900-10-04",
-          "height": "165cm",
-          "weight": "56kg"
-        },
-        {
           "firstname": "Matt",
           "lastname": "Connors",
           "jumper": "28",
           "dob": "1894-10-23",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Mc Mahon",
+          "jumper": "9",
+          "dob": "1900-10-04",
+          "height": "165cm",
+          "weight": "56kg"
         },
         {
           "firstname": "Reg",

@@ -20,6 +20,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Peter",
+          "lastname": "Bedford",
+          "jumper": "11",
+          "dob": "1947-04-11",
+          "height": "180cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Russell",
           "lastname": "Cook",
           "jumper": "17",
@@ -52,14 +60,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Peter",
-          "lastname": "Bedford",
-          "jumper": "11",
-          "dob": "1947-04-11",
-          "height": "180cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Rantall",
           "jumper": "5",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "SkiltonJnr",
+          "lastname": "Skilton Jnr",
           "jumper": "14",
           "dob": "1938-11-08",
           "height": "171cm",
@@ -101,7 +101,7 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsJnr",
+          "lastname": "Matthews Jnr",
           "jumper": "2",
           "dob": "1943-05-10",
           "height": "169cm",
@@ -140,20 +140,20 @@
           "weight": "87kg"
         },
         {
+          "firstname": "Haydn",
+          "lastname": "Mc Auliffe",
+          "jumper": "25",
+          "dob": "1946-05-15",
+          "height": "175cm",
+          "weight": "76kg"
+        },
+        {
           "firstname": "Dick",
           "lastname": "Wilcox",
           "jumper": "27",
           "dob": "1944-08-06",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Haydn",
-          "lastname": "McAuliffe",
-          "jumper": "25",
-          "dob": "1946-05-15",
-          "height": "175cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Terry",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Jeff",
-          "lastname": "McGee",
+          "lastname": "Mc Gee",
           "jumper": "26",
           "dob": "1948-01-27",
           "height": "185cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCracken",
+          "lastname": "Mc Cracken",
           "jumper": "6",
           "dob": "1949-12-01",
           "height": "175cm",
@@ -300,20 +300,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Mick",
-          "lastname": "Mulligan",
-          "jumper": "41",
-          "dob": "1947-10-21",
-          "height": "178cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Luscombe",
           "jumper": "23",
           "dob": "1948-03-13",
           "height": "191cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Mulligan",
+          "jumper": "41",
+          "dob": "1947-10-21",
+          "height": "178cm",
+          "weight": "77kg"
         }
       ]
     }

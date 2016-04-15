@@ -29,7 +29,7 @@
         },
         {
           "firstname": "Les",
-          "lastname": "HughsonSnr",
+          "lastname": "Hughson Snr",
           "jumper": "29",
           "dob": "1907-09-12",
           "height": "188cm",
@@ -42,14 +42,6 @@
           "dob": "1912-12-11",
           "height": "177cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Davis",
-          "jumper": "26",
-          "dob": "1908-07-16",
-          "height": "189cm",
-          "weight": "84kg"
         },
         {
           "firstname": "Ron",
@@ -68,6 +60,14 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Jack",
+          "lastname": "Davis",
+          "jumper": "26",
+          "dob": "1908-07-16",
+          "height": "189cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Ken",
           "lastname": "Mackie",
           "jumper": "7",
@@ -84,20 +84,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "William",
-          "lastname": "Roberts",
-          "jumper": "21",
-          "dob": "1908-12-04",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Perkins",
           "jumper": "16",
           "dob": "1903-01-20",
           "height": "179cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "William",
+          "lastname": "Roberts",
+          "jumper": "21",
+          "dob": "1908-12-04",
+          "height": "178cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Eric",
@@ -124,14 +124,6 @@
           "weight": "67kg"
         },
         {
-          "firstname": "Doug",
-          "lastname": "Bourne",
-          "jumper": "19",
-          "dob": "1908-12-22",
-          "height": "168cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Scanlon",
           "jumper": "22",
@@ -140,12 +132,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Alby",
-          "lastname": "Weiss",
-          "jumper": "31",
-          "dob": "1914-07-18",
-          "height": "182cm",
-          "weight": "77kg"
+          "firstname": "Doug",
+          "lastname": "Bourne",
+          "jumper": "19",
+          "dob": "1908-12-22",
+          "height": "168cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Doug",
@@ -154,6 +146,14 @@
           "dob": "1910-12-13",
           "height": "165cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Alby",
+          "lastname": "Weiss",
+          "jumper": "31",
+          "dob": "1914-07-18",
+          "height": "182cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Jack",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McCoy",
+          "lastname": "Mc Coy",
           "jumper": "27",
           "dob": "1910-11-30",
           "height": "183cm",

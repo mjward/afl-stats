@@ -4,6 +4,14 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Craig",
+          "lastname": "Mc Kellar",
+          "jumper": "9",
+          "dob": "1949-12-08",
+          "height": "196cm",
+          "weight": "93kg"
+        },
+        {
           "firstname": "Bryan",
           "lastname": "Wood",
           "jumper": "16",
@@ -18,22 +26,6 @@
           "dob": "1946-04-28",
           "height": "199cm",
           "weight": "113kg"
-        },
-        {
-          "firstname": "Craig",
-          "lastname": "McKellar",
-          "jumper": "9",
-          "dob": "1949-12-08",
-          "height": "196cm",
-          "weight": "93kg"
-        },
-        {
-          "firstname": "Paul",
-          "lastname": "Sproule",
-          "jumper": "6",
-          "dob": "1944-12-16",
-          "height": "179cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Dick",
@@ -52,20 +44,12 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Rex",
-          "lastname": "Hunt",
-          "jumper": "5",
-          "dob": "1949-03-07",
-          "height": "191cm",
-          "weight": "97kg"
-        },
-        {
-          "firstname": "Mike",
-          "lastname": "Green",
-          "jumper": "37",
-          "dob": "1948-05-14",
-          "height": "193cm",
-          "weight": "95kg"
+          "firstname": "Paul",
+          "lastname": "Sproule",
+          "jumper": "6",
+          "dob": "1944-12-16",
+          "height": "179cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ian",
@@ -82,6 +66,22 @@
           "dob": "1947-03-06",
           "height": "177cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Rex",
+          "lastname": "Hunt",
+          "jumper": "5",
+          "dob": "1949-03-07",
+          "height": "191cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Mike",
+          "lastname": "Green",
+          "jumper": "37",
+          "dob": "1948-05-14",
+          "height": "193cm",
+          "weight": "95kg"
         },
         {
           "firstname": "Laurie",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "12",
           "dob": "1951-08-18",
           "height": "192cm",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Ricky",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "31",
           "dob": "1947-11-08",
           "height": "185cm",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Marty",
-          "lastname": "McMillan",
+          "lastname": "Mc Millan",
           "jumper": "14",
           "dob": "1953-02-17",
           "height": "180cm",

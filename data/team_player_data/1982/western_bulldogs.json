@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Bruce",
-          "lastname": "ReidJnr",
+          "lastname": "Reid Jnr",
           "jumper": "5",
           "dob": "1955-12-23",
           "height": "191cm",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Stephen",
-          "lastname": "MacPherson",
+          "lastname": "Mac Pherson",
           "jumper": "27",
           "dob": "1964-12-02",
           "height": "178cm",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Ted",
-          "lastname": "WhittenJnr",
+          "lastname": "Whitten Jnr",
           "jumper": "22",
           "dob": "1957-03-15",
           "height": "178cm",
@@ -133,23 +133,15 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "McConnell",
+          "lastname": "Mc Connell",
           "jumper": "28",
           "dob": "1957-03-30",
           "height": "178cm",
           "weight": "73kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "DeKonning",
-          "jumper": "11",
-          "dob": "1961-05-10",
-          "height": "196cm",
-          "weight": "96kg"
-        },
-        {
           "firstname": "Michael",
-          "lastname": "McKenna",
+          "lastname": "Mc Kenna",
           "jumper": "34",
           "dob": "1961-04-04",
           "height": "171cm",
@@ -157,11 +149,19 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McAllester",
+          "lastname": "Mc Allester",
           "jumper": "21",
           "dob": "1959-04-16",
           "height": "190cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "De Konning",
+          "jumper": "11",
+          "dob": "1961-05-10",
+          "height": "196cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Brian",
@@ -220,14 +220,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Towns",
-          "jumper": "17",
-          "dob": "1954-01-10",
-          "height": "180cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Gary",
           "lastname": "Walpole",
           "jumper": "42",
@@ -236,20 +228,20 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Greg",
+          "lastname": "Towns",
+          "jumper": "17",
+          "dob": "1954-01-10",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Rod",
-          "lastname": "MacPherson",
+          "lastname": "Mac Pherson",
           "jumper": "43",
           "dob": "1963-09-21",
           "height": "177cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Brian",
-          "lastname": "Perrin",
-          "jumper": "40",
-          "dob": "1957-07-30",
-          "height": "180cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Steven",
@@ -258,6 +250,14 @@
           "dob": "1961-03-16",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Perrin",
+          "jumper": "40",
+          "dob": "1957-07-30",
+          "height": "180cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Alister",

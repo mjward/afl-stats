@@ -4,6 +4,22 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Joe",
+          "lastname": "Mc Shane",
+          "jumper": "—",
+          "dob": "1868-11-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Teddy",
+          "lastname": "Holligan",
+          "jumper": "—",
+          "dob": "1878-03-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Conway",
           "jumper": "—",
@@ -36,18 +52,10 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Joe",
-          "lastname": "McShane",
+          "firstname": "Jack",
+          "lastname": "Parkin",
           "jumper": "—",
-          "dob": "1868-11-29",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Teddy",
-          "lastname": "Holligan",
-          "jumper": "—",
-          "dob": "1878-03-26",
+          "dob": "1877-06-09",
           "height": "—",
           "weight": "—"
         },
@@ -61,7 +69,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "McShane",
+          "lastname": "Mc Shane",
           "jumper": "—",
           "dob": "1871-02-28",
           "height": "—",
@@ -69,7 +77,7 @@
         },
         {
           "firstname": "Firth",
-          "lastname": "McCallum",
+          "lastname": "Mc Callum",
           "jumper": "—",
           "dob": "1872-12-27",
           "height": "—",
@@ -84,10 +92,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Parkin",
+          "firstname": "Henry",
+          "lastname": "Mc Shane",
           "jumper": "—",
-          "dob": "1877-06-09",
+          "dob": "1873-02-09",
           "height": "—",
           "weight": "—"
         },
@@ -96,14 +104,6 @@
           "lastname": "Brockwell",
           "jumper": "—",
           "dob": "1871-02-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Henry",
-          "lastname": "McShane",
-          "jumper": "—",
-          "dob": "1873-02-09",
           "height": "—",
           "weight": "—"
         },
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Loughlin",
+          "lastname": "O' Loughlin",
           "jumper": "—",
           "dob": "1873-08-10",
           "height": "—",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Arthur",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1879-12-25",
           "height": "183cm",

@@ -28,20 +28,20 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Paul",
-          "lastname": "Weston",
-          "jumper": "28",
-          "dob": "1957-04-09",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Glenn",
           "lastname": "Hawker",
           "jumper": "33",
           "dob": "1961-03-17",
           "height": "185cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Weston",
+          "jumper": "28",
+          "dob": "1957-04-09",
+          "height": "188cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Tony",
@@ -100,20 +100,20 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Stephen",
-          "lastname": "Copping",
-          "jumper": "24",
-          "dob": "1956-08-03",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Shane",
           "lastname": "Heard",
           "jumper": "9",
           "dob": "1958-07-28",
           "height": "177cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Copping",
+          "jumper": "24",
+          "dob": "1956-08-03",
+          "height": "180cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Cameron",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "VanDerHaar",
+          "lastname": "Van Der Haar",
           "jumper": "18",
           "dob": "1958-03-07",
           "height": "192cm",

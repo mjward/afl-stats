@@ -4,22 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Bob",
-          "lastname": "Corbett",
-          "jumper": "12",
-          "dob": "1895-11-23",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Stan",
-          "lastname": "Wittman",
-          "jumper": "1",
-          "dob": "1901-06-01",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Hugh",
           "lastname": "Dunbar",
           "jumper": "28",
@@ -76,19 +60,35 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Corbett",
+          "jumper": "12",
+          "dob": "1895-11-23",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Wittman",
+          "jumper": "1",
+          "dob": "1901-06-01",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Ivor",
+          "lastname": "Warne- Smith",
+          "jumper": "14",
+          "dob": "1897-10-29",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Bert",
           "lastname": "Chadwick",
           "jumper": "17",
           "dob": "1897-11-15",
           "height": "184cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Ivor",
-          "lastname": "Warne-Smith",
-          "jumper": "14",
-          "dob": "1897-10-29",
-          "height": "182cm",
           "weight": "86kg"
         },
         {

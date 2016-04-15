@@ -13,7 +13,7 @@
         },
         {
           "firstname": "Austin",
-          "lastname": "RobertsonSnr",
+          "lastname": "Robertson Snr",
           "jumper": "—",
           "dob": "1907-11-21",
           "height": "—",
@@ -21,7 +21,7 @@
         },
         {
           "firstname": "Herbie",
-          "lastname": "MatthewsSnr",
+          "lastname": "Matthews Snr",
           "jumper": "2",
           "dob": "1913-11-12",
           "height": "177cm",
@@ -172,7 +172,7 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Lin'Blue'",
+          "firstname": "Lin' Blue'",
           "lastname": "Richards",
           "jumper": "7",
           "dob": "1909-03-27",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Jock",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "30",
           "dob": "1911-10-31",
           "height": "178cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Roy",
-          "lastname": "McEachen",
+          "lastname": "Mc Eachen",
           "jumper": "32",
           "dob": "1913-06-07",
           "height": "178cm",
@@ -308,8 +308,8 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Jim'Brum'",
-          "lastname": "O'Meara",
+          "firstname": "Jim' Brum'",
+          "lastname": "O' Meara",
           "jumper": "11",
           "dob": "1908-09-16",
           "height": "177cm",

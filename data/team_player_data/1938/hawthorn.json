@@ -20,22 +20,6 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Viv",
-          "lastname": "Randall",
-          "jumper": "7",
-          "dob": "1914-03-07",
-          "height": "170cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Barker",
-          "jumper": "6",
-          "dob": "1917-12-23",
-          "height": "185cm",
-          "weight": "98kg"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Deague",
           "jumper": "17",
@@ -60,20 +44,28 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Viv",
+          "lastname": "Randall",
+          "jumper": "7",
+          "dob": "1914-03-07",
+          "height": "170cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Barker",
+          "jumper": "6",
+          "dob": "1917-12-23",
+          "height": "185cm",
+          "weight": "98kg"
+        },
+        {
           "firstname": "Albert",
           "lastname": "Naismith",
           "jumper": "26",
           "dob": "1917-11-13",
           "height": "183cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Carter",
-          "jumper": "20",
-          "dob": "1910-03-25",
-          "height": "187cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Bert",
@@ -90,6 +82,14 @@
           "dob": "1913-04-14",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Carter",
+          "jumper": "20",
+          "dob": "1910-03-25",
+          "height": "187cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Dick",
@@ -124,20 +124,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Pierce",
-          "jumper": "23",
-          "dob": "1917-02-23",
-          "height": "182cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "George",
           "lastname": "Dower",
           "jumper": "25",
           "dob": "1913-07-11",
           "height": "183cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Pierce",
+          "jumper": "23",
+          "dob": "1917-02-23",
+          "height": "182cm",
+          "weight": "72kg"
         },
         {
           "firstname": "Alf",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Allan",
-          "lastname": "HirdSnr",
+          "lastname": "Hird Snr",
           "jumper": "39",
           "dob": "1918-08-11",
           "height": "188cm",

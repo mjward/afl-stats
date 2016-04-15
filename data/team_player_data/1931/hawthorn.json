@@ -4,6 +4,14 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Jim",
+          "lastname": "Francis",
+          "jumper": "10",
+          "dob": "1910-12-12",
+          "height": "184cm",
+          "weight": "82kg"
+        },
+        {
           "firstname": "Ernie",
           "lastname": "Utting",
           "jumper": "28",
@@ -12,12 +20,12 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Francis",
-          "jumper": "10",
-          "dob": "1910-12-12",
-          "height": "184cm",
-          "weight": "82kg"
+          "firstname": "Bert",
+          "lastname": "Mills",
+          "jumper": "12",
+          "dob": "1910-02-16",
+          "height": "180cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Bill",
@@ -36,14 +44,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Bert",
-          "lastname": "Mills",
-          "jumper": "12",
-          "dob": "1910-02-16",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Walter",
           "lastname": "Ware",
           "jumper": "17",
@@ -60,14 +60,6 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Ryan",
-          "jumper": "21",
-          "dob": "1907-07-24",
-          "height": "165cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Harris",
           "jumper": "1",
@@ -82,6 +74,14 @@
           "dob": "1906-11-09",
           "height": "165cm",
           "weight": "65kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Ryan",
+          "jumper": "21",
+          "dob": "1907-07-24",
+          "height": "165cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Allan",
@@ -268,20 +268,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Spinks",
-          "jumper": "8",
-          "dob": "1912-10-16",
-          "height": "171cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Cliff",
           "lastname": "Colling",
           "jumper": "—",
           "dob": "1912-12-18",
           "height": "171cm",
           "weight": "64kg"
+        },
+        {
+          "firstname": "Stan",
+          "lastname": "Spinks",
+          "jumper": "8",
+          "dob": "1912-10-16",
+          "height": "171cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Irvan",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "11",
           "dob": "1906-06-09",
           "height": "185cm",

@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Jack",
-          "lastname": "Williams",
-          "jumper": "24",
-          "dob": "1902-01-31",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ralph",
           "lastname": "Lancaster",
           "jumper": "4",
@@ -20,12 +12,12 @@
           "weight": "66kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Todd",
-          "jumper": "19",
-          "dob": "1903-01-10",
-          "height": "185cm",
-          "weight": "79kg"
+          "firstname": "Jack",
+          "lastname": "Williams",
+          "jumper": "24",
+          "dob": "1902-01-31",
+          "height": "179cm",
+          "weight": "76kg"
         },
         {
           "firstname": "George",
@@ -60,6 +52,22 @@
           "weight": "57kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Todd",
+          "jumper": "19",
+          "dob": "1903-01-10",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Coghlan",
+          "jumper": "13",
+          "dob": "1902-08-16",
+          "height": "180cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Reg",
           "lastname": "Hickey",
           "jumper": "18",
@@ -74,14 +82,6 @@
           "dob": "1908-01-19",
           "height": "182cm",
           "weight": "81kg"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Coghlan",
-          "jumper": "13",
-          "dob": "1902-08-16",
-          "height": "180cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Les",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Rupe",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "6",
           "dob": "1910-03-17",
           "height": "184cm",
@@ -252,18 +252,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Andy",
-          "lastname": "Carroll",
-          "jumper": "25",
-          "dob": "1906-07-19",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Russell",
           "lastname": "Madden",
           "jumper": "22",
           "dob": "1910-06-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Carroll",
+          "jumper": "25",
+          "dob": "1906-07-19",
           "height": "—",
           "weight": "—"
         },

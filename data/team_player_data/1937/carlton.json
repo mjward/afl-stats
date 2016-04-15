@@ -5,6 +5,14 @@
       "Carlton": [
         {
           "firstname": "Jim",
+          "lastname": "Francis",
+          "jumper": "10",
+          "dob": "1910-12-12",
+          "height": "184cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Jim",
           "lastname": "Park",
           "jumper": "26",
           "dob": "1910-02-14",
@@ -12,12 +20,12 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Francis",
-          "jumper": "10",
-          "dob": "1910-12-12",
-          "height": "184cm",
-          "weight": "82kg"
+          "firstname": "Rod",
+          "lastname": "Mc Lean",
+          "jumper": "14",
+          "dob": "1915-10-22",
+          "height": "182cm",
+          "weight": "88kg"
         },
         {
           "firstname": "Mickey",
@@ -29,19 +37,11 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McIntyre",
+          "lastname": "Mc Intyre",
           "jumper": "2",
           "dob": "1915-03-05",
           "height": "179cm",
           "weight": "77kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "McLean",
-          "jumper": "14",
-          "dob": "1915-10-22",
-          "height": "182cm",
-          "weight": "88kg"
         },
         {
           "firstname": "Frank",
@@ -84,14 +84,6 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Vallence",
-          "jumper": "22",
-          "dob": "1905-06-04",
-          "height": "183cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Keith",
           "lastname": "Shea",
           "jumper": "8",
@@ -106,6 +98,14 @@
           "dob": "1908-10-27",
           "height": "182cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Vallence",
+          "jumper": "22",
+          "dob": "1905-06-04",
+          "height": "183cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Frank",
@@ -132,14 +132,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Carney",
-          "jumper": "7",
-          "dob": "1909-01-22",
-          "height": "160cm",
-          "weight": "62kg"
-        },
-        {
           "firstname": "Ansell",
           "lastname": "Clarke",
           "jumper": "31",
@@ -154,6 +146,14 @@
           "dob": "1907-11-06",
           "height": "175cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Carney",
+          "jumper": "7",
+          "dob": "1909-01-22",
+          "height": "160cm",
+          "weight": "62kg"
         },
         {
           "firstname": "Bob",
@@ -260,20 +260,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Monty",
-          "lastname": "Brown",
-          "jumper": "18",
-          "dob": "1913-04-22",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Pollock",
           "jumper": "16",
           "dob": "1913-12-10",
           "height": "187cm",
           "weight": "96kg"
+        },
+        {
+          "firstname": "Monty",
+          "lastname": "Brown",
+          "jumper": "18",
+          "dob": "1913-04-22",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Frank",

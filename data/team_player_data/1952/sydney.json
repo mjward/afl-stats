@@ -4,22 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Don",
-          "lastname": "Scott",
-          "jumper": "34",
-          "dob": "1929-11-05",
-          "height": "188cm",
-          "weight": "88kg"
-        },
-        {
-          "firstname": "Gordon",
-          "lastname": "Lane",
-          "jumper": "1",
-          "dob": "1921-05-30",
-          "height": "187cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Keith",
           "lastname": "Browning",
           "jumper": "26",
@@ -36,12 +20,20 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Bruce",
-          "lastname": "Murray",
-          "jumper": "38",
-          "dob": "1929-09-04",
-          "height": "178cm",
-          "weight": "70kg"
+          "firstname": "Don",
+          "lastname": "Scott",
+          "jumper": "34",
+          "dob": "1929-11-05",
+          "height": "188cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Gordon",
+          "lastname": "Lane",
+          "jumper": "1",
+          "dob": "1921-05-30",
+          "height": "187cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Jack",
@@ -52,12 +44,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Brew",
-          "jumper": "3",
-          "dob": "1927-09-19",
-          "height": "171cm",
-          "weight": "67kg"
+          "firstname": "Bruce",
+          "lastname": "Murray",
+          "jumper": "38",
+          "dob": "1929-09-04",
+          "height": "178cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Ian",
@@ -68,20 +60,12 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Eichhorn",
-          "jumper": "31",
-          "dob": "1926-12-23",
-          "height": "179cm",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Kevin",
-          "lastname": "Hilet",
-          "jumper": "16",
-          "dob": "1929-02-06",
-          "height": "175cm",
-          "weight": "76kg"
+          "firstname": "Frank",
+          "lastname": "Brew",
+          "jumper": "3",
+          "dob": "1927-09-19",
+          "height": "171cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Bill",
@@ -106,6 +90,22 @@
           "dob": "1929-04-12",
           "height": "173cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Eichhorn",
+          "jumper": "31",
+          "dob": "1926-12-23",
+          "height": "179cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Hilet",
+          "jumper": "16",
+          "dob": "1929-02-06",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ron",

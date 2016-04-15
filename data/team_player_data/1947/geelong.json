@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Norm",
+          "lastname": "Scott",
+          "jumper": "29",
+          "dob": "1921-06-06",
+          "height": "182cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Syd",
           "lastname": "Tate",
           "jumper": "24",
@@ -28,28 +36,12 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Scott",
-          "jumper": "29",
-          "dob": "1921-06-06",
-          "height": "182cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Hunt",
           "jumper": "25",
           "dob": "1922-11-12",
           "height": "178cm",
           "weight": "74kg"
-        },
-        {
-          "firstname": "Lindsay",
-          "lastname": "White",
-          "jumper": "7",
-          "dob": "1922-01-05",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Fred",
@@ -76,12 +68,12 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Bauer",
-          "jumper": "19",
-          "dob": "1922-05-17",
-          "height": "178cm",
-          "weight": "87kg"
+          "firstname": "Lindsay",
+          "lastname": "White",
+          "jumper": "7",
+          "dob": "1922-01-05",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bill",
@@ -100,6 +92,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Don",
+          "lastname": "Bauer",
+          "jumper": "19",
+          "dob": "1922-05-17",
+          "height": "178cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Doug",
           "lastname": "Brown",
           "jumper": "14",
@@ -116,20 +116,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Wood",
-          "jumper": "27",
-          "dob": "1923-05-29",
-          "height": "174cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Turner",
           "jumper": "36",
           "dob": "1928-05-15",
           "height": "179cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Wood",
+          "jumper": "27",
+          "dob": "1923-05-29",
+          "height": "174cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Marty",

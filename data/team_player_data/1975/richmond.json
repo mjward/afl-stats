@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Bryan",
-          "lastname": "Wood",
-          "jumper": "37",
-          "dob": "1954-04-03",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Neil",
           "lastname": "Balme",
           "jumper": "21",
@@ -20,12 +12,28 @@
           "weight": "96kg"
         },
         {
+          "firstname": "Bryan",
+          "lastname": "Wood",
+          "jumper": "37",
+          "dob": "1954-04-03",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Merv",
           "lastname": "Keane",
           "jumper": "40",
           "dob": "1953-07-29",
           "height": "185cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Sheedy",
+          "jumper": "10",
+          "dob": "1947-12-24",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Kevin",
@@ -44,14 +52,6 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Sheedy",
-          "jumper": "10",
-          "dob": "1947-12-24",
-          "height": "180cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "David",
           "lastname": "Cloke",
           "jumper": "33",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Craig",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "9",
           "dob": "1949-12-08",
           "height": "196cm",
@@ -76,20 +76,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Dick",
-          "lastname": "Clay",
-          "jumper": "8",
-          "dob": "1945-03-06",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Bruce",
           "lastname": "Monteath",
           "jumper": "11",
           "dob": "1955-09-20",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Clay",
+          "jumper": "8",
+          "dob": "1945-03-06",
+          "height": "185cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Paul",
@@ -164,20 +164,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Robert",
-          "lastname": "McGhie",
-          "jumper": "12",
-          "dob": "1951-08-18",
-          "height": "192cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Wayne",
           "lastname": "Walsh",
           "jumper": "7",
           "dob": "1946-05-07",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Mc Ghie",
+          "jumper": "12",
+          "dob": "1951-08-18",
+          "height": "192cm",
+          "weight": "86kg"
         },
         {
           "firstname": "John",

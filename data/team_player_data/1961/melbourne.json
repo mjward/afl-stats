@@ -4,14 +4,6 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Geoff",
-          "lastname": "Tunbridge",
-          "jumper": "23",
-          "dob": "1932-04-07",
-          "height": "178cm",
-          "weight": "72kg"
-        },
-        {
           "firstname": "Clyde",
           "lastname": "Laidlaw",
           "jumper": "35",
@@ -20,7 +12,7 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Bob'Tassie'",
+          "firstname": "Bob' Tassie'",
           "lastname": "Johnson",
           "jumper": "8",
           "dob": "1937-12-02",
@@ -28,7 +20,7 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Harold'Hassa'",
+          "firstname": "Harold' Hassa'",
           "lastname": "Mann",
           "jumper": "29",
           "dob": "1940-10-10",
@@ -44,8 +36,24 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Geoff",
+          "lastname": "Tunbridge",
+          "jumper": "23",
+          "dob": "1932-04-07",
+          "height": "178cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Barassi Jnr",
+          "jumper": "31",
+          "dob": "1936-02-27",
+          "height": "179cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Bob",
-          "lastname": "JohnsonJnr",
+          "lastname": "Johnson Jnr",
           "jumper": "16",
           "dob": "1935-06-03",
           "height": "198cm",
@@ -53,19 +61,11 @@
         },
         {
           "firstname": "John",
-          "lastname": "LordJnr",
+          "lastname": "Lord Jnr",
           "jumper": "4",
           "dob": "1937-04-02",
           "height": "188cm",
           "weight": "93kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "BarassiJnr",
-          "jumper": "31",
-          "dob": "1936-02-27",
-          "height": "179cm",
-          "weight": "87kg"
         },
         {
           "firstname": "Laurie",
@@ -132,14 +132,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Adams",
-          "jumper": "6",
-          "dob": "1935-06-12",
-          "height": "168cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Terry",
           "lastname": "Gleeson",
           "jumper": "28",
@@ -156,12 +148,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Alan",
-          "lastname": "Rowarth",
-          "jumper": "2",
-          "dob": "1936-08-24",
-          "height": "177cm",
-          "weight": "77kg"
+          "firstname": "Frank",
+          "lastname": "Adams",
+          "jumper": "6",
+          "dob": "1935-06-12",
+          "height": "168cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Ray",
@@ -170,6 +162,14 @@
           "dob": "1941-05-08",
           "height": "177cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Rowarth",
+          "jumper": "2",
+          "dob": "1936-08-24",
+          "height": "177cm",
+          "weight": "77kg"
         },
         {
           "firstname": "George",
@@ -220,19 +220,19 @@
           "weight": "74kg"
         },
         {
-          "firstname": "Herbie",
-          "lastname": "MatthewsJnr",
-          "jumper": "39",
-          "dob": "1943-05-10",
-          "height": "169cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Graeme",
           "lastname": "Pinfold",
           "jumper": "20",
           "dob": "1936-04-24",
           "height": "170cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Herbie",
+          "lastname": "Matthews Jnr",
+          "jumper": "39",
+          "dob": "1943-05-10",
+          "height": "169cm",
           "weight": "77kg"
         },
         {

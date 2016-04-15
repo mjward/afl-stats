@@ -4,14 +4,6 @@
     "teams": {
       "Richmond": [
         {
-          "firstname": "Ron",
-          "lastname": "Branton",
-          "jumper": "29",
-          "dob": "1933-06-10",
-          "height": "170cm",
-          "weight": "71kg"
-        },
-        {
           "firstname": "Allan",
           "lastname": "Cations",
           "jumper": "33",
@@ -20,16 +12,16 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Laurie",
-          "lastname": "Sharp",
-          "jumper": "6",
-          "dob": "1935-08-25",
-          "height": "178cm",
-          "weight": "83kg"
+          "firstname": "Ron",
+          "lastname": "Branton",
+          "jumper": "29",
+          "dob": "1933-06-10",
+          "height": "170cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Ron",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "14",
           "dob": "1933-08-12",
           "height": "189cm",
@@ -44,12 +36,12 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Poulter",
-          "jumper": "24",
-          "dob": "1929-03-10",
-          "height": "183cm",
-          "weight": "92kg"
+          "firstname": "Laurie",
+          "lastname": "Sharp",
+          "jumper": "6",
+          "dob": "1935-08-25",
+          "height": "178cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Frank",
@@ -66,6 +58,14 @@
           "dob": "1935-06-29",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Ray",
+          "lastname": "Poulter",
+          "jumper": "24",
+          "dob": "1929-03-10",
+          "height": "183cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Stan",
@@ -132,6 +132,14 @@
           "weight": "73kg"
         },
         {
+          "firstname": "Bob",
+          "lastname": "Dummett",
+          "jumper": "17",
+          "dob": "1935-10-03",
+          "height": "188cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Claxton",
           "jumper": "34",
@@ -146,14 +154,6 @@
           "dob": "1928-05-08",
           "height": "178cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "Dummett",
-          "jumper": "17",
-          "dob": "1935-10-03",
-          "height": "188cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Ken",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Ken",
-          "lastname": "McGown",
+          "lastname": "Mc Gown",
           "jumper": "12",
           "dob": "1936-03-22",
           "height": "180cm",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Ray",
-          "lastname": "McGaw",
+          "lastname": "Mc Gaw",
           "jumper": "16",
           "dob": "1937-10-03",
           "height": "175cm",

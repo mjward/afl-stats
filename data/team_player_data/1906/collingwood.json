@@ -36,36 +36,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Strachan",
-          "jumper": "—",
-          "dob": "1886-05-21",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "James'Jock'",
-          "lastname": "McHale",
+          "firstname": "James' Jock'",
+          "lastname": "Mc Hale",
           "jumper": "17",
           "dob": "1882-12-12",
           "height": "180cm",
           "weight": "78kg"
         },
         {
-          "firstname": "George",
-          "lastname": "Angus",
-          "jumper": "—",
-          "dob": "1875-04-15",
-          "height": "180cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Bob",
-          "lastname": "Nash",
+          "lastname": "Strachan",
           "jumper": "—",
-          "dob": "1884-04-22",
-          "height": "178cm",
-          "weight": "81kg"
+          "dob": "1886-05-21",
+          "height": "183cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Oscar",
@@ -82,6 +66,22 @@
           "dob": "1876-03-19",
           "height": "180cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Angus",
+          "jumper": "—",
+          "dob": "1875-04-15",
+          "height": "180cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Nash",
+          "jumper": "—",
+          "dob": "1884-04-22",
+          "height": "178cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Frank",
@@ -124,20 +124,20 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "MonohanSnr",
-          "jumper": "—",
-          "dob": "1873-08-21",
-          "height": "184cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Dick",
           "lastname": "Lee",
           "jumper": "13",
           "dob": "1889-03-19",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Monohan Snr",
+          "jumper": "—",
+          "dob": "1873-08-21",
+          "height": "184cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Harry",

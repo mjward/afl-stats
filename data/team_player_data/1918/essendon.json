@@ -4,14 +4,6 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Bert",
-          "lastname": "Day",
-          "jumper": "21",
-          "dob": "1894-03-29",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ned",
           "lastname": "Richardson",
           "jumper": "12",
@@ -20,12 +12,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Percy",
-          "lastname": "Ogden",
-          "jumper": "16",
-          "dob": "1886-02-24",
-          "height": "170cm",
-          "weight": "70kg"
+          "firstname": "Bert",
+          "lastname": "Day",
+          "jumper": "21",
+          "dob": "1894-03-29",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Len",
@@ -34,6 +26,14 @@
           "dob": "1885-10-27",
           "height": "175cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Percy",
+          "lastname": "Ogden",
+          "jumper": "16",
+          "dob": "1886-02-24",
+          "height": "170cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Paddy",
@@ -58,14 +58,6 @@
           "dob": "1893-04-04",
           "height": "170cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Tom",
-          "lastname": "Fitzmaurice",
-          "jumper": "3",
-          "dob": "1898-07-07",
-          "height": "192cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Norm",
@@ -108,6 +100,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Tom",
+          "lastname": "Fitzmaurice",
+          "jumper": "3",
+          "dob": "1898-07-07",
+          "height": "192cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "Jimmy",
           "lastname": "Sullivan",
           "jumper": "8",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Leo",
-          "lastname": "McInerney",
+          "lastname": "Mc Inerney",
           "jumper": "23",
           "dob": "1898-04-24",
           "height": "180cm",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Paddy",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "28",
           "dob": "1897-03-27",
           "height": "—",
@@ -189,7 +189,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "10",
           "dob": "1893-10-23",
           "height": "—",
@@ -261,17 +261,9 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McGarity",
+          "lastname": "Mc Garity",
           "jumper": "29",
           "dob": "1897-01-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Jim",
-          "lastname": "Alexander",
-          "jumper": "14",
-          "dob": "1899-03-15",
           "height": "—",
           "weight": "—"
         },
@@ -280,6 +272,14 @@
           "lastname": "Hemingway",
           "jumper": "—",
           "dob": "1900-08-08",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Alexander",
+          "jumper": "14",
+          "dob": "1899-03-15",
           "height": "—",
           "weight": "—"
         },

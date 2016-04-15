@@ -20,14 +20,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Lou",
-          "lastname": "Barker",
-          "jumper": "—",
-          "dob": "1876-05-26",
-          "height": "179cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ernie",
           "lastname": "Jenkins",
           "jumper": "—",
@@ -45,9 +37,25 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "—",
           "dob": "1874-09-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Lou",
+          "lastname": "Barker",
+          "jumper": "—",
+          "dob": "1876-05-26",
+          "height": "179cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Kiernan",
+          "jumper": "—",
+          "dob": "1878-03-23",
           "height": "—",
           "weight": "—"
         },
@@ -68,12 +76,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Chris",
-          "lastname": "Kiernan",
-          "jumper": "—",
-          "dob": "1878-03-23",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Bill",
+          "lastname": "Walker",
+          "jumper": "24",
+          "dob": "1883-05-25",
+          "height": "179cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Frank",
@@ -92,14 +100,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Walker",
-          "jumper": "24",
-          "dob": "1883-05-25",
-          "height": "179cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Millis",
           "jumper": "—",
@@ -116,7 +116,7 @@
           "weight": "—"
         },
         {
-          "firstname": "Herbert'Boxer'",
+          "firstname": "Herbert' Boxer'",
           "lastname": "Milne",
           "jumper": "—",
           "dob": "1884-02-08",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "—",
           "dob": "1881-02-27",
           "height": "—",

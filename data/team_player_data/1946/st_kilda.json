@@ -4,16 +4,8 @@
     "teams": {
       "St Kilda": [
         {
-          "firstname": "Ernie",
-          "lastname": "McIntyre",
-          "jumper": "28",
-          "dob": "1921-04-19",
-          "height": "185cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Allan",
-          "lastname": "HirdSnr",
+          "lastname": "Hird Snr",
           "jumper": "6",
           "dob": "1918-08-11",
           "height": "188cm",
@@ -26,6 +18,14 @@
           "dob": "1913-12-31",
           "height": "185cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Mc Intyre",
+          "jumper": "28",
+          "dob": "1921-04-19",
+          "height": "185cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Keith",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Ron",
-          "lastname": "McLeod",
+          "lastname": "Mc Leod",
           "jumper": "39",
           "dob": "1919-01-04",
           "height": "178cm",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "7",
           "dob": "1924-07-12",
           "height": "183cm",
@@ -117,19 +117,19 @@
         },
         {
           "firstname": "Les",
-          "lastname": "Willis",
-          "jumper": "33",
-          "dob": "1922-05-02",
-          "height": "179cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Les",
           "lastname": "Meek",
           "jumper": "17",
           "dob": "1918-07-21",
           "height": "177cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Willis",
+          "jumper": "33",
+          "dob": "1922-05-02",
+          "height": "179cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Bill",
@@ -172,19 +172,19 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Mal",
-          "lastname": "McBean",
-          "jumper": "5",
-          "dob": "1921-10-04",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Ross",
           "jumper": "20",
           "dob": "1927-10-18",
           "height": "185cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Mal",
+          "lastname": "Mc Bean",
+          "jumper": "5",
+          "dob": "1921-10-04",
+          "height": "180cm",
           "weight": "80kg"
         },
         {
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Stan",
-          "lastname": "LeLievre",
+          "lastname": "Le Lievre",
           "jumper": "21",
           "dob": "1920-07-31",
           "height": "183cm",
@@ -309,18 +309,10 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McIntosh",
+          "lastname": "Mc Intosh",
           "jumper": "24",
           "dob": "1921-10-17",
           "height": "183cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Keith",
-          "lastname": "Drinan",
-          "jumper": "29",
-          "dob": "1924-11-13",
-          "height": "182cm",
           "weight": "83kg"
         },
         {
@@ -330,6 +322,14 @@
           "dob": "1924-07-23",
           "height": "174cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Drinan",
+          "jumper": "29",
+          "dob": "1924-11-13",
+          "height": "182cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Joe",
@@ -348,20 +348,20 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Gray",
-          "jumper": "11",
-          "dob": "1921-10-04",
-          "height": "169cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Lowry",
           "jumper": "9",
           "dob": "1916-11-25",
           "height": "180cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Gray",
+          "jumper": "11",
+          "dob": "1921-10-04",
+          "height": "169cm",
+          "weight": "67kg"
         }
       ]
     }

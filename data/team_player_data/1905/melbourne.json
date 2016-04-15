@@ -12,14 +12,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Sowden",
-          "jumper": "—",
-          "dob": "1878-04-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Howard",
           "jumper": "—",
@@ -36,10 +28,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Hugh",
-          "lastname": "Purse",
-          "jumper": "26",
-          "dob": "1881-10-02",
+          "firstname": "Arthur",
+          "lastname": "Sowden",
+          "jumper": "—",
+          "dob": "1878-04-06",
           "height": "—",
           "weight": "—"
         },
@@ -60,6 +52,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Hugh",
+          "lastname": "Purse",
+          "jumper": "26",
+          "dob": "1881-10-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Horrie",
           "lastname": "Drane",
           "jumper": "—",
@@ -68,18 +68,18 @@
           "weight": "—"
         },
         {
-          "firstname": "George",
-          "lastname": "Peacock",
-          "jumper": "—",
-          "dob": "1881-07-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Conquest",
           "jumper": "—",
           "dob": "1880-05-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "George",
+          "lastname": "Peacock",
+          "jumper": "—",
+          "dob": "1881-07-25",
           "height": "—",
           "weight": "—"
         },
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "MacKay",
+          "lastname": "Mac Kay",
           "jumper": "—",
           "dob": "1880-05-05",
           "height": "—",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Don",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "—",
           "dob": "1884-07-06",
           "height": "—",
@@ -236,22 +236,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Hurrey",
-          "jumper": "—",
-          "dob": "1885-06-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Ernie",
-          "lastname": "Denton",
-          "jumper": "—",
-          "dob": "1881-04-21",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Willie",
           "lastname": "Marshall",
           "jumper": "—",
@@ -272,6 +256,22 @@
           "lastname": "Onyons",
           "jumper": "—",
           "dob": "1887-03-14",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Hurrey",
+          "jumper": "—",
+          "dob": "1885-06-23",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Denton",
+          "jumper": "—",
+          "dob": "1881-04-21",
           "height": "—",
           "weight": "—"
         },
@@ -300,20 +300,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Roy",
-          "lastname": "Adam",
-          "jumper": "—",
-          "dob": "1883-03-11",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Les",
           "lastname": "Minto",
           "jumper": "—",
           "dob": "1886-07-11",
           "height": "168cm",
           "weight": "62kg"
+        },
+        {
+          "firstname": "Roy",
+          "lastname": "Adam",
+          "jumper": "—",
+          "dob": "1883-03-11",
+          "height": "—",
+          "weight": "—"
         }
       ]
     }

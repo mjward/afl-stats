@@ -4,18 +4,18 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Dave",
-          "lastname": "Adamson",
-          "jumper": "—",
-          "dob": "1874-06-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Windley",
           "jumper": "—",
           "dob": "1868-11-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Adamson",
+          "jumper": "—",
+          "dob": "1874-06-14",
           "height": "—",
           "weight": "—"
         },
@@ -36,6 +36,14 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Ned",
+          "lastname": "Alley",
+          "jumper": "—",
+          "dob": "1881-07-30",
+          "height": "173cm",
+          "weight": "71kg"
+        },
+        {
           "firstname": "Bert",
           "lastname": "Howson",
           "jumper": "—",
@@ -50,14 +58,6 @@
           "dob": "1878-01-10",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Ned",
-          "lastname": "Alley",
-          "jumper": "—",
-          "dob": "1881-07-30",
-          "height": "173cm",
-          "weight": "71kg"
         },
         {
           "firstname": "Jim",
@@ -157,7 +157,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "McDonough",
+          "lastname": "Mc Donough",
           "jumper": "—",
           "dob": "1879-07-26",
           "height": "—",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Ernie",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1885-09-28",
           "height": "—",

@@ -12,6 +12,14 @@
           "weight": "81kg"
         },
         {
+          "firstname": "Kevin",
+          "lastname": "Bartlett",
+          "jumper": "29",
+          "dob": "1947-03-06",
+          "height": "177cm",
+          "weight": "71kg"
+        },
+        {
           "firstname": "Allan",
           "lastname": "Edwards",
           "jumper": "17",
@@ -20,12 +28,12 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Bartlett",
-          "jumper": "29",
-          "dob": "1947-03-06",
-          "height": "177cm",
-          "weight": "71kg"
+          "firstname": "Francis",
+          "lastname": "Bourke",
+          "jumper": "30",
+          "dob": "1947-04-02",
+          "height": "185cm",
+          "weight": "84kg"
         },
         {
           "firstname": "Bryan",
@@ -42,14 +50,6 @@
           "dob": "1952-01-15",
           "height": "194cm",
           "weight": "96kg"
-        },
-        {
-          "firstname": "Francis",
-          "lastname": "Bourke",
-          "jumper": "30",
-          "dob": "1947-04-02",
-          "height": "185cm",
-          "weight": "84kg"
         },
         {
           "firstname": "Merv",
@@ -92,20 +92,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "David",
-          "lastname": "Cloke",
-          "jumper": "33",
-          "dob": "1955-01-28",
-          "height": "196cm",
-          "weight": "100kg"
-        },
-        {
           "firstname": "Neville",
           "lastname": "Roberts",
           "jumper": "2",
           "dob": "1955-03-06",
           "height": "180cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Cloke",
+          "jumper": "33",
+          "dob": "1955-01-28",
+          "height": "196cm",
+          "weight": "100kg"
         },
         {
           "firstname": "Cameron",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Robert",
-          "lastname": "McGhie",
+          "lastname": "Mc Ghie",
           "jumper": "12",
           "dob": "1951-08-18",
           "height": "192cm",

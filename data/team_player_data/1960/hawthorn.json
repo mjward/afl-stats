@@ -4,6 +4,30 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Les",
+          "lastname": "Kaine",
+          "jumper": "1",
+          "dob": "1936-08-08",
+          "height": "185cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Sted",
+          "lastname": "Hay",
+          "jumper": "20",
+          "dob": "1939-06-01",
+          "height": "180cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Cam",
+          "lastname": "Mc Pherson",
+          "jumper": "26",
+          "dob": "1940-05-24",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Graham",
           "lastname": "Cooper",
           "jumper": "10",
@@ -28,27 +52,11 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Les",
-          "lastname": "Kaine",
-          "jumper": "1",
-          "dob": "1936-08-08",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Sted",
-          "lastname": "Hay",
-          "jumper": "20",
-          "dob": "1939-06-01",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Cam",
-          "lastname": "McPherson",
-          "jumper": "26",
-          "dob": "1940-05-24",
-          "height": "180cm",
+          "firstname": "Roy",
+          "lastname": "Simmonds",
+          "jumper": "27",
+          "dob": "1928-12-29",
+          "height": "175cm",
           "weight": "80kg"
         },
         {
@@ -58,14 +66,6 @@
           "dob": "1936-03-18",
           "height": "178cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Roy",
-          "lastname": "Simmonds",
-          "jumper": "27",
-          "dob": "1928-12-29",
-          "height": "175cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Colin",
@@ -92,14 +92,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Arthur",
-          "jumper": "2",
-          "dob": "1936-06-09",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Maurie",
           "lastname": "Young",
           "jumper": "8",
@@ -114,6 +106,14 @@
           "dob": "1939-09-08",
           "height": "178cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Arthur",
+          "jumper": "2",
+          "dob": "1936-06-09",
+          "height": "180cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Phil",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McArthur",
+          "lastname": "Mc Arthur",
           "jumper": "28",
           "dob": "1938-09-10",
           "height": "183cm",
@@ -173,19 +173,19 @@
         },
         {
           "firstname": "Ian",
-          "lastname": "Law",
-          "jumper": "37",
-          "dob": "1938-09-27",
-          "height": "175cm",
-          "weight": "75kg"
-        },
-        {
-          "firstname": "Ian",
           "lastname": "Mort",
           "jumper": "40",
           "dob": "1937-04-04",
           "height": "187cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Law",
+          "jumper": "37",
+          "dob": "1938-09-27",
+          "height": "175cm",
+          "weight": "75kg"
         },
         {
           "firstname": "John",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Mahoney",
+          "lastname": "O' Mahoney",
           "jumper": "3",
           "dob": "1931-12-07",
           "height": "179cm",
@@ -277,7 +277,7 @@
         },
         {
           "firstname": "Ray",
-          "lastname": "McVilly",
+          "lastname": "Mc Villy",
           "jumper": "14",
           "dob": "1938-01-14",
           "height": "179cm",

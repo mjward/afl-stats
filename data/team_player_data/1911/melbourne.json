@@ -4,16 +4,8 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Wally",
-          "lastname": "Naismith",
-          "jumper": "17",
-          "dob": "1881-05-31",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "4",
           "dob": "1889-01-31",
           "height": "165cm",
@@ -36,10 +28,10 @@
           "weight": "—"
         },
         {
-          "firstname": "Hedley",
-          "lastname": "Tomkins",
+          "firstname": "Wally",
+          "lastname": "Naismith",
           "jumper": "17",
-          "dob": "1885-06-11",
+          "dob": "1881-05-31",
           "height": "—",
           "weight": "—"
         },
@@ -50,6 +42,22 @@
           "dob": "1887-06-13",
           "height": "180cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Hedley",
+          "lastname": "Tomkins",
+          "jumper": "17",
+          "dob": "1885-06-11",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Robertson",
+          "jumper": "3",
+          "dob": "1889-07-22",
+          "height": "168cm",
+          "weight": "71kg"
         },
         {
           "firstname": "Bill",
@@ -66,14 +74,6 @@
           "dob": "1885-01-28",
           "height": "184cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Robertson",
-          "jumper": "3",
-          "dob": "1889-07-22",
-          "height": "168cm",
-          "weight": "71kg"
         },
         {
           "firstname": "Frank",
@@ -148,18 +148,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Politz",
-          "jumper": "15",
-          "dob": "1889-07-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Fitzpatrick",
           "jumper": "12",
           "dob": "1886-07-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Politz",
+          "jumper": "15",
+          "dob": "1889-07-28",
           "height": "—",
           "weight": "—"
         },
@@ -276,18 +276,18 @@
           "weight": "81kg"
         },
         {
-          "firstname": "George",
-          "lastname": "StJohn",
+          "firstname": "Bill",
+          "lastname": "Mc Keone",
           "jumper": "—",
-          "dob": "1878-04-14",
+          "dob": "1889-02-18",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "McKeone",
+          "firstname": "George",
+          "lastname": "St John",
           "jumper": "—",
-          "dob": "1889-02-18",
+          "dob": "1878-04-14",
           "height": "—",
           "weight": "—"
         }

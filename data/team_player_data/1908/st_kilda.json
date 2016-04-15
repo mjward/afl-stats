@@ -12,6 +12,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Jim",
+          "lastname": "Stewart",
+          "jumper": "—",
+          "dob": "1884-04-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Billy",
           "lastname": "Stewart",
           "jumper": "—",
@@ -21,7 +29,7 @@
         },
         {
           "firstname": "Dave",
-          "lastname": "McNamara",
+          "lastname": "Mc Namara",
           "jumper": "1",
           "dob": "1887-01-22",
           "height": "193cm",
@@ -36,14 +44,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Stewart",
-          "jumper": "—",
-          "dob": "1884-04-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Clymo",
           "jumper": "—",
@@ -52,8 +52,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Woodcock",
+          "jumper": "24",
+          "dob": "1888-06-29",
+          "height": "182cm",
+          "weight": "96kg"
+        },
+        {
           "firstname": "George",
-          "lastname": "MorrisseySnr",
+          "lastname": "Morrissey Snr",
           "jumper": "30",
           "dob": "1883-01-01",
           "height": "174cm",
@@ -76,22 +84,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Woodcock",
-          "jumper": "24",
-          "dob": "1888-06-29",
-          "height": "182cm",
-          "weight": "96kg"
-        },
-        {
-          "firstname": "Dan",
-          "lastname": "Feehan",
-          "jumper": "—",
-          "dob": "1880-02-07",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Mick",
           "lastname": "Grace",
           "jumper": "—",
@@ -104,6 +96,14 @@
           "lastname": "Cowell",
           "jumper": "—",
           "dob": "1885-05-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Dan",
+          "lastname": "Feehan",
+          "jumper": "—",
+          "dob": "1880-02-07",
           "height": "—",
           "weight": "—"
         },
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Bert",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "—",
           "dob": "1885-09-07",
           "height": "—",
@@ -228,20 +228,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Smith",
-          "jumper": "—",
-          "dob": "1877-01-04",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Farmer",
           "jumper": "—",
           "dob": "1888-10-06",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Smith",
+          "jumper": "—",
+          "dob": "1877-01-04",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Joe",
@@ -276,18 +276,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Cromie",
-          "jumper": "—",
-          "dob": "1881-08-14",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Grant",
           "jumper": "—",
           "dob": "1883-05-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Cromie",
+          "jumper": "—",
+          "dob": "1881-08-14",
           "height": "—",
           "weight": "—"
         }

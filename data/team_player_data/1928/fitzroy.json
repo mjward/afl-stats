@@ -12,14 +12,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Cockram",
-          "jumper": "12",
-          "dob": "1899-08-27",
-          "height": "178cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Shanahan",
           "jumper": "15",
@@ -52,6 +44,14 @@
           "weight": "63kg"
         },
         {
+          "firstname": "Norm",
+          "lastname": "Cockram",
+          "jumper": "12",
+          "dob": "1899-08-27",
+          "height": "178cm",
+          "weight": "83kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Vale",
           "jumper": "15",
@@ -66,14 +66,6 @@
           "dob": "1901-04-30",
           "height": "178cm",
           "weight": "62kg"
-        },
-        {
-          "firstname": "Fred",
-          "lastname": "Williams",
-          "jumper": "19",
-          "dob": "1900-01-29",
-          "height": "173cm",
-          "weight": "67kg"
         },
         {
           "firstname": "Arthur",
@@ -92,12 +84,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Gibson",
-          "jumper": "5",
-          "dob": "1904-03-17",
-          "height": "180cm",
-          "weight": "87kg"
+          "firstname": "Fred",
+          "lastname": "Williams",
+          "jumper": "19",
+          "dob": "1900-01-29",
+          "height": "173cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Horrie",
@@ -114,6 +106,14 @@
           "dob": "1901-02-05",
           "height": "185cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Gibson",
+          "jumper": "5",
+          "dob": "1904-03-17",
+          "height": "180cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Davitt",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Mike",
-          "lastname": "McMahon",
+          "lastname": "Mc Mahon",
           "jumper": "29",
           "dob": "1902-01-19",
           "height": "175cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "McKinley",
+          "lastname": "Mc Kinley",
           "jumper": "25",
           "dob": "1903-10-26",
           "height": "184cm",

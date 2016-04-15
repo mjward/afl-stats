@@ -4,14 +4,6 @@
     "teams": {
       "Hawthorn": [
         {
-          "firstname": "Kelvin",
-          "lastname": "Moore",
-          "jumper": "15",
-          "dob": "1950-08-15",
-          "height": "188cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Russell",
           "lastname": "Greene",
           "jumper": "29",
@@ -53,19 +45,19 @@
         },
         {
           "firstname": "John",
-          "lastname": "KennedyJnr",
+          "lastname": "Kennedy Jnr",
           "jumper": "34",
           "dob": "1959-11-22",
           "height": "190cm",
           "weight": "90kg"
         },
         {
-          "firstname": "Richard",
-          "lastname": "Loveridge",
-          "jumper": "22",
-          "dob": "1963-01-15",
-          "height": "178cm",
-          "weight": "70kg"
+          "firstname": "Kelvin",
+          "lastname": "Moore",
+          "jumper": "15",
+          "dob": "1950-08-15",
+          "height": "188cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Geoff",
@@ -84,8 +76,16 @@
           "weight": "92kg"
         },
         {
+          "firstname": "Richard",
+          "lastname": "Loveridge",
+          "jumper": "22",
+          "dob": "1963-01-15",
+          "height": "178cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "David",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "8",
           "dob": "1955-09-08",
           "height": "185cm",
@@ -98,6 +98,14 @@
           "dob": "1958-04-04",
           "height": "183cm",
           "weight": "84kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Wallace",
+          "jumper": "16",
+          "dob": "1958-12-13",
+          "height": "183cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Michael",
@@ -114,14 +122,6 @@
           "dob": "1952-03-01",
           "height": "178cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Terry",
-          "lastname": "Wallace",
-          "jumper": "16",
-          "dob": "1958-12-13",
-          "height": "183cm",
-          "weight": "85kg"
         },
         {
           "firstname": "Peter",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Gary",
-          "lastname": "AblettSnr",
+          "lastname": "Ablett Snr",
           "jumper": "35",
           "dob": "1961-10-01",
           "height": "185cm",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Alle",
-          "lastname": "DeWolde",
+          "lastname": "De Wolde",
           "jumper": "27",
           "dob": "1955-12-27",
           "height": "182cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Norm",
-          "lastname": "GossJnr",
+          "lastname": "Goss Jnr",
           "jumper": "1",
           "dob": "1951-03-03",
           "height": "177cm",

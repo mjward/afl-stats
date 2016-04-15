@@ -36,16 +36,8 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Trevor",
-          "lastname": "Somerville",
-          "jumper": "19",
-          "dob": "1944-04-18",
-          "height": "193cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Herbie",
-          "lastname": "MatthewsJnr",
+          "lastname": "Matthews Jnr",
           "jumper": "33",
           "dob": "1943-05-10",
           "height": "169cm",
@@ -58,6 +50,22 @@
           "dob": "1943-03-15",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Trevor",
+          "lastname": "Somerville",
+          "jumper": "19",
+          "dob": "1944-04-18",
+          "height": "193cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Skilton Jnr",
+          "jumper": "14",
+          "dob": "1938-11-08",
+          "height": "171cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Glen",
@@ -76,14 +84,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "SkiltonJnr",
-          "jumper": "14",
-          "dob": "1938-11-08",
-          "height": "171cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Lucev",
           "jumper": "8",
@@ -100,14 +100,6 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Elkin",
-          "lastname": "Reilly",
-          "jumper": "35",
-          "dob": "1939-04-02",
-          "height": "191cm",
-          "weight": "91kg"
-        },
-        {
           "firstname": "Jeff",
           "lastname": "Bray",
           "jumper": "23",
@@ -122,6 +114,14 @@
           "dob": "1938-11-26",
           "height": "177cm",
           "weight": "68kg"
+        },
+        {
+          "firstname": "Elkin",
+          "lastname": "Reilly",
+          "jumper": "35",
+          "dob": "1939-04-02",
+          "height": "191cm",
+          "weight": "91kg"
         },
         {
           "firstname": "Max",
@@ -229,7 +229,7 @@
         },
         {
           "firstname": "Haydn",
-          "lastname": "McAuliffe",
+          "lastname": "Mc Auliffe",
           "jumper": "25",
           "dob": "1946-05-15",
           "height": "175cm",

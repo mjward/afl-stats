@@ -12,20 +12,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "WhittenSnr",
-          "jumper": "3",
-          "dob": "1933-07-27",
-          "height": "184cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Alex",
           "lastname": "Gardiner",
           "jumper": "12",
           "dob": "1935-01-03",
           "height": "175cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Whitten Snr",
+          "jumper": "3",
+          "dob": "1933-07-27",
+          "height": "184cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Kelvin",
@@ -100,20 +100,20 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Don",
-          "lastname": "Darcey",
-          "jumper": "10",
-          "dob": "1934-08-29",
-          "height": "179cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Hoiles",
           "jumper": "23",
           "dob": "1938-08-11",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Don",
+          "lastname": "Darcey",
+          "jumper": "10",
+          "dob": "1934-08-29",
+          "height": "179cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Brian",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Cameron",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "8",
           "dob": "1940-06-24",
           "height": "183cm",
@@ -204,20 +204,20 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Beamish",
-          "jumper": "36",
-          "dob": "1941-02-12",
-          "height": "170cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "Brian",
           "lastname": "Moloney",
           "jumper": "27",
           "dob": "1937-08-04",
           "height": "178cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Keith",
+          "lastname": "Beamish",
+          "jumper": "36",
+          "dob": "1941-02-12",
+          "height": "170cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Phil",
@@ -228,20 +228,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Porta",
-          "jumper": "21",
-          "dob": "1936-06-03",
-          "height": "185cm",
-          "weight": "83kg"
-        },
-        {
           "firstname": "Barry",
           "lastname": "Thornton",
           "jumper": "13",
           "dob": "1940-07-04",
           "height": "180cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Porta",
+          "jumper": "21",
+          "dob": "1936-06-03",
+          "height": "185cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Ian",
@@ -309,7 +309,7 @@
         },
         {
           "firstname": "Alan",
-          "lastname": "McGill",
+          "lastname": "Mc Gill",
           "jumper": "46",
           "dob": "1939-04-09",
           "height": "175cm",

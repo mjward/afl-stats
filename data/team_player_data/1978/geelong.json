@@ -92,20 +92,20 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Bright",
-          "jumper": "4",
-          "dob": "1958-02-12",
-          "height": "188cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ray",
           "lastname": "Card",
           "jumper": "20",
           "dob": "1957-04-04",
           "height": "185cm",
           "weight": "86kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Bright",
+          "jumper": "4",
+          "dob": "1958-02-12",
+          "height": "188cm",
+          "weight": "87kg"
         },
         {
           "firstname": "Jeff",
@@ -116,7 +116,7 @@
           "weight": "83kg"
         },
         {
-          "firstname": "John'Sam'",
+          "firstname": "John' Sam'",
           "lastname": "Newman",
           "jumper": "17",
           "dob": "1945-12-22",

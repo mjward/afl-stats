@@ -4,30 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Herb",
-          "lastname": "Burleigh",
-          "jumper": "21",
-          "dob": "1892-06-14",
-          "height": "184cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Viv",
-          "lastname": "Valentine",
-          "jumper": "4",
-          "dob": "1887-12-03",
-          "height": "168cm",
-          "weight": "71kg"
-        },
-        {
-          "firstname": "Rod",
-          "lastname": "McGregor",
-          "jumper": "11",
-          "dob": "1882-10-19",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Daykin",
           "jumper": "2",
@@ -68,20 +44,36 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Herb",
+          "lastname": "Burleigh",
+          "jumper": "21",
+          "dob": "1892-06-14",
+          "height": "184cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Viv",
+          "lastname": "Valentine",
+          "jumper": "4",
+          "dob": "1887-12-03",
+          "height": "168cm",
+          "weight": "71kg"
+        },
+        {
+          "firstname": "Rod",
+          "lastname": "Mc Gregor",
+          "jumper": "11",
+          "dob": "1882-10-19",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Andy",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "3",
           "dob": "1885-12-27",
           "height": "165cm",
           "weight": "67kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Challis",
-          "jumper": "12",
-          "dob": "1891-02-09",
-          "height": "177cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Harry",
@@ -100,12 +92,12 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Paddy",
-          "lastname": "O'Brien",
-          "jumper": "10",
-          "dob": "1893-04-16",
-          "height": "183cm",
-          "weight": "86kg"
+          "firstname": "George",
+          "lastname": "Challis",
+          "jumper": "12",
+          "dob": "1891-02-09",
+          "height": "177cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Ernie",
@@ -114,6 +106,14 @@
           "dob": "1888-06-04",
           "height": "178cm",
           "weight": "74kg"
+        },
+        {
+          "firstname": "Paddy",
+          "lastname": "O' Brien",
+          "jumper": "10",
+          "dob": "1893-04-16",
+          "height": "183cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Billy",

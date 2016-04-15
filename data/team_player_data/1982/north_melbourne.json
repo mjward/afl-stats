@@ -36,6 +36,22 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Stephen",
+          "lastname": "Mc Cann",
+          "jumper": "16",
+          "dob": "1958-05-31",
+          "height": "192cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Phil",
+          "lastname": "Krakouer",
+          "jumper": "8",
+          "dob": "1960-01-15",
+          "height": "178cm",
+          "weight": "75kg"
+        },
+        {
           "firstname": "Wayne",
           "lastname": "Schimmelbusch",
           "jumper": "20",
@@ -52,20 +68,12 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Stephen",
-          "lastname": "McCann",
-          "jumper": "16",
-          "dob": "1958-05-31",
-          "height": "192cm",
-          "weight": "96kg"
-        },
-        {
-          "firstname": "Phil",
-          "lastname": "Krakouer",
-          "jumper": "8",
-          "dob": "1960-01-15",
-          "height": "178cm",
-          "weight": "75kg"
+          "firstname": "Malcolm",
+          "lastname": "Blight",
+          "jumper": "15",
+          "dob": "1950-02-16",
+          "height": "182cm",
+          "weight": "89kg"
         },
         {
           "firstname": "Keith",
@@ -76,28 +84,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Malcolm",
-          "lastname": "Blight",
-          "jumper": "15",
-          "dob": "1950-02-16",
-          "height": "182cm",
-          "weight": "89kg"
-        },
-        {
           "firstname": "Graeme",
           "lastname": "Atkins",
           "jumper": "36",
           "dob": "1963-10-30",
           "height": "178cm",
           "weight": "70kg"
-        },
-        {
-          "firstname": "Xavier",
-          "lastname": "Tanner",
-          "jumper": "25",
-          "dob": "1956-05-02",
-          "height": "183cm",
-          "weight": "78kg"
         },
         {
           "firstname": "Kevin",
@@ -108,12 +100,12 @@
           "weight": "87kg"
         },
         {
-          "firstname": "Craig",
-          "lastname": "Holden",
-          "jumper": "11",
-          "dob": "1957-08-14",
-          "height": "178cm",
-          "weight": "80kg"
+          "firstname": "Xavier",
+          "lastname": "Tanner",
+          "jumper": "25",
+          "dob": "1956-05-02",
+          "height": "183cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Doug",
@@ -124,6 +116,14 @@
           "weight": "86kg"
         },
         {
+          "firstname": "Craig",
+          "lastname": "Holden",
+          "jumper": "11",
+          "dob": "1957-08-14",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Phil",
           "lastname": "Kelly",
           "jumper": "14",
@@ -132,20 +132,20 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Krakouer",
-          "jumper": "3",
-          "dob": "1958-10-13",
-          "height": "167cm",
-          "weight": "67kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Holt",
           "jumper": "37",
           "dob": "1962-09-29",
           "height": "183cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Krakouer",
+          "jumper": "3",
+          "dob": "1958-10-13",
+          "height": "167cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Kym",
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Donald",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "43",
           "dob": "1962-05-10",
           "height": "191cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "McGuire",
+          "lastname": "Mc Guire",
           "jumper": "31",
           "dob": "1961-06-10",
           "height": "185cm",

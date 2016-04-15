@@ -28,20 +28,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Greg",
-          "lastname": "Hutchison",
-          "jumper": "43",
-          "dob": "1957-06-13",
-          "height": "182cm",
-          "weight": "85kg"
-        },
-        {
           "firstname": "Henry",
           "lastname": "Coles",
           "jumper": "13",
           "dob": "1951-03-11",
           "height": "171cm",
           "weight": "73kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Hutchison",
+          "jumper": "43",
+          "dob": "1957-06-13",
+          "height": "182cm",
+          "weight": "85kg"
         },
         {
           "firstname": "Greg",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Mark",
-          "lastname": "McKeon",
+          "lastname": "Mc Keon",
           "jumper": "26",
           "dob": "1957-05-15",
           "height": "183cm",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Craig",
-          "lastname": "McKellar",
+          "lastname": "Mc Kellar",
           "jumper": "10",
           "dob": "1949-12-08",
           "height": "196cm",
@@ -317,7 +317,7 @@
         },
         {
           "firstname": "Des",
-          "lastname": "O'Dwyer",
+          "lastname": "O' Dwyer",
           "jumper": "27",
           "dob": "1961-08-24",
           "height": "187cm",

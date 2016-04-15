@@ -4,20 +4,20 @@
     "teams": {
       "Essendon": [
         {
-          "firstname": "Greg",
-          "lastname": "Stockdale",
-          "jumper": "25",
-          "dob": "1899-07-30",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Maher",
           "jumper": "24",
           "dob": "1895-09-22",
           "height": "170cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Stockdale",
+          "jumper": "25",
+          "dob": "1899-07-30",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Norm",
@@ -68,20 +68,20 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Rowley",
-          "lastname": "Watt",
-          "jumper": "10",
-          "dob": "1898-07-17",
-          "height": "163cm",
-          "weight": "61kg"
-        },
-        {
           "firstname": "Jim",
           "lastname": "Quinn",
           "jumper": "31",
           "dob": "1904-11-18",
           "height": "187cm",
           "weight": "88kg"
+        },
+        {
+          "firstname": "Rowley",
+          "lastname": "Watt",
+          "jumper": "10",
+          "dob": "1898-07-17",
+          "height": "163cm",
+          "weight": "61kg"
         },
         {
           "firstname": "Harry",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Ned",
-          "lastname": "McSweeney",
+          "lastname": "Mc Sweeney",
           "jumper": "9",
           "dob": "1903-09-10",
           "height": "182cm",
@@ -116,14 +116,6 @@
           "weight": "62kg"
         },
         {
-          "firstname": "Rupe",
-          "lastname": "Dodd",
-          "jumper": "16",
-          "dob": "1907-01-19",
-          "height": "168cm",
-          "weight": "69kg"
-        },
-        {
           "firstname": "Rod",
           "lastname": "Watt",
           "jumper": "8",
@@ -140,6 +132,14 @@
           "weight": "65kg"
         },
         {
+          "firstname": "Rupe",
+          "lastname": "Dodd",
+          "jumper": "16",
+          "dob": "1907-01-19",
+          "height": "168cm",
+          "weight": "69kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Hudd",
           "jumper": "4",
@@ -148,20 +148,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Syd",
-          "lastname": "Carman",
-          "jumper": "11",
-          "dob": "1901-12-15",
-          "height": "173cm",
-          "weight": "65kg"
-        },
-        {
           "firstname": "Paddy",
           "lastname": "Walsh",
           "jumper": "28",
           "dob": "1906-08-21",
           "height": "184cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Syd",
+          "lastname": "Carman",
+          "jumper": "11",
+          "dob": "1901-12-15",
+          "height": "173cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Frank",

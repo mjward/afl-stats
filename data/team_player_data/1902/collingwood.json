@@ -20,14 +20,6 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Alf",
-          "lastname": "Dummett",
-          "jumper": "—",
-          "dob": "1880-12-08",
-          "height": "177cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Pannam",
           "jumper": "—",
@@ -37,27 +29,19 @@
         },
         {
           "firstname": "Con",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "—",
           "dob": "1877-12-25",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Leach",
+          "firstname": "Alf",
+          "lastname": "Dummett",
           "jumper": "—",
-          "dob": "1876-03-02",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Allan",
-          "jumper": "—",
-          "dob": "1882-10-26",
-          "height": "—",
-          "weight": "—"
+          "dob": "1880-12-08",
+          "height": "177cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Teddy",
@@ -76,12 +60,36 @@
           "weight": "102kg"
         },
         {
+          "firstname": "Arthur",
+          "lastname": "Leach",
+          "jumper": "—",
+          "dob": "1876-03-02",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Allan",
+          "jumper": "—",
+          "dob": "1882-10-26",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Jack",
-          "lastname": "MonohanSnr",
+          "lastname": "Monohan Snr",
           "jumper": "—",
           "dob": "1873-08-21",
           "height": "184cm",
           "weight": "82kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Rush",
+          "jumper": "—",
+          "dob": "1880-10-09",
+          "height": "177cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Matthew",
@@ -108,12 +116,12 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Rush",
+          "firstname": "George",
+          "lastname": "Lockwood",
           "jumper": "—",
-          "dob": "1880-10-09",
-          "height": "177cm",
-          "weight": "80kg"
+          "dob": "1872-12-06",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Ted",
@@ -122,14 +130,6 @@
           "dob": "1876-06-15",
           "height": "178cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "George",
-          "lastname": "Lockwood",
-          "jumper": "—",
-          "dob": "1872-12-06",
-          "height": "—",
-          "weight": "—"
         },
         {
           "firstname": "George",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCulloch",
+          "lastname": "Mc Culloch",
           "jumper": "—",
           "dob": "1872-11-07",
           "height": "180cm",
@@ -228,18 +228,18 @@
           "weight": "66kg"
         },
         {
-          "firstname": "Harry",
-          "lastname": "Newbound",
-          "jumper": "—",
-          "dob": "1881-09-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bob",
           "lastname": "Bryce",
           "jumper": "—",
           "dob": "1879-07-07",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Harry",
+          "lastname": "Newbound",
+          "jumper": "—",
+          "dob": "1881-09-25",
           "height": "—",
           "weight": "—"
         }

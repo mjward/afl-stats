@@ -4,30 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "Charlie",
-          "lastname": "Coles",
-          "jumper": "—",
-          "dob": "1879-07-21",
-          "height": "183cm",
-          "weight": "83kg"
-        },
-        {
-          "firstname": "Ike",
-          "lastname": "Woods",
-          "jumper": "—",
-          "dob": "1879-08-20",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Peter",
-          "lastname": "Stephens",
-          "jumper": "—",
-          "dob": "1879-05-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ivan",
           "lastname": "Forbes",
           "jumper": "—",
@@ -68,6 +44,38 @@
           "weight": "94kg"
         },
         {
+          "firstname": "Charlie",
+          "lastname": "Coles",
+          "jumper": "—",
+          "dob": "1879-07-21",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Ike",
+          "lastname": "Woods",
+          "jumper": "—",
+          "dob": "1879-08-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Stephens",
+          "jumper": "—",
+          "dob": "1879-05-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Alec",
+          "lastname": "Mc Kenzie",
+          "jumper": "—",
+          "dob": "1882-07-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Henry",
           "lastname": "Young",
           "jumper": "—",
@@ -76,28 +84,12 @@
           "weight": "90kg"
         },
         {
-          "firstname": "Alec",
-          "lastname": "McKenzie",
-          "jumper": "—",
-          "dob": "1882-07-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Wright",
           "jumper": "—",
           "dob": "1878-05-04",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Mick",
-          "lastname": "Donaghy",
-          "jumper": "—",
-          "dob": "1877-11-14",
-          "height": "193cm",
-          "weight": "92kg"
         },
         {
           "firstname": "Bill",
@@ -109,11 +101,19 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McKinley",
+          "lastname": "Mc Kinley",
           "jumper": "—",
           "dob": "1882-03-24",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Donaghy",
+          "jumper": "—",
+          "dob": "1877-11-14",
+          "height": "193cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Arthur",
@@ -237,7 +237,7 @@
         },
         {
           "firstname": "Firth",
-          "lastname": "McCallum",
+          "lastname": "Mc Callum",
           "jumper": "—",
           "dob": "1872-12-27",
           "height": "—",

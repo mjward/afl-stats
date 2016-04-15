@@ -4,6 +4,22 @@
     "teams": {
       "Richmond": [
         {
+          "firstname": "Francis",
+          "lastname": "Bourke",
+          "jumper": "30",
+          "dob": "1947-04-02",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Raines",
+          "jumper": "4",
+          "dob": "1956-08-10",
+          "height": "180cm",
+          "weight": "78kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Jess",
           "jumper": "20",
@@ -28,20 +44,12 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Francis",
-          "lastname": "Bourke",
-          "jumper": "30",
-          "dob": "1947-04-02",
-          "height": "185cm",
-          "weight": "84kg"
-        },
-        {
-          "firstname": "Geoff",
-          "lastname": "Raines",
-          "jumper": "4",
-          "dob": "1956-08-10",
-          "height": "180cm",
-          "weight": "78kg"
+          "firstname": "Mark",
+          "lastname": "Lee",
+          "jumper": "1",
+          "dob": "1959-03-29",
+          "height": "199cm",
+          "weight": "96kg"
         },
         {
           "firstname": "Greg",
@@ -58,14 +66,6 @@
           "dob": "1959-10-03",
           "height": "170cm",
           "weight": "69kg"
-        },
-        {
-          "firstname": "Mark",
-          "lastname": "Lee",
-          "jumper": "1",
-          "dob": "1959-03-29",
-          "height": "199cm",
-          "weight": "96kg"
         },
         {
           "firstname": "Bryan",
@@ -92,6 +92,14 @@
           "weight": "76kg"
         },
         {
+          "firstname": "Bruce",
+          "lastname": "Monteath",
+          "jumper": "11",
+          "dob": "1955-09-20",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
           "firstname": "Robert",
           "lastname": "Wiley",
           "jumper": "2",
@@ -100,12 +108,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Bruce",
-          "lastname": "Monteath",
-          "jumper": "11",
-          "dob": "1955-09-20",
-          "height": "188cm",
-          "weight": "85kg"
+          "firstname": "Emmett",
+          "lastname": "Dunne",
+          "jumper": "5",
+          "dob": "1956-06-11",
+          "height": "197cm",
+          "weight": "99kg"
         },
         {
           "firstname": "David",
@@ -122,14 +130,6 @@
           "dob": "1953-07-29",
           "height": "185cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Emmett",
-          "lastname": "Dunne",
-          "jumper": "5",
-          "dob": "1956-06-11",
-          "height": "197cm",
-          "weight": "99kg"
         },
         {
           "firstname": "Barry",

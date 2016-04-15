@@ -4,14 +4,6 @@
     "teams": {
       "Carlton": [
         {
-          "firstname": "Wally",
-          "lastname": "Raleigh",
-          "jumper": "18",
-          "dob": "1895-07-01",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Greenhill",
           "jumper": "6",
@@ -21,19 +13,19 @@
         },
         {
           "firstname": "Stewart",
-          "lastname": "McLatchie",
+          "lastname": "Mc Latchie",
           "jumper": "21",
           "dob": "1896-08-19",
           "height": "170cm",
           "weight": "69kg"
         },
         {
-          "firstname": "Billy",
-          "lastname": "Blackman",
-          "jumper": "13",
-          "dob": "1895-08-06",
-          "height": "170cm",
-          "weight": "68kg"
+          "firstname": "Wally",
+          "lastname": "Raleigh",
+          "jumper": "18",
+          "dob": "1895-07-01",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Charlie",
@@ -52,12 +44,12 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Frank",
-          "lastname": "Martin",
-          "jumper": "25",
-          "dob": "1895-06-30",
-          "height": "174cm",
-          "weight": "82kg"
+          "firstname": "Billy",
+          "lastname": "Blackman",
+          "jumper": "13",
+          "dob": "1895-08-06",
+          "height": "170cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Horrie",
@@ -82,6 +74,14 @@
           "dob": "1900-07-29",
           "height": "168cm",
           "weight": "65kg"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Martin",
+          "jumper": "25",
+          "dob": "1895-06-30",
+          "height": "174cm",
+          "weight": "82kg"
         },
         {
           "firstname": "Alex",
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Paddy",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "10",
           "dob": "1893-04-16",
           "height": "183cm",
@@ -164,20 +164,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Croft",
-          "lastname": "McKenzie",
-          "jumper": "15",
-          "dob": "1894-02-17",
-          "height": "178cm",
-          "weight": "75kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Toole",
           "jumper": "22",
           "dob": "1897-09-07",
           "height": "179cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Croft",
+          "lastname": "Mc Kenzie",
+          "jumper": "15",
+          "dob": "1894-02-17",
+          "height": "178cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Dick",

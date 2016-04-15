@@ -12,6 +12,22 @@
           "weight": "—"
         },
         {
+          "firstname": "Joe",
+          "lastname": "Groves",
+          "jumper": "—",
+          "dob": "1874-05-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charles Tracker",
+          "lastname": "Forbes",
+          "jumper": "—",
+          "dob": "1865-05-08",
+          "height": "191cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Harry",
           "lastname": "Wright",
           "jumper": "—",
@@ -29,7 +45,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "O'Loughlin",
+          "lastname": "O' Loughlin",
           "jumper": "—",
           "dob": "1873-10-29",
           "height": "—",
@@ -52,20 +68,12 @@
           "weight": "—"
         },
         {
-          "firstname": "Joe",
-          "lastname": "Groves",
+          "firstname": "Hugh",
+          "lastname": "Gavin",
           "jumper": "—",
-          "dob": "1874-05-18",
+          "dob": "1878-10-25",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "CharlesTracker",
-          "lastname": "Forbes",
-          "jumper": "—",
-          "dob": "1865-05-08",
-          "height": "191cm",
-          "weight": "84kg"
         },
         {
           "firstname": "Arthur",
@@ -80,14 +88,6 @@
           "lastname": "Waugh",
           "jumper": "—",
           "dob": "1874-05-10",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Hugh",
-          "lastname": "Gavin",
-          "jumper": "—",
-          "dob": "1878-10-25",
           "height": "—",
           "weight": "—"
         },
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McCormick",
+          "lastname": "Mc Cormick",
           "jumper": "—",
           "dob": "1879-04-12",
           "height": "—",

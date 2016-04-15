@@ -21,7 +21,7 @@
         },
         {
           "firstname": "Pat",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "—",
           "dob": "1881-01-20",
           "height": "—",
@@ -60,6 +60,14 @@
           "weight": "—"
         },
         {
+          "firstname": "Dave",
+          "lastname": "Mc Namara",
+          "jumper": "1",
+          "dob": "1887-01-22",
+          "height": "193cm",
+          "weight": "92kg"
+        },
+        {
           "firstname": "Jim",
           "lastname": "Cowell",
           "jumper": "—",
@@ -84,12 +92,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Dave",
-          "lastname": "McNamara",
-          "jumper": "1",
-          "dob": "1887-01-22",
-          "height": "193cm",
-          "weight": "92kg"
+          "firstname": "Ivo",
+          "lastname": "Lawson",
+          "jumper": "—",
+          "dob": "1883-05-02",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Sam",
+          "lastname": "Gravenall",
+          "jumper": "—",
+          "dob": "1885-07-18",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Dan",
@@ -108,22 +124,6 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Ivo",
-          "lastname": "Lawson",
-          "jumper": "—",
-          "dob": "1883-05-02",
-          "height": "178cm",
-          "weight": "74kg"
-        },
-        {
-          "firstname": "Sam",
-          "lastname": "Gravenall",
-          "jumper": "—",
-          "dob": "1885-07-18",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Wells",
           "jumper": "—",
@@ -132,18 +132,18 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Baker",
-          "jumper": "—",
-          "dob": "1880-06-18",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Horrie",
           "lastname": "Bant",
           "jumper": "—",
           "dob": "1882-09-22",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Baker",
+          "jumper": "—",
+          "dob": "1880-06-18",
           "height": "—",
           "weight": "—"
         },
@@ -220,18 +220,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Ned",
-          "lastname": "O'Connor",
-          "jumper": "—",
-          "dob": "1877-06-03",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Gerrard",
           "jumper": "—",
           "dob": "1886-04-28",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Ned",
+          "lastname": "O' Connor",
+          "jumper": "—",
+          "dob": "1877-06-03",
           "height": "—",
           "weight": "—"
         },
@@ -244,14 +244,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Alec",
-          "lastname": "Hall",
-          "jumper": "—",
-          "dob": "1869-01-04",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Edwards",
           "jumper": "—",
@@ -260,8 +252,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Alec",
+          "lastname": "Hall",
+          "jumper": "—",
+          "dob": "1869-01-04",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Ossie",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "—",
           "dob": "1884-09-16",
           "height": "—",

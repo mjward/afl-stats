@@ -52,6 +52,14 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Arthur",
+          "lastname": "Olliver",
+          "jumper": "3",
+          "dob": "1916-12-10",
+          "height": "189cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Len",
           "lastname": "Murphy",
           "jumper": "21",
@@ -68,14 +76,6 @@
           "weight": "80kg"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Olliver",
-          "jumper": "3",
-          "dob": "1916-12-10",
-          "height": "189cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Ellis",
           "jumper": "15",
@@ -84,20 +84,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Thoms",
-          "jumper": "1",
-          "dob": "1918-05-25",
-          "height": "173cm",
-          "weight": "82kg"
-        },
-        {
           "firstname": "Leo",
           "lastname": "Ryan",
           "jumper": "17",
           "dob": "1913-08-26",
           "height": "175cm",
           "weight": "70kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Thoms",
+          "jumper": "1",
+          "dob": "1918-05-25",
+          "height": "173cm",
+          "weight": "82kg"
         },
         {
           "firstname": "George",
@@ -140,14 +140,6 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Rob",
-          "lastname": "Sainsbury",
-          "jumper": "18",
-          "dob": "1916-01-05",
-          "height": "173cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Collins",
           "jumper": "2",
@@ -156,8 +148,16 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Rob",
+          "lastname": "Sainsbury",
+          "jumper": "18",
+          "dob": "1916-01-05",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Hughie",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "33",
           "dob": "1918-08-21",
           "height": "180cm",
@@ -269,7 +269,7 @@
         },
         {
           "firstname": "Marty",
-          "lastname": "McDonnell",
+          "lastname": "Mc Donnell",
           "jumper": "32",
           "dob": "1920-12-28",
           "height": "183cm",

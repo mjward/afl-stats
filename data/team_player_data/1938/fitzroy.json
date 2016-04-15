@@ -5,19 +5,11 @@
       "Fitzroy": [
         {
           "firstname": "Jock",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "13",
           "dob": "1911-10-31",
           "height": "178cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Wilfred'Chicken'",
-          "lastname": "Smallhorn",
-          "jumper": "21",
-          "dob": "1911-02-25",
-          "height": "173cm",
-          "weight": "65kg"
         },
         {
           "firstname": "Frank",
@@ -34,6 +26,14 @@
           "dob": "1914-11-14",
           "height": "173cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Wilfred' Chicken'",
+          "lastname": "Smallhorn",
+          "jumper": "21",
+          "dob": "1911-02-25",
+          "height": "173cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Bernie",
@@ -101,19 +101,11 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "TooheyJnr",
+          "lastname": "Toohey Jnr",
           "jumper": "24",
           "dob": "1915-06-01",
           "height": "185cm",
           "weight": "92kg"
-        },
-        {
-          "firstname": "Eric",
-          "lastname": "Clark",
-          "jumper": "26",
-          "dob": "1916-03-13",
-          "height": "180cm",
-          "weight": "73kg"
         },
         {
           "firstname": "Wally",
@@ -124,7 +116,15 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Denis'Dinny'",
+          "firstname": "Eric",
+          "lastname": "Clark",
+          "jumper": "26",
+          "dob": "1916-03-13",
+          "height": "180cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Denis' Dinny'",
           "lastname": "Ryan",
           "jumper": "4",
           "dob": "1916-07-10",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Audley",
-          "lastname": "Gillespie-Jones",
+          "lastname": "Gillespie- Jones",
           "jumper": "34",
           "dob": "1914-07-01",
           "height": "178cm",
@@ -236,20 +236,20 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Bruce",
-          "lastname": "Calverley",
-          "jumper": "20",
-          "dob": "1918-01-21",
-          "height": "168cm",
-          "weight": "68kg"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Hart",
           "jumper": "9",
           "dob": "1917-06-22",
           "height": "182cm",
           "weight": "76kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Calverley",
+          "jumper": "20",
+          "dob": "1918-01-21",
+          "height": "168cm",
+          "weight": "68kg"
         },
         {
           "firstname": "Harry",
@@ -276,14 +276,6 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "Catton",
-          "jumper": "10",
-          "dob": "1914-01-05",
-          "height": "187cm",
-          "weight": "78kg"
-        },
-        {
           "firstname": "Alf",
           "lastname": "Hurley",
           "jumper": "22",
@@ -298,6 +290,14 @@
           "dob": "1911-04-20",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Len",
+          "lastname": "Catton",
+          "jumper": "10",
+          "dob": "1914-01-05",
+          "height": "187cm",
+          "weight": "78kg"
         },
         {
           "firstname": "Jack",

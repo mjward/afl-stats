@@ -1,0 +1,273 @@
+{
+  "team_player_data": {
+    "year": 1999,
+    "teams": {
+      "Western Bulldogs": [
+        {
+          "firstname": "Brad",
+          "lastname": "Johnson",
+          "jumper": "6",
+          "dob": "1976-07-18",
+          "height": "182cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Chris",
+          "lastname": "Grant",
+          "jumper": "3",
+          "dob": "1972-12-13",
+          "height": "193cm",
+          "weight": "99kg"
+        },
+        {
+          "firstname": "Luke",
+          "lastname": "Darcy",
+          "jumper": "14",
+          "dob": "1975-07-12",
+          "height": "197cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Rohan",
+          "lastname": "Smith",
+          "jumper": "5",
+          "dob": "1973-05-31",
+          "height": "184cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Todd",
+          "lastname": "Curley",
+          "jumper": "11",
+          "dob": "1973-01-14",
+          "height": "188cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Brett",
+          "lastname": "Montgomery",
+          "jumper": "10",
+          "dob": "1973-06-01",
+          "height": "180cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Scott",
+          "lastname": "Wynd",
+          "jumper": "15",
+          "dob": "1970-01-25",
+          "height": "201cm",
+          "weight": "108kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Croft",
+          "jumper": "16",
+          "dob": "1973-02-26",
+          "height": "191cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Garlick",
+          "jumper": "4",
+          "dob": "1975-04-10",
+          "height": "177cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Hudson",
+          "jumper": "9",
+          "dob": "1970-07-20",
+          "height": "185cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Nathan",
+          "lastname": "Brown",
+          "jumper": "17",
+          "dob": "1978-02-10",
+          "height": "181cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Dimattina",
+          "jumper": "28",
+          "dob": "1974-11-22",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Scott",
+          "lastname": "West",
+          "jumper": "7",
+          "dob": "1974-11-14",
+          "height": "178cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Liberatore",
+          "jumper": "39",
+          "dob": "1966-02-11",
+          "height": "163cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Powell",
+          "jumper": "29",
+          "dob": "1976-09-07",
+          "height": "181cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Nicky",
+          "lastname": "Winmar",
+          "jumper": "1",
+          "dob": "1965-09-25",
+          "height": "183cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "James",
+          "lastname": "Cook",
+          "jumper": "12",
+          "dob": "1974-01-07",
+          "height": "190cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Southern",
+          "jumper": "8",
+          "dob": "1975-01-01",
+          "height": "188cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Leon",
+          "lastname": "Cameron",
+          "jumper": "18",
+          "dob": "1972-09-02",
+          "height": "185cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Steven",
+          "lastname": "Kretiuk",
+          "jumper": "35",
+          "dob": "1972-07-04",
+          "height": "184cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Craig",
+          "lastname": "Ellis",
+          "jumper": "32",
+          "dob": "1975-06-04",
+          "height": "190cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Dent",
+          "jumper": "21",
+          "dob": "1972-01-17",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Robbins",
+          "jumper": "30",
+          "dob": "1977-05-08",
+          "height": "178cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Adam",
+          "lastname": "Contessa",
+          "jumper": "43",
+          "dob": "1976-12-29",
+          "height": "176cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "José",
+          "lastname": "Romero",
+          "jumper": "36",
+          "dob": "1971-08-01",
+          "height": "173cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Martin",
+          "jumper": "23",
+          "dob": "1977-02-25",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Josh",
+          "lastname": "Mahoney",
+          "jumper": "13",
+          "dob": "1977-10-31",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Steven",
+          "lastname": "Kolyniuk",
+          "jumper": "2",
+          "dob": "1970-07-05",
+          "height": "174cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Cox",
+          "jumper": "26",
+          "dob": "1977-01-25",
+          "height": "192cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Christin",
+          "lastname": "Macri",
+          "jumper": "33",
+          "dob": "1974-08-28",
+          "height": "189cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Alvey",
+          "jumper": "31",
+          "dob": "1980-06-10",
+          "height": "177cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Plunkett",
+          "jumper": "24",
+          "dob": "1978-07-26",
+          "height": "179cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Kingsley",
+          "lastname": "Hunter",
+          "jumper": "25",
+          "dob": "1975-05-27",
+          "height": "191cm",
+          "weight": "102kg"
+        }
+      ]
+    }
+  }
+}

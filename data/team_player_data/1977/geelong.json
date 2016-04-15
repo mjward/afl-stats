@@ -4,6 +4,14 @@
     "teams": {
       "Geelong": [
         {
+          "firstname": "Terry",
+          "lastname": "Bright",
+          "jumper": "4",
+          "dob": "1958-02-12",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
           "firstname": "Mark",
           "lastname": "Browne",
           "jumper": "12",
@@ -20,12 +28,20 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Terry",
-          "lastname": "Bright",
-          "jumper": "4",
-          "dob": "1958-02-12",
-          "height": "188cm",
-          "weight": "87kg"
+          "firstname": "John' Sam'",
+          "lastname": "Newman",
+          "jumper": "17",
+          "dob": "1945-12-22",
+          "height": "189cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Nankervis",
+          "jumper": "40",
+          "dob": "1948-01-03",
+          "height": "183cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Larry",
@@ -52,22 +68,6 @@
           "weight": "83kg"
         },
         {
-          "firstname": "John'Sam'",
-          "lastname": "Newman",
-          "jumper": "17",
-          "dob": "1945-12-22",
-          "height": "189cm",
-          "weight": "94kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Nankervis",
-          "jumper": "40",
-          "dob": "1948-01-03",
-          "height": "183cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Paul",
           "lastname": "Sarah",
           "jumper": "13",
@@ -85,19 +85,19 @@
         },
         {
           "firstname": "Kevin",
-          "lastname": "Sheehan",
-          "jumper": "8",
-          "dob": "1953-08-01",
-          "height": "177cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Kevin",
           "lastname": "Higgins",
           "jumper": "39",
           "dob": "1951-02-20",
           "height": "183cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Kevin",
+          "lastname": "Sheehan",
+          "jumper": "8",
+          "dob": "1953-08-01",
+          "height": "177cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Mike",
@@ -124,6 +124,14 @@
           "weight": "77kg"
         },
         {
+          "firstname": "Murray",
+          "lastname": "Witcombe",
+          "jumper": "18",
+          "dob": "1956-11-01",
+          "height": "182cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Graeme",
           "lastname": "Landy",
           "jumper": "2",
@@ -138,14 +146,6 @@
           "dob": "1953-12-29",
           "height": "175cm",
           "weight": "75kg"
-        },
-        {
-          "firstname": "Murray",
-          "lastname": "Witcombe",
-          "jumper": "18",
-          "dob": "1956-11-01",
-          "height": "182cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Rod",
@@ -228,20 +228,20 @@
           "weight": "106kg"
         },
         {
-          "firstname": "Andy",
-          "lastname": "McGillivray",
-          "jumper": "27",
-          "dob": "1954-02-19",
-          "height": "188cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Wayne",
           "lastname": "Hovey",
           "jumper": "34",
           "dob": "1956-07-13",
           "height": "173cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Mc Gillivray",
+          "jumper": "27",
+          "dob": "1954-02-19",
+          "height": "188cm",
+          "weight": "86kg"
         },
         {
           "firstname": "David",

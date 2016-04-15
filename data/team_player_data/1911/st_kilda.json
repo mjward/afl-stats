@@ -28,14 +28,6 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Wels",
-          "lastname": "Eicke",
-          "jumper": "7",
-          "dob": "1893-09-27",
-          "height": "177cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Lever",
           "jumper": "1",
@@ -44,12 +36,12 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Artie",
-          "lastname": "Thomas",
-          "jumper": "9",
-          "dob": "1884-09-21",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Wels",
+          "lastname": "Eicke",
+          "jumper": "7",
+          "dob": "1893-09-27",
+          "height": "177cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Gordon",
@@ -60,8 +52,16 @@
           "weight": "83kg"
         },
         {
+          "firstname": "Artie",
+          "lastname": "Thomas",
+          "jumper": "9",
+          "dob": "1884-09-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Ken",
-          "lastname": "McKenzie",
+          "lastname": "Mc Kenzie",
           "jumper": "—",
           "dob": "1887-04-20",
           "height": "—",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Alex",
-          "lastname": "MacKenzie",
+          "lastname": "Mac Kenzie",
           "jumper": "20",
           "dob": "1882-01-13",
           "height": "—",
@@ -204,14 +204,6 @@
           "weight": "68kg"
         },
         {
-          "firstname": "Vic",
-          "lastname": "Gordon",
-          "jumper": "—",
-          "dob": "1890-11-09",
-          "height": "183cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Paul",
           "lastname": "White",
           "jumper": "16",
@@ -228,6 +220,22 @@
           "weight": "—"
         },
         {
+          "firstname": "Vic",
+          "lastname": "Gordon",
+          "jumper": "—",
+          "dob": "1890-11-09",
+          "height": "183cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Merritt",
+          "jumper": "—",
+          "dob": "1886-06-29",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Rowley",
           "lastname": "Smith",
           "jumper": "—",
@@ -240,14 +248,6 @@
           "lastname": "Crowl",
           "jumper": "—",
           "dob": "1892-12-26",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Henry",
-          "lastname": "Merritt",
-          "jumper": "—",
-          "dob": "1886-06-29",
           "height": "—",
           "weight": "—"
         },
@@ -292,14 +292,6 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Norm",
-          "lastname": "Ingham",
-          "jumper": "—",
-          "dob": "1890-05-25",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Fred",
           "lastname": "Linay",
           "jumper": "—",
@@ -308,8 +300,16 @@
           "weight": "—"
         },
         {
+          "firstname": "Norm",
+          "lastname": "Ingham",
+          "jumper": "—",
+          "dob": "1890-05-25",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "George",
-          "lastname": "O'Connor",
+          "lastname": "O' Connor",
           "jumper": "—",
           "dob": "1892-03-28",
           "height": "—",
@@ -365,7 +365,15 @@
         },
         {
           "firstname": "Henry",
-          "lastname": "McNamara",
+          "lastname": "Bray",
+          "jumper": "—",
+          "dob": "1891-06-13",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Henry",
+          "lastname": "Mc Namara",
           "jumper": "—",
           "dob": "1884-01-23",
           "height": "—",
@@ -380,10 +388,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Henry",
-          "lastname": "Bray",
+          "firstname": "Alby",
+          "lastname": "Bowtell",
           "jumper": "—",
-          "dob": "1891-06-13",
+          "dob": "1887-06-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Ward",
+          "jumper": "—",
+          "dob": "1891-11-16",
           "height": "—",
           "weight": "—"
         },
@@ -424,22 +440,6 @@
           "lastname": "Hammond",
           "jumper": "—",
           "dob": "1887-07-30",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Alby",
-          "lastname": "Bowtell",
-          "jumper": "—",
-          "dob": "1887-06-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bill",
-          "lastname": "Ward",
-          "jumper": "—",
-          "dob": "1891-11-16",
           "height": "—",
           "weight": "—"
         },
@@ -493,7 +493,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "—",
           "dob": "1887-09-27",
           "height": "—",

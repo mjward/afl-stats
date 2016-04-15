@@ -4,14 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Johnny",
-          "lastname": "Gregory",
-          "jumper": "9",
-          "dob": "1905-02-16",
-          "height": "175cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Healy",
           "jumper": "29",
@@ -26,6 +18,14 @@
           "dob": "1907-05-09",
           "height": "172cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Johnny",
+          "lastname": "Gregory",
+          "jumper": "9",
+          "dob": "1905-02-16",
+          "height": "175cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Billy",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "TysonJnr",
+          "lastname": "Tyson Jnr",
           "jumper": "1",
           "dob": "1897-11-14",
           "height": "183cm",
@@ -60,6 +60,14 @@
           "weight": "80kg"
         },
         {
+          "firstname": "Len",
+          "lastname": "Mc Connell",
+          "jumper": "4",
+          "dob": "1907-09-01",
+          "height": "—",
+          "weight": "—"
+        },
+        {
           "firstname": "Bob",
           "lastname": "Smith",
           "jumper": "8",
@@ -68,12 +76,12 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Len",
-          "lastname": "McConnell",
-          "jumper": "4",
-          "dob": "1907-09-01",
-          "height": "—",
-          "weight": "—"
+          "firstname": "Tim",
+          "lastname": "Trevaskis",
+          "jumper": "12",
+          "dob": "1902-08-23",
+          "height": "173cm",
+          "weight": "67kg"
         },
         {
           "firstname": "Laurie",
@@ -82,14 +90,6 @@
           "dob": "1899-09-10",
           "height": "183cm",
           "weight": "83kg"
-        },
-        {
-          "firstname": "Tim",
-          "lastname": "Trevaskis",
-          "jumper": "12",
-          "dob": "1902-08-23",
-          "height": "173cm",
-          "weight": "67kg"
         },
         {
           "firstname": "Jack",
@@ -181,7 +181,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McDowell",
+          "lastname": "Mc Dowell",
           "jumper": "3",
           "dob": "1905-01-10",
           "height": "184cm",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCabe",
+          "lastname": "Mc Cabe",
           "jumper": "2",
           "dob": "1908-01-31",
           "height": "185cm",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "George",
-          "lastname": "MorrisseyJnr",
+          "lastname": "Morrissey Jnr",
           "jumper": "10",
           "dob": "1908-03-10",
           "height": "174cm",

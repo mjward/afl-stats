@@ -4,16 +4,8 @@
     "teams": {
       "Collingwood": [
         {
-          "firstname": "Charlie",
-          "lastname": "Brown",
-          "jumper": "1",
-          "dob": "1896-04-30",
-          "height": "178cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Con",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "17",
           "dob": "1893-02-10",
           "height": "180cm",
@@ -29,7 +21,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "TwomeySnr",
+          "lastname": "Twomey Snr",
           "jumper": "23",
           "dob": "1899-05-14",
           "height": "174cm",
@@ -37,7 +29,7 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "PannamJnr",
+          "lastname": "Pannam Jnr",
           "jumper": "18",
           "dob": "1897-04-21",
           "height": "174cm",
@@ -53,7 +45,15 @@
         },
         {
           "firstname": "Charlie",
-          "lastname": "TysonJnr",
+          "lastname": "Brown",
+          "jumper": "1",
+          "dob": "1896-04-30",
+          "height": "178cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Tyson Jnr",
           "jumper": "24",
           "dob": "1897-11-14",
           "height": "183cm",
@@ -172,20 +172,20 @@
           "weight": "73kg"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "Wilson",
-          "jumper": "25",
-          "dob": "1900-10-15",
-          "height": "170cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Tommy",
           "lastname": "Scanlon",
           "jumper": "30",
           "dob": "1899-08-16",
           "height": "175cm",
           "weight": "67kg"
+        },
+        {
+          "firstname": "Ernie",
+          "lastname": "Wilson",
+          "jumper": "25",
+          "dob": "1900-10-15",
+          "height": "170cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Fred",

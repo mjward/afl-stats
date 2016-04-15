@@ -4,6 +4,38 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Phil",
+          "lastname": "Hay",
+          "jumper": "22",
+          "dob": "1938-02-07",
+          "height": "180cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Cooper",
+          "jumper": "10",
+          "dob": "1938-04-24",
+          "height": "188cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Parkin",
+          "jumper": "27",
+          "dob": "1942-09-12",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ian",
+          "lastname": "Mort",
+          "jumper": "14",
+          "dob": "1937-04-04",
+          "height": "187cm",
+          "weight": "89kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Fisher",
           "jumper": "5",
@@ -37,43 +69,11 @@
         },
         {
           "firstname": "Cam",
-          "lastname": "McPherson",
+          "lastname": "Mc Pherson",
           "jumper": "26",
           "dob": "1940-05-24",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Phil",
-          "lastname": "Hay",
-          "jumper": "22",
-          "dob": "1938-02-07",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
-          "firstname": "Graham",
-          "lastname": "Cooper",
-          "jumper": "10",
-          "dob": "1938-04-24",
-          "height": "188cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "David",
-          "lastname": "Parkin",
-          "jumper": "27",
-          "dob": "1942-09-12",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Mort",
-          "jumper": "14",
-          "dob": "1937-04-04",
-          "height": "187cm",
-          "weight": "89kg"
         },
         {
           "firstname": "Ian",
@@ -100,20 +100,20 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Ron",
-          "lastname": "Nalder",
-          "jumper": "3",
-          "dob": "1939-09-08",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Rod",
           "lastname": "Olsson",
           "jumper": "25",
           "dob": "1942-04-23",
           "height": "187cm",
           "weight": "89kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Nalder",
+          "jumper": "3",
+          "dob": "1939-09-08",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Des",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "McArthur",
+          "lastname": "Mc Arthur",
           "jumper": "28",
           "dob": "1938-09-10",
           "height": "183cm",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Graeme",
-          "lastname": "McArthur",
+          "lastname": "Mc Arthur",
           "jumper": "50",
           "dob": "1944-11-21",
           "height": "177cm",

@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "George",
-          "lastname": "Todd",
-          "jumper": "19",
-          "dob": "1903-01-10",
-          "height": "185cm",
-          "weight": "79kg"
-        },
-        {
           "firstname": "Les",
           "lastname": "Smith",
           "jumper": "16",
@@ -20,8 +12,16 @@
           "weight": "72kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Todd",
+          "jumper": "19",
+          "dob": "1903-01-10",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Billy",
-          "lastname": "McCarter",
+          "lastname": "Mc Carter",
           "jumper": "24",
           "dob": "1888-10-23",
           "height": "170cm",
@@ -44,14 +44,6 @@
           "weight": "81kg"
         },
         {
-          "firstname": "Bert",
-          "lastname": "Rankin",
-          "jumper": "2",
-          "dob": "1893-02-17",
-          "height": "178cm",
-          "weight": "77kg"
-        },
-        {
           "firstname": "Cliff",
           "lastname": "Rankin",
           "jumper": "6",
@@ -60,12 +52,12 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Pink",
-          "jumper": "1",
-          "dob": "1900-11-15",
-          "height": "169cm",
-          "weight": "65kg"
+          "firstname": "Bert",
+          "lastname": "Rankin",
+          "jumper": "2",
+          "dob": "1893-02-17",
+          "height": "178cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Charlie",
@@ -84,12 +76,12 @@
           "weight": "82kg"
         },
         {
-          "firstname": "Keith",
-          "lastname": "Johns",
-          "jumper": "9",
-          "dob": "1902-02-25",
-          "height": "183cm",
-          "weight": "84kg"
+          "firstname": "Arthur",
+          "lastname": "Pink",
+          "jumper": "1",
+          "dob": "1900-11-15",
+          "height": "169cm",
+          "weight": "65kg"
         },
         {
           "firstname": "Ted",
@@ -116,6 +108,14 @@
           "weight": "72kg"
         },
         {
+          "firstname": "Keith",
+          "lastname": "Johns",
+          "jumper": "9",
+          "dob": "1902-02-25",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Ken",
           "lastname": "Nicolson",
           "jumper": "27",
@@ -132,20 +132,20 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Arthur",
-          "lastname": "Coghlan",
-          "jumper": "8",
-          "dob": "1902-08-16",
-          "height": "180cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Frank",
           "lastname": "Jorgensen",
           "jumper": "23",
           "dob": "1902-08-19",
           "height": "180cm",
           "weight": "72kg"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Coghlan",
+          "jumper": "8",
+          "dob": "1902-08-16",
+          "height": "180cm",
+          "weight": "86kg"
         },
         {
           "firstname": "Bill",
@@ -212,18 +212,18 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Ray",
-          "lastname": "Ellis",
-          "jumper": "5",
-          "dob": "1897-05-12",
+          "firstname": "Stan",
+          "lastname": "Mc Gregor",
+          "jumper": "26",
+          "dob": "1895-05-11",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Stan",
-          "lastname": "McGregor",
-          "jumper": "26",
-          "dob": "1895-05-11",
+          "firstname": "Ray",
+          "lastname": "Ellis",
+          "jumper": "5",
+          "dob": "1897-05-12",
           "height": "—",
           "weight": "—"
         },

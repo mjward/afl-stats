@@ -4,6 +4,22 @@
     "teams": {
       "Fitzroy": [
         {
+          "firstname": "Neville",
+          "lastname": "Broderick",
+          "jumper": "6",
+          "dob": "1927-04-10",
+          "height": "175cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Allan",
+          "lastname": "Ruthven",
+          "jumper": "7",
+          "dob": "1922-04-17",
+          "height": "173cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "George",
           "lastname": "Coates",
           "jumper": "2",
@@ -28,30 +44,6 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Neville",
-          "lastname": "Broderick",
-          "jumper": "6",
-          "dob": "1927-04-10",
-          "height": "175cm",
-          "weight": "86kg"
-        },
-        {
-          "firstname": "Allan",
-          "lastname": "Ruthven",
-          "jumper": "7",
-          "dob": "1922-04-17",
-          "height": "173cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Gaffney",
-          "jumper": "26",
-          "dob": "1929-08-21",
-          "height": "182cm",
-          "weight": "81kg"
-        },
-        {
           "firstname": "Alan",
           "lastname": "Gale",
           "jumper": "33",
@@ -66,6 +58,14 @@
           "dob": "1926-03-31",
           "height": "184cm",
           "weight": "78kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Gaffney",
+          "jumper": "26",
+          "dob": "1929-08-21",
+          "height": "182cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Eddie",
@@ -85,7 +85,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "MacGregor",
+          "lastname": "Mac Gregor",
           "jumper": "14",
           "dob": "1932-09-15",
           "height": "185cm",
@@ -164,20 +164,20 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Streader",
-          "jumper": "18",
-          "dob": "1927-05-13",
-          "height": "183cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Joe",
           "lastname": "Murphy",
           "jumper": "21",
           "dob": "1931-12-25",
           "height": "188cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Streader",
+          "jumper": "18",
+          "dob": "1927-05-13",
+          "height": "183cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Ron",
@@ -268,14 +268,6 @@
           "weight": "77kg"
         },
         {
-          "firstname": "Graham",
-          "lastname": "Knight",
-          "jumper": "27",
-          "dob": "1931-05-03",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "Wanhope",
           "jumper": "28",
@@ -290,6 +282,14 @@
           "dob": "1934-01-27",
           "height": "183cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Knight",
+          "jumper": "27",
+          "dob": "1931-05-03",
+          "height": "178cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",

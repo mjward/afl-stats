@@ -28,6 +28,14 @@
           "weight": "87kg"
         },
         {
+          "firstname": "Wally",
+          "lastname": "Carter",
+          "jumper": "17",
+          "dob": "1909-02-04",
+          "height": "175cm",
+          "weight": "72kg"
+        },
+        {
           "firstname": "Don",
           "lastname": "Kemp",
           "jumper": "21",
@@ -36,11 +44,11 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Wally",
-          "lastname": "Carter",
-          "jumper": "17",
-          "dob": "1909-02-04",
-          "height": "175cm",
+          "firstname": "Ron",
+          "lastname": "Mc Leod",
+          "jumper": "22",
+          "dob": "1919-01-04",
+          "height": "178cm",
           "weight": "72kg"
         },
         {
@@ -50,14 +58,6 @@
           "dob": "1909-08-29",
           "height": "180cm",
           "weight": "79kg"
-        },
-        {
-          "firstname": "Ron",
-          "lastname": "McLeod",
-          "jumper": "22",
-          "dob": "1919-01-04",
-          "height": "178cm",
-          "weight": "72kg"
         },
         {
           "firstname": "Jim",
@@ -108,20 +108,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Stewart",
-          "lastname": "Anderson",
-          "jumper": "10",
-          "dob": "1911-06-07",
-          "height": "180cm",
-          "weight": "74kg"
-        },
-        {
           "firstname": "Ted",
           "lastname": "Ellis",
           "jumper": "15",
           "dob": "1913-02-23",
           "height": "188cm",
           "weight": "92kg"
+        },
+        {
+          "firstname": "Stewart",
+          "lastname": "Anderson",
+          "jumper": "10",
+          "dob": "1911-06-07",
+          "height": "180cm",
+          "weight": "74kg"
         },
         {
           "firstname": "Bill",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Mick",
-          "lastname": "McFarlane",
+          "lastname": "Mc Farlane",
           "jumper": "12",
           "dob": "1908-10-25",
           "height": "182cm",
@@ -188,20 +188,20 @@
           "weight": "79kg"
         },
         {
-          "firstname": "Sel",
-          "lastname": "Murray",
-          "jumper": "29",
-          "dob": "1917-11-23",
-          "height": "185cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Col",
           "lastname": "Mitchell",
           "jumper": "15",
           "dob": "1914-06-06",
           "height": "182cm",
           "weight": "79kg"
+        },
+        {
+          "firstname": "Sel",
+          "lastname": "Murray",
+          "jumper": "29",
+          "dob": "1917-11-23",
+          "height": "185cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Alan",

@@ -4,6 +4,22 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Russell",
+          "lastname": "Cook",
+          "jumper": "17",
+          "dob": "1947-09-23",
+          "height": "185cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Pitura",
+          "jumper": "21",
+          "dob": "1950-09-21",
+          "height": "185cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Tony",
           "lastname": "Haenen",
           "jumper": "8",
@@ -28,24 +44,8 @@
           "weight": "75kg"
         },
         {
-          "firstname": "Russell",
-          "lastname": "Cook",
-          "jumper": "17",
-          "dob": "1947-09-23",
-          "height": "185cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "John",
-          "lastname": "Pitura",
-          "jumper": "21",
-          "dob": "1950-09-21",
-          "height": "185cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Haydn",
-          "lastname": "McAuliffe",
+          "lastname": "Mc Auliffe",
           "jumper": "25",
           "dob": "1946-05-15",
           "height": "175cm",
@@ -53,7 +53,7 @@
         },
         {
           "firstname": "David",
-          "lastname": "McLeish",
+          "lastname": "Mc Leish",
           "jumper": "29",
           "dob": "1950-02-21",
           "height": "180cm",
@@ -66,6 +66,22 @@
           "dob": "1943-12-09",
           "height": "182cm",
           "weight": "77kg"
+        },
+        {
+          "firstname": "Richard",
+          "lastname": "Luke",
+          "jumper": "37",
+          "dob": "1948-05-17",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Skilton Jnr",
+          "jumper": "14",
+          "dob": "1938-11-08",
+          "height": "171cm",
+          "weight": "76kg"
         },
         {
           "firstname": "John",
@@ -84,19 +100,11 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Richard",
-          "lastname": "Luke",
-          "jumper": "37",
-          "dob": "1948-05-17",
-          "height": "183cm",
-          "weight": "80kg"
-        },
-        {
-          "firstname": "Bob",
-          "lastname": "SkiltonJnr",
-          "jumper": "14",
-          "dob": "1938-11-08",
-          "height": "171cm",
+          "firstname": "Wayne",
+          "lastname": "Walsh",
+          "jumper": "10",
+          "dob": "1946-05-07",
+          "height": "178cm",
           "weight": "76kg"
         },
         {
@@ -106,14 +114,6 @@
           "dob": "1944-03-06",
           "height": "189cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Wayne",
-          "lastname": "Walsh",
-          "jumper": "10",
-          "dob": "1946-05-07",
-          "height": "178cm",
-          "weight": "76kg"
         },
         {
           "firstname": "Reg",
@@ -133,7 +133,7 @@
         },
         {
           "firstname": "Shane",
-          "lastname": "McKew",
+          "lastname": "Mc Kew",
           "jumper": "35",
           "dob": "1949-03-01",
           "height": "184cm",
@@ -253,7 +253,7 @@
         },
         {
           "firstname": "Peter",
-          "lastname": "McCracken",
+          "lastname": "Mc Cracken",
           "jumper": "22",
           "dob": "1949-12-01",
           "height": "175cm",

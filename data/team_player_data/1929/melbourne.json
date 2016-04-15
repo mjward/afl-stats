@@ -4,6 +4,22 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Jimmy",
+          "lastname": "Davidson",
+          "jumper": "29",
+          "dob": "1904-08-13",
+          "height": "165cm",
+          "weight": "62kg"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Collins",
+          "jumper": "10",
+          "dob": "1904-10-04",
+          "height": "179cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Bob",
           "lastname": "Corbett",
           "jumper": "12",
@@ -21,35 +37,11 @@
         },
         {
           "firstname": "Ivor",
-          "lastname": "Warne-Smith",
+          "lastname": "Warne- Smith",
           "jumper": "14",
           "dob": "1897-10-29",
           "height": "182cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Jimmy",
-          "lastname": "Davidson",
-          "jumper": "29",
-          "dob": "1904-08-13",
-          "height": "165cm",
-          "weight": "62kg"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Collins",
-          "jumper": "10",
-          "dob": "1904-10-04",
-          "height": "179cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Dick",
-          "lastname": "Taylor",
-          "jumper": "35",
-          "dob": "1901-11-28",
-          "height": "178cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Wyn",
@@ -58,6 +50,14 @@
           "dob": "1908-07-04",
           "height": "178cm",
           "weight": "81kg"
+        },
+        {
+          "firstname": "Dick",
+          "lastname": "Taylor",
+          "jumper": "35",
+          "dob": "1901-11-28",
+          "height": "178cm",
+          "weight": "70kg"
         },
         {
           "firstname": "Col",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "MacDonald",
+          "lastname": "Mac Donald",
           "jumper": "17",
           "dob": "1906-03-07",
           "height": "—",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "JohnsonSnr",
+          "lastname": "Johnson Snr",
           "jumper": "16",
           "dob": "1902-06-27",
           "height": "191cm",
@@ -116,14 +116,6 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Stan",
-          "lastname": "Wittman",
-          "jumper": "1",
-          "dob": "1901-06-01",
-          "height": "178cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Ossie",
           "lastname": "Green",
           "jumper": "22",
@@ -132,7 +124,15 @@
           "weight": "69kg"
         },
         {
-          "firstname": "Frank'Pop'",
+          "firstname": "Stan",
+          "lastname": "Wittman",
+          "jumper": "1",
+          "dob": "1901-06-01",
+          "height": "178cm",
+          "weight": "76kg"
+        },
+        {
+          "firstname": "Frank' Pop'",
           "lastname": "Vine",
           "jumper": "23",
           "dob": "1904-10-01",
@@ -173,7 +173,7 @@
         },
         {
           "firstname": "Tommy",
-          "lastname": "McConville",
+          "lastname": "Mc Conville",
           "jumper": "5",
           "dob": "1901-03-28",
           "height": "175cm",
@@ -213,7 +213,7 @@
         },
         {
           "firstname": "Henry",
-          "lastname": "McCrae",
+          "lastname": "Mc Crae",
           "jumper": "28",
           "dob": "1910-07-24",
           "height": "—",

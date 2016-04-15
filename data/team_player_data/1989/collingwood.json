@@ -1,0 +1,337 @@
+{
+  "team_player_data": {
+    "year": 1989,
+    "teams": {
+      "Collingwood": [
+        {
+          "firstname": "Gavin",
+          "lastname": "Brown",
+          "jumper": "26",
+          "dob": "1967-09-25",
+          "height": "184cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Jamie",
+          "lastname": "Turner",
+          "jumper": "24",
+          "dob": "1962-08-12",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Darren",
+          "lastname": "Millane",
+          "jumper": "42",
+          "dob": "1965-08-09",
+          "height": "188cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Daicos",
+          "jumper": "35",
+          "dob": "1961-09-20",
+          "height": "184cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Gavin",
+          "lastname": "Crosisca",
+          "jumper": "28",
+          "dob": "1968-09-15",
+          "height": "188cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Hawke",
+          "jumper": "4",
+          "dob": "1964-07-04",
+          "height": "182cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Colin",
+          "lastname": "Alexander",
+          "jumper": "32",
+          "dob": "1970-04-12",
+          "height": "178cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "James",
+          "lastname": "Manson",
+          "jumper": "30",
+          "dob": "1966-11-02",
+          "height": "194cm",
+          "weight": "104kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Christian",
+          "jumper": "21",
+          "dob": "1964-08-21",
+          "height": "191cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Craig",
+          "lastname": "Kelly",
+          "jumper": "23",
+          "dob": "1966-06-16",
+          "height": "190cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Gayfer",
+          "jumper": "3",
+          "dob": "1965-08-17",
+          "height": "186cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Doug",
+          "lastname": "Barwick",
+          "jumper": "17",
+          "dob": "1962-02-06",
+          "height": "173cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Mc Guane",
+          "jumper": "34",
+          "dob": "1967-12-29",
+          "height": "186cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "Kerrison",
+          "jumper": "44",
+          "dob": "1965-03-28",
+          "height": "180cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "Morwood",
+          "jumper": "7",
+          "dob": "1961-12-01",
+          "height": "191cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Craig",
+          "lastname": "Starcevich",
+          "jumper": "27",
+          "dob": "1967-05-16",
+          "height": "193cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Ron",
+          "lastname": "Mc Keown",
+          "jumper": "25",
+          "dob": "1967-05-10",
+          "height": "188cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Graham",
+          "lastname": "Wright",
+          "jumper": "19",
+          "dob": "1968-06-06",
+          "height": "178cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Shaw",
+          "jumper": "22",
+          "dob": "1960-07-23",
+          "height": "170cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Cloke",
+          "jumper": "33",
+          "dob": "1955-01-28",
+          "height": "196cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Damian",
+          "lastname": "Monkhorst",
+          "jumper": "38",
+          "dob": "1969-08-21",
+          "height": "202cm",
+          "weight": "108kg"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Taylor",
+          "jumper": "9",
+          "dob": "1962-04-10",
+          "height": "191cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Murray",
+          "lastname": "Wrensted",
+          "jumper": "18",
+          "dob": "1964-08-26",
+          "height": "174cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Tuddenham",
+          "jumper": "6",
+          "dob": "1967-09-14",
+          "height": "184cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Denis",
+          "lastname": "Banks",
+          "jumper": "12",
+          "dob": "1959-06-16",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
+          "firstname": "Heath",
+          "lastname": "Shephard",
+          "jumper": "49",
+          "dob": "1969-09-07",
+          "height": "179cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Darren",
+          "lastname": "Saunders",
+          "jumper": "31",
+          "dob": "1965-08-16",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Athas",
+          "lastname": "Hrysoulakis",
+          "jumper": "37",
+          "dob": "1969-01-05",
+          "height": "184cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Robertson",
+          "jumper": "2",
+          "dob": "1962-08-15",
+          "height": "178cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Brendan",
+          "lastname": "Tranter",
+          "jumper": "43",
+          "dob": "1971-04-21",
+          "height": "177cm",
+          "weight": "75kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Bayliss",
+          "jumper": "11",
+          "dob": "1965-12-12",
+          "height": "193cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Croall",
+          "jumper": "8",
+          "dob": "1968-01-16",
+          "height": "188cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Keays",
+          "jumper": "14",
+          "dob": "1970-05-03",
+          "height": "186cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Terry",
+          "lastname": "Hecker",
+          "jumper": "54",
+          "dob": "1970-01-06",
+          "height": "183cm",
+          "weight": "74kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Taylor",
+          "jumper": "58",
+          "dob": "1970-12-13",
+          "height": "183cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Perkins",
+          "jumper": "41",
+          "dob": "1964-05-23",
+          "height": "179cm",
+          "weight": "69kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Ryan",
+          "jumper": "45",
+          "dob": "1967-06-02",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Mrakov",
+          "jumper": "16",
+          "dob": "1968-11-17",
+          "height": "189cm",
+          "weight": "91kg"
+        },
+        {
+          "firstname": "Wes",
+          "lastname": "Fellowes",
+          "jumper": "15",
+          "dob": "1961-03-07",
+          "height": "200cm",
+          "weight": "106kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Atkins",
+          "jumper": "5",
+          "dob": "1963-10-30",
+          "height": "178cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Tarpey",
+          "jumper": "36",
+          "dob": "1965-07-25",
+          "height": "196cm",
+          "weight": "95kg"
+        }
+      ]
+    }
+  }
+}

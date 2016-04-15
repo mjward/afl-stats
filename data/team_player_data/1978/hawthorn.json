@@ -4,6 +4,14 @@
     "teams": {
       "Hawthorn": [
         {
+          "firstname": "Rodney",
+          "lastname": "Eade",
+          "jumper": "26",
+          "dob": "1958-04-04",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
           "firstname": "Michael",
           "lastname": "Tuck",
           "jumper": "17",
@@ -13,7 +21,7 @@
         },
         {
           "firstname": "Alle",
-          "lastname": "DeWolde",
+          "lastname": "De Wolde",
           "jumper": "27",
           "dob": "1955-12-27",
           "height": "182cm",
@@ -34,14 +42,6 @@
           "dob": "1955-03-13",
           "height": "180cm",
           "weight": "80kg"
-        },
-        {
-          "firstname": "Rodney",
-          "lastname": "Eade",
-          "jumper": "26",
-          "dob": "1958-04-04",
-          "height": "183cm",
-          "weight": "84kg"
         },
         {
           "firstname": "Kelvin",
@@ -69,15 +69,23 @@
         },
         {
           "firstname": "David",
-          "lastname": "O'Halloran",
+          "lastname": "O' Halloran",
           "jumper": "8",
           "dob": "1955-09-08",
           "height": "185cm",
           "weight": "92kg"
         },
         {
+          "firstname": "Leigh",
+          "lastname": "Matthews",
+          "jumper": "3",
+          "dob": "1952-03-01",
+          "height": "178cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Norm",
-          "lastname": "GossJnr",
+          "lastname": "Goss Jnr",
           "jumper": "1",
           "dob": "1951-03-03",
           "height": "177cm",
@@ -90,14 +98,6 @@
           "dob": "1952-08-19",
           "height": "191cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Leigh",
-          "lastname": "Matthews",
-          "jumper": "3",
-          "dob": "1952-03-01",
-          "height": "178cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Peter",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Michael",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "20",
           "dob": "1957-10-10",
           "height": "193cm",

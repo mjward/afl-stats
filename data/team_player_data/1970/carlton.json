@@ -4,6 +4,14 @@
     "teams": {
       "Carlton": [
         {
+          "firstname": "Alex",
+          "lastname": "Jesaulenko",
+          "jumper": "25",
+          "dob": "1945-08-02",
+          "height": "182cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "John",
           "lastname": "Nicholls",
           "jumper": "2",
@@ -13,19 +21,19 @@
         },
         {
           "firstname": "David",
-          "lastname": "McKay",
+          "lastname": "Mc Kay",
           "jumper": "43",
           "dob": "1949-11-05",
           "height": "191cm",
           "weight": "91kg"
         },
         {
-          "firstname": "Alex",
-          "lastname": "Jesaulenko",
-          "jumper": "25",
-          "dob": "1945-08-02",
-          "height": "182cm",
-          "weight": "86kg"
+          "firstname": "Kevin",
+          "lastname": "Hall",
+          "jumper": "3",
+          "dob": "1944-05-21",
+          "height": "191cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Barry",
@@ -44,11 +52,11 @@
           "weight": "86kg"
         },
         {
-          "firstname": "Kevin",
-          "lastname": "Hall",
-          "jumper": "3",
-          "dob": "1944-05-21",
-          "height": "191cm",
+          "firstname": "Neil",
+          "lastname": "Chandler",
+          "jumper": "22",
+          "dob": "1949-05-06",
+          "height": "185cm",
           "weight": "83kg"
         },
         {
@@ -58,14 +66,6 @@
           "dob": "1949-02-26",
           "height": "192cm",
           "weight": "96kg"
-        },
-        {
-          "firstname": "Neil",
-          "lastname": "Chandler",
-          "jumper": "22",
-          "dob": "1949-05-06",
-          "height": "185cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Phillip",
@@ -108,7 +108,7 @@
           "weight": "78kg"
         },
         {
-          "firstname": "Peter'Percy'",
+          "firstname": "Peter' Percy'",
           "lastname": "Jones",
           "jumper": "28",
           "dob": "1946-10-20",
@@ -132,20 +132,20 @@
           "weight": "92kg"
         },
         {
-          "firstname": "Gary",
-          "lastname": "Crane",
-          "jumper": "6",
-          "dob": "1944-08-25",
-          "height": "178cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "John",
           "lastname": "Goold",
           "jumper": "11",
           "dob": "1941-06-27",
           "height": "187cm",
           "weight": "80kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Crane",
+          "jumper": "6",
+          "dob": "1944-08-25",
+          "height": "178cm",
+          "weight": "73kg"
         },
         {
           "firstname": "Bert",
@@ -245,7 +245,7 @@
         },
         {
           "firstname": "Gary",
-          "lastname": "Lawson-Smith",
+          "lastname": "Lawson- Smith",
           "jumper": "16",
           "dob": "1947-06-30",
           "height": "191cm",
@@ -293,7 +293,7 @@
         },
         {
           "firstname": "John",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "50",
           "dob": "1951-04-22",
           "height": "183cm",

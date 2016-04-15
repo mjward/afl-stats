@@ -76,6 +76,14 @@
           "weight": "79kg"
         },
         {
+          "firstname": "Malcolm",
+          "lastname": "Reed",
+          "jumper": "1",
+          "dob": "1958-02-11",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Michael",
           "lastname": "Kol",
           "jumper": "37",
@@ -90,14 +98,6 @@
           "dob": "1951-12-12",
           "height": "183cm",
           "weight": "85kg"
-        },
-        {
-          "firstname": "Malcolm",
-          "lastname": "Reed",
-          "jumper": "1",
-          "dob": "1958-02-11",
-          "height": "180cm",
-          "weight": "80kg"
         },
         {
           "firstname": "Brian",
@@ -173,19 +173,11 @@
         },
         {
           "firstname": "David",
-          "lastname": "O'Keeffe",
+          "lastname": "O' Keeffe",
           "jumper": "31",
           "dob": "1962-02-20",
           "height": "189cm",
           "weight": "89kg"
-        },
-        {
-          "firstname": "Mick",
-          "lastname": "Turner",
-          "jumper": "9",
-          "dob": "1954-12-06",
-          "height": "183cm",
-          "weight": "77kg"
         },
         {
           "firstname": "Rod",
@@ -194,6 +186,14 @@
           "dob": "1952-06-15",
           "height": "199cm",
           "weight": "94kg"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Turner",
+          "jumper": "9",
+          "dob": "1954-12-06",
+          "height": "183cm",
+          "weight": "77kg"
         },
         {
           "firstname": "Darren",

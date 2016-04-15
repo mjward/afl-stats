@@ -4,14 +4,6 @@
     "teams": {
       "Sydney": [
         {
-          "firstname": "Albert",
-          "lastname": "Trim",
-          "jumper": "—",
-          "dob": "1875-10-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Charlie",
           "lastname": "James",
           "jumper": "—",
@@ -24,6 +16,14 @@
           "lastname": "Wenborn",
           "jumper": "—",
           "dob": "1880-06-20",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Albert",
+          "lastname": "Trim",
+          "jumper": "—",
+          "dob": "1875-10-06",
           "height": "—",
           "weight": "—"
         },
@@ -117,7 +117,7 @@
         },
         {
           "firstname": "Mike",
-          "lastname": "O'Hehir",
+          "lastname": "O' Hehir",
           "jumper": "—",
           "dob": "1876-05-09",
           "height": "—",
@@ -125,7 +125,7 @@
         },
         {
           "firstname": "Harry",
-          "lastname": "PurdySnr",
+          "lastname": "Purdy Snr",
           "jumper": "—",
           "dob": "1867-08-28",
           "height": "—",
@@ -140,18 +140,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Jim",
-          "lastname": "Williamson",
-          "jumper": "—",
-          "dob": "1876-04-05",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Dave",
           "lastname": "Powell",
           "jumper": "—",
           "dob": "1876-02-18",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jim",
+          "lastname": "Williamson",
+          "jumper": "—",
+          "dob": "1876-04-05",
           "height": "—",
           "weight": "—"
         },
@@ -165,7 +165,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1880-07-27",
           "height": "—",
@@ -196,14 +196,6 @@
           "weight": "72kg"
         },
         {
-          "firstname": "Bill",
-          "lastname": "Scott",
-          "jumper": "—",
-          "dob": "1880-04-26",
-          "height": "175cm",
-          "weight": "73kg"
-        },
-        {
           "firstname": "Johnny",
           "lastname": "Jackson",
           "jumper": "—",
@@ -212,8 +204,16 @@
           "weight": "89kg"
         },
         {
+          "firstname": "Bill",
+          "lastname": "Scott",
+          "jumper": "—",
+          "dob": "1880-04-26",
+          "height": "175cm",
+          "weight": "73kg"
+        },
+        {
           "firstname": "Frank",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1872-08-11",
           "height": "—",
@@ -261,7 +261,7 @@
         },
         {
           "firstname": "Jim",
-          "lastname": "O'Hara",
+          "lastname": "O' Hara",
           "jumper": "—",
           "dob": "1874-09-19",
           "height": "—",

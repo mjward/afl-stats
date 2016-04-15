@@ -4,14 +4,6 @@
     "teams": {
       "North Melbourne": [
         {
-          "firstname": "Frank",
-          "lastname": "Wells",
-          "jumper": "29",
-          "dob": "1909-10-30",
-          "height": "180cm",
-          "weight": "76kg"
-        },
-        {
           "firstname": "Johnny",
           "lastname": "Lewis",
           "jumper": "1",
@@ -20,12 +12,12 @@
           "weight": "99kg"
         },
         {
-          "firstname": "Jimmy",
-          "lastname": "Adamson",
-          "jumper": "8",
-          "dob": "1905-08-01",
-          "height": "178cm",
-          "weight": "87kg"
+          "firstname": "Frank",
+          "lastname": "Wells",
+          "jumper": "29",
+          "dob": "1909-10-30",
+          "height": "180cm",
+          "weight": "76kg"
         },
         {
           "firstname": "Johnny",
@@ -41,6 +33,14 @@
           "jumper": "13",
           "dob": "1906-09-11",
           "height": "180cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Jimmy",
+          "lastname": "Adamson",
+          "jumper": "8",
+          "dob": "1905-08-01",
+          "height": "178cm",
           "weight": "87kg"
         },
         {
@@ -84,14 +84,6 @@
           "weight": "89kg"
         },
         {
-          "firstname": "Ted",
-          "lastname": "Ellis",
-          "jumper": "15",
-          "dob": "1913-02-23",
-          "height": "188cm",
-          "weight": "92kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Diprose",
           "jumper": "6",
@@ -114,6 +106,14 @@
           "dob": "1913-04-12",
           "height": "—",
           "weight": "—"
+        },
+        {
+          "firstname": "Ted",
+          "lastname": "Ellis",
+          "jumper": "15",
+          "dob": "1913-02-23",
+          "height": "188cm",
+          "weight": "92kg"
         },
         {
           "firstname": "Ted",
@@ -260,20 +260,20 @@
           "weight": "66kg"
         },
         {
+          "firstname": "Ken",
+          "lastname": "Mc Kernan",
+          "jumper": "40",
+          "dob": "1911-08-09",
+          "height": "182cm",
+          "weight": "79kg"
+        },
+        {
           "firstname": "Keith",
           "lastname": "Chamberlain",
           "jumper": "—",
           "dob": "1913-06-08",
           "height": "—",
           "weight": "—"
-        },
-        {
-          "firstname": "Ken",
-          "lastname": "McKernan",
-          "jumper": "40",
-          "dob": "1911-08-09",
-          "height": "182cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Bill",

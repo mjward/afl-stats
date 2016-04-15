@@ -4,22 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Mick",
-          "lastname": "Grace",
-          "jumper": "—",
-          "dob": "1874-07-24",
-          "height": "—",
-          "weight": "78kg"
-        },
-        {
-          "firstname": "Eddie",
-          "lastname": "Drohan",
-          "jumper": "—",
-          "dob": "1876-07-17",
-          "height": "171cm",
-          "weight": "70kg"
-        },
-        {
           "firstname": "Pat",
           "lastname": "Hickey",
           "jumper": "—",
@@ -36,6 +20,22 @@
           "weight": "78kg"
         },
         {
+          "firstname": "Mick",
+          "lastname": "Grace",
+          "jumper": "—",
+          "dob": "1874-07-24",
+          "height": "—",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Eddie",
+          "lastname": "Drohan",
+          "jumper": "—",
+          "dob": "1876-07-17",
+          "height": "171cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Harry",
           "lastname": "Clarke",
           "jumper": "—",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Alf",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1876-11-30",
           "height": "—",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "—",
           "dob": "1874-09-25",
           "height": "—",
@@ -72,14 +72,6 @@
           "lastname": "Sharpe",
           "jumper": "—",
           "dob": "1878-05-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Jack",
-          "lastname": "Deas",
-          "jumper": "—",
-          "dob": "1875-11-05",
           "height": "—",
           "weight": "—"
         },
@@ -96,6 +88,14 @@
           "lastname": "Robinson",
           "jumper": "—",
           "dob": "1873-11-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Deas",
+          "jumper": "—",
+          "dob": "1875-11-05",
           "height": "—",
           "weight": "—"
         },
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McEwen",
+          "lastname": "Mc Ewen",
           "jumper": "—",
           "dob": "1877-04-02",
           "height": "—",

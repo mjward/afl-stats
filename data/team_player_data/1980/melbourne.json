@@ -4,6 +4,14 @@
     "teams": {
       "Melbourne": [
         {
+          "firstname": "Michael",
+          "lastname": "Byrne",
+          "jumper": "14",
+          "dob": "1958-12-02",
+          "height": "200cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Robert",
           "lastname": "Flower",
           "jumper": "2",
@@ -20,20 +28,20 @@
           "weight": "85kg"
         },
         {
-          "firstname": "Michael",
-          "lastname": "Byrne",
-          "jumper": "14",
-          "dob": "1958-12-02",
-          "height": "200cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Laurie",
           "lastname": "Fowler",
           "jumper": "9",
           "dob": "1951-12-29",
           "height": "179cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Gordon",
+          "jumper": "13",
+          "dob": "1954-07-11",
+          "height": "189cm",
+          "weight": "83kg"
         },
         {
           "firstname": "Bill",
@@ -50,14 +58,6 @@
           "dob": "1960-07-19",
           "height": "178cm",
           "weight": "73kg"
-        },
-        {
-          "firstname": "Wayne",
-          "lastname": "Gordon",
-          "jumper": "13",
-          "dob": "1954-07-11",
-          "height": "189cm",
-          "weight": "83kg"
         },
         {
           "firstname": "Peter",
@@ -100,14 +100,6 @@
           "weight": "91kg"
         },
         {
-          "firstname": "Brent",
-          "lastname": "Crosswell",
-          "jumper": "8",
-          "dob": "1950-08-08",
-          "height": "188cm",
-          "weight": "86kg"
-        },
-        {
           "firstname": "Andrew",
           "lastname": "Moir",
           "jumper": "29",
@@ -129,6 +121,14 @@
           "jumper": "7",
           "dob": "1951-01-07",
           "height": "189cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Brent",
+          "lastname": "Crosswell",
+          "jumper": "8",
+          "dob": "1950-08-08",
+          "height": "188cm",
           "weight": "86kg"
         },
         {
@@ -205,7 +205,7 @@
         },
         {
           "firstname": "Kelly",
-          "lastname": "O'Donnell",
+          "lastname": "O' Donnell",
           "jumper": "23",
           "dob": "1960-11-16",
           "height": "173cm",
@@ -285,7 +285,7 @@
         },
         {
           "firstname": "Paul",
-          "lastname": "O'Brien",
+          "lastname": "O' Brien",
           "jumper": "50",
           "dob": "1961-04-16",
           "height": "177cm",
@@ -301,7 +301,7 @@
         },
         {
           "firstname": "Glenn",
-          "lastname": "McLean",
+          "lastname": "Mc Lean",
           "jumper": "26",
           "dob": "1961-07-10",
           "height": "194cm",

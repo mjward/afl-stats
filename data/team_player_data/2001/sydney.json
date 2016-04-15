@@ -1,0 +1,281 @@
+{
+  "team_player_data": {
+    "year": 2001,
+    "teams": {
+      "Sydney": [
+        {
+          "firstname": "Jude",
+          "lastname": "Bolton",
+          "jumper": "24",
+          "dob": "1980-03-15",
+          "height": "183cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Saddington",
+          "jumper": "22",
+          "dob": "1979-10-23",
+          "height": "194cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Mathews",
+          "jumper": "4",
+          "dob": "1978-11-29",
+          "height": "181cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Williams",
+          "jumper": "10",
+          "dob": "1973-04-03",
+          "height": "177cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "O' Loughlin",
+          "jumper": "19",
+          "dob": "1977-02-20",
+          "height": "189cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Stuart",
+          "lastname": "Maxfield",
+          "jumper": "11",
+          "dob": "1972-04-09",
+          "height": "178cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Adam",
+          "lastname": "Goodes",
+          "jumper": "37",
+          "dob": "1980-01-08",
+          "height": "194cm",
+          "weight": "96kg"
+        },
+        {
+          "firstname": "Jared",
+          "lastname": "Crouch",
+          "jumper": "28",
+          "dob": "1978-03-05",
+          "height": "173cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Wayne",
+          "lastname": "Schwass",
+          "jumper": "2",
+          "dob": "1968-11-27",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Dunkley",
+          "jumper": "6",
+          "dob": "1968-06-29",
+          "height": "192cm",
+          "weight": "100kg"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Mc Pherson",
+          "jumper": "13",
+          "dob": "1975-07-05",
+          "height": "182cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Jason",
+          "lastname": "Ball",
+          "jumper": "27",
+          "dob": "1972-11-21",
+          "height": "201cm",
+          "weight": "104kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Stafford",
+          "jumper": "1",
+          "dob": "1974-08-27",
+          "height": "204cm",
+          "weight": "106kg"
+        },
+        {
+          "firstname": "Brett",
+          "lastname": "Kirk",
+          "jumper": "31",
+          "dob": "1976-10-25",
+          "height": "184cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Leo",
+          "lastname": "Barry",
+          "jumper": "21",
+          "dob": "1977-05-19",
+          "height": "184cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Daryn",
+          "lastname": "Cresswell",
+          "jumper": "8",
+          "dob": "1971-05-22",
+          "height": "183cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Nicks",
+          "jumper": "23",
+          "dob": "1975-05-13",
+          "height": "187cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Nic",
+          "lastname": "Fosdike",
+          "jumper": "12",
+          "dob": "1980-02-26",
+          "height": "179cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Schauble",
+          "jumper": "25",
+          "dob": "1976-11-17",
+          "height": "193cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Ryan",
+          "lastname": "O' Keefe",
+          "jumper": "5",
+          "dob": "1981-01-24",
+          "height": "188cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "Troy",
+          "lastname": "Luff",
+          "jumper": "34",
+          "dob": "1969-11-22",
+          "height": "191cm",
+          "weight": "93kg"
+        },
+        {
+          "firstname": "Brad",
+          "lastname": "Seymour",
+          "jumper": "7",
+          "dob": "1976-05-03",
+          "height": "186cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Kelly",
+          "jumper": "14",
+          "dob": "1969-07-28",
+          "height": "179cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Dale",
+          "lastname": "Lewis",
+          "jumper": "3",
+          "dob": "1969-05-04",
+          "height": "188cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Tadhg",
+          "lastname": "Kennelly",
+          "jumper": "41",
+          "dob": "1981-07-01",
+          "height": "190cm",
+          "weight": "90kg"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Stevens",
+          "jumper": "20",
+          "dob": "1971-06-15",
+          "height": "187cm",
+          "weight": "83kg"
+        },
+        {
+          "firstname": "Gerrard",
+          "lastname": "Bennett",
+          "jumper": "42",
+          "dob": "1979-04-09",
+          "height": "187cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Robbie",
+          "lastname": "Ah Mat",
+          "jumper": "9",
+          "dob": "1977-07-19",
+          "height": "175cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Fixter",
+          "jumper": "40",
+          "dob": "1981-06-23",
+          "height": "180cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Feast",
+          "jumper": "26",
+          "dob": "1974-12-01",
+          "height": "196cm",
+          "weight": "94kg"
+        },
+        {
+          "firstname": "Rowan",
+          "lastname": "Warfe",
+          "jumper": "33",
+          "dob": "1976-06-23",
+          "height": "190cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Doyle",
+          "jumper": "15",
+          "dob": "1981-07-13",
+          "height": "204cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "Brent",
+          "lastname": "Piltz",
+          "jumper": "43",
+          "dob": "1978-11-13",
+          "height": "190cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Heath",
+          "lastname": "James",
+          "jumper": "30",
+          "dob": "1980-03-07",
+          "height": "189cm",
+          "weight": "91kg"
+        }
+      ]
+    }
+  }
+}

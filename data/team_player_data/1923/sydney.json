@@ -4,6 +4,14 @@
     "teams": {
       "Sydney": [
         {
+          "firstname": "Artie",
+          "lastname": "Wood",
+          "jumper": "17",
+          "dob": "1898-06-24",
+          "height": "163cm",
+          "weight": "62kg"
+        },
+        {
           "firstname": "Mark",
           "lastname": "Tandy",
           "jumper": "2",
@@ -18,22 +26,6 @@
           "dob": "1900-03-19",
           "height": "178cm",
           "weight": "77kg"
-        },
-        {
-          "firstname": "Artie",
-          "lastname": "Wood",
-          "jumper": "17",
-          "dob": "1898-06-24",
-          "height": "163cm",
-          "weight": "62kg"
-        },
-        {
-          "firstname": "Harold",
-          "lastname": "Alexander",
-          "jumper": "3",
-          "dob": "1902-04-21",
-          "height": "188cm",
-          "weight": "79kg"
         },
         {
           "firstname": "Arthur",
@@ -58,6 +50,14 @@
           "dob": "1896-09-06",
           "height": "173cm",
           "weight": "69kg"
+        },
+        {
+          "firstname": "Harold",
+          "lastname": "Alexander",
+          "jumper": "3",
+          "dob": "1902-04-21",
+          "height": "188cm",
+          "weight": "79kg"
         },
         {
           "firstname": "Herb",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Jack",
-          "lastname": "O'Connell",
+          "lastname": "O' Connell",
           "jumper": "26",
           "dob": "1902-07-16",
           "height": "166cm",
@@ -141,7 +141,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "32",
           "dob": "1895-12-14",
           "height": "175cm",

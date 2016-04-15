@@ -4,22 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "George",
-          "lastname": "Moloney",
-          "jumper": "14",
-          "dob": "1909-08-07",
-          "height": "174cm",
-          "weight": "73kg"
-        },
-        {
-          "firstname": "Rupe",
-          "lastname": "McDonald",
-          "jumper": "6",
-          "dob": "1910-03-17",
-          "height": "184cm",
-          "weight": "87kg"
-        },
-        {
           "firstname": "Jack",
           "lastname": "Carney",
           "jumper": "12",
@@ -52,6 +36,38 @@
           "weight": "92kg"
         },
         {
+          "firstname": "George",
+          "lastname": "Moloney",
+          "jumper": "14",
+          "dob": "1909-08-07",
+          "height": "174cm",
+          "weight": "73kg"
+        },
+        {
+          "firstname": "Rupe",
+          "lastname": "Mc Donald",
+          "jumper": "6",
+          "dob": "1910-03-17",
+          "height": "184cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Reg",
+          "lastname": "Hickey",
+          "jumper": "18",
+          "dob": "1906-03-27",
+          "height": "185cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Milton",
+          "lastname": "Lamb",
+          "jumper": "7",
+          "dob": "1909-07-14",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
           "firstname": "Jack",
           "lastname": "Evans",
           "jumper": "5",
@@ -74,22 +90,6 @@
           "dob": "1901-01-21",
           "height": "165cm",
           "weight": "68kg"
-        },
-        {
-          "firstname": "Reg",
-          "lastname": "Hickey",
-          "jumper": "18",
-          "dob": "1906-03-27",
-          "height": "185cm",
-          "weight": "92kg"
-        },
-        {
-          "firstname": "Milton",
-          "lastname": "Lamb",
-          "jumper": "7",
-          "dob": "1909-07-14",
-          "height": "173cm",
-          "weight": "70kg"
         },
         {
           "firstname": "Jack",
@@ -116,6 +116,14 @@
           "weight": "71kg"
         },
         {
+          "firstname": "Les",
+          "lastname": "Hardiman",
+          "jumper": "25",
+          "dob": "1911-04-01",
+          "height": "185cm",
+          "weight": "81kg"
+        },
+        {
           "firstname": "Peter",
           "lastname": "Hardiman",
           "jumper": "27",
@@ -130,14 +138,6 @@
           "dob": "1902-08-16",
           "height": "180cm",
           "weight": "86kg"
-        },
-        {
-          "firstname": "Les",
-          "lastname": "Hardiman",
-          "jumper": "25",
-          "dob": "1911-04-01",
-          "height": "185cm",
-          "weight": "81kg"
         },
         {
           "firstname": "Jack",

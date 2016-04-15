@@ -4,20 +4,20 @@
     "teams": {
       "Melbourne": [
         {
-          "firstname": "Greg",
-          "lastname": "Wells",
-          "jumper": "11",
-          "dob": "1950-06-06",
-          "height": "175cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Ross",
           "lastname": "Brewer",
           "jumper": "6",
           "dob": "1953-08-14",
           "height": "188cm",
           "weight": "75kg"
+        },
+        {
+          "firstname": "Greg",
+          "lastname": "Wells",
+          "jumper": "11",
+          "dob": "1950-06-06",
+          "height": "175cm",
+          "weight": "80kg"
         },
         {
           "firstname": "Stan",
@@ -221,7 +221,7 @@
         },
         {
           "firstname": "Neil",
-          "lastname": "McMullin",
+          "lastname": "Mc Mullin",
           "jumper": "50",
           "dob": "1954-01-11",
           "height": "180cm",

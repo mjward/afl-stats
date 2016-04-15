@@ -20,6 +20,14 @@
           "weight": "84kg"
         },
         {
+          "firstname": "Ian",
+          "lastname": "Gillett",
+          "jumper": "28",
+          "dob": "1928-09-20",
+          "height": "188cm",
+          "weight": "86kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Gunn",
           "jumper": "8",
@@ -37,19 +45,11 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "SkiltonJnr",
+          "lastname": "Skilton Jnr",
           "jumper": "14",
           "dob": "1938-11-08",
           "height": "171cm",
           "weight": "76kg"
-        },
-        {
-          "firstname": "Ian",
-          "lastname": "Gillett",
-          "jumper": "28",
-          "dob": "1928-09-20",
-          "height": "188cm",
-          "weight": "86kg"
         },
         {
           "firstname": "Max",
@@ -61,7 +61,7 @@
         },
         {
           "firstname": "Brian",
-          "lastname": "McGowan",
+          "lastname": "Mc Gowan",
           "jumper": "3",
           "dob": "1938-01-01",
           "height": "165cm",
@@ -77,7 +77,7 @@
         },
         {
           "firstname": "Ken",
-          "lastname": "McCormack",
+          "lastname": "Mc Cormack",
           "jumper": "36",
           "dob": "1933-01-18",
           "height": "170cm",
@@ -93,7 +93,7 @@
         },
         {
           "firstname": "Hugh",
-          "lastname": "McLaughlinJnr",
+          "lastname": "Mc Laughlin Jnr",
           "jumper": "25",
           "dob": "1935-10-13",
           "height": "178cm",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Bob",
-          "lastname": "PrattJnr",
+          "lastname": "Pratt Jnr",
           "jumper": "10",
           "dob": "1936-03-24",
           "height": "174cm",

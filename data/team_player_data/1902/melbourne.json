@@ -12,22 +12,6 @@
           "weight": "—"
         },
         {
-          "firstname": "Ernie",
-          "lastname": "Hocking",
-          "jumper": "—",
-          "dob": "1882-05-16",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Arthur",
-          "lastname": "Sowden",
-          "jumper": "—",
-          "dob": "1878-04-06",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Bill",
           "lastname": "Bowe",
           "jumper": "—",
@@ -52,11 +36,19 @@
           "weight": "—"
         },
         {
-          "firstname": "Stewart",
-          "lastname": "Geddes",
+          "firstname": "Ernie",
+          "lastname": "Hocking",
           "jumper": "—",
-          "dob": "1879-03-06",
-          "height": "180cm",
+          "dob": "1882-05-16",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Arthur",
+          "lastname": "Sowden",
+          "jumper": "—",
+          "dob": "1878-04-06",
+          "height": "—",
           "weight": "—"
         },
         {
@@ -68,11 +60,11 @@
           "weight": "71kg"
         },
         {
-          "firstname": "Charlie",
-          "lastname": "Young",
+          "firstname": "Stewart",
+          "lastname": "Geddes",
           "jumper": "—",
-          "dob": "1877-12-07",
-          "height": "—",
+          "dob": "1879-03-06",
+          "height": "180cm",
           "weight": "—"
         },
         {
@@ -88,6 +80,14 @@
           "lastname": "Parkin",
           "jumper": "—",
           "dob": "1879-06-21",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Charlie",
+          "lastname": "Young",
+          "jumper": "—",
+          "dob": "1877-12-07",
           "height": "—",
           "weight": "—"
         },
@@ -108,18 +108,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Leith",
+          "firstname": "Bill",
+          "lastname": "Mc Clelland",
           "jumper": "—",
-          "dob": "1872-08-12",
+          "dob": "1875-02-09",
           "height": "—",
           "weight": "—"
         },
         {
-          "firstname": "Bill",
-          "lastname": "McClelland",
+          "firstname": "Jack",
+          "lastname": "Leith",
           "jumper": "—",
-          "dob": "1875-02-09",
+          "dob": "1872-08-12",
           "height": "—",
           "weight": "—"
         },
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Dick",
-          "lastname": "WardillJnr",
+          "lastname": "Wardill Jnr",
           "jumper": "—",
           "dob": "1872-07-05",
           "height": "—",
@@ -252,18 +252,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Lindsay",
-          "lastname": "Anderson",
-          "jumper": "—",
-          "dob": "1883-09-02",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Arthur",
           "lastname": "Britt",
           "jumper": "—",
           "dob": "1883-05-17",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Lindsay",
+          "lastname": "Anderson",
+          "jumper": "—",
+          "dob": "1883-09-02",
           "height": "—",
           "weight": "—"
         },

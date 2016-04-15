@@ -1,0 +1,281 @@
+{
+  "team_player_data": {
+    "year": 1988,
+    "teams": {
+      "Geelong": [
+        {
+          "firstname": "Mark",
+          "lastname": "Bos",
+          "jumper": "24",
+          "dob": "1960-07-28",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Tim",
+          "lastname": "Darcy",
+          "jumper": "28",
+          "dob": "1964-01-15",
+          "height": "186cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Steve",
+          "lastname": "Hocking",
+          "jumper": "1",
+          "dob": "1965-01-18",
+          "height": "184cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Sean",
+          "lastname": "Denham",
+          "jumper": "18",
+          "dob": "1969-04-29",
+          "height": "177cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Darren",
+          "lastname": "Flanigan",
+          "jumper": "14",
+          "dob": "1962-03-08",
+          "height": "200cm",
+          "weight": "105kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Yeates",
+          "jumper": "21",
+          "dob": "1960-05-10",
+          "height": "185cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Ablett Snr",
+          "jumper": "5",
+          "dob": "1961-10-01",
+          "height": "185cm",
+          "weight": "97kg"
+        },
+        {
+          "firstname": "Neville",
+          "lastname": "Bruns",
+          "jumper": "19",
+          "dob": "1958-10-03",
+          "height": "176cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Robert",
+          "lastname": "Scott",
+          "jumper": "8",
+          "dob": "1969-03-01",
+          "height": "173cm",
+          "weight": "78kg"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Bairstow",
+          "jumper": "3",
+          "dob": "1963-07-24",
+          "height": "180cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Schulze",
+          "jumper": "23",
+          "dob": "1962-10-30",
+          "height": "193cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Barry",
+          "lastname": "Stoneham",
+          "jumper": "26",
+          "dob": "1968-02-09",
+          "height": "194cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Bews",
+          "jumper": "27",
+          "dob": "1964-07-19",
+          "height": "175cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Couch",
+          "jumper": "7",
+          "dob": "1964-07-19",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Mick",
+          "lastname": "Turner",
+          "jumper": "9",
+          "dob": "1954-12-06",
+          "height": "183cm",
+          "weight": "77kg"
+        },
+        {
+          "firstname": "Darren",
+          "lastname": "Troy",
+          "jumper": "10",
+          "dob": "1964-02-28",
+          "height": "180cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Damian",
+          "lastname": "Bourke",
+          "jumper": "30",
+          "dob": "1965-01-19",
+          "height": "199cm",
+          "weight": "98kg"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Cameron",
+          "jumper": "36",
+          "dob": "1964-04-04",
+          "height": "185cm",
+          "weight": "79kg"
+        },
+        {
+          "firstname": "Dwayne",
+          "lastname": "Russell",
+          "jumper": "6",
+          "dob": "1965-03-04",
+          "height": "188cm",
+          "weight": "88kg"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Christensen",
+          "jumper": "15",
+          "dob": "1965-09-10",
+          "height": "180cm",
+          "weight": "82kg"
+        },
+        {
+          "firstname": "Craig",
+          "lastname": "Alderdice",
+          "jumper": "34",
+          "dob": "1961-08-02",
+          "height": "196cm",
+          "weight": "86kg"
+        },
+        {
+          "firstname": "Damian",
+          "lastname": "Drum",
+          "jumper": "29",
+          "dob": "1960-07-28",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Bruce",
+          "lastname": "Lindner",
+          "jumper": "2",
+          "dob": "1961-06-20",
+          "height": "185cm",
+          "weight": "87kg"
+        },
+        {
+          "firstname": "Gary",
+          "lastname": "Cameron",
+          "jumper": "13",
+          "dob": "1966-06-14",
+          "height": "173cm",
+          "weight": "70kg"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "Hamilton",
+          "jumper": "25",
+          "dob": "1970-08-18",
+          "height": "183cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Bill",
+          "lastname": "Brownless",
+          "jumper": "16",
+          "dob": "1967-01-28",
+          "height": "192cm",
+          "weight": "95kg"
+        },
+        {
+          "firstname": "Austin",
+          "lastname": "Mc Crabb",
+          "jumper": "38",
+          "dob": "1965-01-27",
+          "height": "186cm",
+          "weight": "92kg"
+        },
+        {
+          "firstname": "Darren",
+          "lastname": "Morgan",
+          "jumper": "11",
+          "dob": "1965-04-10",
+          "height": "180cm",
+          "weight": "72kg"
+        },
+        {
+          "firstname": "Darren",
+          "lastname": "Denneman",
+          "jumper": "20",
+          "dob": "1968-03-23",
+          "height": "185cm",
+          "weight": "80kg"
+        },
+        {
+          "firstname": "Garry",
+          "lastname": "Hocking",
+          "jumper": "32",
+          "dob": "1968-10-08",
+          "height": "182cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Gavin",
+          "lastname": "Exell",
+          "jumper": "17",
+          "dob": "1962-10-16",
+          "height": "191cm",
+          "weight": "84kg"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Whyte",
+          "jumper": "33",
+          "dob": "1969-02-25",
+          "height": "185cm",
+          "weight": "89kg"
+        },
+        {
+          "firstname": "Graeme",
+          "lastname": "Landy",
+          "jumper": "39",
+          "dob": "1954-05-31",
+          "height": "183cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "Craig",
+          "lastname": "Cleave",
+          "jumper": "12",
+          "dob": "1963-05-12",
+          "height": "191cm",
+          "weight": "90kg"
+        }
+      ]
+    }
+  }
+}

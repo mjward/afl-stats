@@ -4,14 +4,6 @@
     "teams": {
       "Fitzroy": [
         {
-          "firstname": "Alf",
-          "lastname": "Wilkinson",
-          "jumper": "—",
-          "dob": "1881-12-31",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Percy",
           "lastname": "Trotter",
           "jumper": "—",
@@ -26,6 +18,14 @@
           "dob": "1882-05-17",
           "height": "179cm",
           "weight": "83kg"
+        },
+        {
+          "firstname": "Alf",
+          "lastname": "Wilkinson",
+          "jumper": "—",
+          "dob": "1881-12-31",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Lou",
@@ -45,7 +45,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McSpeerin",
+          "lastname": "Mc Speerin",
           "jumper": "—",
           "dob": "1874-09-25",
           "height": "—",
@@ -92,18 +92,18 @@
           "weight": "76kg"
         },
         {
-          "firstname": "Bob",
-          "lastname": "Smith",
-          "jumper": "—",
-          "dob": "1877-11-23",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Harry",
           "lastname": "Clarke",
           "jumper": "—",
           "dob": "1876-11-27",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bob",
+          "lastname": "Smith",
+          "jumper": "—",
+          "dob": "1877-11-23",
           "height": "—",
           "weight": "—"
         },
@@ -124,20 +124,20 @@
           "weight": "—"
         },
         {
-          "firstname": "Geoff",
-          "lastname": "Moriarty",
-          "jumper": "—",
-          "dob": "1871-10-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Mark",
           "lastname": "Shea",
           "jumper": "—",
           "dob": "1883-04-24",
           "height": "173cm",
           "weight": "71kg"
+        },
+        {
+          "firstname": "Geoff",
+          "lastname": "Moriarty",
+          "jumper": "—",
+          "dob": "1871-10-28",
+          "height": "—",
+          "weight": "—"
         },
         {
           "firstname": "Eddie",
@@ -149,7 +149,7 @@
         },
         {
           "firstname": "Bill",
-          "lastname": "McCarthy",
+          "lastname": "Mc Carthy",
           "jumper": "—",
           "dob": "1874-08-06",
           "height": "—",
@@ -188,7 +188,7 @@
           "weight": "—"
         },
         {
-          "firstname": "Herbert'Boxer'",
+          "firstname": "Herbert' Boxer'",
           "lastname": "Milne",
           "jumper": "—",
           "dob": "1884-02-08",
@@ -197,7 +197,7 @@
         },
         {
           "firstname": "Alf",
-          "lastname": "McDougall",
+          "lastname": "Mc Dougall",
           "jumper": "—",
           "dob": "1876-11-30",
           "height": "—",
@@ -213,17 +213,9 @@
         },
         {
           "firstname": "Alby",
-          "lastname": "McDonald",
+          "lastname": "Mc Donald",
           "jumper": "—",
           "dob": "1881-02-27",
-          "height": "—",
-          "weight": "—"
-        },
-        {
-          "firstname": "Bertie",
-          "lastname": "Loel",
-          "jumper": "—",
-          "dob": "1878-11-05",
           "height": "—",
           "weight": "—"
         },
@@ -232,6 +224,14 @@
           "lastname": "Howard",
           "jumper": "—",
           "dob": "1878-01-30",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Bertie",
+          "lastname": "Loel",
+          "jumper": "—",
+          "dob": "1878-11-05",
           "height": "—",
           "weight": "—"
         },
@@ -252,18 +252,18 @@
           "weight": "—"
         },
         {
-          "firstname": "Jack",
-          "lastname": "Trehey",
-          "jumper": "—",
-          "dob": "1882-05-28",
-          "height": "—",
-          "weight": "—"
-        },
-        {
           "firstname": "Sam",
           "lastname": "Baker",
           "jumper": "—",
           "dob": "1874-10-02",
+          "height": "—",
+          "weight": "—"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Trehey",
+          "jumper": "—",
+          "dob": "1882-05-28",
           "height": "—",
           "weight": "—"
         },

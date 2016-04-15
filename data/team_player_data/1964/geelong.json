@@ -4,14 +4,6 @@
     "teams": {
       "Geelong": [
         {
-          "firstname": "John",
-          "lastname": "Devine",
-          "jumper": "9",
-          "dob": "1940-06-22",
-          "height": "180cm",
-          "weight": "80kg"
-        },
-        {
           "firstname": "Stewart",
           "lastname": "Lord",
           "jumper": "6",
@@ -36,6 +28,14 @@
           "weight": "84kg"
         },
         {
+          "firstname": "John",
+          "lastname": "Devine",
+          "jumper": "9",
+          "dob": "1940-06-22",
+          "height": "180cm",
+          "weight": "80kg"
+        },
+        {
           "firstname": "Bill",
           "lastname": "Goggin",
           "jumper": "35",
@@ -44,7 +44,7 @@
           "weight": "70kg"
         },
         {
-          "firstname": "Graham'Polly'",
+          "firstname": "Graham' Polly'",
           "lastname": "Farmer",
           "jumper": "5",
           "dob": "1935-03-10",
@@ -58,6 +58,14 @@
           "dob": "1940-04-09",
           "height": "180cm",
           "weight": "85kg"
+        },
+        {
+          "firstname": "Tony",
+          "lastname": "Polinelli",
+          "jumper": "36",
+          "dob": "1943-02-18",
+          "height": "170cm",
+          "weight": "75kg"
         },
         {
           "firstname": "Peter",
@@ -76,12 +84,20 @@
           "weight": "83kg"
         },
         {
-          "firstname": "Tony",
-          "lastname": "Polinelli",
-          "jumper": "36",
-          "dob": "1943-02-18",
-          "height": "170cm",
-          "weight": "75kg"
+          "firstname": "Fred",
+          "lastname": "Wooller",
+          "jumper": "3",
+          "dob": "1938-10-21",
+          "height": "187cm",
+          "weight": "85kg"
+        },
+        {
+          "firstname": "John' Sam'",
+          "lastname": "Newman",
+          "jumper": "17",
+          "dob": "1945-12-22",
+          "height": "189cm",
+          "weight": "94kg"
         },
         {
           "firstname": "John",
@@ -92,20 +108,12 @@
           "weight": "84kg"
         },
         {
-          "firstname": "Fred",
-          "lastname": "Wooller",
-          "jumper": "3",
-          "dob": "1938-10-21",
-          "height": "187cm",
-          "weight": "85kg"
-        },
-        {
-          "firstname": "John'Sam'",
-          "lastname": "Newman",
-          "jumper": "17",
-          "dob": "1945-12-22",
-          "height": "189cm",
-          "weight": "94kg"
+          "firstname": "Wayne",
+          "lastname": "Closter",
+          "jumper": "1",
+          "dob": "1945-02-26",
+          "height": "180cm",
+          "weight": "81kg"
         },
         {
           "firstname": "Roy",
@@ -113,14 +121,6 @@
           "jumper": "31",
           "dob": "1941-03-31",
           "height": "185cm",
-          "weight": "81kg"
-        },
-        {
-          "firstname": "Wayne",
-          "lastname": "Closter",
-          "jumper": "1",
-          "dob": "1945-02-26",
-          "height": "180cm",
           "weight": "81kg"
         },
         {
