@@ -2,7 +2,7 @@ namespace :afl do
   namespace :scrape do
     desc "Scrape AFLTables website for match data by year"
     task match_data: :environment do
-      [2016].each do |year|
+      (1932..1970).each do |year|
         puts "### #{year}"
         Scrapers::AFLTables::MatchDataScraper.new(year).execute
       end
@@ -11,7 +11,7 @@ namespace :afl do
     desc "Scrape AFLTables website for player data by year"
     task player_match_data: :environment do
       Team.all.each do |team|
-        (1971..1980).each do |year|
+        (2012..2016).each do |year|
           puts "### #{team.name} #{year}"
           Scrapers::AFLTables::TeamGameByGameScraper.new(team, year).execute
         end

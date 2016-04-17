@@ -84,7 +84,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "1.3",
                 "6.7",
@@ -109,7 +109,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "0.1",
                 "1.4",
@@ -176,7 +176,7 @@
               "final_score": "87"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.6",
                 "3.8",
@@ -226,7 +226,7 @@
               "final_score": "99"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "2.6",
                 "2.7",
@@ -308,7 +308,7 @@
               "final_score": "91"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "0.3",
                 "2.4",
@@ -323,7 +323,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "0.4",
                 "4.6",
@@ -415,7 +415,7 @@
               "final_score": "49"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "0.5",
                 "1.6",
@@ -505,7 +505,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "0.1",
                 "3.4",
@@ -597,7 +597,7 @@
               "final_score": "63"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.3",
                 "3.4",
@@ -637,7 +637,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "1.0",
                 "1.5",
@@ -754,7 +754,7 @@
               "final_score": "78"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.0",
                 "3.2",
@@ -769,7 +769,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.3",
                 "3.5",
@@ -876,7 +876,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.3",
                 "7.5",
@@ -901,7 +901,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.4",
                 "5.12",
@@ -1033,7 +1033,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "1.4",
                 "1.5",
@@ -1043,7 +1043,7 @@
               "final_score": "29"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "0.3",
                 "1.8",
@@ -1075,7 +1075,7 @@
               "final_score": "64"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "0.1",
                 "1.3",
@@ -1150,7 +1150,7 @@
               "final_score": "55"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.0",
                 "6.2",
@@ -1282,7 +1282,7 @@
               "final_score": "67"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.4",
                 "4.5",
@@ -1307,7 +1307,7 @@
               "final_score": "54"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "2.5",
                 "2.6",
@@ -1354,7 +1354,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "5.2",
                 "7.8",
@@ -1404,7 +1404,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "2.4",
                 "2.5",
@@ -1486,7 +1486,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.2",
                 "3.2",
@@ -1521,7 +1521,7 @@
               "final_score": "45"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.1",
                 "4.1",
@@ -1593,7 +1593,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.1",
                 "2.3",
@@ -1703,7 +1703,7 @@
               "final_score": "48"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "1.4",
                 "2.6",
@@ -1775,7 +1775,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "1.4",
                 "2.5",
@@ -1835,7 +1835,7 @@
               "final_score": "24"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "1.2",
                 "4.4",
@@ -1882,7 +1882,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.5",
                 "4.8",
@@ -1917,7 +1917,7 @@
               "final_score": "54"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "0.1",
                 "0.5",
@@ -2074,7 +2074,7 @@
               "final_score": "53"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "0.0",
                 "3.3",
@@ -2099,7 +2099,7 @@
               "final_score": "54"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "0.3",
                 "3.6",
@@ -2221,7 +2221,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.3",
                 "4.8",
@@ -2231,7 +2231,7 @@
               "final_score": "77"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "2.0",
                 "6.1",
@@ -2253,7 +2253,7 @@
             "attendance": null,
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.2",
                 "3.3",
@@ -2328,7 +2328,7 @@
             "attendance": null,
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "1.2",
                 "3.5",
