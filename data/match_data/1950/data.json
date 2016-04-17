@@ -34,7 +34,7 @@
             "attendance": "20,000",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "5.3",
                 "7.5",
@@ -94,7 +94,7 @@
               "final_score": "74"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "2.5",
                 "6.8",
@@ -134,7 +134,7 @@
             "attendance": "20,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "2.1",
                 "6.4",
@@ -176,7 +176,7 @@
               "final_score": "126"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "7.3",
                 "12.5",
@@ -226,7 +226,7 @@
               "final_score": "181"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.5",
                 "6.10",
@@ -266,7 +266,7 @@
             "attendance": "10,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "4.12",
                 "10.13",
@@ -423,7 +423,7 @@
             "attendance": "18,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "4.4",
                 "7.7",
@@ -448,7 +448,7 @@
             "attendance": "20,000",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "4.5",
                 "6.10",
@@ -458,7 +458,7 @@
               "final_score": "81"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "6.0",
                 "8.4",
@@ -565,7 +565,7 @@
               "final_score": "123"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.1",
                 "5.3",
@@ -605,7 +605,7 @@
             "attendance": "30,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "5.4",
                 "11.4",
@@ -615,7 +615,7 @@
               "final_score": "80"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "2.2",
                 "5.5",
@@ -637,7 +637,7 @@
             "attendance": "47,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "0.4",
                 "5.10",
@@ -762,7 +762,7 @@
             "attendance": "14,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "3.4",
                 "5.7",
@@ -772,7 +772,7 @@
               "final_score": "96"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.3",
                 "5.7",
@@ -844,7 +844,7 @@
             "attendance": "25,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "2.1",
                 "6.3",
@@ -904,7 +904,7 @@
               "final_score": "135"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.1",
                 "3.6",
@@ -919,7 +919,7 @@
             "attendance": "9,500",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "4.7",
                 "6.9",
@@ -951,7 +951,7 @@
             "attendance": "22,000",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "1.2",
                 "4.7",
@@ -1011,7 +1011,7 @@
               "final_score": "127"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "5.2",
                 "5.4",
@@ -1036,7 +1036,7 @@
               "final_score": "49"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "3.8",
                 "7.10",
@@ -1143,7 +1143,7 @@
               "final_score": "125"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.3",
                 "7.3",
@@ -1208,7 +1208,7 @@
             "attendance": "22,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.2",
                 "7.7",
@@ -1233,7 +1233,7 @@
             "attendance": "30,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "3.4",
                 "6.6",
@@ -1300,7 +1300,7 @@
               "final_score": "66"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "4.4",
                 "6.7",
@@ -1365,7 +1365,7 @@
             "attendance": "16,000",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "0.3",
                 "2.9",
@@ -1400,7 +1400,7 @@
               "final_score": "97"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.2",
                 "5.5",
@@ -1457,7 +1457,7 @@
               "final_score": "102"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "1.3",
                 "4.8",
@@ -1532,7 +1532,7 @@
               "final_score": "90"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "3.3",
                 "8.6",
@@ -1547,7 +1547,7 @@
             "attendance": "15,500",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.3",
                 "6.8",
@@ -1664,7 +1664,7 @@
               "final_score": "135"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "1.1",
                 "2.4",
@@ -1679,7 +1679,7 @@
             "attendance": "10,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "1.2",
                 "8.6",
@@ -1704,7 +1704,7 @@
             "attendance": "23,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "1.9",
                 "2.13",
@@ -1771,7 +1771,7 @@
               "final_score": "117"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "3.5",
                 "5.13",
@@ -1811,7 +1811,7 @@
             "attendance": "14,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "1.3",
                 "4.5",
@@ -1871,7 +1871,7 @@
               "final_score": "70"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "0.3",
                 "2.6",
@@ -1893,7 +1893,7 @@
             "attendance": "25,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "3.3",
                 "4.9",
@@ -1943,7 +1943,7 @@
             "attendance": "16,000",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "4.5",
                 "5.7",
@@ -2003,7 +2003,7 @@
               "final_score": "71"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "2.3",
                 "7.5",
@@ -2110,7 +2110,7 @@
               "final_score": "32"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "3.3",
                 "4.6",
@@ -2175,7 +2175,7 @@
             "attendance": "18,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.1",
                 "5.8",
@@ -2185,7 +2185,7 @@
               "final_score": "78"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "1.1",
                 "5.3",
@@ -2282,7 +2282,7 @@
             "attendance": "9,000",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.0",
                 "5.7",
@@ -2332,7 +2332,7 @@
             "attendance": "9,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "3.4",
                 "8.6",
@@ -2342,7 +2342,7 @@
               "final_score": "104"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "3.1",
                 "3.2",
@@ -2374,7 +2374,7 @@
               "final_score": "83"
             },
             "away_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "4.3",
                 "7.7",
@@ -2489,7 +2489,7 @@
             "attendance": "11,000",
             "venue": "Lake Oval",
             "home_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "2.1",
                 "3.2",
@@ -2499,7 +2499,7 @@
               "final_score": "89"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "7.3",
                 "14.8",
@@ -2581,7 +2581,7 @@
               "final_score": "102"
             },
             "away_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "1.2",
                 "3.7",
@@ -2621,7 +2621,7 @@
             "attendance": "12,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "1.3",
                 "3.5",
@@ -2656,7 +2656,7 @@
               "final_score": "94"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "4.2",
                 "7.3",
@@ -2688,7 +2688,7 @@
               "final_score": "82"
             },
             "away_team": {
-              "name": "South Melbourne",
+              "name": "South  Melbourne",
               "scoreline": [
                 "4.0",
                 "5.7",
@@ -2728,7 +2728,7 @@
             "attendance": "27,000",
             "venue": "Junction Oval",
             "home_team": {
-              "name": "St Kilda",
+              "name": "St  Kilda",
               "scoreline": [
                 "4.1",
                 "4.2",
@@ -2753,7 +2753,7 @@
             "attendance": "16,000",
             "venue": "Arden St",
             "home_team": {
-              "name": "North Melbourne",
+              "name": "North  Melbourne",
               "scoreline": [
                 "2.1",
                 "6.5",

@@ -8,9 +8,6 @@ module Scrapers
       end
 
       def execute
-
-
-
         puts "Running"
         puts "#{year}"
 
