@@ -13,6 +13,9 @@ gem "slim-rails"
 # Models
 gem 'pg'
 
+# Webserver
+gem 'puma'
+
 # Misc
 gem 'configatron'
 gem 'faraday'
