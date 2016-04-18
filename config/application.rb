@@ -17,6 +17,8 @@ module AflStats
       configatron.lock!
     end
 
+    config.assets.paths << Rails.root.join('vendor', 'assets')
+
     config.active_record.raise_in_transactional_callbacks = true
 
     config.autoload_paths += %W(
