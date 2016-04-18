@@ -28,5 +28,15 @@ namespace :afl do
         end
       # end
     end
+
+
+    desc "Scrape FootyWire website for super coach data"
+    task fantasy_data: :environment do
+        (2010..2016).each do |year|
+          puts "### #{year}"
+          Scrapers::FootyWire::FantasyScraper.new(year).execute
+        end
+    end
+
   end
 end
